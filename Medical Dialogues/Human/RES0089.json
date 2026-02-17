@@ -1,0 +1,317 @@
+[
+  {
+    "doctor_turn": "Can you tell me what brought you in here today?",
+    "patient_turn": "Sure, I've been feeling very short of breath for the past, uh, two weeks, but even before that, I started feeling a little bit short of breath and I can't stop coughing and it just feels like it's really hard for me to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so this started two weeks ago?",
+    "patient_turn": "Yeah, it started two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you're also coughing?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you been coughing for?",
+    "patient_turn": "The same amount of time, it started about, maybe three weeks ago, I started coughing more, um, but now it's worse.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK, and what kind of cough are you having? Is it a wet cough or a dry cough?",
+    "patient_turn": "It's definitely wet. My phlegm looks green.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you noticed it being green?",
+    "patient_turn": "It's been like that for the past two weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and before that, were you having coughing as well?",
+    "patient_turn": "Yeah, before that I was still coughing but not as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and was there anything that happened, uh, did you get sick at all recently, or were you in contact with anyone who was sick?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any kind of fevers at all?",
+    "patient_turn": "No, no fevers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed any kind of, uh, coughing up blood or blood tinged sputum at all?",
+    "patient_turn": "Uhm no not that, no blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much sputum are you bringing up in an average day now?",
+    "patient_turn": "Uhm, I'm bringing up about, I'd say it would fill like two, two of my palms, like the inside of my palm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, and is your coughing like constant or does it come and go?",
+    "patient_turn": "It's pretty constant now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had at all any kind of, uh, fevers or anything like that?",
+    "patient_turn": "No fevers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about your shortness of breath? Is that, when does that happen? Is it mainly with exercise and exertion, or can it happen even when you're just going on about your day?",
+    "patient_turn": "Uhm, its, uh, ok, its more with exertion, but right now even at rest, I'm coughing and feeling short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are you feeling at all any kind of, uh, chest tightness or pain?",
+    "patient_turn": "Uh, yeah, some chest tightness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is that mainly when you're coughing and short of breath or, uhm, at other times as well?",
+    "patient_turn": "Uhm, other times as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you having any other, any other like, can you describe your chest pain a little bit? Is it kind of a pressure pain or is it a sharp pain, aching pain? How would you describe it?",
+    "patient_turn": "Uhm, I would say it's a, uh, it's a tightness in my chest. And it feels, I guess throbbing or achy?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does this pain, uhm, move to anywhere else or does it just stay in your chest?",
+    "patient_turn": "Uh, it just stays in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been feeling dizzy or have you fainted at all?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling increased sweating and confusion? Anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you felt your heart racing and anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, and is there anything that makes your symptoms better or worse?",
+    "patient_turn": "Uhm, I guess activity makes it worse, un, and like cold air, things like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And other than that, have you recently at all traveled outside of the country or outside of the province?",
+    "patient_turn": "Uh, no. No, not recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, now are you having any wheezing at all?",
+    "patient_turn": "Uhm, some wheezing, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any kind of headaches or nausea or vomiting.",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any fevers or chills.",
+    "patient_turn": "Ah, nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats?",
+    "patient_turn": "Ah, sometimes I feel sweaty, but that's just with the shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long does your shortness of breath usually last?",
+    "patient_turn": "It lasts about, uh, I don't know, I kind of feel short of breath all the time, but when it's really bad, it lasts about five-ten minutes and then it goes back to like my normal shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has this happened to you before?",
+    "patient_turn": "Uhm no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Like not, not this bad, I've always had some shortness of breath but nothing like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And , uh, do you have any kind of diarrhea or constipation?",
+    "patient_turn": "Uhm, no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about fatigue?",
+    "patient_turn": "Yeah, I feel fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is that just about today or is it, do you think it's because of your shortness of breath?",
+    "patient_turn": "Yeah, it's probably cause of my shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any of these symptoms when you're trying to sleep?",
+    "patient_turn": "uh yeah, I think its, yeah when I'm laying down sometimes I feel more short of breath than usual, but once I shift positions it goes back to it's normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok. Is it, do you ever have to wake up at night to catch a breath or anything like that?",
+    "patient_turn": "Ah, no, it doesn't wake me up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you noticed any kind of, uh, significant weight loss or anything like that recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you at all had any changes in your appetite or anything like that?",
+    "patient_turn": "No, no change in appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any exposures to any like dust, fumes or any irritants recently",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK And, in the past, have you been diagnosed with any medical conditions?",
+    "patient_turn": "Uhm,  just COPD, uhm, and, I also have some congestive heart failure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when were you diagnosed with both of them?",
+    "patient_turn": "COPD I've been, I got diagnosed about seven years ago, CHF about two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, right now do you have any symptoms of any swelling in your extremities like legs, hands or anything like that?",
+    "patient_turn": "Some swelling in, some swelling in my legs, yeah?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any kind of shortness of breath when you're lying down, at all?",
+    "patient_turn": "Uh, a little bit. Yeah, a little bit I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other medical conditions?",
+    "patient_turn": "Nope, no others.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medications you're on right now?",
+    "patient_turn": "Yeah I'm on, uh, an ACE inhibitor, I'm on, uh, Spironolactone, uhm, I'm on, I have some puffers for my COPD. I believe, what do I have, I have, um, I have a long acting beta agonist. And I guess I have a short acting as well for when I need it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you have, so is it just the two, two puffers?",
+    "patient_turn": "Mhm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and are you using, like the blue one, the blue one more at all, are you having to use the short acting one more?",
+    "patient_turn": "I'm definitely using the short acting more, like I'm using it almost every day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And does it help at all?",
+    "patient_turn": "Uh I4 think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah, so other than that, are you on any other medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And have you been taking your Spironolactone?",
+    "patient_turn": "Yeah, I've been taking all my medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any previous hospitalizations or surgeries?",
+    "patient_turn": "I was hospitalised two years ago for shortness of breath and some low oxygen, that's when they diagnosed me with CHF.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK and did they say at all, It was caused by, like your COPD or what was it caused by? Do you remember?",
+    "patient_turn": "Uhm,  I guess just, yeah, I'm not really too sure, they said I had some heart condition and my heart isn't functioning as well as it should be. They did an echo on me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you at all had any kind of heart attacks or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. and did they, when you were having shortness of breath, did you have a like a pneumonia or infection that you had to get antibiotics for any or anything like that?",
+    "patient_turn": "Uhm, no. Actually I might have gotten some antibiotics at one point, but not during that visit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, And currently right now do you smoke?",
+    "patient_turn": "No, I stopped smoking two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah no, that's really good. And definitely with these symptoms and your condition that definitely helps to quit smoking whenever you can, so congratulations for that. Any alcohol at all?",
+    "patient_turn": "I drink some alcohol. I drink maybe once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any recreational drugs like marijuana?",
+    "patient_turn": "I smoke once in a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how often would you say you smoke marijuana?",
+    "patient_turn": "I smoke about a joint a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, do you use a, like the provincial marijuana, or do you have any other source, what would you say you use?",
+    "patient_turn": "I use uhm, Pardon me, what was that? Do I use?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Like uh, do you get it from a store that sells the joint?",
+    "patient_turn": "Yeah, I get it from like a medical dispensary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, I see. Yeah, I just want to make sure because some, if you get it from other sources there might be more irritants in there that can cause some of your symptoms and for them to get worse as well. So yeah.",
+    "patient_turn": "Oh I see, I see, OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, and other than that, do you have any questions or concerns at all?",
+    "patient_turn": "No, what do you think I should do from, For now?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so right now what we're going to do is because you're having the coughing, shortness of breath, and you have a history of COPD & CHF, we definitely want to make sure that you're not having, uhm, what I think you might be having isn't just an exacerbation of your COPD, and especially with the green sputum it might be like a bacterial infection that's causing your symptoms to get worse, so we'll do all the appropriate testing, we'll do, a chest X-ray, we'll get some blood work done as well, w'ell give you some uh, Ventolin as well while you're here, and we might give you like a steroid medication as well. So we'll do some of those things right now for you to kind of help you right now, as well as do some of those tests that I mentioned. Depending on what comes back, you might require an admission to the hospital just because we want to make sure you don't go home with an exacerbation, especially with the CHF as well, we need to, we will need to get that under control because that can get worse with your COPD exacerbation as well. So we need to make sure some of that, swelling goes down, if we need to adjust your medications while you're here. So yeah, let's just, I'll get back to you, we'll do some of those testing and then see where to go from there. Is that OK?",
+    "patient_turn": "Yeah, that sounds great. Thank you.",
+    "annotation": "Correct"
+  }
+]

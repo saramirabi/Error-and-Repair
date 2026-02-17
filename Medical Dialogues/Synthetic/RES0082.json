@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having a sore throat for the past couple of days, and then I started getting, like, nasal congestion and sneezing a lot. It’s kinda annoying, honestly. I also have this mild headache that feels like a squeezing sensation… I’m not really sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your sore throat and other symptoms first start?",
+    "patient_turn": "Uh, it started about two days ago. I noticed the sore throat first, and then, um, the nasal congestion and sneezing followed pretty quickly after that. It’s just been, like, a bit uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the sore throat hurts?",
+    "patient_turn": "Um, it’s mostly, like, in the back of my throat, I guess? It hurts a bit when I swallow, but it’s not super intense or anything. Just, you know, kinda annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your ears or jaw?",
+    "patient_turn": "No, not really. I mean, it’s just in my throat, and I haven’t felt any pain in my ears or jaw. Just the throat and, um, a bit of pressure in my face when I bend over. But that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the sore throat feel like—sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to finish my science project that's due next week.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the sore throat feel better or worse for you?",
+    "patient_turn": "Um, I think drinking warm liquids helps a bit, like tea or something. But, honestly, it doesn’t really go away completely. It feels worse when I swallow, especially if I haven’t had anything to drink for a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like a runny nose or headaches?",
+    "patient_turn": "Yeah, definitely. I’ve got a runny nose with watery discharge, and I’ve been sneezing a lot. The headache is there too, like a squeezing feeling, but it’s not super bad. Just, um, all these things together are making me feel kinda off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing these symptoms?",
+    "patient_turn": "I’ve had the sore throat for, um, maybe two days? But you know, I also had a really busy week at school with tests and stuff, and I didn’t sleep well, which could be part of it. Plus, my little brother is really loud sometimes, and that doesn’t help either!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath, dizzy, or having a fast heartbeat?",
+    "patient_turn": "No, I haven’t felt short of breath or dizzy, and my heartbeat seems normal. It’s mostly just the sore throat, runny nose, and sneezing. I’m kinda worried about it, but I don’t have those other symptoms, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like if you smoke, drink alcohol, or exercise?",
+    "patient_turn": "Uh,...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, fever, or body aches recently?",
+    "patient_turn": "No, I haven’t had a cough or fever, and I don’t feel any body aches either. It’s just the sore throat, runny nose, and sneezing, you know? I’m kinda relieved it’s not anything worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been, um, at home and school, you know? No changes in my routine or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Um, not that I know of. I haven’t been around anyone who’s sick, and I haven’t heard of any friends being sick either. So, yeah, I’m not really sure where this is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test done recently?",
+    "patient_turn": "No, I haven’t had a COVID-19 test done recently. I mean, I’m not feeling super sick, but, um, I guess if my symptoms get worse, I might consider it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the past few weeks?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently. I haven’t needed them, I guess, so it’s just been, um, this cold or whatever it is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "Yeah, I’m up to date with all my immunizations. My parents make sure of that, you know? So, um, I don’t think that’s an issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you usually have seasonal allergies, like itchy eyes or a runny nose?",
+    "patient_turn": "Yeah, I do have seasonal allergies, especially in the spring and fall. I get itchy eyes and a runny nose then, but, um, this feels a bit different, I think. It’s more like a cold this time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to any animals, like cats or dogs?",
+    "patient_turn": "Yeah, I’m allergic to cats. I don’t have any exposure to them recently, though, so I don’t think that’s causing this. Just, um, the usual seasonal stuff, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any other medications besides the ibuprofen?",
+    "patient_turn": "No, I’m not taking any other medications besides the ibuprofen. Just that one dose for the symptoms, you know?",
+    "annotation": "Correct"
+  }
+]

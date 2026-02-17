@@ -1,0 +1,172 @@
+[
+  {
+    "doctor_turn": "What brings you in today?",
+    "patient_turn": "I I've been having uh, this fever, the last couple of days and I've had a cough as well and my nose is, keeps running.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And when did the fevers start?",
+    "patient_turn": "I think the fever started two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How, did you measure your magic temperature?",
+    "patient_turn": "Yeah, it was 38 point .5 when I when I checked it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you been checking it out past days? Has it gotten better or worse?",
+    "patient_turn": "It's been about the same both both days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And your cough, when did that start?",
+    "patient_turn": "Cough started four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is it a wet cough or dry cough?",
+    "patient_turn": "It's been dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I've been bringing up any blood or any mucus or anything like that.",
+    "patient_turn": "No, and I haven't had a cough before either. This is new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the runny nose, what kind of discharge, or what like what's coming out of your nose?",
+    "patient_turn": "It's pretty pretty watery and clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, and when did that start?",
+    "patient_turn": "Yeah, yeah, sorry that started about four days ago as well, so about the same time as the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other symptoms, such as having a stuffy nose that have congestion in your sinuses, sore throat? Umm, red eyes? Watery, teary eyes? Sneezing, any of those symptoms.",
+    "patient_turn": "Um, no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any difficulties breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain in your chest?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any headaches?",
+    "patient_turn": "Uh yeah I have had a bit of a headache, actually. Well, just just this morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How how bad is it?",
+    "patient_turn": "It's pretty mild. Something pretty simple like it, so I've had headaches like like this before. It's not, it's not a big deal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you have any fatigue or muscle aches?",
+    "patient_turn": "No muscle aches, but yeah, I have been fatigued last a couple of days. Two or three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your sense of smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your sense of taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain in your belly or any diarrhea?",
+    "patient_turn": "Nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK? Alright um, any medical conditions that you've been diagnosed with?",
+    "patient_turn": "Uh. No, I I've been, I've been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any surgeries or hospitalizations?",
+    "patient_turn": "No, I haven't had anything like that before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you take any medications?",
+    "patient_turn": "No, I'm not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and allergies to food or medications, or environmental allergies?",
+    "patient_turn": "I think I have an allergy to penicillin. I got it, I had a rash when I was I younger when I had that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you currently? Would you currently let that?",
+    "patient_turn": "Yeah, so I I just live with my with my mom.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any pets at home?",
+    "patient_turn": "No, it's just us two, uh, we live in a in a townhouse in in the city.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nice, OK. And do you do you or your mom go out for school or for work?",
+    "patient_turn": "Uh yeah, I've been going been going to school. I know with the some of the lockdowns and what not the schools been open so we've been going. They've been pretty cautious with the covid protocols. And but my mom's been working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. Do you feel like you or your mom may have had contact with anyone who could have potentially been sick?",
+    "patient_turn": "Uhm, I mean, maybe at the school or something like that, but I can't think of anybody who who's been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, have you traveled anywhere outside the province?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm. And, uh, do you I guess a couple of other more general questions. Do you feel safe at home?",
+    "patient_turn": "I do, yeah. We have a good a good relationship.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I'm glad, I'm glad, and an anything that we discuss will see confidential between you and me, unless there's something that you could be talk about that could harm you or harm anyone else. Do you feel safe at school?",
+    "patient_turn": "Yes, I do. I enjoy school. It's been fun.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That's good, that's good. And have you can have been consuming the drug? Tried anything?",
+    "patient_turn": "No, I've heard of other people. I mean in high school doing stuff like that, but I haven't been around anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. Any alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you sexually active?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And uh, let's see so.. uh, you've had a fever, a cough, and a runny nose for the past few days. And have you been going to school? In the past couple of days or no?",
+    "patient_turn": "I know I've taken the last couple of days off, just been so tired and not feeling good so, yeah well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. So yeah, it sounds like you might have some sort of viral infection which could potentially be covid, but could also be another sort of another viral illness, just like the common cold or the flu. Um, so I'll request that we get a covid swab done and the results should come back in 24 to 48 hours and um, just try to self isolate as much as possible. Don't go to school, don't meet other people. Try to stay away from your mom as well. And based on the results, you'll get more guidance from public health nurses, and you should just continue to sort of rest and drink lots of water. Maybe take Tylenol or Advil if that's making you feel better and hopefully your symptoms will get better. If not, if you feel like your symptoms are persisting for days or week or so, or you're having worsening symptoms, definitely come back or give us a call.",
+    "patient_turn": "OK, thank you.",
+    "annotation": "Correct"
+  }
+]

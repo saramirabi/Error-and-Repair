@@ -1,0 +1,287 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi I'm, I have been having this nasal obstruction and discharge for the past week and it doesn't seem to be going away and it's bothering me so I thought I would get it checked out by you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, for sure. Uhm, could you describe the discharge?",
+    "patient_turn": "Yeah, it's a. It's mostly clear, it doesn't, it doesn't have a color to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no yellow, green or or red to indicate any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned, so with the obstruction, have you had difficulties breathing?",
+    "patient_turn": "Um a little bit, I just need to, and is mostly at night. I just need to shift to one side or the other to like unblock my airways.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK and have you been having any pain on your face? Like I like kind of over your cheeks or over your forehead?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any headaches?",
+    "patient_turn": "No headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "All right, have you had any changes or to your sense of smell or any loss of smell?",
+    "patient_turn": "Uhm no, maybe a little bit, but no, not really. I can still eat. I can still smell like candles and things like that so, maybe go with no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any changes to your sense of taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any eye redness or or any eye pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any ear pain or ear discharge?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to the vision or hearing?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any shortness of breath",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you coughed up any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any lightheadedness or dizziness?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt like your hearts beating really fast or racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any unexpected weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any loss of appetite?",
+    "patient_turn": "Uh, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any painful urination or urinary frequency?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any skin rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any muscle aches or joint pains?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any memory loss or confusion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how has your energy been? Have you had fatigue or malaise?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and have you had any sneezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and, uh, are you healthy? Or, or have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "No, I'm actually pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any prior surgeries or hospitalizations?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any allergies like to any medications or any seasonal allergies? Like do you get symptoms like this that change throughout the year?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and sorry, no allergies to medications as well?",
+    "patient_turn": "No allergies to medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you take any medications regularly, either prescribed or over the counter?",
+    "patient_turn": "No, I don't take any medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and can you tell me about where you're living currently and who you're living with?",
+    "patient_turn": "Uhm, I live by myself right now. I live in an apartment downtown.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you, got working right now or are you going to school or both?",
+    "patient_turn": "I'm working right now, but I'm working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, have you been around anybody who's been sick?",
+    "patient_turn": "No one personally, but I do go to the grocery store and the bank and all the essential things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. Uhm, and have you have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you in a relationship?",
+    "patient_turn": "I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you sexually active?",
+    "patient_turn": "I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, could you tell me a little bit about your partner or, or partners?",
+    "patient_turn": "Uhm yeah, so we've been together for the past five years. And yeah, he's the only sexual partner I have.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use condoms or birth control?",
+    "patient_turn": "Birth control.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and any concern for a sexually transmitted infection?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and you smoke cigarettes?",
+    "patient_turn": "I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cannabis or use cannabis products?",
+    "patient_turn": "Uh, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about the use of any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you drink alcohol?",
+    "patient_turn": "I do, I'll have like a glass of wine every day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in the family, are there any heart conditions or lung conditions that run in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about things like diabetes or or high blood pressure?",
+    "patient_turn": "Uhm, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, are there any cancers in the family?",
+    "patient_turn": "Uhm, there's colon cancer in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and who was that and how old were they?",
+    "patient_turn": "Uhm, my grandfather, he was 55.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, alright, and so that was everything that I wanted to ask today on history. Was there anything else that I was maybe forgetting?",
+    "patient_turn": "Uh, no, I think that was it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so with the prominent symptoms of being nasal discharge and obstruction without fever and without, like changes to smell and also without pain, it's most likely a viral rhinosinusitis. Uhm, however, this could have symptoms that overlap with, with COVID, and so we will still end up doing a swab even though the most likely diagnosis is going to be a viral acute rhinosinusitis.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other questions?",
+    "patient_turn": "No thank you or yeah, thank you.",
+    "annotation": "Correct"
+  }
+]

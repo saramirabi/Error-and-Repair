@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here. So, I’ve been having this constant pain in my right knee for about two weeks now. It’s, like, right below the kneecap and it’s been really achy, you know? There’s also some swelling and it feels warm and red. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "Uh, I first noticed it about two weeks ago. It just started out of nowhere, honestly. I mean, I didn’t have any trauma or anything, so it was really surprising.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Um, yeah, it’s pretty much been the same, I think. It’s mostly achy, but sometimes it gets sharp, you know? It’s rated about a 6 out of 10 in severity, and it definitely gets worse when I kneel or try to bend my knee. But, um, keeping it straight helps a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your knee?",
+    "patient_turn": "It's, um, right below the kneecap, you know? Like, in that area, and it’s really tender to touch. I can feel the swelling there too, which is kinda concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your thigh or calf?",
+    "patient_turn": "No, um, it doesn’t really spread anywhere else. It’s just localized to that spot below the kneecap. I haven’t felt any pain in my thigh or calf, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "Uh, I think it was maybe about two weeks ago? Or maybe it was a little longer, I’m not entirely sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it’s pretty much stayed the same, I think. It’s mostly achy, but sometimes it gets sharp, you know? It’s definitely worse when I kneel or bend my knee, but keeping it straight helps a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your knee?",
+    "patient_turn": "The pain is mostly in my knee, but I also feel it in my thigh sometimes. Actually, I don’t feel it in my knee at all, just in my thigh.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you had any recent injuries or trauma to your knee?",
+    "patient_turn": "No, um, I haven’t had any injuries or trauma to my knee at all. It just started hurting one day, and I’m not really sure why.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or night sweats recently?",
+    "patient_turn": "No, um, I haven’t had any fever, chills, or night sweats. It’s just the knee pain and swelling, you know? No other symptoms like that, so I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain in other joints besides your knee?",
+    "patient_turn": "No, um, I haven’t noticed any pain in other joints. It’s just my right knee that’s been bothering me. No other joints are involved, which is, um, a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I’ve never really been into that, so, um, that’s not something I have to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, um, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. It’s just been this knee issue, you know? So, I’m not sure what’s causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any symptoms like fever, chills, or unusual discharge?",
+    "patient_turn": "No, um, I haven’t noticed any symptoms like fever, chills, or unusual discharge. It’s really just the knee pain and swelling that’s been bothering me. So, I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you usually drink in a week?",
+    "patient_turn": "Um, I drink moderately, I guess? It’s not a lot, maybe a few glasses of wine or something like that during the week. I don’t really keep track, but it’s, um, not excessive or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any medications or treatments for your knee pain besides ibuprofen?",
+    "patient_turn": "Uh, no, I haven’t taken anything else for my knee pain besides ibuprofen. I’ve been using that occasionally, but, um, I haven’t tried any other treatments yet.",
+    "annotation": "Correct"
+  }
+]

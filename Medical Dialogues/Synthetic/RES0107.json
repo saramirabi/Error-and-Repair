@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has had this, like, runny nose for about two weeks now. It’s been getting worse, and they’re sneezing a lot, you know? They also have some nasal itching and a mild cough in the mornings. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the runny nose and sneezing starting?",
+    "patient_turn": "Uh, I think it started about two weeks ago. At first, it was just a little runny nose, but then it got worse with the sneezing and, um, the nasal itching too. It’s just been really persistent, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does your child feel the most discomfort? Is it mainly in their nose, throat, or somewhere else?",
+    "patient_turn": "Well, um, I’d say the most discomfort is in their nose because of the itching and the runny stuff. They also do some throat clearing, but it seems like the nose is the main issue. It’s just, um, really bothering them, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the runny nose and sneezing feel like for your child? Is it more like a tickle, pressure, or something else?",
+    "patient_turn": "Oh, I just remembered that we need to get some ice cream after this appointment. It’s been a while since we had some, and I think my child would really enjoy that. ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How long has your child been experiencing these symptoms?",
+    "patient_turn": "Uh, it’s been about two weeks now. It started with just a runny nose, but then the sneezing and itching came along. I guess it’s just been getting worse, and I’m really starting to worry about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where does your child feel the most discomfort or irritation?",
+    "patient_turn": "Um, I think the most discomfort is in their nose because of the itching and, you know, the runny stuff. They also clear their throat a bit, but it seems like the nose is really the main problem. It’s just, um, making it hard for them to sleep sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nasal discomfort feel like for your child?",
+    "patient_turn": "Honestly, I think it feels really itchy for them, like a constant tickle or something. They’re always rubbing their nose and sneezing, which, um, must be really annoying. It just seems to bother them a lot, especially at night when they’re trying to sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make the nasal discomfort worse for your child?",
+    "patient_turn": "Well, when we go outside, it seems to get worse, especially if there are flowers blooming or when the grass is being cut. Also, I remember last week we had a picnic, and my child started sneezing a lot then. Oh, and speaking of picnics, I packed some sandwiches, but my child only likes peanut butter and jelly, so I had to make those. It was a whole thing!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has your child experienced any other symptoms, like a cough or trouble breathing?",
+    "patient_turn": "Um, they have had a mild cough in the mornings, but it’s just a little one with, like, clear phlegm. There’s no trouble breathing or anything like that, which is a relief. I’m just really worried about the other symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has your child been experiencing these nasal symptoms?",
+    "patient_turn": "Uh, it’s been about two weeks now. It started with just a runny nose, and then the sneezing and itching got worse. I’m just, um, really concerned because it doesn’t seem to be getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does your child feel the nasal congestion or itching?",
+    "patient_turn": "Well, um, the nasal congestion and itching are mostly in their nose. They keep rubbing it and sneezing, so it seems like that’s where it’s bothering them the most. It’s just, you know, really uncomfortable for them, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nasal congestion feel like for your child? Is it more stuffy, or does it feel like pressure?",
+    "patient_turn": "I think it feels more stuffy for them, like they can’t breathe as easily through their nose. There’s no real pressure that I’ve noticed, but it’s definitely, um, making it hard for them to breathe comfortably. It just seems really annoying for them, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child mentioned anything that makes the congestion or itching feel better or worse?",
+    "patient_turn": "Um, I think they feel a bit better when they’re indoors, away from, like, outdoor allergens. But when they go outside, it definitely gets worse, especially with the sneezing. They haven’t really said much about what helps, but I guess just trying to keep them comfortable is all I can do right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any other symptoms, like a cough or difficulty breathing?",
+    "patient_turn": "You know, I was just thinking about how my neighbor’s dog always barks at night. It’s kind of annoying, but we’ve gotten used to it.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How long has your child been experiencing these symptoms?",
+    "patient_turn": "Uh, it’s been about two weeks now. It started with just a runny nose, and then the sneezing and itching followed. I’m really starting to worry because it doesn’t seem to be getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any fever or chills during this time?",
+    "patient_turn": "No, um, there haven’t been any fever or chills at all. It’s just the runny nose, sneezing, and that mild cough. I’m honestly relieved there’s no fever, but I’m still worried about how uncomfortable they are.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any history of asthma or breathing difficulties?",
+    "patient_turn": "No, um, there’s no history of asthma or any breathing difficulties. They’ve been pretty healthy overall, just, you know, this runny nose and sneezing is really bothering them right now. I’m just hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child ever had any surgeries or been hospitalized for any reason?",
+    "patient_turn": "No, um, my child hasn’t had any surgeries or been hospitalized. They’ve been pretty healthy, aside from, like, this runny nose and sneezing. I just want to make sure everything’s okay, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child ever been diagnosed with any allergies?",
+    "patient_turn": "No, um, they haven’t been diagnosed with any allergies before. This is the first time we’re really dealing with something like this, and I’m kinda worried because it seems to be getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child ever had allergy testing done?",
+    "patient_turn": "No, they haven’t had any allergy testing done before. I think this is the first time we’re really looking into it, and, um, I’m just hoping we can figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your child's immunizations current and up to date?",
+    "patient_turn": "Yes, um, their immunizations are all up to date. I make sure to keep track of that, so at least that’s one thing I don’t have to worry about. But, you know, I’m still really concerned about these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of asthma or allergies in your child's relatives?",
+    "patient_turn": "Yeah, um, there is a family history. My child’s mom has asthma, but it’s well controlled, and there’s also a history of childhood allergies in her family. I guess that’s why I’m a bit more worried about my child’s symptoms now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any exposure to tobacco smoke in your home or around your child?",
+    "patient_turn": "No, um, there’s no exposure to tobacco smoke at all. We’ve made sure to keep the environment clean, and we even removed carpets and replaced curtains with blinds to reduce allergens. I just want to do everything I can to help my child feel better.",
+    "annotation": "Correct"
+  }
+]

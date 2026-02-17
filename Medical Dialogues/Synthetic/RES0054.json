@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I’ve been having, um, this progressive shortness of breath when I exert myself, and I’ve got this cough that’s been, like, really persistent for the past few months. The sputum is, uh, yellow to brown, and it’s been going on for, like, ten years, but it’s definitely gotten worse this winter. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and cough getting worse?",
+    "patient_turn": "Well, um, I think it started getting worse, like, a few months ago, but I’ve had the cough for, you know, about ten years now. It’s just that, um, this winter it’s really been bothering me more, especially when I’m doing anything physical. I just feel more out of breath than usual… and it’s kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the discomfort in your chest?",
+    "patient_turn": "Uh, yeah, it’s, um, mostly across both sides of my chest. It’s not, like, typical chest pain or anything, but I do feel some mild discomfort there sometimes, especially when I’m exerting myself. I mean, it’s not constant, but it’s definitely noticeable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort in your chest feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a dull discomfort, you know? It’s not sharp or anything like that. It just feels, um, sort of tight or heavy sometimes, especially when I’m active. It’s hard to explain, but it’s definitely not something I’m used to feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this chest discomfort?",
+    "patient_turn": "A... it's just sometimes there.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How often do you experience this chest discomfort?",
+    "patient_turn": "Um, it’s not all the time, but I’d say I notice it, like, when I’m doing something physical, you know? So, maybe a few times a week, but it’s not super intense or anything. Just, um, enough to make me feel a bit uneasy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the discomfort in your chest?",
+    "patient_turn": "Uh, it’s mostly across the middle and sides of my chest, you know? It’s not really pinpointed to one spot, but just this general area. It’s, um, kind of hard to describe, but it feels like a pressure or tightness there when I’m active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the sensation of the discomfort? Is it sharp, dull, or something else?",
+    "patient_turn": "I’d say it’s more of a dull sensation, you know? It’s not sharp at all, just kind of, um, heavy or tight. It’s definitely uncomfortable, but it’s not, like, excruciating or anything. Just enough to make me feel a bit worried sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make the discomfort worse for you?",
+    "patient_turn": "Um, mostly when I’m doing any kind of physical activity, like, you know, walking up stairs or, um, even just doing chores around the house. It’s like, the more I exert myself, the more I feel that tightness in my chest. It’s kinda frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Well, I do get shortness of breath, but I also think it might be because I’ve been running a bit more lately. And, oh, last week I went to a family gathering and had quite a few beers, so maybe that contributed too? I mean, I feel a little dizzy sometimes, but I also just remembered I need to fix my bike before the weekend.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe how the chest discomfort feels when it occurs?",
+    "patient_turn": "Um, when it happens, it feels, like, tight and heavy, you know? It’s not sharp or anything, just this pressure that makes me a bit anxious. I guess it’s more noticeable when I’m active, and it kinda makes me want to slow down or take a break. It’s just, um, not something I’m used to feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first start noticing this chest discomfort?",
+    "patient_turn": "Um, I think it might have been a few months ago? Or maybe a bit longer, I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high blood pressure?",
+    "patient_turn": "Um, yeah, I have a history of hypertension. I’ve been managing it with daily medications for a while now. It’s just something I’ve had to keep an eye on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high cholesterol?",
+    "patient_turn": "Yeah, I’ve been diagnosed with hypercholesterolemia too. I’m on medication for that as well, um, just trying to keep everything under control, you know? It’s been a bit of a challenge, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel any chest pain when you're resting?",
+    "patient_turn": "No, I don’t really feel any chest pain at rest. It’s mostly when I’m, um, active or exerting myself that I notice the discomfort. When I’m just sitting or relaxing, I’m usually okay, but it’s still a bit concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever coughed up blood or noticed any blood in your sputum?",
+    "patient_turn": "No, I haven’t coughed up any blood or noticed blood in my sputum. It’s just been, um, yellow to brown for a long time now, but no hemoptysis or anything like that, which is a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any leg pain or swelling recently?",
+    "patient_turn": "Um, no, I haven’t had any leg pain or swelling. It’s mostly just the breathing issues and the cough that have been bothering me. So, I’m kinda focused on that right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt your heart racing or experienced any fainting episodes?",
+    "patient_turn": "I’ve had some transient racing of my heart after heavy activity, but, um, nothing too serious. I haven’t experienced any fainting episodes or anything like that, so I guess that’s a good sign. But it still makes me a bit anxious sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was the last time you had a lung function test done?",
+    "patient_turn": "Um, I haven’t had a lung function test recently. The last time I had any kind of chest imaging was after my car accident, but that was quite a while ago. I’m not totally sure how long it’s been, but, um, I think it’s time for another check-up, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell or taste recently?",
+    "patient_turn": "Yeah, I’ve had a reduced sense of smell and taste for, like, 7 to 10 years now. It’s just been, um, something I’ve gotten used to, but I don’t really know why it happened. I guess it’s just one of those things, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you experience headaches, and do you notice anything that triggers them?",
+    "patient_turn": "I get occasional headaches, but, um, I usually attribute them to stress. It’s not super frequent, maybe a few times a month, but I don’t really notice any specific triggers besides, you know, feeling overwhelmed or anxious. They don’t come with any light or sound sensitivity, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick either. I’ve mostly been indoors because of the COVID-19 restrictions, so I guess that’s kept me away from, you know, any potential exposure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day?",
+    "patient_turn": "I smoke about half a pack a day now. I used to smoke, um, two packs a day when I was younger, but I’ve cut back over the last couple of years. I know it’s not great for my health, and I’m kinda worried about that too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you typically consume?",
+    "patient_turn": "I drink alcohol, um, mostly on social occasions. I can have up to, like, 20 beers during family gatherings, but it’s not something I do every day. I guess it’s just when I’m with family or friends, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, there’s a pretty significant history of heart disease in my family. My brother had heart attacks in his early 60s and mid-60s, and my father died young from a heart attack at 66. My mother has hypertension and hypercholesterolemia too, so, um, it’s definitely something that worries me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any major injuries or surgeries in the past?",
+    "patient_turn": "Yeah, I had a car accident in my 40s where I fractured my arm, and I also had an appendectomy when I was a kid. Those are the major ones, I guess. Nothing else too serious, but, um, they’ve stuck with me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any skin changes or rashes recently?",
+    "patient_turn": "Um, I’ve noticed some brown patches on my scalp, but I think that’s just from sun exposure over the years. I don’t have any rashes or anything like that, so it’s just those patches, I guess. It’s not really bothering me too much, but, um, it’s there.",
+    "annotation": "Correct"
+  }
+]

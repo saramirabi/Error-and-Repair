@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this, like, progressive shortness of breath for about eight or nine months now. It gets worse when I’m active, and I also have this dry cough, but there’s no sputum or anything. Honestly, it’s been kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I think it started, um, about eight or nine months ago? At first, it was just a little bit, you know, like I’d get winded doing simple things, but it’s just gotten worse over time. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you? Is it more like pressure, tightness, or something else?",
+    "patient_turn": "It’s more like, um, tightness, I think? Like, I feel like I can’t take a deep breath when I’m active. It’s not really painful, just uncomfortable, you know? I just feel like I’m struggling a bit more than I used to.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make your shortness of breath worse?",
+    "patient_turn": "Well, I don't really have any issues with shortness of breath, but sometimes when I walk a little, I feel fine. It's just that I also feel it when I’m sitting down, so I guess it’s not a problem at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like a cough, wheezing, or feeling dizzy?",
+    "patient_turn": "Um, yeah, I have this dry cough, but there’s no sputum or anything. I haven’t really noticed wheezing, but sometimes I feel a bit dizzy, especially when I’m, like, exerting myself. It’s just, um, a little concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "I think the cough started around the same time as the shortness of breath, so, um, about eight or nine months ago too? It’s just been dry, no sputum or anything, which is, like, kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain is located, if you have any chest pain?",
+    "patient_turn": "Well, I don't really have chest pain, but I sometimes feel a bit of discomfort, you know? And last week, I went for a long walk, which made me really tired, and then I had to catch my breath. Plus, I’ve been thinking about redoing my garden, so I've been a bit more active lately.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Does the discomfort ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "You know, I’ve been thinking about getting a new car lately. My old one has been making strange noises, and I really should get it checked out.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Um, it’s more like pressure, I guess? It’s not sharp at all, just this heavy feeling that makes it hard to breathe sometimes. It’s really uncomfortable, especially when I’m trying to do something active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any heart problems or heart attacks in the past?",
+    "patient_turn": "Yeah, um, I had a heart attack about a year ago, and they put in a stent. I’ve been trying to manage my health since then, but, you know, it’s been a bit tough. I’m just worried that this might be related or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your blood pressure and cholesterol?",
+    "patient_turn": "I take, um, an ACE inhibitor, I think it’s a -pril, and I also take rosuvastatin for my cholesterol. I’m supposed to take aspirin too, but, you know, my adherence hasn’t been the best lately. I’m trying to do better, but it’s hard sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you find yourself missing doses of your medications?",
+    "patient_turn": "Um, I guess it varies, but I’d say I miss doses more often than I’d like to admit. Sometimes I just forget, or, you know, I get busy with other things. I’m kinda worried that it might be affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my mom had heart failure, um, pretty early, like at age 55. It’s been on my mind a lot, especially with my own heart issues. I guess I’m just, you know, a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently smoke or drink alcohol, and if so, how much?",
+    "patient_turn": "I used to smoke, um, quite a bit—like a 45-pack-year history—but I quit. I do have a glass of white wine, um, like, every night, but that’s about it. I don’t use any recreational drugs or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did you do for work before you retired, and were you exposed to any harmful substances?",
+    "patient_turn": "I worked in mining for a long time, so, um, yeah, I was exposed to a lot of dust and chemicals. I’m not sure if that’s related to what I’m feeling now, but it’s been on my mind. I guess I just wonder if that could be part of the problem.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around any pets?",
+    "patient_turn": "No, I haven’t traveled anywhere recently, and I don’t have any pets. I’ve just been, you know, staying home mostly. I haven’t been around anyone sick or anything like that either, so I’m not sure what’s going on with me.",
+    "annotation": "Correct"
+  }
+]

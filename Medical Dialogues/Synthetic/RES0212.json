@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been dealing with a cough for about three months now, but it’s gotten worse in the last few days. I’m producing greenish sputum, and it’s been waking me up at night, which is really affecting my sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed the cough about three months ago, but it was pretty intermittent at first. It’s only in the last few days that it’s really intensified.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels like it’s coming from?",
+    "patient_turn": "It feels like it's coming from my chest, and I sometimes have mild discomfort when I cough. It’s not painful, just a bit uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, wet, or something else?",
+    "patient_turn": "It’s definitely a wet cough since I’m producing greenish sputum. It feels like there’s a lot of mucus involved.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you say it's dry or productive?",
+    "patient_turn": "... uh, it's just, you know, kind of there.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your sputum when you cough?",
+    "patient_turn": "No, I haven’t noticed any blood in my sputum. It’s just greenish, but no hemoptysis at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or felt unusually hot at night?",
+    "patient_turn": "I haven’t had a fever, but I do feel hot at night sometimes, even though I haven’t measured my temperature. It’s been uncomfortable, especially with the coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats while you sleep?",
+    "patient_turn": "No, I haven’t experienced any night sweats. I just feel hot at night, but no sweating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unexplained weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any unexplained weight loss. My weight has been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting recently?",
+    "patient_turn": "No, I haven’t felt nauseous or experienced any vomiting. I’ve been feeling pretty normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any neck stiffness or body pain lately?",
+    "patient_turn": "No, I haven’t experienced any neck stiffness or body pain. I feel pretty good aside from the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of eczema or any skin conditions?",
+    "patient_turn": "Yes, I have a history of eczema, but it’s managed with moisturizing creams. I haven’t had any significant issues with it lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or environmental factors?",
+    "patient_turn": "I don’t have any known drug allergies, but I suspect I have a mild cat allergy. I haven’t had significant reactions, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I’m not currently taking any medications or supplements.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use marijuana or drink alcohol?",
+    "patient_turn": "I vape marijuana occasionally, about once every two weeks, and I drink alcohol occasionally too—around 5-6 beers on one weekend night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active, and do you use protection during intercourse?",
+    "patient_turn": "Yes, I’m sexually active with my boyfriend, and we use condoms for contraception. I haven’t had any unprotected sex in the last two weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last menstrual period?",
+    "patient_turn": "My last menstrual period was about two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of any sick contacts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you missed any exercise activities because of your cough?",
+    "patient_turn": "Yes, I’ve missed some exercise activities because of the cough. It’s been hard to keep up with everything.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this really dry cough for about two weeks now, and it’s gotten worse. I also started coughing up some blood, just small amounts, but it’s kinda scary. Plus, I’ve been feeling really tired and losing weight without trying… I guess I’m just really worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, and how has it changed since then?",
+    "patient_turn": "So, I first noticed the cough about two weeks ago, and at first, it was just dry, you know? But then, um, it got worse, and now it hurts when I cough or take a deep breath. I also started having this sharp pain in my chest, especially on the left side, which is really uncomfortable… I mean, it’s just been really hard to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located in your chest? Does it spread anywhere else?",
+    "patient_turn": "... pain is",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What makes the pain worse for you?",
+    "patient_turn": "Well, coughing makes it a lot worse, and, um, taking deep breaths too. If I lie flat or move around, it really hurts. It’s just, like, really frustrating because I can’t seem to find a comfortable position.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Um, it’s mostly in the center of my chest and a bit on the left side. It feels like it’s right in the middle, but sometimes it radiates a little, you know? It’s just really uncomfortable, and I’m not sure what’s causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located?",
+    "patient_turn": "Oh, the pain is mostly on the right side, I think. But actually, it’s more in the middle sometimes.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "You know, I really need to remember to pick up some milk on my way home. I think the pain is just, um, uncomfortable sometimes, but I just keep thinking about those groceries.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Um, the pain is mostly in the center of my chest, but I also feel it a bit on the left side. It’s kind of hard to pinpoint exactly, but it’s definitely right in that area. It’s just really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats or fevers recently?",
+    "patient_turn": "Yeah, I’ve been having these night sweats, um, on and off for the past few months. And I think I’ve had some fevers too, but it’s hard to tell, you know? I just feel really hot sometimes, and it’s been, like, really exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much weight have you lost in the last two months?",
+    "patient_turn": "I’ve lost about 20 pounds in the last two months, which is, um, really concerning for me. I didn’t mean to lose that much weight, and it’s just… I guess it’s adding to my worries about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any mucus or phlegm before you noticed the blood in your cough?",
+    "patient_turn": "No, I didn’t have any mucus or phlegm before I started coughing up blood. It was just a dry cough at first, and then, um, the hemoptysis started, which really freaked me out. I wasn’t expecting that at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt short of breath at any time?",
+    "patient_turn": "No, I haven’t really felt short of breath, um, thankfully. It’s mostly just the cough and the chest pain that are bothering me. I guess I’m just focusing on those symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or lightheadedness recently?",
+    "patient_turn": "No, I haven’t experienced any dizziness or lightheadedness. It’s mostly just the cough, chest pain, and, um, feeling really tired. I’m just trying to manage those symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any palpitations or noticed your heart racing at all?",
+    "patient_turn": "Um, no, I haven’t felt any palpitations or noticed my heart racing. It’s really just the cough and the chest pain that are, like, my main concerns right now. I’m kinda worried about everything else going on, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your arms or legs?",
+    "patient_turn": "No, I haven’t noticed any swelling in my arms or legs. It’s mostly just the cough and chest pain that are bothering me, you know? I’m just trying to figure out what’s going on with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any gastrointestinal or urinary symptoms recently?",
+    "patient_turn": "No, I haven’t had any gastrointestinal or urinary symptoms. It’s really just the cough, chest pain, and, um, feeling really tired. I’m not sure what’s causing all of this, but it’s been really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches or migraines lately?",
+    "patient_turn": "No, I haven’t had any headaches or migraines lately. It’s mostly just the cough and chest pain that are, um, really bothering me. I guess I’m just trying to focus on those symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting recently?",
+    "patient_turn": "No, I haven’t felt nauseous or experienced any vomiting. It’s really just the cough and chest pain that are, um, my main issues right now. I’m just feeling really tired and worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble sleeping or noticed changes in your sleep patterns recently?",
+    "patient_turn": "Um, I haven’t really had trouble sleeping, but I think the night sweats have been, like, waking me up sometimes. It’s just been hard to feel rested with everything going on, you know? I’m kinda worried about how all of this is affecting me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your appetite lately?",
+    "patient_turn": "No, I haven’t really noticed any changes in my appetite, but, um, I guess with the weight loss, it’s just been a bit concerning. I’m not trying to lose weight, you know? It’s just all these other symptoms that are making me feel uneasy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions like diabetes or high blood pressure?",
+    "patient_turn": "Yeah, I have type 2 diabetes that I manage with metformin, and I also have high blood pressure that I take ramipril for. I’ve been managing those for a while now, but, um, with everything else going on, I’m just feeling really overwhelmed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your family have a history of strokes or heart problems?",
+    "patient_turn": "Well, my father had a stroke in his late 60s, but that’s about it. There’s no known history of lung cancer or tuberculosis in my family, so, um, I’m not really sure what to think about all of this. It’s just really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and who you live with?",
+    "patient_turn": "I live with my husband and our three daughters. It’s, um, pretty busy at home, but everyone else seems to be doing well. My husband has a cough too, but he hasn’t had any blood in it, so I’m just, like, worried about what’s going on with me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your home smoke or use recreational drugs?",
+    "patient_turn": "No, there’s no smoking or recreational drug use in our home. It’s just me, my husband, and our daughters, and, um, we try to keep a healthy environment. I’m just really worried about my symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol rarely, um, maybe just occasionally, like, at family gatherings or something. It’s not something I do often, you know? I guess I’m just trying to focus on my health right now with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to cats or other pets?",
+    "patient_turn": "No, I don’t have any allergies to cats or other pets. I have two cats, and they’re fine, but, um, I’m just really worried about my health right now with all these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What kind of activities do you do while volunteering at the homeless shelter?",
+    "patient_turn": "Um, I help out with, like, serving meals and, you know, just providing support to the people there. I’ve been volunteering for the past three to four months, and I’ve had some exposure to individuals with respiratory symptoms, but I didn’t know anyone with tuberculosis. It’s just been a bit concerning with everything going on with my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in close contact with anyone diagnosed with tuberculosis?",
+    "patient_turn": "No, I haven’t been in close contact with anyone diagnosed with tuberculosis. I’ve been around people with respiratory symptoms at the shelter, but, um, I don’t know of any known TB contacts. It’s just been really worrying with my symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been, um, mostly at home or volunteering at the shelter. I guess I’m just trying to focus on what’s going on with my health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any flu-like symptoms, such as fever, chills, or body aches?",
+    "patient_turn": "Um, I think I’ve had some intermittent fevers, but not really any chills or body aches. It’s mostly just the cough and chest pain that are, like, really bothering me. I’m just feeling really tired and worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust or fumes recently?",
+    "patient_turn": "No, I haven’t been around any dust or fumes recently. It’s really just been the cough and chest pain that are concerning me, you know? I’m just trying to figure out what’s causing all of this.",
+    "annotation": "Correct"
+  }
+]

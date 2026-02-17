@@ -1,0 +1,292 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Um, I'm just, I'm here because I've had this cough for the past two weeks and uh, it's just not going away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and um, is it getting worse at all really?",
+    "patient_turn": "Not really, it's just been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it a wet cough or a dry cough?",
+    "patient_turn": "It's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, are you bringing up any uh, sputum or blood at all?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, would you describe it as like a, a barking cough, a harsh cough, or a muffled cough?",
+    "patient_turn": "Not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, before you started uh, coughing, did you have any other symptoms, like runny nose, congestion, sore throat, anything like that?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so it's just the cough?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any fevers or chills?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is the cough constant, or does it come and go?",
+    "patient_turn": "It, uh, I guess it's just, it's there throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's there throughout the day, okay. And is it brought on by any activities or, or does it just come on by itself?",
+    "patient_turn": "It comes on by itself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and has it gotten any better at all or stayed around the same?",
+    "patient_turn": "It's stayed the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Has this happened to you before, where you had a cough for a long time?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, do you have any other symptoms like chest pain, sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, any recent travel or contact with anyone that's been sick?",
+    "patient_turn": "I don't think so, no. I just went to my, I went to see my family doctor um, for some prescriptions.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Okay.",
+    "patient_turn": "Um, three weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three weeks ago, okay. Any headaches at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats?",
+    "patient_turn": "Um, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fatigue at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And no chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, any wheezing at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any changes in your weight recently?",
+    "patient_turn": "Um, no, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes, sorry, any issues with your urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you sleeping well or does the cough keep you up at night?",
+    "patient_turn": "Um, it's, it's not so, it hasn't interrupted my sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and how's your appetite been like?",
+    "patient_turn": "No, everything's okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and any uh, loss of your sense of taste or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, any exposure to any fumes or dust within your environment, or animals or pets?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and otherwise, do you have any medical conditions like asthma, COPD, anything like that?",
+    "patient_turn": "Um, I went in for, I went in for a checkup three weeks ago, and uh, I found out I had high blood pressure. You know, who would have thought and then my doc started me on this pill called ramipril and uh, I've just been checking my blood pressure on a regular basis, and it's yeah, it's been good. But other than that, I'm very healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and no asthma?",
+    "patient_turn": "No asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And any allergies to any medications or any environmental allergies?",
+    "patient_turn": "Um, just penicillin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just penicillin. And have you taken any antibiotics or penicillin recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, and um, what medications are you on?",
+    "patient_turn": "Just, just that one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just the ramipril?",
+    "patient_turn": "I also take, I also take a multivitamin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Multivitamin, okay. Have you been hospitalized before or had any surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, any family history of any lung or heart conditions?",
+    "patient_turn": "Um no, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any cancers?",
+    "patient_turn": "Yeah, uh, pancreatic cancer and colon cancer runs in the family.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Okay, and is that uh, any direct relatives, like your mom or dad or kids?",
+    "patient_turn": "My, my grandparents on my mom's side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and currently, do you work um, or are you retired?",
+    "patient_turn": "I'm a lawyer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And, uh, do you work from home right now? Or do you go in person?",
+    "patient_turn": "Yeah I've been working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You've been working from home, okay. Um, and what's your home situation like right now? Do you live with anyone? Do you live in a house or an apartment?",
+    "patient_turn": "Um, I live, I live in an apartment. I, um, I live alone I just got, I had a divorce two years ago and since then I've been, I've been living alone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, I'm sorry. Um, and is, in your home environment, is there any kind of allergens like dust or any mold or anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and currently do you smoke at all?",
+    "patient_turn": "Um, sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sometimes, how often would you say you smoke?",
+    "patient_turn": "Um, maybe uh, two or three cigarettes. Maybe three or four days a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and how long have you been smoking for?",
+    "patient_turn": "Um, so I, I used to smoke a lot when I was young and then I quit. And then I started again two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um okay, and do you use any recreational drugs like marijuana?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, and do you drink alcohol?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much would you say you drink on an average day?",
+    "patient_turn": "More than I would like to mention. I, yeah, I, maybe 5 or 6 beers a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and um, is this something that's new for you, or has been going on for years now?",
+    "patient_turn": "Again, that started about two years ago, so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and uh, do you use, so no other recreational drugs, right?",
+    "patient_turn": "No, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so we can definitely talk more about alcohol usage definitely, especially when there's uh, people going through stressful times. There can be increasing substance use, including alcohol, so we definitely have a lot of resources that we can um, discuss today if you would like.",
+    "patient_turn": "Yeah, I would really like that. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome. Um yeah, but those are all the questions I had for today. We'll definitely do like a physical examination, but it seems you've just been having a cough for the last two weeks.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Without any other symptoms. Um, okay, so do you have any questions at all for me?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So what we'll do is, since you've had this cough for the last two weeks, we definitely want to do a COVID swab, just in case. You've been uh, working from home, but if there was any potential contact, they usually, it comes back in 24 to 48 hours.",
+    "patient_turn": "Okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Other than that, sometimes uh, with a history of smoking, you can have something called uh, COPD. We can, like after the physical examinations and everything, we can potentially discuss doing pulmonary function tests as well. Um, and yeah, but other than that, it can also just be like a dry cough, can be just a viral upper respiratory tract infection that takes two or more weeks to resolve. In that case we wouldn't really.",
+    "patient_turn": "Sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, yeah, so we'll do the physical examination and then go from there.",
+    "patient_turn": "Sounds great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, take care.",
+    "patient_turn": "Take care.",
+    "annotation": "Correct"
+  }
+]

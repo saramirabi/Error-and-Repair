@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, my son, he’s two years old, and he’s been really sick for about a day now. He has a fever, like, 38.5°C, and he’s having a lot of trouble swallowing food. He’s drooling a lot and his voice sounds kinda muffled… I’m really worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly he feels the pain or discomfort when he tries to swallow?",
+    "patient_turn": "Uh, I’m not totally sure, but he seems to have a lot of trouble swallowing anything, like, he just spits it out. He doesn’t really say much about pain, but he’s been really irritable and, um, I guess it’s just hard for him to eat or drink anything. It’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort seem like for him? Is it more sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I was just thinking about how we need to get more snacks for the pantry. My son really loves those little cheese puffs, but he hasn't been eating much lately.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Has he been able to drink any fluids, or is that also difficult for him?",
+    "patient_turn": "Um, he’s been able to drink a little bit, like, just one bottle of milk, but that’s about it. He’s really not drinking much at all, and I’m kinda worried because he’s not peeing as much either… just two diapers instead of his usual five or six. It’s really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he shown any signs of being more tired or irritable than usual?",
+    "patient_turn": "Yeah, definitely. He’s been really lethargic and just, um, super fussy. He didn’t sleep well at all last night and kept crying… I mean, it’s just not like him. I’m really anxious about how he’s feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any difficulty breathing or made any unusual noises when breathing?",
+    "patient_turn": "Um, yeah, he’s had some shortness of breath, I think. It’s like he’s struggling a bit, and I’ve noticed some weird noises when he breathes… it’s really concerning. I just want him to feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms starting?",
+    "patient_turn": "Well, I think it was maybe yesterday, but I can't quite remember. You know, just the other day, I was trying to organize his toys, and he has so many! I mean, there are blocks, action figures, and that giant stuffed dinosaur he insists on sleeping with every night. Oh, and we also had a family movie night, which was really fun, but now I’m worried about him not feeling well.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How has his eating and drinking changed since the symptoms started?",
+    "patient_turn": "Uh, it’s changed a lot, honestly. He used to eat pretty well, but now he’s barely eating anything. Like, he only had that one bottle of milk yesterday, and he just spits out food when I try to give him anything. I’m really worried about him not getting enough fluids or nutrition… it’s just so hard to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does he seem to feel discomfort or pain?",
+    "patient_turn": "Um, I’m not really sure where exactly he feels pain, but he just seems really uncomfortable when he tries to swallow. He’s not saying much, but I can tell he’s struggling, you know? It’s just really hard to watch him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he shown any signs of difficulty breathing or wheezing?",
+    "patient_turn": "Yeah, he’s had some shortness of breath, and I think I’ve heard some weird noises when he breathes, like, um, maybe wheezing? It’s really worrying to see him like this. I just want him to be okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been having trouble swallowing?",
+    "patient_turn": "A... not sure.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the pain or discomfort seem like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I really can’t say for sure. I think it might be more of a discomfort rather than sharp pain, but he’s not really talking about it. He just seems really upset and frustrated when he tries to eat or drink… it’s just really hard to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any medical problems or conditions in the past?",
+    "patient_turn": "No, not at all. He’s been pretty healthy up until now, you know? No past medical conditions or anything like that. It’s just really surprising and, um, honestly, it’s making me really anxious to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever been hospitalized for any reason?",
+    "patient_turn": "Uh, no, he’s never been hospitalized. He’s always been healthy, so this is all really new and, um, kind of scary for me. I just want to make sure he gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever had any surgeries?",
+    "patient_turn": "No, he hasn’t had any surgeries. Everything has been pretty normal for him, so this whole situation is just really concerning. I’m just hoping we can figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "No, he doesn’t have any known allergies. I mean, his immunizations are up to date, and he’s never had any issues with foods or medications before. It’s just really worrying to see him like this now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are his immunizations current and up to date?",
+    "patient_turn": "Yes, his immunizations are current and up to date. I’ve always made sure of that, so, um, I guess that’s one less thing to worry about, but still… I just want him to feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was his birth normal, and were there any complications during delivery?",
+    "patient_turn": "Yeah, his birth was normal, and there were no complications during delivery. It was all pretty straightforward, you know? So, this sudden illness is really unexpected and, um, honestly, it’s making me really anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart issues?",
+    "patient_turn": "Um, yeah, there is some family history of heart issues, but it’s not something that’s ever affected him or anything. It’s just, you know, something I remember from family discussions. But right now, I’m just really focused on him and hoping he gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about his daily habits, like diet, sleep, and any exposure to smoke or alcohol?",
+    "patient_turn": "Uh, I’m not sure about the smoke or alcohol, but he usually has a pretty good diet. He eats a variety of foods, like fruits, veggies, and, um, snacks he likes. His sleep has been okay, but lately, he’s been really restless and crying at night, which is not like him at all. It’s just really tough to see him not doing well.",
+    "annotation": "Correct"
+  }
+]

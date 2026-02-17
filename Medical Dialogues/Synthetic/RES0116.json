@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has been having some ear discomfort for about a week now. It’s gotten worse over the last few days, and, uh, there’s been some crying and a fever too. I’m kinda worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the discomfort in your child's ear?",
+    "patient_turn": "I first noticed it about a week ago, but it really started to get bad, um, maybe four days ago? That’s when they started crying more and seemed really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly your child feels the pain in their ear?",
+    "patient_turn": "It’s mostly in the left ear. They’ve been scratching it a lot, but now they don’t want to touch it at all, which makes me think it’s really bothering them… I just feel so bad for them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to pick up some groceries later.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the discomfort in your child's ear?",
+    "patient_turn": "I first noticed it about a week ago, but, um, it really got worse over the last four days. That’s when they started crying a lot and seemed really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly your child feels the pain in their ear?",
+    "patient_turn": "It’s mostly in the left ear. They’ve been scratching it a lot, but now they don’t want to touch it at all, which makes me think it’s really bothering them… I just feel so bad for them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain seem like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I think it’s more of a dull pain, but it might be sharp sometimes, you know? It’s hard to tell exactly, but it definitely seems to be bothering them a lot. I just wish they weren’t in pain…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the discomfort in their ear?",
+    "patient_turn": "I first noticed it about a week ago, but, um, it really started to get worse over the last four days. That’s when they began crying more and seemed really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain seem like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, I remember the last time I went to the beach, it was really fun.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the discomfort in your ear?",
+    "patient_turn": "Oh, um, I think I first noticed it about a week ago. But it really started to get worse, like, four days ago when they began crying more and seemed really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located in the ear?",
+    "patient_turn": "You know, I just realized I need to remind my friend about the party this weekend.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for your child?",
+    "patient_turn": "Um, I think it’s more of a dull pain, but it might be sharp sometimes, you know? It seems to really bother them, and I just wish they weren’t in pain… It’s hard to see them like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse for your child?",
+    "patient_turn": "Honestly, I’m not totally sure. They’ve been scratching their ear a lot, but now they don’t want to touch it at all, so maybe that makes it worse? I think just being still seems to help a little, but it’s hard to tell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any other symptoms, like fever, cough, or trouble breathing?",
+    "patient_turn": "Yeah, um, they had a fever of 39°C yesterday, which really worried me. But, uh, no cough or trouble breathing or anything like that. Just the ear pain and some fussiness, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any fluid coming from your child's ear?",
+    "patient_turn": "Yes, there’s been some clear to yellowish fluid coming from the left ear. It’s, um, kind of concerning, and I just hope it’s not anything too serious…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any redness or swelling around your child's ear?",
+    "patient_turn": "Um, no, I haven’t noticed any redness or swelling around the ear. It’s just the fluid and, you know, the pain that seems to be bothering them. I’m really hoping it’s nothing too serious…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been able to hear normally, or have you noticed any changes in their hearing?",
+    "patient_turn": "I think their hearing seems to be okay. They haven’t had any issues with that, um, at least not that I can tell. It’s just the ear pain that’s really concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any ear infections in the past?",
+    "patient_turn": "Yeah, they had a few ear infections when they were around two years old. One of them was treated with antibiotics in the right ear, but, um, they haven’t had any issues since then. I’m just worried this might be another infection…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies to medications or anything else?",
+    "patient_turn": "Um, no, I don’t think they have any known allergies to medications or anything like that. They’ve been pretty healthy overall, so I’m not really sure what’s going on with this ear issue…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child meeting all their developmental milestones?",
+    "patient_turn": "Yeah, they are! Um, they’re meeting all their developmental milestones, and, you know, they seem to be doing well otherwise. It’s just this ear pain that’s really worrying me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any surgeries in the past?",
+    "patient_turn": "No, they haven’t had any surgeries in the past. Um, the only thing was a little extra time in the hospital when they were born because of head molding, but that’s it. I’m just really anxious about this ear issue now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your child's immunizations up to date?",
+    "patient_turn": "Yes, um, they’re up to date on all their immunizations. I’ve been keeping track of that, so at least that’s one thing I don’t have to worry about. But, you know, this ear pain is really stressing me out…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was the pregnancy and delivery without any complications?",
+    "patient_turn": "Yeah, the pregnancy was uncomplicated, and the delivery was, um, a full-term vaginal delivery, but they did use forceps. There weren’t any major issues, and the child didn’t need hospitalization except for that extra day for head molding. So, um, everything seemed fine until now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of ear or hearing problems?",
+    "patient_turn": "No, there’s no family history of congenital ear or hearing problems. Um, the only thing is that the paternal grandfather has hypertension and diabetes, but nothing related to ears or hearing. I just hope this isn’t something serious…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have there been any recent visits from sick relatives or friends?",
+    "patient_turn": "Well, um, there was a visit from some relatives about three weeks ago, but nobody seemed sick then. I’m not really sure if that could be related to this ear issue, but it’s just been really stressful…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled anywhere recently?",
+    "patient_turn": "No, um, there hasn’t been any recent travel. We’ve just been home, so I’m not really sure what could have caused this ear problem. It’s all just so confusing and worrying…",
+    "annotation": "Correct"
+  }
+]

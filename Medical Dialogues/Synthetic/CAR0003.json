@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this, like, worsening breathlessness for the past two months. It gets really bad when I walk more than, uh, 50 meters or when I climb stairs, like three or four flights. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the breathlessness the most?",
+    "patient_turn": "Um, it’s mostly when I’m, like, trying to do anything physical, you know? Like walking or climbing stairs. But, honestly, it feels worse when I’m lying down. I just can’t catch my breath, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the breathlessness feel like for you?",
+    "patient_turn": "Oh, I was actually just thinking about how I need to call my sister later. She’s been asking about my cat, and I really need to get some groceries too.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness starting?",
+    "patient_turn": "Uh, I think it started about two months ago. At first, it was just a little bit, but then it got worse, you know? Now, I really struggle with it, especially when I’m lying flat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the breathlessness change when you’re doing different activities?",
+    "patient_turn": "Well, um, it gets a lot worse when I’m doing anything physical, like walking or climbing stairs. I can usually manage, like, a little bit, but if I go over 50 meters or so, I really start to feel it. And, um, when I’m lying down, it’s just, like, really hard to breathe, so I have to use pillows to help.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the breathlessness the most?",
+    "patient_turn": "Uh, it’s mostly in my chest, I guess? It feels tight, and I just can’t seem to get enough air, especially when I’m active or lying down. It’s, um, really uncomfortable and kind of scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness starting?",
+    "patient_turn": "Um, I think it was maybe a couple of months ago? Or perhaps a bit longer, I’m not really sure. It just kind of crept up on me, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "Um, I’m taking aspirin, ramipril, and simvastatin. I’ve been on those for a while now, you know, to manage my heart issues, hypertension, and cholesterol. But, honestly, with this breathlessness, I’m not sure if they’re enough anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet recently?",
+    "patient_turn": "Yeah, actually, I have noticed some swelling in my legs. It started around the same time as the breathlessness, and, um, it’s been pretty bothersome. I didn’t really think much of it at first, but now it’s hard to ignore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or noticed any sputum production?",
+    "patient_turn": "Um, I don’t really have a cough, except for, like, an occasional non-productive one. But I have noticed some frothy sputum, which is, uh, kind of concerning. It’s not something I’ve experienced before, so it’s definitely adding to my worries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or illnesses, like a cold or flu?",
+    "patient_turn": "No, I haven’t had any recent infections or illnesses, like a cold or flu. I mean, I feel pretty healthy otherwise, except for this breathlessness and the leg swelling. So, um, I’m not sure what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or had any surgeries aside from your stenting?",
+    "patient_turn": "No, I haven’t traveled recently, and the only surgery I’ve had was the stenting four years ago. I haven’t had any other procedures or anything like that, so, um, I’m not really sure why I’m feeling this way now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone in my apartment. It’s, um, kind of quiet, I guess. Sometimes I wish I had someone around, especially with how I’ve been feeling lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I work as a cashier. It’s, um, not super physically demanding, but I’ve noticed that even that’s been getting harder with this breathlessness. I’m just, like, really tired all the time now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever smoked, or do you currently smoke?",
+    "patient_turn": "I used to smoke for about 40 years, like, 10 cigarettes a day, but I don’t smoke anymore. I quit, um, a while back, but I guess I’m still worried about the effects it might have had on my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use any recreational drugs. I’ve just been focusing on managing my health, but, um, with everything going on, I’m kinda worried about what’s happening with my breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease or other related conditions?",
+    "patient_turn": "Yeah, um, my father had a heart attack at age 60, so there’s definitely a family history of heart disease. I guess that’s part of why I’m so anxious about my own health right now, especially with these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any increase in fatigue or a decrease in your activity levels recently?",
+    "patient_turn": "Yeah, definitely. I’ve noticed a big increase in fatigue, and my activity levels have really dropped. I just don’t have the energy to do much anymore, and it’s, um, really frustrating. I used to be more active, but now I feel like I can barely keep up with daily things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe your diet lately?",
+    "patient_turn": "Um, to be honest, my diet hasn’t been very well balanced lately. I’ve been, like, grabbing whatever’s easy, you know? I know I should be eating better, but with everything going on, it’s just been hard to focus on that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your activity level changed in the past couple of months?",
+    "patient_turn": "Well, um, it’s really decreased a lot. I used to be more active, but now I find it hard to even do simple things, like walking or climbing stairs. I just get so out of breath, and it’s, like, really discouraging.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "Yeah, I have noticed some swelling in my legs. It started around the same time as the breathlessness, and, um, it’s been pretty bothersome. I didn’t really think much of it at first, but now it’s hard to ignore.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my cough. I’ve been having this dry cough for a few months now, and it gets worse at night and after gym class. It’s kinda scary, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it started a few months ago, maybe like three or four months? It just sort of came out of nowhere, and it’s been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, um, it’s definitely gotten more frequent and, like, more severe. At first, it was just a little annoying, but now it really makes it hard to breathe sometimes, especially at night or after I run around. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get some new shoes for gym class. The ones I have are kind of old and maybe that's why I'm feeling a bit off sometimes.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any tightness in your chest?",
+    "patient_turn": "Uh, I think, um, it mostly feels like it's in my chest or maybe my throat? I'm not totally sure, but it kind of comes and goes, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any tightness in your chest? Does it spread anywhere else?",
+    "patient_turn": "Um, I mostly feel it in my chest, but sometimes it feels like it’s in my throat too? It doesn’t really spread anywhere else, but it just makes me feel really tight and, like, anxious when it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you experience the cough and tightness in your chest?",
+    "patient_turn": "Well, I experience the cough mostly at night and after gym class, like, maybe a couple of times a week? It's kind of hard to keep track, but I remember last week I had it pretty bad during a soccer game, and I think my friend said she was feeling a bit off too. Also, my cats have been, like, running around a lot lately, and I wonder if that makes it worse sometimes.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you ever needed to go to the hospital because of your cough or breathing issues?",
+    "patient_turn": "No, um, I haven’t needed to go to the hospital or anything like that. I mean, I’ve had some rough nights, but I’ve managed to get through it at home. I just really hope it doesn’t get worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick recently?",
+    "patient_turn": "Um, no, I haven’t really been in contact with anyone who was sick recently. I mean, I haven’t traveled anywhere either, so I’m not totally sure what’s causing all this. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart problems?",
+    "patient_turn": "Uh, no, not that I know of. The only thing is my grandfather has diabetes, but there aren’t any lung or heart issues in my family that I’m aware of. It’s just me dealing with this cough, and it’s kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your seasonal allergies?",
+    "patient_turn": "Yeah, um, I take over-the-counter antihistamines for my seasonal allergies. They help a bit, but I don’t think they’re really helping with this cough situation. It’s just, like, really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to pets, dust, or other environmental things?",
+    "patient_turn": "Um, no, I don’t have any known allergies, but I do have two cats at home. I’ve had them for just under a year, and I wonder if they might be a factor? But, like, I’ve never had any issues with them before, so I’m not totally sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around anyone who was sick?",
+    "patient_turn": "No, um, I haven’t traveled anywhere recently, and I don’t think I’ve been around anyone who was sick either. It’s just been this cough that’s been bothering me for a while now, and I really don’t know what’s causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anyone in your home who smokes?",
+    "patient_turn": "No, um, there’s no one in my home who smokes. I live with my parents and my younger brother, and they don’t smoke at all. I think that’s part of why I’m worried about what’s causing this cough.",
+    "annotation": "Correct"
+  }
+]

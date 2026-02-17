@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really struggling with shortness of breath. It’s gotten worse over the past few days, and I can only climb like two or three stairs now, when I used to manage ten or eleven… it’s kinda scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath starting to get worse?",
+    "patient_turn": "I think it started getting worse, um, maybe about a week ago? But, honestly, it’s been a bit of a problem for a while now. I just didn’t realize it was getting this bad until recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath the most?",
+    "patient_turn": "... um, maybe…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the shortness of breath ever spread to other areas, like your neck or shoulders?",
+    "patient_turn": "No, I don’t think so. It’s mostly just in my chest, you know? I haven’t really felt it anywhere else, just… it’s hard to breathe sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath getting worse?",
+    "patient_turn": "Oh, um, I think it was about a week ago? But I’ve had some issues with it for a while, just not this severe. It’s really been limiting me, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the shortness of breath? Is it constant or does it come and go?",
+    "patient_turn": "It’s, um, pretty constant, honestly. Like, I feel it all the time, but it gets worse when I try to do anything, like climbing stairs or even just walking around the house. It’s really exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the shortness of breath the most?",
+    "patient_turn": "I mostly feel it in my chest, um, like it’s tight or heavy, I guess? It’s just really hard to catch my breath sometimes, especially when I’m active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the shortness of breath, like swelling or fatigue?",
+    "patient_turn": "Oh, you know, I've been thinking about getting a new plant for the living room. I saw some really nice ones at the store the other day.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath the most?",
+    "patient_turn": "... um, I guess it’s…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "Yes, I have! My legs have been swelling a lot, um, especially over the past month. It’s been really difficult to wear my shoes, and I’m honestly worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight gain recently?",
+    "patient_turn": "Yeah, I’ve gained about five pounds over the last couple of months. It’s, um, not a lot, but with everything else going on, it’s just adding to my worries, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any episodes of waking up at night feeling short of breath?",
+    "patient_turn": "Yes, actually, I had that happen last night. I woke up feeling really short of breath, and, um, sitting up helped me feel better. It’s just really unsettling, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough, chest pain, or dizziness recently?",
+    "patient_turn": "No, I haven’t had any cough or chest pain, and I don’t feel dizzy, um, just the shortness of breath and the swelling. It’s really the breathing that’s been the biggest issue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What heart conditions have you been diagnosed with in the past?",
+    "patient_turn": "I’ve been diagnosed with heart failure and, um, I had two heart attacks a few years ago. They put in stents for those, and I’ve been managing my heart health since then, but it’s been tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your heart condition?",
+    "patient_turn": "I take a bunch of medications, um, including aspirin, beta blockers, ACE inhibitors, and statins. It’s a lot to keep track of, and I’m just hoping they’re still working for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you need assistance with daily activities, like bathing or getting around?",
+    "patient_turn": "Yeah, I do need help with a lot of things, like showering and, um, just moving around the house. My daughter helps me out a lot because I get really short of breath, and it’s just hard to do things on my own right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yes, my family history is pretty significant for heart issues. There’s a lot of hypertension and, um, multiple relatives have had heart attacks. It’s definitely something that worries me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or traveled anywhere in the last few weeks?",
+    "patient_turn": "No, I haven’t had any recent infections or traveled anywhere. I’ve just been, um, staying at home mostly, trying to manage everything.",
+    "annotation": "Correct"
+  }
+]

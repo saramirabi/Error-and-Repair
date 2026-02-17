@@ -1,0 +1,157 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m a bit worried because I’ve been having shortness of breath and wheezing for about a day now. It started after I spent a few hours cleaning out a dusty basement at my parents' house. I’ve also got this tightness in my chest and a mostly dry cough… it’s just been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and wheezing?",
+    "patient_turn": "I first noticed it, um, like yesterday, I think. It kinda started after I was cleaning, you know? I didn’t think much of it at first, but it just got worse, especially when I try to do anything active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the tightness in your chest is located? Does it spread anywhere else?",
+    "patient_turn": "Uh, it's mostly in my chest, but I don't really have any tightness. I mean, it feels tight, but it's more like a little discomfort, you know?",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s more like a dull tightness, I guess? It’s not sharp or anything, but it definitely feels uncomfortable, especially when I take deep breaths. It’s just… kind of there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make the tightness in your chest feel worse?",
+    "patient_turn": "Well, um, it definitely gets worse with any kind of exertion, like walking up stairs or even just moving around too much. I mean, when I’m resting, it’s a bit better, but I can still feel it, you know? It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest tightness and shortness of breath?",
+    "patient_turn": "I noticed the chest tightness and shortness of breath, um, yesterday after I was cleaning the basement. It all kind of started at the same time, and it’s just been getting worse since then. I’m really not used to this… it’s kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the tightness in your chest feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, it’s kind of tight, you know? Like, when I was cleaning the basement, it got worse, and I also think I sneezed a lot because of the dust. My roommates were all playing video games really loud, and I couldn't concentrate, so maybe that added to it too. I mean, it’s just uncomfortable, I guess, but not really sharp or anything, just... tight.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What activities or movements make the tightness in your chest feel worse?",
+    "patient_turn": "Um, definitely any kind of physical activity, like walking or, you know, even just moving around too much. It feels like it gets tighter when I exert myself. I’ve been trying to take it easy, but it’s hard when I need to do stuff. It’s just… really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or a cough?",
+    "patient_turn": "Yeah, I’ve definitely got shortness of breath and a cough, um, mostly a dry cough. It’s been pretty persistent since this all started. I’m not feeling dizzy or anything, but the breathing is just… really off, you know? It’s making me kinda anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the tightness in your chest, and does it spread anywhere else?",
+    "patient_turn": "Um, it's kind of in the middle of my chest, but sometimes it feels like it might go to my back? And I remember last week I had that pizza with extra cheese, which probably didn’t help. Also, my roommate's been cooking a lot, and the smell of his food can be really strong, so maybe that’s part of it too. It’s just, you know, tight and uncomfortable, but I can’t say for sure if it spreads.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the tightness in your chest feel like—sharp, dull, or more like pressure?",
+    "patient_turn": "Uh, it feels more like pressure, I guess? It’s not sharp at all, just this dull tightness that makes it hard to breathe deeply. It’s really uncomfortable, and I’m just trying to figure out how to make it better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make the tightness in your chest feel worse?",
+    "patient_turn": "Well, um, definitely any kind of physical activity, like walking or even just moving around too much. It gets worse when I exert myself, you know? I’ve been trying to rest as much as I can, but it’s hard to avoid moving completely. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or a cough?",
+    "patient_turn": "Yeah, I’ve definitely got shortness of breath and, um, a cough that’s mostly dry. I haven’t felt dizzy or anything like that, but the breathing is just really off, and it’s making me kinda anxious. I just want to feel normal again, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or any other breathing issues before?",
+    "patient_turn": "Yeah, I was diagnosed with asthma when I was, um, around 11 or 12. It’s usually been pretty stable, and I don’t have to use my rescue inhaler too often, but I’ve had to use it more lately, like 3-4 times since this started. I’m just kinda worried because I haven’t had an issue like this in a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you last use your blue rescue inhaler?",
+    "patient_turn": "I last used my blue rescue inhaler, um, about a month ago, I think? But since these symptoms started, I’ve been using it more often, like 3-4 times. It helps a little, but not as much as I’d like, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use a daily inhaler for your asthma?",
+    "patient_turn": "Yeah, I do use a daily inhaler, um, the orange one. I’ve been on it for a while, and it usually helps keep things under control. But with all this dust exposure and the symptoms getting worse, I’m just feeling a bit overwhelmed, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any allergy medications recently?",
+    "patient_turn": "Um, yeah, I’ve taken some over-the-counter allergy medications, especially for, like, spring pollen allergies and stuff. I usually use them during the season, but I haven’t really thought about them much with all this asthma stuff going on. I just want to feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain along with your breathing issues?",
+    "patient_turn": "No, I haven’t felt any chest pain, um, just the tightness and discomfort. It’s mostly just the shortness of breath and wheezing that’s bothering me. I’m really hoping it’s just the asthma acting up and nothing more serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood recently?",
+    "patient_turn": "No, I haven’t coughed up any blood or anything like that. It’s just a mostly dry cough, which is, um, really annoying. I’m just trying to manage the breathing issues and the tightness in my chest right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills recently?",
+    "patient_turn": "No, I haven’t had any fever or chills, um, just the breathing issues and the cough. I feel pretty much normal otherwise, except for this tightness and shortness of breath. It’s just really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting lately?",
+    "patient_turn": "No, I haven’t felt nauseous or had any vomiting. It’s really just the breathing problems and the cough that are bothering me. I’m kinda worried about it, to be honest, but I’m not experiencing anything else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain or changes in your urination lately?",
+    "patient_turn": "No, I haven’t noticed any pain or changes in my urination. It’s really just the breathing issues and the cough that are the main concerns for me right now. I’m just trying to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats or noticed any changes in your weight recently?",
+    "patient_turn": "No, I haven’t had any night sweats or noticed any changes in my weight. It’s just the breathing issues and the cough that are really bothering me. I’m feeling kinda anxious about it all, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling unusually tired or experienced any muscle pain lately?",
+    "patient_turn": "No, I haven’t felt unusually tired or had any muscle pain. It’s really just the breathing problems and the cough that are concerning me. I’m just trying to manage this tightness in my chest, and it’s making me a bit anxious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any new skin rashes besides your usual eczema?",
+    "patient_turn": "No, I haven’t noticed any new skin rashes besides my usual eczema. I’ve been treating that with steroid cream, but, um, it’s really just the breathing issues that are the main problem for me right now. I’m just feeling a bit overwhelmed with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had to go to the emergency room for your asthma?",
+    "patient_turn": "Yeah, I went to the emergency room for my asthma when I was, um, 15, but I didn’t have to stay overnight or anything. It was just a one-time thing, and I haven’t had any serious issues since then, until now. I’m really hoping this isn’t going to be anything like that again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or eczema?",
+    "patient_turn": "Yeah, my sister has asthma and eczema, and my mom had asthma when she was younger too. It’s kind of a family thing, I guess. I’m just hoping I can manage this flare-up without it getting worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes or use cannabis?",
+    "patient_turn": "No, I don’t smoke cigarettes or use cannabis. I prefer edibles if I do use anything, but I haven’t really been using anything lately. I just want to focus on getting my breathing back to normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, my immunizations are up to date. I’ve been keeping track of that, so I’m not worried about that part. It’s really just these breathing issues that are stressing me out right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently besides visiting your parents' home?",
+    "patient_turn": "No, I haven’t traveled anywhere else recently, just the visit to my parents' home. I was cleaning the basement there, and that’s when all these symptoms started. I’m just really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I’ve been pretty lucky in that regard, I guess. It’s just this asthma flare-up that’s really got me worried right now.",
+    "annotation": "Correct"
+  }
+]

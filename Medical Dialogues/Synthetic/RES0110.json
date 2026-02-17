@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here. I’ve been having this dry cough for about a week, and it’s gotten worse… now it’s, like, productive with yellow phlegm. I’m also feeling really short of breath and, um, I have this chest pain that hurts more when I breathe in. Plus, I had a fever once, and I’ve been feeling kinda confused lately, which is new for me. So, yeah, I’m a bit worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and chest pain?",
+    "patient_turn": "Uh, I first noticed the cough about a week ago, I think… it started off dry, but then it got worse and, um, became productive. The chest pain started around the same time, but it’s definitely gotten more intense, especially when I breathe in. It’s just really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the chest pain is located? Does it spread anywhere else?",
+    "patient_turn": "Oh, I just remembered that I need to call my sister later about her birthday party next month.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it feels kind of sharp, I guess? Like, it really hurts when I take a deep breath, and sometimes it feels like a pressure, too. It’s just, um, really uncomfortable and makes me anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, taking shallow breaths seems to help a little, but when I try to take a deep breath, it definitely makes it worse. Coughing also, um, really hurts. I’m just trying to find a position that feels okay, but it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the chest pain?",
+    "patient_turn": "Yeah, um, besides the cough and chest pain, I’ve had this fever once, and I’ve been feeling chills. I also have a runny nose with yellow discharge, and, um, there’s been some mild wheezing, too. Oh, and I mentioned the confusion and trouble concentrating, which is really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the chest pain first start for you?",
+    "patient_turn": "Uh, I think the chest pain started around the same time as the cough, so about a week ago? It’s just been getting worse since then, and I’m really not sure what to think about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located? Does it spread anywhere else?",
+    "patient_turn": "Well, the pain is sort of in the center, I guess? And it sometimes feels like it radiates a little, but I think it might also be because I’ve been sleeping weird lately. Oh, and my neighbor's dog barks all night, which has been really annoying, so that might be affecting my sleep too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, taking shallow breaths seems to help a bit, but when I try to take a deep breath, it definitely makes it worse. Coughing really hurts, too, and, um, I’ve been trying to find a comfortable position to sit or lie down, but it’s tough. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or feeling nauseous?",
+    "patient_turn": "Yeah, um, I’ve definitely noticed shortness of breath, especially when I’m trying to do anything, like walking around the house. I haven’t felt dizzy or nauseous, but, um, I’ve been feeling really confused and having trouble concentrating, which is new for me. It’s honestly kind of scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located? Does it spread anywhere else?",
+    "patient_turn": "You know, I just got a new book that I’m really excited to read. It's a mystery novel, and I can't wait to dive into it later! But about the pain, I think it’s mostly in ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with deep vein thrombosis or any blood clots before?",
+    "patient_turn": "Yeah, um, I had deep vein thrombosis about two years ago, and it was related to air travel. I’m kinda worried that it might be connected to how I’m feeling now, but I’m not totally sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you manage your diabetes? Are you using insulin?",
+    "patient_turn": "Um, yeah, I manage my diabetes with insulin. I’ve been doing that for a while now, and I try to keep an eye on my blood sugar levels. It’s just, you know, sometimes it feels overwhelming with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medication for your hypothyroidism?",
+    "patient_turn": "Yes, I take Synthroid for my hypothyroidism. I’ve been on it for a while, and, um, I think it’s been helping, but with everything else going on, I’m just feeling a bit overwhelmed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any lung or heart conditions?",
+    "patient_turn": "Um, no, I haven’t been diagnosed with any lung or heart conditions before. I don’t have a history of COPD, asthma, or heart disease, so this is all pretty new and, honestly, a bit scary for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What other medications or supplements do you take regularly besides Synthroid?",
+    "patient_turn": "Oh, um, I take aspirin and some supplements like calcium and vitamin D. That’s pretty much it, I think. I don’t have any known allergies, so, um, I try to keep it simple, but with everything going on, I’m just feeling a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or anything else?",
+    "patient_turn": "Um, no, I don’t have any known allergies to medications or anything else. I’ve been pretty lucky in that regard, but with how I’m feeling now, I’m just, you know, really worried about everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live independently with my husband. Um, we’ve been together for a while, and he’s been really supportive, but I’m just feeling kinda overwhelmed with everything that’s going on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home?",
+    "patient_turn": "No, um, we don’t have any pets. I think it’s just easier that way, especially since I’ve been feeling unwell. It’s just been a lot to deal with lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I haven’t traveled anywhere recently. I think the last time I flew was a couple of years ago when I had that DVT. I’ve mostly just been at home, but I do use a laundromat, so, um, I guess that’s the only potential exposure I have to illness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Um, not really, no. I haven’t been around anyone who’s been sick, at least not that I know of. I’ve mostly just been at home, and, um, I’m not sure where this is all coming from. It’s just really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you able to manage your daily activities on your own?",
+    "patient_turn": "Yeah, um, I’m usually independent with my daily activities and finances. I can manage things like cooking and cleaning, but with how I’m feeling now, it’s been a bit tougher. I’m just, you know, feeling a bit overwhelmed and worried about everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you usually manage your finances day-to-day?",
+    "patient_turn": "Um, I usually manage my finances by keeping track of everything in a notebook and, you know, using a budget. I try to stay organized, but with everything going on, I’m feeling a bit more stressed about it lately. It’s just hard to focus when I’m not feeling well.",
+    "annotation": "Correct"
+  }
+]

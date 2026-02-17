@@ -1,0 +1,207 @@
+[
+  {
+    "doctor_turn": "How can I uh, help you today?",
+    "patient_turn": "Hi, so I just came in today because I've been just been feeling um, like my head's just been hurting for the past three or four days and I also felt really cold throughout the day for the last few days as well, so, um, I did end up checking my temperature just yesterday afternoon and it was um, 38.7 degrees celsius.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um. Tell me about the headache, where exactly is it?",
+    "patient_turn": "Yeah so it's kind of just throughout like the front of my forehead and it kind of goes to the side into my temple.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And what does it feel like?",
+    "patient_turn": "It feels like a constant aching. I've had uh, migraines before, but they like, it's not like the pulsating sensation that I usually get with them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Uh, okay, and how severe is the pain, if you had to rate it from 1 to 10?",
+    "patient_turn": "Um, more than like severe. It's definitely less severe than my migraines, but it, it's just constant. It's, it's just been there for the last four days and I would say probably a 6 out of 10.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you do anything for the pain? Did you take any medications? Anything that makes it better?",
+    "patient_turn": "Yeah, I took a Tylenol, I took um, Advil. It helps for like a few hours and then it just comes back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And anything that makes the pain worse?",
+    "patient_turn": "Um, I definitely think just, if I rest, it's better if, but if I'm like, like I can't, I can't concentrate on work or like anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and other than the, um, the fever and headaches, have you um, had any um, cough?",
+    "patient_turn": "No, no cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Runny nose or congestion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sore throat?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your sense of smell?",
+    "patient_turn": "Uh, I do actually feel like I, like I am losing my smell today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And sense of taste?",
+    "patient_turn": "I just had breakfast today so um, breakfast was okay. I didn't, uh, but yeah, definitely sense of smell.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Okay, and any difficulties breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, do you feel like your heart is racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Pain in your belly?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any muscle aches or joint pains?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, do you feel like your neck is stiff?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any numbness or tingling in your arms or fingers, or toes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any um, night sweats or weight loss, unintentional?",
+    "patient_turn": "No, I've only been gaining weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any fluid in your, any sort of, swelling in your legs?",
+    "patient_turn": "No, nothing like that really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, any medical conditions that you've been diagnosed with?",
+    "patient_turn": "Yes, so I have uh, type 2 diabetes. I was just recently started on metformin medication.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When were you started on metformin?",
+    "patient_turn": "So I think around uh, it's been around two months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how is that going for you? Are you tolerating it okay?",
+    "patient_turn": "Yeah I've, I've been tolerating it well. It's just they, they said like I'm kind of just on the edge of the diabetes, like my level, so they just want to act, um, proactively.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, that's good. Um, any other medical conditions?",
+    "patient_turn": "No, that's, that's all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medications other than metformin that you take? Anything over the counter?",
+    "patient_turn": "Um, so I do take, when my migraines get bad, like I do take, I have taken naproxen before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Surgeries?",
+    "patient_turn": "Uh, no surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Hospitalizations?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any allergies to medications, foods, or any environmental allergies?",
+    "patient_turn": "Not to any medications, but I do have an allergy to peanuts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, what happens?",
+    "patient_turn": "I do get like a, an anaphylactic reaction.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, okay. Um, and any um, family history of any medical conditions?",
+    "patient_turn": "Uh, so on my dad's side, they like all, like all the men seem to have diabetes, so it's good that I'm starting on the medication. Um on my mom's side, they're pretty healthy. I don't think my mom has any medical conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, good. Um, and do you currently live alone or do you live with other people?",
+    "patient_turn": "Yeah, so I live with my wife, I live with my two kids, a son and daughter.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And um, have you or any of them had any exposures to anyone who could possibly be sick?",
+    "patient_turn": "Um just, uh, so my wife is a school teacher, um, and they did have in-person. Just uh, she's a high school teacher, and they had some they have in-person classes. So yeah, I don't know, but she's been feeling well. My kids are feeling well too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Okay, and have you traveled anywhere outside the province?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you currently smoke or did you ever smoke in the past?",
+    "patient_turn": "No, I've never smoked. I do smoke marijuana just, maybe once or twice a month with some friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any recreational drugs?",
+    "patient_turn": "Sorry, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any alcohol?",
+    "patient_turn": "Yeah, I probably drink um, a couple of beers during the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, got it. Um, alright. Well, given your symptoms, um, we would like to do a COVID swab, just in, or request a COVID swab to be done through public health, um, just to, just to rule it out. Your symptoms do sound like, or overlap with some of the symptoms that are seen in patients who do have COVID. It could be that you have um, just um, just I guess like your headache and fever. Um, I'll also like do a physical exam to see there's nothing else going on. But in the meantime, I, I'd like you to self isolate and stay away from the rest of your family members as well, um, at least until the results are out. And then when the results are out, if it's positive, you'll receive more guidelines from public health as to what you need to do.",
+    "patient_turn": "Okay, sounds good, um, and I work from home, so I don't need to.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh that's good. Okay, so you work from home.",
+    "patient_turn": "Alright.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Good.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  }
+]

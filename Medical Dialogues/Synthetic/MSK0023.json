@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I was at basketball practice, and I, like, jumped and landed, and then I heard a pop in my left knee. It started hurting a lot, and now I can’t really walk or put weight on it… it’s super painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located on your knee? Does it spread anywhere else?",
+    "patient_turn": "Yeah, the pain is mostly right in the knee itself, um, like around the front and sides. It doesn’t really spread anywhere else, you know? Just, like, right there, and it hurts a lot when I try to move it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, like, really intense, you know? Um, it feels worse when I try to bend or straighten my knee. I guess it’s just, like, this constant, stabbing pain that makes it hard to do anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, practicing basketball, and I jumped to, like, make a shot or something. When I landed, that’s when I heard the pop and then the pain just hit me really hard. It all happened so fast… I didn’t think it would be this bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "Uh, I think I felt it a few hours ago, but actually, it started yesterday during practice.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it’s definitely gotten worse since it first started. At first, it was just, like, a little uncomfortable, but now it’s really sharp and, um, I can’t even walk on it. The swelling and bruising have also gotten more noticeable, which makes me kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "It’s really sharp, like, um, a stabbing kind of pain. It’s not dull at all, and it just, like, hits me whenever I try to move my knee. Honestly, it’s pretty intense and makes it hard to focus on anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located in your knee?",
+    "patient_turn": "Um, it’s kind of… around the knee area, I think? Like, maybe on the side or something, but I’m not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, practicing basketball, and I jumped to take a shot. When I landed, I heard a pop in my knee, and that’s when the pain hit me really hard. It all happened so fast, and I didn’t expect it to be this bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any previous medical issues or surgeries before this injury?",
+    "patient_turn": "No, I haven’t had any previous medical issues or surgeries, um, I’ve been pretty healthy. The only thing is I’ve had some ankle sprains before, but they went away with rest. This knee pain is, like, totally different, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications right now?",
+    "patient_turn": "No, I’m not taking any medications at all. I, um, don’t have any allergies either, so it’s just, like, this knee issue that’s really bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else, um, I’ve never had a problem with that. It’s just this knee pain that’s really concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of knee problems or injuries?",
+    "patient_turn": "Not really, um, the only thing is my dad had a rotator cuff injury, but that’s about it. No one else in my family has had knee problems or anything like that, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any previous injuries to your knee before this one?",
+    "patient_turn": "No, I’ve never had any previous knee injuries. This is the first time I’ve had something like this happen, um, I’ve just had some ankle sprains before, but they were nothing compared to this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any ankle sprains before this knee injury?",
+    "patient_turn": "Yeah, I’ve had a few ankle sprains before, but they were, um, pretty minor and went away with rest. This knee injury feels way worse, honestly, and it’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and my younger sister. Um, it’s a pretty normal home life, I guess. I feel safe there, but right now, I’m just really focused on this knee pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, drink alcohol, or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or drink alcohol, and I don’t use any recreational drugs either. I’ve just been focused on basketball and school, you know? This injury is really throwing me off.",
+    "annotation": "Correct"
+  }
+]

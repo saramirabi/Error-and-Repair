@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve had this dry cough for about two weeks now. It was worse last week, but it’s kinda getting better. I also have a clear runny nose that started about a week ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Honestly, it doesn’t really feel like it’s, um, localized anywhere specific. It’s just a dry cough, you know? I don’t have any chest pain or anything like that, so it’s not super painful or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, um, it was definitely worse last week, like really persistent. But now it’s, uh, getting better, I think. It’s not as frequent, which is a relief, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "Uh, I mostly feel it in my throat, I guess? It’s not really in my chest, more like a tickle that makes me cough. It’s just kinda annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you feel any tightness?",
+    "patient_turn": "Oh, it's definitely dry, but sometimes it feels kind of tight too. I mean, I don't really have any tightness at all, actually.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Um, I think I first noticed it about two weeks ago. It just kinda came out of nowhere, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "A…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you have any ongoing medical conditions or health issues?",
+    "patient_turn": "No, um, I don’t have any ongoing medical conditions or health issues. I’ve been pretty healthy overall, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications right now?",
+    "patient_turn": "Uh, no, I’m not taking any medications right now. I haven’t needed any, so… yeah, nothing at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "Um, no, I don’t have any known allergies to medications or foods or anything like that. I’m pretty sure I’m all good in that department.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of high cholesterol?",
+    "patient_turn": "Yeah, um, my dad has a history of high cholesterol. That’s pretty much the only thing in my family that I know of, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province in the last few weeks?",
+    "patient_turn": "No, I haven’t traveled outside the province at all in the last few weeks. I’ve just been, um, at home doing virtual university stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs regularly?",
+    "patient_turn": "Uh, I don’t smoke regularly, but I’ve, like, experimented with smoking and marijuana occasionally. But it’s not something I do all the time, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol socially on weekends during school terms, um, but I don’t really keep track of how much. It’s usually just a few drinks with friends, you know? Nothing crazy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did your mother have any respiratory symptoms recently?",
+    "patient_turn": "Yeah, um, my mom had some mild upper respiratory symptoms last week. She didn’t get tested for COVID-19 or anything, though. It was just, you know, a bit of a runny nose and stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been tested for COVID-19 since your symptoms started?",
+    "patient_turn": "No, I haven’t been tested for COVID-19 yet. I was advised to self-isolate pending test results, so, um, I’m just waiting on that.",
+    "annotation": "Correct"
+  }
+]

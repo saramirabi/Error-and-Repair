@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried because I’ve been having this sudden shortness of breath and, uh, this really sharp chest pain on my right side since this morning. It hurts more when I breathe deeply or cough, and it’s just… it’s been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain and shortness of breath start this morning?",
+    "patient_turn": "It started, um, shortly after I woke up, I think. Like, maybe within the first hour or so? It just kind of hit me out of nowhere, and I’m honestly kinda scared about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s, um, definitely on the right side of my chest, like a stabbing pain. It doesn’t really spread anywhere else, but it’s, um, worse when I take a deep breath or laugh. It’s just… really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "...  side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "I really need to remember to pick up some milk on my way home.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arm, neck, or back?",
+    "patient_turn": "No, it doesn’t spread anywhere else. Actually, I think it might spread sometimes, but mostly it stays right here.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, fever, or chills since the pain started?",
+    "patient_turn": "No, I haven’t had any cough, fever, or chills at all. It’s just the chest pain and the shortness of breath, um, nothing else really. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or pain in your left calf?",
+    "patient_turn": "Yeah, actually, I have noticed some swelling and pain in my left calf. It feels warm, too, but I haven’t had any recent trauma or anything. It’s just, um, concerning along with everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you take any long flights or travel long distances recently?",
+    "patient_turn": "Yes, I just got back from a long flight to India a couple of days ago. It was, um, a pretty long trip, and I think that might be related to how I’m feeling now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or had any breathing issues in the past?",
+    "patient_turn": "I had childhood asthma, but it’s, um, resolved now. I haven’t had any breathing issues since then, so this is all pretty new and, honestly, a bit scary for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries before this?",
+    "patient_turn": "Yeah, I had an appendectomy when I was 30, but it went fine, no complications or anything. This is, um, the first time I’ve had anything like this happen, so it’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications right now?",
+    "patient_turn": "No, I’m not taking any medications at the moment. I, um, manage my anxiety without them, and I don’t have any allergies either. It’s just… I’m feeling really anxious about all this right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else. I’m, um, pretty lucky in that way, I guess. But right now, I’m just really worried about what’s going on with my chest and leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease or diabetes?",
+    "patient_turn": "Yeah, my family history does have some heart attacks in my paternal grandparents and diabetes in both my parents and grandparents. I’ve had my blood sugars tested, and they’re normal, but, um, it still makes me a bit anxious thinking about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of bleeding or clotting disorders?",
+    "patient_turn": "No, um, I’ve never heard of any bleeding or clotting disorders in my family. It’s just, you know, the heart issues and diabetes that come up. I’m really hoping that’s not what’s going on with me right now.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. I’ve been dealing with this persistent dry cough for about six months now. It started off, you know, kind of stable for a few months, but it’s been getting worse lately, especially at night. It’s really disrupting my sleep, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was, um, about six months ago. It was pretty mild at first, just sort of there, but then, you know, over the last couple of months, it’s really picked up in frequency. It’s just been really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough most, or if it spreads anywhere?",
+    "patient_turn": "Um, it’s mostly just a dry cough, you know? I don’t really feel it spreading anywhere, but it does sometimes make my chest feel tight, especially after a bad coughing fit. It’s not productive at all, so, um, I don’t have any mucus or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it more of a tickle, a scratch, or something else?",
+    "patient_turn": "Honestly, it feels more like a tickle, you know? Like there’s something irritating in my throat, but it’s not really a scratchy feeling. It just makes me want to cough a lot, and sometimes it gets really intense, especially at night. It’s just... ugh, really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "Well, um, it seems to get worse with exercise, which is frustrating because I’ve been trying to stay active. And, you know, sometimes just lying down at night makes it worse too. I haven’t really found anything that helps it, honestly. It just feels like it’s there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the cough, like feeling short of breath or any dizziness?",
+    "patient_turn": "Oh, no, I don’t have any dizziness at all. Well, maybe a little bit here and there, but I never feel short of breath, like, at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "Um, it’s been about six months now. It started off pretty mild, but it’s definitely gotten worse over the last couple of months. It’s just been really hard to deal with, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or does it have any other characteristics?",
+    "patient_turn": "Yeah, it’s definitely dry. There’s no mucus or anything like that, just this constant tickling sensation that makes me want to cough. It’s really frustrating because it doesn’t seem to go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the sensation of your cough? Is it dry, or do you feel any mucus?",
+    "patient_turn": "Well, speaking of sensations, I really need to get my dog a new toy. He chewed through his favorite one last week.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood when you cough?",
+    "patient_turn": "No, I haven’t noticed any blood at all when I cough. It’s just a dry cough, you know? No hemoptysis or anything like that, which is a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills lately?",
+    "patient_turn": "No, I haven’t had any fever or chills. I mean, I’ve been feeling more fatigued lately, but no fever or anything like that. Just, um, the cough and some joint pain, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "Yeah, I’ve lost a few pounds over the last three to four months, but it’s not a lot. I’m not really trying to lose weight, so it’s a bit concerning, I guess. Just, um, everything feels a bit off lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been experiencing any joint pain or stiffness?",
+    "patient_turn": "Yeah, I have been experiencing some joint pain, mostly in my hands, feet, arms, and legs. There’s also this mild morning stiffness, but, um, no swelling or redness, you know? It’s just kind of uncomfortable, and I’m a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, aside from vitamins?",
+    "patient_turn": "Um, no, I’m not taking any medications besides vitamins. I haven’t had any diagnoses or anything like that, so it’s just the vitamins for now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "No, I don’t have any known allergies, um, to medications or foods or anything like that. I’ve been pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent hospital visits or stays?",
+    "patient_turn": "No, I haven’t had any recent hospital visits or stays. I mean, I’ve been pretty healthy overall, aside from this cough and the joint pain. It’s just, um, a bit concerning for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations, like the flu and pneumonia vaccines, up to date?",
+    "patient_turn": "Yeah, my immunizations are up to date. I’ve had the shingles and pneumonia vaccines, and I think I got the flu shot too. So, um, I’m all caught up on that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and who you live with?",
+    "patient_turn": "Sure, um, I live alone in a townhouse, and I have a pet dog. It’s just the two of us, you know? I’m retired and, um, I’ve been living here for a while now. It can get a bit lonely sometimes, but my dog keeps me company.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke in the past, and if so, for how long?",
+    "patient_turn": "Yeah, I smoked for about 20 years, but I quit over 10 years ago. I was smoking, um, about 5 to 10 cigarettes a day. I’m really glad I stopped, but I guess I’m worried about how that might have affected my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been staying home, you know, dealing with this cough and everything. No trips or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of autoimmune diseases or cancer in your relatives?",
+    "patient_turn": "Um, no, there’s no family history of autoimmune diseases or cancer that I know of. It’s just, you know, me dealing with these issues right now. I’m not totally sure about everyone’s health, but nothing major comes to mind.",
+    "annotation": "Correct"
+  }
+]

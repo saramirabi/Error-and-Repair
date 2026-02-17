@@ -1,0 +1,212 @@
+[
+  {
+    "doctor_turn": "How can I help you?",
+    "patient_turn": "Hi so I brought my 6 year old son in today because yesterday during soccer practice, he he developed this pretty severe cough and he couldn't catch his breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so this happened yesterday, you mentioned?",
+    "patient_turn": "Yeah, it happened yesterday afternoon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm so you mentioned a cough. Is it a harsh barky cough, or is it more like a muffled cough?",
+    "patient_turn": "I would say it's more muffled.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is it a dry cough or is it bringing up any phlegm?",
+    "patient_turn": "Dry",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry OK. So no blood in the with the coughing?",
+    "patient_turn": "No blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And does he sound wheezy to you?",
+    "patient_turn": "He does, yeah, he's still sounding a little bit wheezy now. It's it's better than last night. He was a bit more wheezy last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm how about shorter breath? Does he sound short of breath at all?",
+    "patient_turn": "No, that that's gotten a bit better, that resolved about an hour. Like after he stopped playing but he was, he was short of breath yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you tried anything for his cough, for his shortness of breath or wheezing?",
+    "patient_turn": "No, we haven't",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. Does he have a fever at all?",
+    "patient_turn": "No, he doesn't mention anything about feeling hot or or or having chills either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK, and any rashes that you've noticed?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, weight loss over the past few weeks?",
+    "patient_turn": "No, he's been gaining weight well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK good, has he had a stuffy nose or runny nose?",
+    "patient_turn": "Well, sometimes he will get a runny nose. He takes like Reactin or Claritin or some sort of allergy pill for that sometimes, but that's usually like the changing of seasons that will happen more often.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK OK. Does he have any allergies?",
+    "patient_turn": "Yeah, to mostly environmental triggers. I'm not sure if the specific things are, but I just know it gets worse. Maybe in the spring, springtime?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK. And does he have asthma?",
+    "patient_turn": "He's never been diagnosed, but he has had uhm or his sister has asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. And has he? Have you noticed any changes in his vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. How about change in his smell or taste?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, how about like does he seem like he has any chest pain?",
+    "patient_turn": "No, he hasn't mentioned anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any dizziness or fainting spells?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, confusion or memory loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Uhm how about confusion or sorry you said no headaches?",
+    "patient_turn": "No headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, any joint pains, muscle aches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about changes to his bowel movements?",
+    "patient_turn": "No, everything's been normal there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about nausea or vomiting?",
+    "patient_turn": "Nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, so you mentioned he has asthma. He might have asthma. He was never formally diagnosed. Does is he otherwise healthy or does he have any longstanding medical conditions?",
+    "patient_turn": "He's been healthy. Yeah, I know he did have like he would get some itchy skin when he was a bit when he was like a baby, but he hasn't needed any creams for that for a long time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so he might have something like eczema, you think?",
+    "patient_turn": "Yeah, yeah I think he did.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK and is he on any medications right now?",
+    "patient_turn": "No, he doesn't take anything right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Uhm during his mom's pregnancy with him, were there any complications?",
+    "patient_turn": "No, she was uhm healthy and he was born at term with a normal weight and able to go home relatively quickly, so there weren't any concerns.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good and was he healthy like after birth?",
+    "patient_turn": "Yeah, so he's he's done well. There weren't really any concerns with development or or growth, and he's doing well in school.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good. How about uhm so was he a full term baby and was it a vaginal delivery?",
+    "patient_turn": "Yes. Yes for both",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any complications during the delivery?",
+    "patient_turn": "No,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and he didn't need any hospitalizations like right after birth as an as a newborn?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK good. Uhm Is he up to date with all his immunizations?",
+    "patient_turn": "He is, yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you mentioned that he may have some seasonal allergies. Any other allergies that you know of?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. You mentioned that his sister has asthma. Any other lung conditions or heart conditions that run in the family?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. OK. Uhm and does anyone at home smoke?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. Any old carpets? Does mold, asbestos, anything like that at home?",
+    "patient_turn": "We we took out the carpets and stuff when his sister was diagnosed with asthma, so it's good from that perspective.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good, and who lives at home with him?",
+    "patient_turn": "So it's myself, his mom and then his sister.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, any pets at home?",
+    "patient_turn": "He's got a fish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A fish, OK. And has he has come into contact with anyone sick recently?",
+    "patient_turn": "No, I don't think so. I mean when at school, they've been pretty diligent with I mean covid and everything right now, so I think he's been OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, uhm has he traveled anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. OK, those are all the questions that I had for you today. Did you have any questions of your own for me?",
+    "patient_turn": "Yeah, I was just wondering if if my son had asthma as well and if like you need a prescription for inhalers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so we're gonna since he's never been diagnosed before, we're gonna do some investigations for him just to start so we can do, we can start by doing a pulmonary function test for him to see what his lung activity is like uhm so we'll start there and then we'll also, because you're saying he's short of breath, we'll take his oxygen saturation as well, and maybe even do some like some basic blood work for him, and if it turns out he has asthma, which in this case I do strongly suspect, we'll prescribe him some bronchodilators like a short acting beta agonist as well as an inhaled corticosteroid because his symptoms do seem somewhat severe this time around. And then I should also mention because some of his symptoms overlap with that of COVID, he will also get a covid swab and you should hear back about that in 24 to 48 hours. How does that sound?",
+    "patient_turn": "That sounds good, thank you.",
+    "annotation": "Correct"
+  }
+]

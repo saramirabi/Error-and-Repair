@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this really sharp neck pain since, uh, I got into a minor car accident yesterday. It started off mild, but it got worse overnight, and now it’s like a stabbing pain, especially when I move my neck. I’m kinda worried about it…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me where the pain is located?",
+    "patient_turn": "Yeah, um, the pain is mostly in the back of my neck, like, right here… and it kind of radiates to my trapezius area and the muscles along my spine. It’s tender to touch, and, uh, it hurts a lot when I move my neck, especially when I try to look up or to the side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "... , I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in one spot or spread anywhere else?",
+    "patient_turn": "So, the pain is mostly in the back of my neck, but it, um, spreads a bit to my trapezius and some of the muscles along my spine. It’s mostly localized, but I can definitely feel it radiating a little, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, it definitely gets worse with neck movements, especially when I try to look up or turn to the side. I’ve been trying to rest it, and, uh, applying ice helps a little, but it’s still pretty painful. I’m just, like, hoping it gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t noticed anything like that. It’s just the neck pain, really. No dizziness, no nausea, nothing else, you know? Just this sharp pain and some stiffness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Sure, um, I don’t smoke or use recreational drugs. I drink alcohol socially, but it’s not a lot, you know? I work as a bank teller, so I’m mostly sitting during the day, and I don’t have a regular exercise routine, but I try to stay active when I can.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Um, no, I haven’t had any past medical problems, really. I’m not on any medications except for, like, oral contraceptives and a multivitamin. No surgeries or anything like that, so, um, I guess I’m pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any worrying symptoms like fainting, sudden breathlessness, or extreme fatigue recently?",
+    "patient_turn": "No, um, I haven’t experienced any of those symptoms. It’s just the neck pain that’s been bothering me. I feel, like, okay otherwise, just a bit tired from not sleeping well because of the discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the neck pain started?",
+    "patient_turn": "Oh, it started like a week ago, I think. But actually, I’ve had neck pain before, just not like this..",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Um, it started off mild right after the accident, but then it got a lot worse overnight. Now it’s, like, really sharp and intense, and it’s just been hard to move my neck without it hurting. I’m kinda worried about how it’s not getting better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced neck pain like this before?",
+    "patient_turn": "No, um, I haven’t had neck pain like this before. I mean, I’ve had some minor aches, but nothing this sharp or intense. This is definitely a first for me, and it’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or significant injuries in the past?",
+    "patient_turn": "No, um, I haven’t had any surgeries or significant injuries in the past. I’ve been pretty healthy overall, so this neck pain is, like, really unexpected for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any drug allergies. I do have some environmental allergies, but nothing related to medications. So, um, I guess I’m good on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of health issues, like heart disease or diabetes?",
+    "patient_turn": "Yeah, um, my dad has hypertension and diabetes, and my grandparents had osteoarthritis. But, um, there’s no history of autoimmune diseases or cancers in my family, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, um, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. It’s just been, like, my normal routine, you know? Just this neck pain after the accident.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did the doctor say they found during your physical exam?",
+    "patient_turn": "Um, the doctor said there was tenderness over my trapezius and paraspinal muscles, but no bony tenderness or deformity. They mentioned that I have a full range of motion, but it’s painful in all directions. So, um, they think it’s a whiplash injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did the doctor mention any tests, like X-rays, to check for fractures or dislocations?",
+    "patient_turn": "Yeah, um, the doctor mentioned getting cervical spine X-rays to rule out any fractures or dislocations. They want to make sure everything’s okay before moving forward with treatment. I’m just, like, hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What treatments did the doctor recommend to help with your pain?",
+    "patient_turn": "The doctor recommended, um, conservative management, like rest and applying ice or heat. They also suggested over-the-counter pain relievers and a referral to physiotherapy for exercises to help with range of motion and strengthening. I’m just, like, hoping that helps because this pain is really bothering me.",
+    "annotation": "Correct"
+  }
+]

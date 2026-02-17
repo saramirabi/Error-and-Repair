@@ -1,0 +1,187 @@
+[
+  {
+    "doctor_turn": "What brings in here today?",
+    "patient_turn": "Hi there, I've just last night I was, I went for a run and I twisted my ankle. I think I stepped on something and it it really hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so when did you have the injury?",
+    "patient_turn": "It was just yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah it was just just yesterday that it happened.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and do you remember if you twisted it so you twisted your ankle, like did did it twist inwards or outwards?",
+    "patient_turn": "Inwards yeah, I feel like I inverted my ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, so since then, were you able to stand up and or were you not able to bear any weight?",
+    "patient_turn": "No, I was able to, uh, kind of finish the I I I just finished the walk. I was able to walk home 'cause it didn't hurt that bad immediately. It was a bit painful, but the pain really started a few hours later and has been pretty much constant ever since.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK so it kind of got worse over time over the last day?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you notice any kind of bruising, redness, swelling, any skin changes?",
+    "patient_turn": "No, I haven't really noticed I uh, really, any swelling or I or or skin changes. Yeah, no skin changes and no swelling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you describe the pain? Is it like a dull, aching pain? Is it a sharp stabbing pain?",
+    "patient_turn": "Dull and achy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. And has this happened to you in your ankle before?",
+    "patient_turn": "I'm I, I feel like I've maybe I I've done something like this when I was younger, maybe playing basketball or something like this when I was a kid, I twisted my ankle before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does this pain just stay, where's the pain exactly on the right side of your ankle or on your left, like interior side?",
+    "patient_turn": "It's on the right kind of outside of the ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and which ankle is this just to clarify?",
+    "patient_turn": "On the right ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so so it hurts on the right side of the right ankle.",
+    "patient_turn": "Yeah, exactly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does the pain radiate or move anywhere in your feet?",
+    "patient_turn": "I can kind of feel it around on the the sole of my foot as well, but mostly on the outside though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there anything that makes the pain better or worse?",
+    "patient_turn": "Alright, it gets worse really to if if I move my ankle or if I'm standing on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anything that makes it better?",
+    "patient_turn": "Alright, just if I rest and avoid moving it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you notice any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any pain in any other joints besides your ankle?",
+    "patient_turn": "No, just my my right ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any appetite or weight changes?",
+    "patient_turn": "No, I've been I've been just training for this race coming up, so I mean I've been just trying to work on my fitness a little bit, but my weight has been relatively stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any weakness in your right right extremities or any kind of numbness or tingling sensation?",
+    "patient_turn": "No numbness or tingling and no muscle weakness either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, right. Have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "I’m uh, I had diarrhea a few months ago and I was given a fluoroquinolone as an antibiotic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's two months ago. OK. And any medications that you're on currently?",
+    "patient_turn": "I I take a Vitamin D and some other vitamins too. Vitamin A as well I guess that just helps my my skin and and then the vitamin D for my my bones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies to medications or any environmental issues?",
+    "patient_turn": "No allergies, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any hospitalizations or previous surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any family history of any musculoskeletal conditions, any rheumatological conditions. Anything that you know of?",
+    "patient_turn": "My grandparents have arthritis, so and my like my dad had had gout before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do your grandparents have rheumatoid arthritis or osteoarthritis, do you know?",
+    "patient_turn": "I think osteo yeah osteoarthritis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you currently work?",
+    "patient_turn": "I do, yeah, I work as a software engineer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what's your living situation like currently?",
+    "patient_turn": "Right now I'm actually just living alone in a in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, and do you smoke at all?",
+    "patient_turn": "No, never I can't with the with all this like training for yeah at the race and stuff like that.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, that's good. Any recreational drugs like marijuana, cocaine, heroin, anything like that before?",
+    "patient_turn": "No, I've never used anything like that in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about alcohol?",
+    "patient_turn": "Uh rarely I'll have maybe a glass of wine like once every couple of months, but it's pretty infrequent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so I just have a few questions. Right now over your right ankle, do you have, so you mentioned you don't have any swelling, but do you notice any kind of redness or warmth at all?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you press down on your ankle, does it hurt a lot?",
+    "patient_turn": "Uh a little bit of pain now that right, uh, like outside, but it's not uh, it doesn't hurt that bad. Yeah, I'll say no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you kind of, uh, are you able to move your ankle at all?",
+    "patient_turn": "I can, yeah I can move it around a little bit. I'm trying to avoid that though, just because it it does hurt, but I can move it around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are you able to stand up and walk or are you not able to do that right now?",
+    "patient_turn": "I can, yeah, just for short periods of time 'cause it's just 'cause of the pain, but I can walk on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, yeah, so definitely what we'll do is we might need to get like a proper physical examination done to make sure there is no fracture. Most likely though, it seems that this may just be an ankle sprain uh, due to you inverting your ankle the other day. Uhm, what we can do is usually we just immobilize the ankle and then recommend applying ice. You can take some NSAIDS like Advil for pain to help you. And it should it should get better on its own, with some physiotherapy later on as well. However, if we find that on physical examination you are having significant pain on palpation or any kind of bony pain, we might also require you to get an X Ray of the right foot and ankle, as well as just your lower leg. So yeah, we'll have you come come in in person and then go from there and see if you need an X Ray.",
+    "patient_turn": "OK, that sounds good, thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, take care bye.",
+    "patient_turn": "Sounds great, thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, take care.",
+    "patient_turn": "Bye.",
+    "annotation": "Correct"
+  }
+]

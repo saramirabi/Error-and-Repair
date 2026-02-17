@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here. I’ve been having this sharp pain in my left knee for about four weeks now, and it’s been getting worse, especially when I run or walk downstairs. It’s kinda concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I first noticed it about four weeks ago. It started off, um, kind of mild, but it’s definitely gotten worse over time. Like, now it really hurts, especially when I’m squatting or running… I’d rate it like a 7 out of 10 in severity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is located in your knee?",
+    "patient_turn": "Yeah, it’s, um, right beneath the patella, like in the front of my knee. It’s really sharp there, and, uh, it hurts when I touch it or when I’m standing and squatting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your thigh or calf?",
+    "patient_turn": "Oh, you know, I really need to remember to pick up some bread on the way home.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one spot, or does it spread to other areas?",
+    "patient_turn": "Uh, I think it’s mostly in one spot, but sometimes it might feel like it’s… I don’t know, maybe radiating a bit? It’s hard to tell exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any weakness in your legs?",
+    "patient_turn": "No, I haven’t noticed any weakness in my legs. It’s just the pain in my knee that’s really bothering me. I mean, I can still move around, but the pain is, um, pretty distracting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any numbness or tingling in your legs?",
+    "patient_turn": "No, I haven’t experienced any numbness or tingling in my legs. It’s really just the sharp pain in my knee that’s been the issue. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel any tingling in your knee or legs?",
+    "patient_turn": "No, I don’t feel any tingling in my knee or legs. It’s just that sharp pain beneath the kneecap, you know? I’m really just focused on that pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any joint pain in other areas of your body?",
+    "patient_turn": "No, I haven’t noticed any joint pain anywhere else. It’s really just my left knee that’s bothering me. I’m kinda worried since it’s been going on for a while now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your knee?",
+    "patient_turn": "No, I haven’t noticed any swelling in my knee. It’s just the pain, and, um, there’s no redness or warmth either. It’s just really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any redness around your knee?",
+    "patient_turn": "No, there’s no redness around my knee. It’s just the pain that’s really bothering me. I mean, it’s kind of a relief that there’s no swelling or redness, but the pain is still pretty intense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any deformities in your knee?",
+    "patient_turn": "No, I haven’t noticed any deformities in my knee. It looks normal, but, um, the pain is really what’s concerning me. I just want to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or unexpected weight loss lately?",
+    "patient_turn": "No, I haven’t had any fevers or unexpected weight loss. I feel pretty normal otherwise, except for this knee pain, which is really frustrating. I’m just trying to understand why it’s happening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced similar knee pain before this episode?",
+    "patient_turn": "No, I haven’t had similar knee pain before this. This is the first time I’ve experienced anything like this, and it’s, um, really worrying me since it’s been going on for a while now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any injuries or trauma to your knee recently?",
+    "patient_turn": "No, I haven’t had any injuries or trauma to my knee recently. It just started hurting out of the blue, and I’m not really sure why. It’s been really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent illnesses or infections?",
+    "patient_turn": "No, I haven’t had any recent illnesses or infections. I’ve been feeling pretty healthy otherwise, except for this knee pain, which is really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have asthma, and what medications are you currently taking?",
+    "patient_turn": "Yeah, I have well-controlled asthma. I take daily and rescue inhalers for it. Other than that, I’m not on any other medications, just the oral contraceptives.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently using any birth control, and do you have any allergies?",
+    "patient_turn": "Yes, I’m currently using oral contraceptives, and, um, I don’t have any allergies that I know of. So, yeah, that’s pretty much it for my medical history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized before. I’ve been pretty healthy overall, except for this knee pain, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yes, I’m up to date on my immunizations. I’ve always kept up with them, so that’s not an issue. It’s just this knee pain that’s really bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of joint issues or arthritis?",
+    "patient_turn": "Yeah, my grandparents have a history of osteoarthritis, but that’s about it. There aren’t any autoimmune diseases or other joint issues in my family that I know of. It’s just, um, making me a bit anxious since I’m dealing with this knee pain now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke, and I don’t use any recreational drugs, including marijuana. I’m pretty active and try to take care of my health, but this knee pain is really getting in the way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What types of physical activities do you engage in regularly?",
+    "patient_turn": "I’m pretty active, actually. I do a lot of running, weightlifting, and cycling. I guess that’s why I’m really worried about this knee pain since I love staying active.",
+    "annotation": "Correct"
+  }
+]

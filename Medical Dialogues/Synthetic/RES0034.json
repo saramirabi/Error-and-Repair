@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my daughter. She’s had this fever for like 3 to 4 days now, and it’s been pretty high—like, I think the highest was 103°F. She’s also been coughing a lot and has had watery diarrhea for the past couple of days… it’s just been really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I’m sorry to hear that. When did the fever and cough first start?",
+    "patient_turn": "Uh, the fever and cough started about 3 to 4 days ago. At first, she just had a runny nose, but then it got worse, and now the cough is producing this green, slimy sputum. I mean, it’s just been really tough to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the fever seems to be affecting her the most?",
+    "patient_turn": "Well, um, it seems like the fever is just making her really irritable and, you know, she’s been crying a lot—like, inconsolable at times. She’s also not sleeping well, only a few hours a night, which is really hard for both of us. I guess it’s just affecting her mood and energy, and I’m kinda worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like, and does it seem to hurt her when she coughs?",
+    "patient_turn": "Uh, the cough, it’s kind of… I think it sounds a little wheezy, maybe? And, like, I’m not totally sure if it hurts her, but she seems to cough a lot.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How long has she been coughing, and did it start around the same time as the fever?",
+    "patient_turn": "Yeah, um, the coughing started around the same time as the fever, so about 3 to 4 days ago. It just kind of developed along with everything else, you know? I’m just really worried about her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the fever? Has it been consistent, or does it come and go?",
+    "patient_turn": "Um, the fever has been pretty consistent, I think. It’s been high, like 103°F, and it seems to get worse, especially today, even after giving her Tylenol. It just doesn’t seem to go away, and that’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the cough coming from? Is it more in her chest or throat?",
+    "patient_turn": "Uh, I think it’s more in her chest, but I’m not really sure. It sounds kind of deep, you know? She’s producing that green sputum, so I guess that makes me think it’s more from her chest. It just makes me feel uneasy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry, or does it produce mucus?",
+    "patient_turn": "Oh, um, it definitely produces mucus. It’s not dry at all; she’s coughing up that green, slimy sputum. I mean, it’s kind of gross, but I’m just really worried about what it all means for her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like, and does it seem to bother her?",
+    "patient_turn": "The cough sounds pretty wet, like there’s some mucus, and it’s kind of greenish, I think? It doesn’t seem to bother her too much, but she does cough a lot. Oh, and I should mention, she’s been really fussy lately, and it’s hard to get her to sleep, which is unusual for her. Also, she used to love her favorite blanket, but now she just pushes it away.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you seen any blood in her stool?",
+    "patient_turn": "No, um, I haven’t seen any blood in her stool. It’s just been watery diarrhea for the past couple of days, and she’s had about 4-5 liquid diaper changes daily. I’m just really worried about her overall condition.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many liquid diaper changes has she had each day?",
+    "patient_turn": "She’s had about 4 to 5 liquid diaper changes each day. It’s been like that for the past couple of days, and, um, I’m just really concerned about how she’s feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any vomiting or ear pain?",
+    "patient_turn": "No, she hasn’t had any vomiting or ear pain. It’s just the fever, cough, and diarrhea that we’re dealing with. I’m honestly just really worried about her, especially with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any eye discharge, rash, or seizures?",
+    "patient_turn": "No, she hasn’t had any eye discharge, rash, or seizures. It’s just the fever, cough, and diarrhea, but I’m really anxious about how she’s been feeling overall. I just want her to get better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has her urination been? Is it normal?",
+    "patient_turn": "Yeah, her urination seems normal. I mean, she’s been going regularly, so that’s one thing I’m not too worried about, but everything else just has me feeling really anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did she have any health issues or complications at birth?",
+    "patient_turn": "Um, no, she didn’t have any health issues or complications at birth. Everything was pretty normal, and she was treated for neonatal jaundice with phototherapy, but that was it. I mean, she’s been healthy up until now, and it’s just really concerning to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she ever had any surgeries or been hospitalized before?",
+    "patient_turn": "No, she hasn’t had any surgeries or been hospitalized before. She’s always been healthy, and, um, her last checkup was just a month ago, and everything was fine. It’s just really hard to see her struggling like this now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any known allergies to medications?",
+    "patient_turn": "No, she doesn’t have any known allergies to medications. I mean, she’s never had any issues with that before, so I’m not really sure what’s going on now. It’s just really worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are her immunizations up to date?",
+    "patient_turn": "Yes, her immunizations are up to date. I’ve been keeping track of that, and she’s always been on schedule. It’s just frustrating to see her like this, especially since she was doing so well before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was her last medical checkup?",
+    "patient_turn": "Her last medical checkup was about a month ago, and everything was unremarkable then. I mean, she was healthy, and it’s just so concerning to see her like this now. I really hope it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What symptoms did her brother have during his illness?",
+    "patient_turn": "Her brother had a mild upper respiratory illness with a cough and a runny nose, but he didn’t have a fever. I think he might have passed something to her, and it’s just really frustrating to see her struggling now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone else in the family been sick or traveled recently?",
+    "patient_turn": "No, um, no one else in the family has been sick, and we haven’t traveled recently either. It’s just been her and her brother, and I’m really worried about what’s going on with her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was her pregnancy and birth history normal?",
+    "patient_turn": "Yeah, her pregnancy and birth history were normal. She was born vaginally at 38 weeks, and there were no complications. I mean, everything seemed fine until now, and it’s just really stressful to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has her appetite changed since she got sick?",
+    "patient_turn": "Yes, her appetite has definitely decreased since she got sick. She’s usually able to eat a varied diet, but now she’s just not interested in food at all, and that’s really worrying me. I just want her to feel better and eat normally again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does her typical diet include on a daily basis?",
+    "patient_turn": "Um, she usually has a pretty varied diet, you know? She eats fruits, vegetables, some protein like chicken or fish, and she loves her snacks too. But now, with her not wanting to eat, it’s just really hard to see her not enjoying her meals like she used to.",
+    "annotation": "Correct"
+  }
+]

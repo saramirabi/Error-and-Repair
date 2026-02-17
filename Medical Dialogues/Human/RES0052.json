@@ -1,0 +1,252 @@
+[
+  {
+    "doctor_turn": "Would you mind by starting to tell me what brought you in?",
+    "patient_turn": "Sure, my 5 year old daughter, I noticed that she's been coughing a lot over the past two days. She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. So the cough started 5 days ago?",
+    "patient_turn": "Two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and is the cough barky or harsh sounding?",
+    "patient_turn": "Yes, it sounds harsh.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright was there anything that changed two days ago that might have triggered the cough?",
+    "patient_turn": "I don't think so, although she does go to daycare.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh and so has she been bringing up any sputum with the cough?",
+    "patient_turn": "No, no sputum that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, notice any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and is the cough worse at any particular time of day?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has there been any wheezing?",
+    "patient_turn": "No, not that I noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you mentioned the red eyes. When did you notice that?",
+    "patient_turn": "That was just yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any discharge from the eyes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, nothing like that? No tearing or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Umm and has she complained about any like changes to vision?",
+    "patient_turn": "No, not really, just the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK, uh, and how about any itchiness in the eyes?",
+    "patient_turn": "She's been rubbing it and so it's possibly itchy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you noticed any mucus coming out?",
+    "patient_turn": "Umm, no, it's actually stuffy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK",
+    "patient_turn": "Yeah, not so much mucous.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has she mentioned anything about losing smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, umm and has she mentioned anything about being congested?",
+    "patient_turn": "She just sounds like she's congested.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Umm any sore throat?",
+    "patient_turn": "Umm, possibly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how has she been eating?",
+    "patient_turn": "Um, she's been eating OK. I guess she's been eating a little less than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK umm, would you say that she's been going to the bathroom as often as normal?",
+    "patient_turn": "Yep, I would say so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No changes there, OK. Um and has she had any loss of taste?",
+    "patient_turn": "Umm, possibly since she's not eating as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any fevers or chills?",
+    "patient_turn": "Um, she did feel a little bit hot, but I didn't take her temperature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so hot. We will definitely check for fever today. Any night sweats?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has she been gaining weight OK?",
+    "patient_turn": "Yep, Yep, no change, nothing abnormal there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she been complaining about having any stomach pains?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has she had any nausea or vomiting?",
+    "patient_turn": "Um no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any painful urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any diarrhea?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she mentioned anything about headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about any aches or pains anywhere?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she been diagnosed with any conditions before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any reason for her to be hospitalized?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um does she take any medications regularly?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does she have any allergies to medications?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any surgeries before?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns with her growth or development?",
+    "patient_turn": "Umm, no, everything's been pretty normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any concerns about her vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And can tell you tell me a little bit about the living situation currently? Are you the primary caregiver?",
+    "patient_turn": "I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and who else is in the home?",
+    "patient_turn": "Her father.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are there any pets around?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And does anybody in the house smoke?",
+    "patient_turn": "No, no one smokes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any exposures in the house to like carpets or dust or inhalants that might bring on a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Ummm and uhh anybody in the family been sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about anybody you mentioned at the daycare? Was anybody been sick there?",
+    "patient_turn": "No, I don't think so. I contacted them and checked, but it seems like no one's been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you say you haven't traveled anywhere?",
+    "patient_turn": "Oh no, no, not recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any lung conditions or heart conditions that run in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any genetic conditions or congenital conditions in the family?",
+    "patient_turn": "No, none, none that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so the main symptoms are the cough that started two days ago and also you've noticed she's been congested. And sorry, what was the last symptom?",
+    "patient_turn": "She has this pink eye and she has a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, right, that could be conjunctivitis. OK, so at this point we will certainly run some investigations to look into what this could be. It sounds like a viral infectious type of process, especially if it's involving the eyes, nose, and and with a cough. And so we will test with a swab for covid for sure. But it could be something more common, like the common cold. We just need to make sure that we're comprehensive in that with the testing.",
+    "patient_turn": "That sounds great, thank you.",
+    "annotation": "Correct"
+  }
+]

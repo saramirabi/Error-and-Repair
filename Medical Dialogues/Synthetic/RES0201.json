@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've had a sore throat for about four days now, and it's been getting worse. I also started having trouble swallowing food and noticed I'm short of breath, which started just yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed the sore throat about four days ago. It was mild at first, but it has progressively gotten worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat now?",
+    "patient_turn": "The pain in my throat is pretty sharp and feels like it's getting more intense. It's really uncomfortable, especially when I try to swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain or discomfort in your chest?",
+    "patient_turn": "No, I haven't noticed any chest pain. Just the sore throat and the shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed the shortness of breath just yesterday. It feels like it's been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you? Is it constant or does it come and go?",
+    "patient_turn": "It's, um, kind of…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the shortness of breath?",
+    "patient_turn": "Yes, I've also had a sore throat that's been getting worse, and I noticed a reduced sense of taste starting a couple of days ago. I've been feeling some muscle aches and fatigue too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the sore throat and shortness of breath?",
+    "patient_turn": "I've been experiencing the sore throat for about four days and the shortness of breath started just yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough, runny nose, or fever during this time?",
+    "patient_turn": "No, I haven't had any cough, runny nose, fever, or chills. Just the sore throat and shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had similar respiratory symptoms in the past?",
+    "patient_turn": "No, I haven't had similar respiratory symptoms before. This is the first time I'm experiencing anything like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you leave home for essentials like groceries or medications?",
+    "patient_turn": "I only leave home for essentials, like groceries, maybe once a week. I try to limit my outings as much as possible.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or have you had any surgeries?",
+    "patient_turn": "I have mild COPD that I manage with a long-acting beta agonist, but I haven't had any surgeries. Other than that, I'm generally healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or other substances?",
+    "patient_turn": "No, I don't have any known allergies to medications, foods, or other substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your smoking history?",
+    "patient_turn": "I was a smoker for about 40 years but quit two years ago. I don't smoke anymore, and I try to stay away from it completely now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol occasionally on weekends, usually just a couple of drinks. I don't drink during the week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don't use any recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone, or do you have anyone else at home with you?",
+    "patient_turn": "I live alone. It's just me at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of respiratory or heart issues?",
+    "patient_turn": "No, there's no family history of respiratory or cardiac disease that I'm aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything else about your health that’s been bothering you recently?",
+    "patient_turn": "No, I don't have any other health concerns right now. Just the sore throat and shortness of breath.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really unwell for the past three days. I have this, like, persistent headache that’s crampy and mostly on the sides of my head, and it’s rated about 6 or 7 out of 10 in severity. I also have a fever, and I’m just really, really tired and achy all over… it's kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about where the headache is located? Does it stay in one spot or move around?",
+    "patient_turn": "Um, it’s mostly on the sides of my head, like, around my temples, I guess? It feels pretty constant and doesn’t really move around much. It’s just there, and it doesn’t go away with rest or anything… it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Well, it’s kind of sharp, I guess, but it’s also more of a dull ache sometimes. I mean, it doesn’t really move around, but it might feel like it does.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the headache better or worse?",
+    "patient_turn": "Honestly, nothing really seems to help it. I’ve tried resting, but it just stays the same, you know? And, um, I haven’t noticed anything that makes it worse either… it’s just there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s a mix, really. It feels kind of sharp at times, but also has this dull ache to it. It’s just, like, really uncomfortable and doesn’t go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start, and how has it changed since then?",
+    "patient_turn": "Um, I think it started maybe three days ago? And it’s kind of gotten worse, I guess, but I'm not really sure how to explain it.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you had any cough or felt short of breath at all?",
+    "patient_turn": "No, I haven’t had any cough or felt short of breath. It’s just been the headache, fever, and, um, this fatigue and muscle aches… nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain or palpitations recently?",
+    "patient_turn": "No, I haven’t had any chest pain or palpitations. It’s really just the headache, fever, and feeling super tired and achy… nothing else like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea, vomiting, or sensitivity to light or sound?",
+    "patient_turn": "Um, no, I haven’t had any nausea or vomiting, and I don’t really feel sensitive to light or sound either. It’s just the headache and the other symptoms, you know? It’s been pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weakness or numbness in your arms or legs?",
+    "patient_turn": "No, I haven’t noticed any weakness or numbness in my arms or legs. It’s mostly just the fatigue and muscle aches, but, um, nothing like that… thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any sexually transmitted infections?",
+    "patient_turn": "No, I’ve never been diagnosed with any sexually transmitted infections. I’ve been, um, pretty healthy overall, and I don’t have any vaginal symptoms or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any chronic illnesses or take any regular medications besides your birth control pills?",
+    "patient_turn": "No, I don’t have any chronic illnesses or take any regular medications besides my birth control pills. My medical history is pretty unremarkable, honestly. Just seasonal allergies, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my dad had a heart attack when he was 75, but that’s the only thing I know about in my family. There aren’t any known cancers or lung conditions, as far as I’m aware. It’s just, um, a bit concerning, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you typically have?",
+    "patient_turn": "I drink wine about four to five days a week, um, but I try not to have too much at once. It’s just, like, a glass or two usually, you know? But with how I’m feeling now, I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick around me. It’s just been me feeling unwell, you know? No known sick contacts at home or work.",
+    "annotation": "Correct"
+  }
+]

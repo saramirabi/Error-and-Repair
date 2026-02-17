@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has had this dry cough and a runny nose for a couple of days now. And, uh, they’ve also been tugging at their right ear, which is kinda worrying me… and now there's a fever too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and runny nose?",
+    "patient_turn": "I think it started about two or three days ago. Um, it was just a little cough at first, but then the runny nose came along, you know? It’s been pretty constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough or runny nose changed in any way since it started?",
+    "patient_turn": "Um, not really, I guess. The cough is still dry, and the runny nose is, like, clear and watery. But, honestly, it just seems to be bothering them more, especially with the fever now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough coming from? Is it in the chest or throat?",
+    "patient_turn": "Um, I think it’s mostly in my chest, but I don’t really have a cough, actually. It’s more like a tickle in my throat, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe what the cough feels like? Is it harsh, soft, or something else?",
+    "patient_turn": "Uh, it’s kind of a soft cough, I think? Like, it’s not really harsh or anything, but it does sound a bit, um, persistent. It’s just, you know, annoying for them, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "Oh, um, it’s been about two or three days now. I think it started around the same time as the runny nose. It’s just been, you know, really tough to see them like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it dry or does it produce any mucus?",
+    "patient_turn": "Uh, I’m not really sure how to describe it. I think it might be dry, but it’s kind of hard to tell. Maybe it’s just a little bit... I don’t know.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest or throat?",
+    "patient_turn": "Uh, I think it’s mostly in the throat. It feels like a tickle or irritation there, but, um, I’m not really sure how to pinpoint it exactly. It’s just, you know, uncomfortable for them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has the cough been bothering you?",
+    "patient_turn": "Um, it’s been bothering my child for about two or three days now. It just seems to be getting, you know, a bit worse with the fever and everything. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest or throat?",
+    "patient_turn": "Uh, I think the discomfort is mostly in the throat area. It feels like a tickle or something, but, um, I’m not really sure how to describe it. It’s just, you know, uncomfortable for them, and I hate seeing them like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it dry or does it produce any mucus?",
+    "patient_turn": "Um, I think it’s mostly a dry cough. It doesn’t really produce any mucus, as far as I can tell. It just sounds, you know, kind of persistent and annoying for them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been more irritable than usual lately?",
+    "patient_turn": "Yeah, definitely. They’ve been really irritable, um, especially since the fever started. It’s just hard to see them like this, you know? They’re usually so cheerful, and now they just seem, um, uncomfortable and cranky.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been eating less than usual?",
+    "patient_turn": "Yeah, they’ve definitely been eating less. I mean, their appetite has really dropped since this all started. It’s just, um, concerning because they usually eat pretty well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child developed any rash or unusual spots on their skin?",
+    "patient_turn": "No, um, there’s no rash or anything like that. Just the cough, runny nose, and the fever. So, I guess that’s a bit of a relief, but still, I’m worried about everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any trouble breathing or wheezing?",
+    "patient_turn": "No, um, they haven’t had any trouble breathing or wheezing, thank goodness. It’s just the cough and the fever, but I’m still, you know, a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any ear discharge or swelling around the ear?",
+    "patient_turn": "No, there hasn’t been any ear discharge or swelling. It’s just the ear tugging on the right side, which is, um, concerning. I just hope it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any nausea or vomiting?",
+    "patient_turn": "No, um, there hasn’t been any nausea or vomiting at all. It’s just the cough, runny nose, and fever. I’m kinda relieved about that, but still worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any headaches or felt dizzy at all?",
+    "patient_turn": "No, um, they haven’t had any headaches or dizziness. It’s just the cough and the fever, you know? But I’m still, like, really worried about how they’re feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had normal bowel movements and urination during this time?",
+    "patient_turn": "Yeah, um, everything’s been normal with bowel movements and urination. So, I guess that’s a good sign, but I’m still really anxious about the cough and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any recent illnesses or infections before this cough started?",
+    "patient_turn": "No, um, there haven’t been any recent illnesses or infections. They’ve been pretty healthy, actually. The only thing was, um, they had croup about six months ago, but that resolved without any issues. So, this is all a bit surprising.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your child's birth normal, without any complications?",
+    "patient_turn": "Yeah, um, the birth was normal. It was a vaginal delivery at term, and there were no complications. So, I guess that’s a relief, but I’m still worried about what’s going on now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child taking any medications right now?",
+    "patient_turn": "No, um, they’re not on any medications at all. They’re up to date with their immunizations too, so I’m just, you know, hoping that helps with whatever this is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child’s immunization schedule up to date?",
+    "patient_turn": "Yes, um, their immunizations are all up to date. I mean, I try to keep on top of that, but, you know, it’s still really stressful with everything else going on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies?",
+    "patient_turn": "No, um, there are no known allergies. I mean, I’m pretty sure about that. It’s just, you know, a lot to deal with right now with the cough and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, um, there’s no family history of lung or heart disease that I know of. So, I guess that’s a good thing, but I’m still really anxious about my child’s current symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do both parents smoke indoors?",
+    "patient_turn": "No, um, both parents don’t smoke indoors. We actually don’t smoke at all, so I’m hoping that helps keep things, you know, healthier for my child. But still, I’m worried about what’s going on with them right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been around anyone who was sick recently?",
+    "patient_turn": "No, um, there haven’t been any known sick contacts. They haven’t been in daycare or anything like that either, so I’m not really sure where this is coming from. It’s just, you know, really frustrating and worrying.",
+    "annotation": "Correct"
+  }
+]

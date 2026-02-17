@@ -1,0 +1,207 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi, I've had um I've had a cough for the past um three days and uh I also developed a fever, um I think, so I checked it yesterday night, it was um 38. And uh I just decided to uh come into the walk in clinic just to um just to get myself checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah certainly, it it sounds like you um have had a fever as well, so uh with the cough, you said that started three days ago, has it been getting uh any better or any worse?",
+    "patient_turn": "It's gotten a little bit better, I'd say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. Um and and prior to three days ago, um did you have a cough before or was it a new new cough?",
+    "patient_turn": "It's a new cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and uh are you bringing up any sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um are you bringing up any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you had any shortness of breath?",
+    "patient_turn": "Uhm no, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um how about any wheezing?",
+    "patient_turn": "Yeah, I guess a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A bit, OK. Um is it uh, are you having any chest pain?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and so you mentioned um, with a fever have have you had any chills?",
+    "patient_turn": "Yeah I did. Um I had the chills yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any night sweats?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and um have you had any eye redness, runny nose, or even a sore throat?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any uh nausea or vomiting?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh a loss of taste or loss of smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and any um abdominal pains?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any uh diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You got any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any skin changes or uh rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how has your energy been? Have you had fatigue?",
+    "patient_turn": "Um a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any muscle aches or or body pains?",
+    "patient_turn": "Uhm, not much. No, but yeah, it's just I've been feeling, yeah, I guess a little bit. I have been feeling achy, uhm but I just thought it was my fibromyalgia acting acting up, but yeah, it's it's been worse over the past three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh so you've had um this cough, a dry cough, a fever, chills, and uh been more tired and and been a little bit more achy these past uh three days. Have you had any other symptoms?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you tried anything to make it better?",
+    "patient_turn": "Uh I just took a day or two off of work and I just rested and um had a lot of uh hot water. It helped me, uh It helped with the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK great, and um have you had any uh like symptoms like this before?",
+    "patient_turn": "Yeah, um, yeah I mean, when I I guess I get sick I do get similar symptoms like when I get the cold or the flu, but I usually have like a runny nose um or like a stuffy nose, but that's kind of different this time, a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in the past have you been uh diagnosed with any medical conditions?",
+    "patient_turn": "I have fibromyalgia and uh I um also have schizophrenia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you taking medications currently?",
+    "patient_turn": "Uh yeah. Uhm, I take um quetiapine and uh I just I take Advil um when my uh joint pains are really bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have a um somebody that follows you along for either uh fibromyalgia or or schizophrenia?",
+    "patient_turn": "Um my family doc. And then um yeah, it's pretty much just him. Um he, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And uh do you have any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and um are you aware if your immunizations are up to date?",
+    "patient_turn": "Um yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and could you tell me, alright then sorry actually, uh have you had any hospitalizations or uh previous surgeries?",
+    "patient_turn": "Uhm well, I uh I've been hospitalized. I I was kept in the psych unit for a couple of days, um two years ago. But nothing other than that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and it's been stable since then?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great. And I um I just wanted to ask a little bit about um your personal history. I was just wondering if you could talk a little bit about uh where you're living and and who you're living with.",
+    "patient_turn": "Uh sure, so I'm living with my um I'm living with my husband and uh we live in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he been sick or has anybody you've been around been sick?",
+    "patient_turn": "Uhm, he was sick last week but he got better on his own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and were were his symptoms similar to yours or or uh or were they different?",
+    "patient_turn": "Um they were kind of different, I would say. He just had a um he had a sore throat and uh that kind of lasted for three or four days, and then he just got better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um are you currently working or um?",
+    "patient_turn": "Um I uh no, I'm a I'm a stay at home, I just stay at home, I don't work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so and have you traveled anywhere or any other uh potential exposures?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and do you smoke cigarettes?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah, how much?",
+    "patient_turn": "Uh two or three a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And and for how long or for, when did you start smoking? Sorry.",
+    "patient_turn": "Uh so I've been uh smoking since I was uh 20 years old, so about 30 years ago was when I started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and and have you could, have you thought of, have you tried to quit before?",
+    "patient_turn": "Uhm I did, but then I just didn't. Uh I just went back to it. Um but I'm trying to cut down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh it's good that you've been able to cut down, so congratulations on that. Um and do you drink alcohol?",
+    "patient_turn": "Uhm I I do. Uh, I'll drink um sometimes with my friends maybe uh once a month or once in two three months. Um but I haven't been going out with them since the pandemic started, so I haven't had much to drink. I haven't had anything to drink um since the past year.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK. Um I see. And uh have you had any um history of heart or lung conditions in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, and I think that that was all the questions that I wanted to ask on on history today before we go ahead on to the physical exam. Uh did you have anything that you wanted to add maybe before um that I forgot to ask about?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  }
+]

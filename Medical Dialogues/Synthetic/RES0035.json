@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. I’ve been having this, uh, worsening cough for about eight months now. It’s, like, a wet cough that brings up some clear sputum, but sometimes it’s yellow or green. It’s just, um, really bothering me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, um, I think it started about eight months ago. It was kinda intermittent at first, but it’s been getting worse lately, you know? I’m just, uh, worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst or if it spreads anywhere?",
+    "patient_turn": "Honestly, it’s mostly just in my chest, I think. It doesn’t really spread anywhere else, but it does make me feel short of breath, especially when I walk, like, 200 meters or so. It’s just, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s not really sharp or anything, more like a persistent tickle in my throat that makes me cough a lot throughout the day. It’s, uh, kind of annoying, to be honest, and I just feel like I can’t catch my breath sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make your cough better or worse?",
+    "patient_turn": "Well, I think resting helps a bit, but sometimes when I drink water it feels like it gets worse, especially if I’m trying to drink it too fast. Oh, and you know, I also have this thing where I like to keep my apartment really dry because of my bird. I even bought a humidifier once, but then I forgot to use it, so that might be part of it too. Also, I’ve been meaning to organize my closet, but it’s a mess right now.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or feeling your heart racing?",
+    "patient_turn": "Um, yeah, I do get short of breath, especially when I walk a bit, like, 200 meters. But, uh, I haven’t had any dizziness or my heart racing, so that’s, um, good, I guess. I just feel kinda anxious about the whole thing, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "Sure, um, I smoke about half a pack a day, which I know isn’t great. I’ve been doing that since I was 18. I also drink, like, two glasses of wine a week, but that’s pretty much it. I used to be more active, like walking and biking, but since the cough started, I haven’t been able to do that as much, and it’s, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Um, I have a history of asthma, type 2 diabetes, and hypertension, but I’m not on any medications for those, just taking vitamin D supplements. I haven’t had any hospitalizations or surgeries, so, um, I guess that’s good? I’m just kinda worried about this cough, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or palpitations?",
+    "patient_turn": "Oh, um, I definitely get breathless when I walk, but I haven’t felt dizzy or had any palpitations. It’s mostly just the shortness of breath and, you know, the cough that’s really bothering me. I’m just, uh, trying to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when your cough started and how it has changed over time?",
+    "patient_turn": "Yeah, um, it started about eight months ago, and at first, it was just, like, a little annoying, you know? But over time, it’s gotten worse and more frequent. Now I’m coughing throughout the day, and it’s just, um, really exhausting. I’m kinda worried about what it could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Um, I mostly feel it in my chest, but it’s not, like, a sharp pain or anything. It’s more of a tightness, I guess, and sometimes it feels like I just can’t get a good breath in. It’s, uh, really uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does your cough feel like? Is it dry or productive?",
+    "patient_turn": "Oh, you know, I’ve been thinking about getting a new couch for my living room. The one I have now is pretty old and kind of uncomfortable. I mean, I sit on it a lot while watching TV or reading, so it would be nice to have something that’s not falling apart.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain at all during this time?",
+    "patient_turn": "No, um, I haven’t felt any chest pain, which is, I guess, a good thing? It’s mostly just the cough and the tightness in my chest that’s bothering me. I’m just, uh, really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or night sweats recently?",
+    "patient_turn": "No, I haven’t had any fever, chills, or night sweats. It’s just been the cough and the shortness of breath, you know? I’m, um, really hoping it’s nothing serious, but I’m kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your weight recently?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my weight. It’s been pretty stable, I think. I’m just, uh, more focused on this cough and how it’s affecting me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or illnesses, like a cold or flu?",
+    "patient_turn": "No, I haven’t had any recent infections or illnesses, like a cold or flu. It’s just been this cough that’s been bothering me for months now. I’m, um, really hoping it’s not something serious, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has had tuberculosis recently?",
+    "patient_turn": "No, I haven’t been around anyone with tuberculosis. I’m not really sure about that, but I haven’t had any exposure that I know of. It’s just, um, this cough that’s really concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or cancer in your relatives?",
+    "patient_turn": "Um, no, there’s no family history of lung disease or cancer that I know of. It’s just me dealing with this cough, and I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone, and do you have any pets at home?",
+    "patient_turn": "Yeah, I live alone in my apartment, and I have a pet bird that I got about five years ago. I’m, um, really careful about keeping things clean for him, but I’m not sure if that’s related to my cough or not. It’s just been a lot to deal with lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any recent changes in your living environment or work that might affect your health?",
+    "patient_turn": "Um, no, I haven’t noticed any recent changes in my living environment or work. Everything’s pretty much the same, I guess. I just, uh, feel like this cough came out of nowhere, and it’s really stressing me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What was your activity level like before you started experiencing these symptoms?",
+    "patient_turn": "Oh, I was pretty active before all this started. I used to walk and bike a lot, you know? But since the cough began, I’ve kinda slowed down, and it’s really frustrating because I miss being active. I’m just, um, worried about how it’s affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat or runny nose at any point recently?",
+    "patient_turn": "No, I haven’t had a sore throat or runny nose at all. It’s just been the cough and the shortness of breath. I’m, um, really hoping it’s nothing serious, but it’s hard not to worry about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or been in contact with anyone who was ill recently?",
+    "patient_turn": "No, I haven’t felt dizzy, and I haven’t been in contact with anyone who was ill recently. It’s just been this cough that’s really bothering me, and I’m, um, trying to figure out what’s going on.",
+    "annotation": "Correct"
+  }
+]

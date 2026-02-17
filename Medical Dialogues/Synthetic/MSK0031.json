@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I fell down the stairs a couple of hours ago… and now my right hip really hurts, like, a lot. It’s a sharp pain, honestly, and I can’t even put weight on it. I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start after your fall?",
+    "patient_turn": "Uh, it started right after I fell, like, immediately. I mean, it was really intense, a 10 out of 10, you know? And it’s been pretty much the same since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, the pain is mostly in my right hip and groin area. It’s really sharp there, but I don’t think it spreads anywhere else… just, like, achy when I’m resting. I’m just really focused on that spot, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Uh, it’s kind of sharp, I think, but also maybe a bit achy? It's hard to describe, really.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, just going down the last few stairs, and then I lost my balance and fell… landed on my right side and head. It all happened so fast, and then the pain just hit me right away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start?",
+    "patient_turn": "A...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling, redness, or bruising around your hip since the fall?",
+    "patient_turn": "Yeah, um, there’s definitely some swelling and bruising around my right hip and groin area. It looks a bit red too, and it feels warmer than the other side. It’s kind of alarming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your right leg turned outward or in a different position compared to your left leg?",
+    "patient_turn": "Yeah, um, my right leg is turned outward a bit. It’s kind of uncomfortable, and I can’t really move it much. It just feels really awkward and painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you try to move your right hip at all?",
+    "patient_turn": "Uh, not really. I mean, I can’t move it without it hurting a lot. It’s just too painful to even try, so I’m kinda just keeping it still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you feel dizzy at all after your fall?",
+    "patient_turn": "Um, I didn’t feel dizzy before the fall, but I did feel a bit dizzy afterward. I think it’s probably just from the pain, you know? It’s been a little unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any numbness or tingling in your leg or foot since the fall?",
+    "patient_turn": "No, um, I haven’t noticed any numbness or tingling in my leg or foot. It’s just the pain in my hip and groin area that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries we should be aware of?",
+    "patient_turn": "Yeah, um, I have osteoarthritis and hypertension, which I manage with Ramipril. I haven’t had any surgeries, though. I also take vitamin D, calcium, and multivitamins. That’s about it, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications or supplements are you currently taking?",
+    "patient_turn": "Um, I’m taking Ramipril for my hypertension, and I also take vitamin D, calcium, and a multivitamin. I don’t have any known drug allergies, so that’s what I’m on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or any other substances?",
+    "patient_turn": "No, um, I don’t have any known drug allergies. I’ve never had a problem with medications or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about any family history of heart disease or cancer?",
+    "patient_turn": "Yeah, um, my dad had a heart attack in his 60s, and my mom had skin cancer that was treated non-surgically. So, there’s some history there, I guess. It makes me a bit worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, and how often do you drink alcohol?",
+    "patient_turn": "No, I don’t smoke at all. I do drink alcohol occasionally, like, a glass of wine every other day. It’s not a lot, but I do enjoy it sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. It’s just been a normal routine for me, you know?",
+    "annotation": "Correct"
+  }
+]

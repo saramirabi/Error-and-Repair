@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really unwell for the past four days. I have this fever, a dry cough, and, honestly, this really bad headache that just won’t go away. It’s like a constant throbbing, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache and cough first start?",
+    "patient_turn": "Uh, the headache and cough started about four days ago, I think. The cough is dry and, um, it hasn’t really gotten better with any over-the-counter stuff I tried. The headache has just been getting worse, too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the headache is located? Does it stay in one spot or move around?",
+    "patient_turn": "It’s, um, mostly in the front of my head, like a throbbing pain, and it’s pretty constant. I’d say it’s bilateral, so it’s on both sides, and it doesn’t really move around. It’s just there, you know? It’s rated about a 7 out of 10 in severity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's mostly a dull ache, but sometimes it feels sharp, like a stabbing pain, especially when I move. I mean, I think it's just dull, but then it gets sharp occasionally.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the headache better or worse?",
+    "patient_turn": "Well, um, Tylenol has helped a little bit, but it doesn’t completely take it away. I haven’t really noticed anything else that makes it better or worse, to be honest. It’s just kind of there all the time, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the headache, like feeling short of breath or dizzy?",
+    "patient_turn": "No, um, I haven’t had any shortness of breath or dizziness. I mean, I feel hot and get chills sometimes, but no confusion or anything like that. It’s just the headache and the cough, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Sure, um, I used to smoke, like half a pack a day from when I was 20 to 25, but I quit. Now, I drink alcohol socially, maybe once a week. I don’t really exercise much, to be honest, but I try to stay active with, you know, daily activities.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Uh…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any breathlessness or dizziness, and I’m not feeling nauseous either. It’s just the headache and cough, honestly. I’m kinda worried about it, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when your headache started and how it has changed since then?",
+    "patient_turn": "Sure, um, it started about four days ago, and it’s just gotten worse since then. At first, it was, like, a mild ache, but now it’s a constant throbbing that’s really hard to deal with. It hasn’t really changed in location, though, it’s still just in the front of my head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the headache better or worse?",
+    "patient_turn": "I think lying down makes it a bit better, but then again, sometimes it feels worse when I do that. I’m not really sure, but I’ve also felt fine while sitting up, so it’s confusing.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the headache, like breathlessness or dizziness?",
+    "patient_turn": "No, um, I haven’t had any breathlessness or dizziness. It’s really just the headache and the dry cough, you know? I’m kinda worried that it’s something serious, but I don’t have those other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you measured your temperature at any point during this illness?",
+    "patient_turn": "Um, no, I haven’t measured my temperature. I just feel hot and get chills sometimes, but I haven’t actually checked it, you know? I guess I should have, but I didn’t think of it at the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough improved at all with any medications you've tried?",
+    "patient_turn": "Not really, um, the cough is still dry and hasn’t improved with any over-the-counter decongestants or cough suppressants I tried. It’s just... there, you know? It’s kind of frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your headache ever wake you up at night?",
+    "patient_turn": "No, um, it doesn’t wake me up at night. It’s mostly just there during the day, and I can sleep through it, but it’s still really annoying when I’m awake.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the headache feel different at different times of the day?",
+    "patient_turn": "Not really, um, it feels pretty much the same throughout the day. It’s just this constant throbbing, you know? I wish it would change or get better, but it’s been pretty consistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any confusion or changes in your vision or hearing?",
+    "patient_turn": "No, um, I haven’t noticed any confusion or changes in my vision or hearing. It’s just the headache and cough, honestly. I’m kinda worried about what’s going on, but those other symptoms aren’t there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease in your relatives?",
+    "patient_turn": "No, um, there’s no family history of lung or heart disease or cancer that I know of. It’s just me and my immediate family, and we’ve been pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, um, I haven’t traveled recently, and I don’t think I’ve been in contact with anyone who was sick. I’ve mostly just been at home, going out only for essential things and practicing social distancing and wearing a mask.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you practicing social distancing and wearing a mask when you go out?",
+    "patient_turn": "Yes, um, I’ve been practicing social distancing and wearing a mask whenever I go out. I’m just trying to be careful, you know, especially with how I’ve been feeling.",
+    "annotation": "Correct"
+  }
+]

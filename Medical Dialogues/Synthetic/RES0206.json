@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having worsening respiratory symptoms for the last three days. My cough has gotten more frequent, and I've been producing green-yellow sputum with some blood streaks. I'm also feeling more short of breath, which is making it hard to do my usual activities, like walking my dog.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms starting?",
+    "patient_turn": "I first noticed the symptoms about three days ago. It started with a bit of a cough, but it quickly got worse from there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the severity of your symptoms changed since they first started?",
+    "patient_turn": "The severity has definitely increased since they first started. At first, it was just a mild cough, but now I'm coughing more often, producing that green-yellow sputum, and I'm really struggling to catch my breath, especially when I try to do anything active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain or discomfort is located?",
+    "patient_turn": "I don't really have any pain, but I do feel a tightness in my chest when I cough or try to breathe deeply. It's more of a discomfort than actual pain, if that makes sense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like when you experience it?",
+    "patient_turn": "It feels like a tightness or pressure in my chest, especially when I'm coughing or trying to take a deep breath. It's uncomfortable, but it doesn't feel sharp or really painful. Just makes it harder to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the discomfort in your chest?",
+    "patient_turn": "... chest.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How has the discomfort changed since it first started?",
+    "patient_turn": "The discomfort has become more noticeable and intense since it first started. It feels tighter now, especially when I cough or try to breathe deeply, compared to when it first began.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the discomfort in your chest?",
+    "patient_turn": "I feel the discomfort right in the center of my chest. It's mostly around the area where I take deep breaths or when I cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When were you diagnosed with COPD?",
+    "patient_turn": "I was diagnosed with COPD about 4 to 5 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What inhalers are you currently using for your COPD?",
+    "patient_turn": "I'm using both daily and as-needed inhalers for my COPD, but I don't have the specific names of them right now. They help me manage my symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you notice a fever last night?",
+    "patient_turn": "Yes, I think I might have had a fever last night. I felt a bit off and had some chills, but I didn't take my temperature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling any sinus pressure or headaches recently?",
+    "patient_turn": "Yes, I've been feeling some sinus pressure and a mild headache. It started around the same time as my other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat or nasal congestion lately?",
+    "patient_turn": "No, I haven't had a sore throat or nasal congestion. Just the cough, sinus pressure, and headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or heart conditions?",
+    "patient_turn": "No, there's no family history of lung disease, heart conditions, or cancer that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you currently manage your hypertension?",
+    "patient_turn": "I manage my hypertension through lifestyle changes, like weight loss and increasing my physical activity. I'm not on any medication for it right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke before your COPD diagnosis?",
+    "patient_turn": "Yes, I smoked half a pack a day for about 20 years before my COPD diagnosis. I quit smoking right after I was diagnosed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I rarely drink alcohol, just very occasionally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don't use any recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any emergency visits for your COPD in the past?",
+    "patient_turn": "Yes, I've had two emergency visits for COPD exacerbations in the past three years, but I haven't been hospitalized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for your COPD?",
+    "patient_turn": "No, I haven't been hospitalized for my COPD.",
+    "annotation": "Correct"
+  }
+]

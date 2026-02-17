@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "I would just like to start with what brought you in here today to the family clinic?",
+    "patient_turn": "Yeah, so I've been coughing for a few months now and so that's the problem.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many months have you been coughing for?",
+    "patient_turn": "Just over two, I would say, and it's been I've been bringing up this yellow, greenish sputum. It's kind of gross.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, and how, how much of the sputum would you say you're bringing up in an average day? Like a teaspoon? Tablespoon?",
+    "patient_turn": "Oh I see OK. I don't know, maybe a few teaspoons throughout the day.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "At first I thought I I I had a, a chest infection, but even after antibiotics from my GP, or or my family doctor, It never cleared up.",
+    "annotation": "too much information"
+  },
+  {
+    "doctor_turn": "OK, and so when did you go on the antibiotics?",
+    "patient_turn": "Ah so this is about, uh, about a month ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mhmm.",
+    "patient_turn": "And yeah, so I went to see my family doctor about the cough then and dad was prescribed some antibiotics. I think azithromycin and it, it still didn't, it didn't do anything.",
+    "annotation": "too much information"
+  },
+  {
+    "doctor_turn": "OK, I see. And do you find that your cough has been getting worse since then?",
+    "patient_turn": "Uh, I would say the cough has been about the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "But how about the sputum that you're bringing up, has that increased?",
+    "patient_turn": "Uh, it's about the same, but it definitely I would say there's a pink tinge in the sputum now. Every once in awhile I've noticed more than than before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And did this all start after the chest infection or did you have something like this occur before?",
+    "patient_turn": "Um, yeah, this all started after.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was there anything that happened around that time? Any new environment that you were exposed to?",
+    "patient_turn": "Ah, well, I did go to India a few months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many months was that? Was that also like two months ago?",
+    "patient_turn": "Yeah, about that, probably closer to three or four, but yeah, right around the time that that I think this, uhm cough started or just before I got back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how often are you coughing in a day?",
+    "patient_turn": "Ah. a few times an hour.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Anything that makes your cough go away now you've tried?",
+    "patient_turn": "Uh, no nothings really helped it go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is it better or worse? During good morning as opposed to night?",
+    "patient_turn": "Uh, it's pretty, it's pretty bad all day actually and it's been impacting my sleep because I've been coughing at night too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In terms of things that make it worse, anything you do around the house or at work that makes the coughing worse?",
+    "patient_turn": "Uh yeah, I guess if I'm just moving around a little bit more it might bring it on a little bit more, but it's pretty bad all day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any shortness of breath, runny nose, any chest pain?",
+    "patient_turn": "Um, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Besides the pain tinged sputum, have you ever coughed up blood, like red blood?",
+    "patient_turn": "Not anything that was really bright red. More pink.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you remember what kind of place you stayed in India? Was it a, a in a crowded place or were you by yourself?",
+    "patient_turn": "Well, I mean there is a lot of people around. Yeah, there was not a lot of room where I was was staying, so it was pretty crowded.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was there anyone that was ill around you or any exposure to tuberculosis?",
+    "patient_turn": "Uhm, not that I'm not aware of. I was around my family but, umm, I guess it's possible.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did anyone else in your family get sick?",
+    "patient_turn": "Oh yeah, I spoke to my relative went when I got back and they they didn't tell me about one of my cousins there that was feeling sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been having any fevers or chills?",
+    "patient_turn": "Yeah, I feel I feel like I've been pretty pretty hot sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about night sweats?",
+    "patient_turn": "Yeah, the coughs been messing with my sleep, and I've been waking up with night sweats.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been having any headaches?",
+    "patient_turn": "Ah no headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any unintentional weight loss?",
+    "patient_turn": "Uh, maybe a few pounds, but um.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Was that unintentional?",
+    "patient_turn": "No, I, I was kind of surprised. I thought I would have gained weight 'cause I've been a bit more lazy recently, but the weight seems to be down anyway.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing sounds when you breathe out, or breathe in?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You mentioned no chest pain, right?",
+    "patient_turn": "Yeah, no chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your legs or hands or anywhere else?",
+    "patient_turn": "No swelling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any bowel movement changes, any constipation or diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary problems?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your appetite at all?",
+    "patient_turn": "Um yeah, yeah maybe eating a little bit less.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you exposed to any fumes or dust or any animals?",
+    "patient_turn": "Uhm, we have a dog, but um, no fumes or anything like anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Experienced any dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Past medical history? Any medical conditions?",
+    "patient_turn": "Um, yeah I meant, uh, high blood pressure. Type 2 diabetes and high cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications for any of those?",
+    "patient_turn": "Yeah, I'm taking uhm, a few medications for blood pressure and uh, and and diabetes right now, and I think I Rosuvastatin for for the cholesterol. I'm not sure of the other ones though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medication or environmental allergies?",
+    "patient_turn": "I think I I got a rash to penicillin when I was when I was younger, but that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any previous hospitalizations?",
+    "patient_turn": "Uh, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any surgeries?",
+    "patient_turn": "No surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of cancers or heart attacks?",
+    "patient_turn": "Yeah, my mother out a heart attack when she was 48.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pulmonary fibrosis or autoimmune conditions?",
+    "patient_turn": "Uhm. What are those?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Explains the condition. Any of those ring a bell?",
+    "patient_turn": "No, I haven't heard of anything like that in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you currently live?",
+    "patient_turn": "Yeah, I live with my husband and three sons just outside of town here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have any of them been sick?",
+    "patient_turn": "No, everybody's been feeling well at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you work currently?",
+    "patient_turn": "Uh, no, I'm I retired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Currently do you smoke?",
+    "patient_turn": "Yeah yeah, I smoke about a half a pack of cigarettes per day and ah, I've been trying to cut down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking for?",
+    "patient_turn": "Ah probably like 30 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use recreational drugs?",
+    "patient_turn": "Ah, no I've never used anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alcohol?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any questions for me or any questions or concerns?",
+    "patient_turn": "Um, not right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "We’ll do some tests, like a chest X-ray. Does that sound good?",
+    "patient_turn": "Yeah, for sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "We’ll see you in the next appointment.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  }
+]

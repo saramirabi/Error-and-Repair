@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been dealing with a persistent cough for the past two weeks. It started with some mucus production, but now it's just a dry cough that happens several times an hour. I'm a bit worried since it hasn't improved at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in frequency or intensity since it first started?",
+    "patient_turn": "No, it hasn't really changed in frequency or intensity. It happens several times an hour, and it feels pretty much the same as when it first started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough most in your chest or throat?",
+    "patient_turn": "I mostly feel it in my throat. It can be a bit uncomfortable, and I sometimes have mild soreness after coughing, but it's not really in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you say it's dry, or is there any mucus?",
+    "patient_turn": "It's a dry cough now. It started with some whitish clear mucus, but that went away pretty quickly, and now it's just dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to organize my closet. It’s a bit of a mess in there! ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "No, it hasn't changed at all. It’s still the same dry cough that I first noticed two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed the cough about two weeks ago. It started after I had a sore throat and runny nose for a few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it a tickling sensation, or does it feel different?",
+    "patient_turn": "It definitely feels like a tickling sensation in my throat. It makes me want to cough, but it's not painful or sharp—just really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever since your cough started?",
+    "patient_turn": "No, I haven't had any fever at all since the cough started. It's just been the cough and some mild soreness after coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath along with your cough?",
+    "patient_turn": "No, I haven't experienced any shortness of breath. It's just the cough, and I feel fine otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain at all during this time?",
+    "patient_turn": "No, I haven't felt any chest pain. Just some mild soreness after coughing, but nothing more than that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting lately?",
+    "patient_turn": "No, I haven't felt nauseous or experienced any vomiting at all. It's just been the cough and some mild soreness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain during this time?",
+    "patient_turn": "No, I haven't had any abdominal pain. It's just the persistent cough that's been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of acid reflux or any other medical conditions?",
+    "patient_turn": "Yes, I have a history of acid reflux, but I manage it with dietary avoidance. Other than that, I don't have any chronic medical conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any anxiety issues in the past?",
+    "patient_turn": "Yes, I have a history of anxiety, but I stopped taking medication for it about two to three years ago. I haven't had any major issues since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have hay fever or any other allergies?",
+    "patient_turn": "Yes, I have hay fever, but I don't have any known drug allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don't have any known drug allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of respiratory or heart issues?",
+    "patient_turn": "No, there's no family history of respiratory or cardiac disease that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don't smoke or use recreational drugs. I drink alcohol only occasionally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol in a week?",
+    "patient_turn": "I drink alcohol only occasionally, so it's not a regular thing for me. Maybe once or twice a week at most.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you tested for COVID-19 since your symptoms started?",
+    "patient_turn": "Yes, I tested negative for COVID-19 since my symptoms started. I've been isolating at home just to be safe.",
+    "annotation": "Correct"
+  }
+]

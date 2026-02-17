@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here. I’ve been having this dry cough for about five to six days now, and, uh, I also have nasal congestion and some postnasal drip. It’s just been really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the chest pain is located?",
+    "patient_turn": "Uh, I think it’s, like, somewhere in the middle, maybe? It’s kind of hard to pin down exactly where, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does the chest pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "Um, no, I don’t think it spreads anywhere else. It’s just, like, this mild discomfort in my chest, but it hasn’t really gone beyond that. I’m honestly more worried about the cough and nasal stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the chest pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it’s more of a dull kind of discomfort, I guess? It’s not really sharp or anything, just, um, there sometimes, but it’s not super intense. I’m just trying to figure out what’s going on with all these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Um, I’m not really sure if anything makes it better or worse, to be honest. It just kind of comes and goes, you know? I’ve been taking over-the-counter Tylenol cold, but it hasn’t really helped much with anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the chest pain, like shortness of breath or dizziness?",
+    "patient_turn": "No, um, I haven’t had any shortness of breath or dizziness, thankfully. It’s mostly just the cough and nasal congestion that are bothering me. I’m really hoping it’s just a viral thing and nothing more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the chest pain started?",
+    "patient_turn": "Oh, I don’t really have chest pain, but sometimes I feel like it’s there, you know? But I definitely didn’t have it before.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to pick up some groceries later. Anyway, the chest pain? I guess it started, um, maybe a few days ago?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "No, um, I don’t have any past medical or surgical history. I’ve been pretty healthy overall, so this is all a bit concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else. I’ve never had any issues like that, so, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease?",
+    "patient_turn": "No, um, there’s no family history of heart or lung disease or cancer that I know of. It’s just, like, my family has been pretty healthy, so I’m not sure why I’m dealing with all this now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t think I’ve been around anyone who was sick. I work at a grocery store, but, um, I haven’t noticed anyone there being unwell. It’s just really strange to be feeling this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active, and what method of contraception do you use?",
+    "patient_turn": "Yeah, I’m currently sexually active, and we use condoms for contraception. I’m not, um, suspicious of being pregnant or anything, so that’s not really a concern for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol socially, um, maybe one to two glasses of wine once or twice a week? It’s not a lot, really, but I guess it helps me relax sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes or use any recreational drugs?",
+    "patient_turn": "No, I’ve never smoked cigarettes or used marijuana, and I don’t do any recreational drugs. I’ve always tried to stay away from that stuff, you know?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for like two or three days now. It started with a dry throat and a mild sore throat, but the cough has just gotten worse, you know? It’s really persistent and, honestly, it’s kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the cough or if it feels like it's coming from your chest or throat?",
+    "patient_turn": "Uh, it feels like it’s mostly coming from my throat, you know? It’s dry and scratchy, and I don’t have any chest pain or anything like that, so I guess it’s not really in my chest. Just really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "Um, it’s more like a dry, tickling kind of cough, you know? Not sharp or dull, just really persistent and annoying. It’s hard to shake off, and it’s making me feel kinda fatigued too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, um, I think I mentioned it earlier, but it was about two or three days ago. It started off mild, but it just keeps getting worse, which is, uh, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels most uncomfortable or if it spreads anywhere?",
+    "patient_turn": "... throat.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "Uh, it’s more like a dry, tickling kind of cough, you know? Not sharp or dull, just really persistent and, um, uncomfortable. It’s hard to get rid of, and it’s making me feel kinda tired too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make the cough better or worse for you?",
+    "patient_turn": "Well, um, I haven’t really found anything that makes it better, to be honest. It just seems to get worse throughout the day. I’ve tried drinking water, but it doesn’t really help much. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath, dizzy, or nauseous?",
+    "patient_turn": "Um, no, not really. I mean, I’ve been feeling kinda fatigued, but I don’t have any shortness of breath, dizziness, or nausea. I haven’t had a fever or anything like that either, so, um, I’m not totally sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Uh, I don’t smoke or use recreational drugs, and my alcohol intake is pretty minimal—like, maybe 3 or 4 drinks over the weekend. I don’t really exercise as much as I should, but I try to stay active when I can. Just, um, you know, life gets busy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Um, I have some undiagnosed digestive problems that might be related to Crohn’s disease or IBS, but I haven’t been hospitalized or had any surgeries. I’m not on any medications right now, so, um, that’s pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Uh, no, I haven’t noticed any of those symptoms. Just the cough and some fatigue, but no breathlessness or dizziness. I’m kinda worried because it feels like it’s just lingering, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your cough first start, and how has it changed since then?",
+    "patient_turn": "Oh, it started just a few days ago, but I’ve had this persistent cough for a while now, like maybe a week or more. I’m not really sure.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your throat or chest?",
+    "patient_turn": "Um, it’s mostly in my throat, you know? It feels dry and scratchy, and I don’t really feel anything in my chest. Just, uh, really uncomfortable in my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickling sensation, or does it feel more like a tightness?",
+    "patient_turn": "It’s definitely more of a tickling sensation, you know? Just really dry and persistent, not tight or anything like that. It’s just really annoying and makes me feel kinda fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your cough producing any mucus, sputum, or blood?",
+    "patient_turn": "No, um, it’s a dry cough, so there’s no mucus or sputum, and definitely no blood. Just, uh, really persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or other breathing difficulties?",
+    "patient_turn": "No, I haven’t noticed any wheezing or breathing difficulties. It’s just the cough, really. I’m not having any trouble breathing, which is, um, a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I haven’t traveled anywhere recently. I’ve just been at home and, um, isolating since the symptoms started. So, yeah, no recent travel at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs. I’ve never really been into that, so, um, that’s not a concern for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I usually have about 3 or 4 drinks over the weekend, you know? So, um, not a lot during the week, just a little bit on the weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and what is your home environment like?",
+    "patient_turn": "I live with my fiancé in a townhouse. It’s, um, pretty quiet, and we’ve been isolating since I started feeling unwell. Just trying to keep things calm and, you know, avoid spreading anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your work environment and any potential exposures you might have?",
+    "patient_turn": "I work in an office that’s attached to a factory, so, um, there’s a chance I might have been exposed to a coughing coworker. It’s, uh, a bit concerning, but I’ve been isolating since my symptoms started, so I’m trying to be careful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries. Just, um, those undiagnosed digestive problems I mentioned earlier, but nothing that required any hospital stays.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about any significant health issues in your family?",
+    "patient_turn": "Um, my family history includes an uncle who had a heart attack, but there’s no history of lung issues or cancer that I know of. So, um, that’s pretty much it for significant health issues in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, my immunizations are up to date. I’ve been keeping on top of that, so, um, I think I’m good there.",
+    "annotation": "Correct"
+  }
+]

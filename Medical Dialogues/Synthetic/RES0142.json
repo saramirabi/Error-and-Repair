@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having a sore throat for about a week now. It’s been really painful to swallow, and I’ve also been feeling really tired and, uh, I had chills the past few nights. So, I thought I should get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or location since it started?",
+    "patient_turn": "Um, yeah, it’s definitely gotten worse. At first, it was just a little scratchy, but now it’s really painful, especially when I swallow. And I’ve noticed some redness and inflammation at the back of my throat too… it’s kinda alarming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "Oh, I just remembered that I need to pick up some groceries later. It's been a busy week, you know?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain feels like?",
+    "patient_turn": "Uh, it feels sharp and, um, really uncomfortable, especially when I try to swallow anything. It’s like a burning sensation, and sometimes it just feels really sore, you know? I’m kinda worried it might be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "Um, I feel the pain mostly at the back of my throat, you know? It’s really uncomfortable when I swallow, and I can see that it’s red back there. I also feel like there are lumps on both sides of my neck, which is kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling breathless, dizzy, or having nausea?",
+    "patient_turn": "You know, I was just thinking about how I need to call my friend later. We were supposed to hang out this weekend. But, um, yeah, the symptoms... I mean, I feel something, but not sure about the other stuff.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it’s mostly sharp, honestly. Like, it really hurts when I swallow, and sometimes it feels like a burning sensation. There’s also this constant soreness that just doesn’t go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your throat?",
+    "patient_turn": "Uh, I think it started about a week ago, maybe? But I'm not totally sure about the exact day or anything like that.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or nasal congestion along with your throat pain?",
+    "patient_turn": "No, um, I haven’t had any headaches or nasal congestion. It’s really just the sore throat and the pain when I swallow… and I’ve been feeling really tired too. So, I guess that’s been my main concern.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or trouble breathing at all?",
+    "patient_turn": "No, I haven’t had a cough or any trouble breathing. It’s really just the sore throat and the pain when I swallow… and, um, I’ve been feeling pretty fatigued. I’m kinda worried about what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain or palpitations at all?",
+    "patient_turn": "No, um, I haven’t had any chest pain or palpitations. It’s really just the sore throat and the fatigue that’s been bothering me. I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain or muscle aches recently?",
+    "patient_turn": "No, I haven’t had any abdominal pain or muscle aches. It’s really just the sore throat and feeling tired… I mean, I’m kinda worried about it all, but those other symptoms haven’t been an issue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel or urinary habits lately?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my bowel or urinary habits. It’s really just the sore throat and the fatigue that’s been on my mind… I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or allergies that I should know about?",
+    "patient_turn": "Uh, no, I don’t have any past medical conditions or allergies that I know of. My medical history is pretty unremarkable, I guess. Just, um, my mom has diabetes, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, including over-the-counter or herbal supplements?",
+    "patient_turn": "No, I’m not taking any medications right now, um, just the lozenges for my throat. I don’t use any herbal supplements or anything like that either. Just trying to manage the pain, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone else in your family have any medical conditions?",
+    "patient_turn": "Well, um, my mom has diabetes, but that’s about it. No other major medical conditions in the family that I know of. It’s just me and her living together, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you typically eat or drink on weekends?",
+    "patient_turn": "Oh, um, on weekends, I usually just have some casual meals, like, you know, maybe pizza or something. I do enjoy some wine occasionally, and I might have a drink or two with friends. But, um, I haven’t really felt like eating much lately with this sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone else recently who has had a sore throat or similar symptoms?",
+    "patient_turn": "Yeah, actually, my boyfriend had similar symptoms a few weeks ago, but he didn’t go to the doctor or anything. I’ve been kinda worried that I might have caught something from him, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current?",
+    "patient_turn": "Yeah, I’m up to date with my immunizations. I make sure to keep everything current, you know? It’s just been this sore throat that’s really bothering me right now.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "What brought you in today?",
+    "patient_turn": "Yeah, so uh, just randomly like 2 days ago I just started having this chest pain when I'm breathing and it's just been getting worse and then because of that, I'm finding that I'm very short of breath as well, so I just got really concerned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the chest pain start?",
+    "patient_turn": "So, there was some discomfort like just 2 days ago, but then just yesterday it started getting very painful when I was breathing. So yeah, I would say 1 day ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Were you doing anything at the time when the chest pain started? Like did you get in a car accident maybe? Or any trauma to the chest or anything you can think of?",
+    "patient_turn": "No, not really. I was just at home and then I noticed that when, I like, take a deep breath in, it's just, like, a very sharp pain. It's kind of like in my right side of the chest and it feels like a stabbing pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain come on at any other points or does it go away?",
+    "patient_turn": "Uh, it's mostly, yeah, I feel the sharp pain when I breathe in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has there been anything you've tried that's made the pain better?",
+    "patient_turn": "Not really, just more shallow breathing, and it hurts less with that, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any positions that help make the pain any better like leaning forward or laying down?",
+    "patient_turn": "Not really, it's uh, it's pretty much the same, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You mentioned you had shortness of breath as well. When does this come on?",
+    "patient_turn": "Since yesterday it's been pretty constant and it's more like, Uh, just uh, I'm really having trouble getting any deep breaths in, so I feel like I'm having to just breathe faster and more shallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anything like this happened to you before?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been experiencing any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any viral symptoms, like eye redness, nasal discharge, or nasal congestion or cough?",
+    "patient_turn": "I have been having a little bit of a cough, but that's it, like, it kind of started today, but it's nothing too significant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is the cough dry or have you brought up sputum?",
+    "patient_turn": "It is dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a sore throat?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about a loss of taste or a loss of smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been?",
+    "patient_turn": "My appetite's been pretty good. It's like, definitely with the pain, I don't really feel like eating today, but I don't think it's changed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your weight been stable over the last several months?",
+    "patient_turn": "Yeah, weight has been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fevers, chills, or night sweats?",
+    "patient_turn": "Uhm, Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any episodes where you feel like your heart is, like, racing or beating out of your chest?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any dizziness or lightheadedness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "With the cough, have you brought up any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any, Uh, like urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any bowel problems like diarrhea or constipation?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any muscle aches, joint pains or skin changes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In the past have you been diagnosed with any medical conditions?",
+    "patient_turn": "No, I've been pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any medications regularly?",
+    "patient_turn": "No, nothing at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "No, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any hospitalizations in the past or any surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me just a little bit about your living situation?",
+    "patient_turn": "Yeah, so I just live with uh, a couple of my roommates. I'm going to University.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "I live in like a student housing situation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anybody in the house been sick or anybody that you've been around been sick?",
+    "patient_turn": "No, we've been all pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes or use any like vape products or anything like that?",
+    "patient_turn": "No, I haven't ever smoked. I do smoke weed like, I would say, once or twice a week.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How much would you say? Like 1 gram or less or?",
+    "patient_turn": "1 gram probably lasts like 2 weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "Yeah, just a couple of beers maybe on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "Yeah, just one partner, my girlfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use condoms?",
+    "patient_turn": "Yeah, we use condoms, we're pretty safe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a sexually transmitted infection before?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns right now or anything like that?",
+    "patient_turn": "No, uh, we've been pretty safe and we've both been tested before and everything, so I'm not really concerned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anybody in the family had like a similar presentation before, like any lung problems or heart problems?",
+    "patient_turn": "No, I think my sister, she has asthma, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any cancers that run in the family?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it sounds like you had this uncomfortable feeling in your chest about two days ago, but the pain really came on yesterday and it's really painful when you have a deep deep breath. So, in conjunction with your symptoms of not being able to take a deep breath and being short of breath, it sounds like you possibly have what's called a pneumothorax and so we'll do a physical exam and do a chest X-ray as well to examine this and check vitals as well to make sure that you're work of breathing is OK and we can do some blood work and go from there.",
+    "patient_turn": "OK, yeah, sounds good. Should be like, worried at all?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I think right now, you're speaking in full sentences and you're not short of breath at rest, typically, when this this happens, if it's small enough, it'll usually resolve on its own and so we'll get some more information from the imaging and the lab results, but it's reassuring that you haven't been getting worse since it happened.",
+    "patient_turn": "OK, alright, sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

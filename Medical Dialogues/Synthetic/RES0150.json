@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, my child has been, um, having this cough for about a week now, and there’s also, like, watery nasal discharge. They’ve had a fever that got pretty high, like, 39.5°C, and their eyes are really red and teary. I’m kinda worried because it seems to be getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and fever?",
+    "patient_turn": "I first noticed the cough about a week ago, and the fever started a few days after that. It was, um, lower at first, like around 37.5 to 38.5°C, but then it spiked up to 39.5°C. It’s just been really concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from? Is it in the chest or throat?",
+    "patient_turn": "…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Um, it kinda improved a little at first, but then, like, after that, the rash started appearing, and I feel like the cough hasn’t really gotten better since then. It’s still, um, non-productive, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "A...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, I think it was... last week?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced a sore throat or noticed any changes in smell or taste?",
+    "patient_turn": "No, um, there hasn’t been any sore throat or changes in smell or taste. It’s just the cough, the fever, and now the rash. I’m honestly a bit worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any trouble breathing or experienced any chest pain?",
+    "patient_turn": "No, thankfully, there hasn’t been any trouble breathing or chest pain. It’s just the cough and the fever, but, um, I’m still really concerned about everything else happening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your child's appetite been lately? Is it less than usual?",
+    "patient_turn": "Yeah, their appetite has decreased a bit, but, um, it’s still, like, adequate. They’re eating some, just not as much as usual, you know? I guess it’s just all this sickness making them feel off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been around any new foods, pets, or environments recently?",
+    "patient_turn": "Um, no, not really. There haven’t been any new foods or pets, and I don’t think there’s been any change in their environment either. It’s just, like, this sudden illness that we can’t explain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific concerns do you have about vaccinating your child?",
+    "patient_turn": "I’m not sure about that. I mean, I know there were concerns about autism, but, um, I don’t really have all the details. It’s just something that’s been on my mind, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child currently taking any medications or have any known allergies?",
+    "patient_turn": "No, there’s no medication use or known allergies. They’ve been, um, pretty healthy up until now, so this is all really unexpected.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child met all their developmental milestones on time?",
+    "patient_turn": "Yeah, they’ve met all their developmental milestones without any issues. It’s just, um, this illness that’s really concerning me right now. Everything seemed fine before this started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did the mother have any gestational diabetes during pregnancy?",
+    "patient_turn": "Yes, the mother had gestational diabetes, but it was managed with insulin, and the delivery was, um, uncomplicated. The baby was a bit large, but there weren’t any neonatal complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like heart problems or respiratory conditions?",
+    "patient_turn": "No, there’s no family history of heart problems, respiratory conditions, or anything like that. It’s just, um, been pretty normal for us until now, which is why this is so worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any concerns about abuse or allergies to pets in the household?",
+    "patient_turn": "No, there are no concerns about abuse or pet allergies. We don’t have any pets, so that’s not an issue. It’s just, um, this sudden illness that we’re trying to figure out.",
+    "annotation": "Correct"
+  }
+]

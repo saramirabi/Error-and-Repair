@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my back pain. It started a couple of months ago after a car accident, and it’s just gotten worse. Now, it’s this sharp pain, like an 8 or 9 out of 10, and it’s radiating down my right leg… and, um, I’ve also been having some numbness in my groin and, uh, issues with my bladder.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start after the car accident?",
+    "patient_turn": "So, it started about two months ago, I think, like right after the accident. At first, it was just achy, but then, um, it got a lot worse over the last week or so. It’s really been hard to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "Yeah, um, the pain is mostly in my lower back, but it really shoots down my right leg. It’s, like, sharp and intense, and to a lesser extent, I feel it in my left leg too. It’s just really hard to walk or even get up from a chair… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It’s definitely sharp, like, really intense, you know? I’d say it’s more like an 8 or 9 out of 10 right now. Sometimes it feels achy, but mostly it’s just this really severe pain that makes it hard to move.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start, and how has it changed since then?",
+    "patient_turn": "So, the pain first started, um, about two months ago after the accident. At first, it was just kind of achy, but then, um, over the last week or so, it got a lot worse and turned really sharp. I guess it’s just been really hard to manage, especially with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "Oh, I think the pain is mostly just in my lower back, but sometimes it feels like it’s more in my legs, though I don’t really feel it in my back at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Yeah, I have hypothyroidism, and I take Synthroid for that. Other than that, I don’t have any major medical issues or, um, any past surgeries or hospitalizations, except for the ER visit after the accident. I’m just really worried about all this back pain and the other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Uh, I think I might have felt a little dizzy once or twice, but it’s hard to say for sure. I’m not really keeping track of everything, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your back, and does it spread anywhere else?",
+    "patient_turn": "The pain is mostly in my lower back, but it really spreads down my right leg. I feel it a bit in my left leg too, but not as much. It’s just really intense and makes it hard to move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having difficulty walking or getting up from a chair?",
+    "patient_turn": "Yeah, um, I’m definitely having a lot of trouble with that. It’s really painful to walk, and getting up from a chair is, like, super difficult. I’m kinda worried about how this is affecting my daily life, especially with my kids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weakness in your legs?",
+    "patient_turn": "Yes, I have noticed some weakness, especially in my right leg. It feels worse than my left leg, and, um, it’s just getting harder to move around. I’m really concerned about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any problems with bowel control?",
+    "patient_turn": "No, I haven’t had any issues with bowel control, thank goodness. But, um, I have been experiencing urinary incontinence, which is really worrying for me. I just don’t know what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any tingling or numbness in your legs besides the groin area?",
+    "patient_turn": "No, I haven’t felt any tingling or numbness in my legs beyond the groin area. It’s mostly just the groin numbness that’s been bothering me, along with the pain and weakness. I’m really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or night sweats recently?",
+    "patient_turn": "No, I haven’t had any fever, chills, or night sweats. It’s mostly just the pain and the other symptoms I mentioned, like the numbness and urinary issues. I’m really worried about what’s happening with my body.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your family helping you with daily activities at home?",
+    "patient_turn": "Yes, they’ve been really helpful. My family is, um, assisting me a lot because I’m having such a hard time with daily activities. It’s tough, especially with my kids, and I just feel overwhelmed sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you try bending or extending your back at all?",
+    "patient_turn": "Um, no, I really can’t bend or extend my back at all because it hurts too much. Just trying to do that causes a lot of pain, and I’m honestly scared of making it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it hurt when I touch your lower back?",
+    "patient_turn": "Yes, it definitely hurts when you touch my lower back. There’s a lot of tenderness there, and, um, it’s really uncomfortable. I just wish I could find some relief.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you lift your leg straight while lying down?",
+    "patient_turn": "No, I can’t really lift my leg straight while lying down. It’s just too painful, and I feel weak in my legs. I’m really worried about how this is all affecting me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any redness or swelling in your lower back?",
+    "patient_turn": "No, I haven’t noticed any redness or swelling in my lower back. It just hurts a lot, and there’s tenderness when I touch it, but no visible signs like that. I’m just really anxious about what’s going on.",
+    "annotation": "Correct"
+  }
+]

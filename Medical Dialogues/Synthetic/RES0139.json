@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this persistent dry cough for about two weeks now. It’s, like, constant throughout the day, and it’s kinda worrying me, you know? I just thought I should get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, it started about two weeks ago, I think. It just, um, hasn’t really gone away since then. It’s not getting worse or anything, but it’s just… there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Well, it’s been pretty much the same since it started, which I think was about two weeks ago? I mean, it’s dry and constant, not really getting worse or anything. Also, I’ve been working from home a lot, which is kind of nice because I can just sit in my apartment and not worry about rushing anywhere. Oh, and I’ve been meaning to clean out my closet, but I keep putting it off.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you?",
+    "patient_turn": "Honestly, it feels kind of scratchy and irritating, like, um, there’s something stuck in my throat? It’s not painful or anything, but it’s just really persistent and, uh, it’s starting to get on my nerves a bit. I’m kinda worried it might be something more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Uh, no, not really. It’s been pretty much the same since it started, just that dry, constant cough. I mean, it hasn’t gotten worse or anything, but it’s just… there, you know? It’s a bit frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough the most?",
+    "patient_turn": "Um, I think it’s mostly in my throat, like, it feels scratchy there. Sometimes it feels like it’s in my chest too, but it’s not, like, painful or anything. Just really annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "A…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest?",
+    "patient_turn": "Um, I guess it feels like it’s kind of in the chest area, but it’s hard to say exactly where. You know, I’ve been trying to keep my place clean since I work from home, but sometimes I get distracted by binge-watching shows. Also, my neighbor’s dog barks a lot, which can be really annoying, but I don't think it’s related. I just want to make sure I’m taking care of things around here.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or blood when you cough?",
+    "patient_turn": "No, um, I haven’t noticed any mucus or blood at all. It’s just a dry cough, you know? So, that’s, uh, one thing I’m kinda relieved about, but still, it’s really persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or COPD in the past?",
+    "patient_turn": "No, I’ve never been diagnosed with asthma or COPD. I mean, I’ve been pretty healthy overall, except for, um, I was just diagnosed with hypertension a few weeks ago. But no history of lung issues or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "Uh, no, I haven’t traveled recently, and I don’t know of anyone who’s been sick. I’ve mostly just been at home working, you know? So, I guess that’s why I’m a bit confused about why I have this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries before. I mean, I’ve been pretty healthy overall, just, um, dealing with this cough now, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "Um, no, there’s no family history of lung or heart disease that I know of. My maternal grandparents had pancreatic and colon cancer, but that’s about it. So, I guess I’m just a bit worried since I don’t have any of those issues in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the past few months?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently. I’m allergic to penicillin, so I usually avoid antibiotics unless absolutely necessary. I’ve just been taking a multivitamin, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "Um, I usually drink about, like, 5 to 6 beers a day, so that adds up to, uh, quite a bit in a week. I started drinking more, like, two years ago after my divorce, and I guess it’s just become a habit. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many days a week do you smoke cigarettes?",
+    "patient_turn": "I smoke, um, about 2 to 3 cigarettes, 3 to 4 days a week. I started again two years ago after quitting for a while, and I guess it’s just been a way to cope, but I’m not really proud of it.",
+    "annotation": "Correct"
+  }
+]

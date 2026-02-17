@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I’ve been having this really bad cough for about four days now… it’s, um, pretty dry and harsh, like, I’d say it’s a 7 out of 10 in severity. It’s been happening hourly, and I’m kinda worried because it’s getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it, um, about four days ago. It just sort of came out of nowhere, and, uh, it’s been getting progressively worse since then. I’ve also been feeling a bit off, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Well, the cough is kind of everywhere, but it feels really bad in my chest, I think? And you know, I was actually at a concert last month, and the smoke from the stage was really intense, plus I’ve been around my neighbor’s barbecue smoke a lot lately, which might be part of it. Also, my daughter has been practicing her clarinet, and that can get pretty loud in the house, so it’s hard to tell sometimes.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the cough? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a harsh, dry cough, you know? It doesn’t really feel sharp or dull, but it’s just really uncomfortable and, um, it makes me feel like I can’t catch my breath sometimes after I cough. It’s, uh, pretty exhausting, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "I think it’s more in my chest, like, it feels tight and, um, kind of scratchy? But I also feel it in my throat a bit, especially when I start coughing. It’s just really uncomfortable, and I’m not sure how to make it stop.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you describe it as dry, wet, or something else?",
+    "patient_turn": "Uh, it’s..., I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often does the cough happen during the day?",
+    "patient_turn": "It happens, like, hourly throughout the day. It’s, um, really frustrating because it just keeps interrupting everything I’m doing, you know? I feel like I can’t catch a break.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, it feels the worst in my chest, I think? It’s like a tightness there, and, uh, sometimes it feels scratchy in my throat too. It’s just really uncomfortable and, honestly, it’s making me feel pretty anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "So, the cough started about four days ago, I think? It was pretty mild at first, but now it feels really harsh and happens like every hour, and I’ve been trying to drink more water, which helps a little. Oh, and my neighbor’s been cutting the grass a lot lately, so maybe that’s affecting my allergies too. Also, I had a really weird dream last night about being chased by a giant chicken, which was just bizarre!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "I’d say it feels more, um, harsh and dry rather than sharp or dull. It’s just really uncomfortable, and, honestly, it makes me feel a bit panicky sometimes when I can’t catch my breath after coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any diarrhea or abdominal pain along with the cough?",
+    "patient_turn": "Yeah, actually, I’ve been having diarrhea for the past couple of days, um, with loose stools happening every few hours. It’s, like, small volumes mostly, and I also have this achy abdominal pain that’s around a 4 out of 10. It’s just, um, adding to everything else, and I’m kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea or changes in your sense of taste or smell?",
+    "patient_turn": "Yes, I’ve definitely been feeling nauseous, but I haven’t vomited or anything. And, um, just this morning, I noticed that I can’t really smell anything or taste my food, which is, like, really strange and honestly kind of scary. It’s all just a lot to deal with right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke daily, and have you recently cut back?",
+    "patient_turn": "I smoke about half a pack a day, um, for the past ten years. I’ve actually been trying to cut back a bit, you know, from a full pack daily, but it’s been tough. I’m just worried that it might be affecting my cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, I haven’t traveled recently, but my wife has been feeling fatigued and has a cough too. I think that might be the only sick contact I’ve had, but, honestly, I’m not totally sure if it’s related.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or are you currently taking any medications?",
+    "patient_turn": "No, my past medical history is pretty unremarkable, um, except for a meniscus repair surgery I had about ten years ago. I don’t have any chronic illnesses, and I’m not taking any medications or have any allergies that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung, heart, or gastrointestinal diseases?",
+    "patient_turn": "Um, no, there’s no family history of lung, heart, or gastrointestinal diseases, or cancer that I know of. It’s just, like, a pretty clean slate in that regard, I guess.",
+    "annotation": "Correct"
+  }
+]

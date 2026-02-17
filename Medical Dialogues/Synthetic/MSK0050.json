@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this numbness and tingling in my right hand, mostly in my thumb and index finger. It’s been getting worse over the past month or two, and it’s kinda worrying me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the numbness and tingling in your hand?",
+    "patient_turn": "I think it started, um, gradually a couple of months ago. At first, it was just a little annoying, but now it’s more constant and, um, it really gets worse when I’m doing things like holding a steering wheel or using my phone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly you feel the numbness and tingling in your hand?",
+    "patient_turn": "Yeah, it’s mostly in my thumb and index finger, and, um, a bit in the middle and ring fingers too. It’s like this tingling sensation, but not really painful, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the tingling sensation feel like for you?",
+    "patient_turn": "It’s kind of like a buzzing feeling, you know? It mostly affects my thumb and index finger, but sometimes I think it might go to the middle finger too, but I’m not really sure. Oh, and I remember when I was younger, I used to get pins and needles when I sat too long, which was pretty annoying, but this feels a bit different, I guess.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did you first notice the tingling in your hand?",
+    "patient_turn": "Um, I think it was a couple of months ago, but it’s been getting worse lately. Like, at first, it was just a little bit, but now it’s more constant and, um, really bothersome, especially when I’m doing certain activities.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the tingling sensation feel like for you?",
+    "patient_turn": "It feels, um, kind of like a buzzing or pins-and-needles sensation, you know? It’s not really painful, just really bothersome, especially when I’m gripping things or holding my phone. It’s hard to ignore sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me exactly where you feel the tingling in your hand?",
+    "patient_turn": "Um, it's mostly... you know.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you dropped anything because of the tingling sensation?",
+    "patient_turn": "Yeah, I have, um, a few times. It’s like my grip just weakens, and I’ll drop things without really meaning to. It’s really frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, not really, my past medical history is pretty unremarkable, except for having childhood asthma. I haven’t had any surgeries or hospitalizations, and I’m not on any medications right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I’m not taking any medications or supplements at the moment. Um, I haven’t had any need for them, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of medical conditions that might be relevant to your symptoms?",
+    "patient_turn": "Well, um, my family history does have rheumatoid arthritis, but, uh, no other autoimmune diseases or anything like that. I’m not totally sure if that’s related, but it’s something I thought I should mention.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "I don’t smoke at all, and I only drink alcohol occasionally, like, um, maybe a glass of wine once a week. So, it’s not a lot, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unusual weight loss, fever, or other systemic symptoms recently?",
+    "patient_turn": "Um, no, I haven’t noticed any unusual weight loss or fever, or anything like that. I feel pretty much the same otherwise, just dealing with this hand issue, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized in the past?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized before. My medical history is pretty straightforward, um, just the childhood asthma I mentioned earlier.",
+    "annotation": "Correct"
+  }
+]

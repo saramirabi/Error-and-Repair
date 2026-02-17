@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've had this cough for about a week now. It started off mild but got worse, and now I'm coughing up yellow sputum with some red spots. I've also been feeling feverish and have some chest pain on my right side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start, and how has it changed since then?",
+    "patient_turn": "The cough started about a week ago, around Friday. It was mild and raspy at first, but by Sunday it got a lot worse. Now it's pretty severe, and I'm coughing up that yellow sputum with red spots.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It feels dull, more like a nagging ache. It definitely gets worse when I cough or take a deep breath, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain, and how has it changed since then?",
+    "patient_turn": "I first noticed the chest pain around the same time the cough got worse, so that was about Sunday. It hasn't really changed much since then; it's consistently there, especially when I cough or breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the chest pain located? Does it stay in one spot or move around?",
+    "patient_turn": "Um, I think it's kind of on the right side, but maybe a little in the middle too? It's not really moving around, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has the chest pain changed in intensity or frequency since it started?",
+    "patient_turn": "No, it hasn't changed in intensity or frequency. It's been pretty consistent since it started, just dull and worse with coughing or deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the chest pain?",
+    "patient_turn": "I feel the chest pain on my right side, kind of in the middle of my chest. It stays in that area and doesn't really move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or chills recently?",
+    "patient_turn": "Yes, I started feeling fevers and chills on Monday, and they've been persisting since then. I haven't measured my temperature, but I definitely feel off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel short of breath when you do any physical activity?",
+    "patient_turn": "I do feel some mild shortness of breath when I exert myself, but not really at rest. It's not too severe, just a little noticeable when I'm active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed a sore throat after coughing?",
+    "patient_turn": "Yes, I have noticed a sore throat after coughing, especially after prolonged coughing fits. It’s been bothering me a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have a runny nose or any nasal symptoms before your cough started?",
+    "patient_turn": "I had a runny nose about a week ago, but that has resolved now. It was before the cough started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss recently?",
+    "patient_turn": "No, I haven't experienced any weight loss recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of high cholesterol or any other medical conditions?",
+    "patient_turn": "Yes, I have a history of hypercholesterolemia, which I manage with Lipitor. Other than that, I don't have any significant medical conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking one pack of cigarettes each day?",
+    "patient_turn": "I've been smoking one pack a day since I was 15, so that's quite a few years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone else in your family have a history of lung cancer or other respiratory illnesses?",
+    "patient_turn": "My grandfather had lung cancer, but other than that, I don't know of any other respiratory illnesses in my family.",
+    "annotation": "Correct"
+  }
+]

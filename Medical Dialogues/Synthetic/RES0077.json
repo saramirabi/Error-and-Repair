@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this cough for about three days now. It started off dry but, uh, now it’s producing some clear sputum. I’m kinda worried because I also have shortness of breath and chest tightness, especially when I exert myself… it’s been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, and how has it changed since then?",
+    "patient_turn": "I first noticed it, um, about three days ago. It was dry at first, but then it started producing, like, small amounts of sputum, maybe two teaspoons a day? And, uh, it’s just gotten worse, honestly. Now I’m having trouble taking deep breaths, and it feels really tight in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain or tightness is located? Does it spread anywhere else?",
+    "patient_turn": "Uh, I don't really have any tightness, I think it's just a little discomfort in my chest sometimes. But, you know, I’ve had some tightness before, but right now it’s not really there.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the discomfort in your chest feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s more like a tight feeling, you know? Not really sharp or anything, just… like a pressure, I guess. It gets worse when I cough or try to take a deep breath, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the discomfort better or worse for you?",
+    "patient_turn": "Well, um, I’ve tried resting, but it doesn’t really help much. It seems to get worse with, like, any activity or when I cough. I thought maybe changing positions would help, but, uh, it didn’t really make a difference.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or feeling nauseous?",
+    "patient_turn": "Yeah, I’ve definitely had shortness of breath, especially when I’m doing anything, like, even just walking around the house. And, um, I’ve been feeling kinda feverish with night sweats, which is, you know, really uncomfortable. I don’t feel nauseous or anything, but I’ve had some body aches and a decreased appetite too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest tightness? Does it stay in one place or spread anywhere else?",
+    "patient_turn": "Oh, you know, I really need to remember to pick up some milk on my way home.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the chest tightness?",
+    "patient_turn": "Uh, it’s mostly in the center of my chest, I guess? It feels like a heavy pressure, and sometimes it radiates a bit, but it’s hard to say exactly where. It’s just, um, really uncomfortable and makes it hard to breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the chest tightness feel worse?",
+    "patient_turn": "Um, I think it gets worse with… maybe like, moving around or something? But I’m not really sure, it’s kind of hard to tell.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest tightness like this before?",
+    "patient_turn": "No, I haven’t had anything like this before. This is, um, definitely new for me, and it’s really worrying. I’ve never had similar episodes, so I’m kinda anxious about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I haven’t traveled recently. I’ve just been working at the car factory, you know? But some of my coworkers have been sick, so I’m not totally sure if I might’ve been exposed to something there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in close contact with anyone who was sick recently?",
+    "patient_turn": "Um, I’m not really sure. Some of my coworkers have been sick, but I don’t know if I was in close contact with them or anything. It’s just, you know, a bit concerning since I’ve been feeling unwell myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs. I, um, drink wine a couple of nights a week, but that’s about it. I try to stay healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I usually drink wine, um, two to three nights a week. It’s not a lot, just, like, a glass or two, I guess? I try to keep it moderate, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yeah, I had ear tubes put in when I was a kid, but that’s about it. I haven’t had any other surgeries or anything major since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Um, yeah, my dad had triple bypass surgery when he was 63. That’s the only major thing I know about in my family, but, you know, it’s still a bit concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies that cause you symptoms, like itchy eyes or a runny nose?",
+    "patient_turn": "Yeah, I have environmental allergies that cause, um, seasonal itchy eyes and a runny nose. It’s mostly during certain times of the year, but right now, I don’t have any of those symptoms, just this cough and everything else.",
+    "annotation": "Correct"
+  }
+]

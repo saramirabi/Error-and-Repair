@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having this dry cough for about two weeks now, and it's been almost constant. I've also been wheezing and feeling short of breath, especially after physical activity or when I'm out in the cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and how has it changed since then?",
+    "patient_turn": "I first noticed the cough about two weeks ago. It started off just a little, but now it's almost all the time. I've also had to use my inhaler a lot more—like five to six times a week instead of just once every couple of weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst? Does it hurt anywhere else?",
+    "patient_turn": "The cough feels pretty annoying in my chest, but it doesn't really hurt anywhere else. It's just really dry and makes it hard to breathe sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "It's more of a dry cough, not sharp or dull really. It just feels like I need to clear my throat a lot, but nothing comes up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you feel any mucus?",
+    "patient_turn": "Um, I think it feels kind of dry, but I’m not really sure. It’s just… you know, it’s a cough, so it’s a bit confusing.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you had any colds or been around anyone who was sick recently?",
+    "patient_turn": "No, I haven't had any colds, and I haven't been around anyone who was sick recently. I feel fine otherwise, just dealing with this cough and wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any daily medications for your asthma?",
+    "patient_turn": "No, I'm not taking any daily medications for my asthma. I just use my bronchodilator inhaler when I need it, which has been a lot more often lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any other medications besides your bronchodilator inhaler?",
+    "patient_turn": "No, I'm not taking any other medications besides my bronchodilator inhaler. Just that one for my asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you think your asthma symptoms might be related to seasonal allergies?",
+    "patient_turn": "I suspect they might be related to seasonal allergies, especially since it's spring, but I don't have a formal diagnosis or know of any specific allergies. It just seems like my symptoms get worse this time of year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or allergies?",
+    "patient_turn": "Yes, my sister has asthma, but no one else in my family has asthma or any other respiratory or allergic conditions that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anyone in your home who smokes?",
+    "patient_turn": "No, there’s no one in my home who smokes. It's just me, my parents, and my sister, and we don’t have any pets except for goldfish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home?",
+    "patient_turn": "I only have goldfish at home. No other pets.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other medical problems or conditions in the past?",
+    "patient_turn": "No, I haven't had any other medical problems or conditions in the past. Just the asthma that I was diagnosed with when I was eight.",
+    "annotation": "Correct"
+  }
+]

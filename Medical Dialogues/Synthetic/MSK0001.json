@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this, like, stabbing pain in my lower back for about a day now. It started suddenly when I was unloading groceries from my truck, and it really hurts, especially when I move or bend over… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start?",
+    "patient_turn": "It started, um, yesterday, I think, when I was unloading the groceries. It just hit me out of nowhere, you know? And it’s been pretty constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Uh, it’s kind of… I think maybe sharp? But also a bit dull at times, I guess. It's hard to say exactly, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, unloading groceries from my pickup truck. I didn’t really do anything out of the ordinary, just, you know, lifting bags and stuff, and then suddenly it just… hit me. It was really surprising.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it started?",
+    "patient_turn": "It hasn’t really changed much, honestly. It’s been pretty constant since it started, but it definitely gets worse when I move, bend, or even cough. It’s just, um, really uncomfortable all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s kind of sharp at times, but also a bit dull, you know? It’s hard to describe exactly, but it definitely hurts a lot, especially when I move. It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you rate the pain now, on a scale from 1 to 10?",
+    "patient_turn": "Right now, I’d say it’s about a 2 out of 10 when I’m just sitting still. But, um, it gets a lot worse when I move or bend over… I’m kinda worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your back?",
+    "patient_turn": "I don’t really feel it in my back, but I think it’s more like in my legs, you know? It’s not really in the back at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "I first noticed the pain, um, yesterday afternoon when I was unloading groceries. It just came on suddenly, and I was really surprised by how intense it was.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it started?",
+    "patient_turn": "It hasn’t really changed much, to be honest. It’s been pretty constant since it started, but it definitely gets worse with movement, bending, or coughing. It’s just really uncomfortable all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "The pain is mostly in my lower back, like, right in the center. It’s pretty localized there, but it also radiates down into my right leg, which feels more like an aching sensation. It’s not just in one spot, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced similar back pain episodes in the past?",
+    "patient_turn": "No, I haven’t had anything like this before. I mean, I’ve had some minor aches here and there, but nothing this severe or sudden. It’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weakness or numbness in your legs or anywhere else?",
+    "patient_turn": "No, I haven’t noticed any weakness or numbness, um, anywhere else. It’s just the pain in my lower back and that aching feeling in my right leg. I’m glad I don’t have those other symptoms, but this pain is still really tough to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any issues with bowel or bladder control recently?",
+    "patient_turn": "No, I haven’t had any issues with bowel or bladder control at all. I mean, that’s something I’m really glad about, but, um, this back pain is still really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any problems with erectile dysfunction recently?",
+    "patient_turn": "Um, no, I haven’t had any problems with that. I’m still, you know, sexually active with my girlfriend, and everything’s been fine in that area. It’s just this back pain that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever, chills, or night sweats recently?",
+    "patient_turn": "No, I haven’t had any fever, chills, or night sweats. I mean, I feel okay otherwise, but this pain is just really, um, distracting and uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unusual fatigue or changes in your skin lately?",
+    "patient_turn": "No, I haven’t noticed any unusual fatigue or changes in my skin. I feel pretty normal in those areas, but, um, this back pain is really weighing on me. It’s hard to focus on anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any joint pain or breathing difficulties recently?",
+    "patient_turn": "No, I haven’t had any joint pain or breathing difficulties. It’s really just this back pain that’s been bothering me, and, um, it’s pretty frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or illnesses?",
+    "patient_turn": "No, I haven’t had any recent infections or illnesses. I’ve been feeling fine otherwise, but, um, this back pain is really concerning me. It just came out of nowhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of diabetes or any other medical conditions?",
+    "patient_turn": "Yeah, I have type 2 diabetes, and I manage it with insulin. That’s pretty much the only medical condition I have, but, um, I’m just really worried about this back pain right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yes, I had a hemorrhoidectomy about three years ago, but it was just a day surgery. Other than that, I haven’t had any other surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you take Tylenol for your pain?",
+    "patient_turn": "I take Tylenol for the pain, but, um, it doesn’t really help much. I’ve been taking it as needed, but it’s just not providing the relief I was hoping for.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I mean, I’ve never had a problem with medications before, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease or other significant illnesses?",
+    "patient_turn": "Um, my family history does include prostate cancer in my father, but I’m not sure about other significant illnesses like heart disease. I guess that’s something to keep in mind, but, you know, right now I’m just focused on this back pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol?",
+    "patient_turn": "Yeah, I smoke about a pack of cigarettes a day for, um, 40 years now. I also drink alcohol occasionally, like a glass of red wine on the weekends. I know it’s not great, but, um, it’s just part of my routine, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "Yes, I am currently sexually active with my girlfriend. I’ve had a couple of female partners in the past year, but I always use condoms, you know, just to be safe.",
+    "annotation": "Correct"
+  }
+]

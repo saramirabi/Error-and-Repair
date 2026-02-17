@@ -1,0 +1,267 @@
+[
+  {
+    "doctor_turn": "How are you doing?",
+    "patient_turn": "Not so well I I feel like I've been having just worsening breathlessness and a cough for it's been going on for two years now and I just can't seem to get rid of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, the cough and breathlessness both started two years ago?",
+    "patient_turn": "Yeah, I would say approximately around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Um, do you always have the breathlessness, or does it come and go?",
+    "patient_turn": "Um, I think it's, I feel short of breath most of the times, but it's mainly just gets worse when I'm exerting myself when I'm walking more than usual or just working in the garden.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, um and same thing with the cough? It gets worse when you're walking around?",
+    "patient_turn": "Yeah, I would say so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And was there any sort of trigger for this two years ago? Anything that you remember?",
+    "patient_turn": "Um, no, it kind of just started gradually on its own. No, no real triggers that I can remember.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, does anything make it worse or better besides the exertion?",
+    "patient_turn": "Uh, no, I think that's pretty much the only thing that really makes it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you describe your breathlessness? Is it that you're breathing too fast or you can't catch your breath?",
+    "patient_turn": "It's I think it's more so just I can't catch my breath and sometimes I just have trouble being able to take like a full breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Um, and out of 1 to 10, 10 being the worst, how bad is your breathlessness?",
+    "patient_turn": "It can get up to I would say like an eight sometimes when I'm doing a lot of work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever experienced this before?",
+    "patient_turn": "Not before the two years, before I I never felt anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned it's gradually been getting worse, right?",
+    "patient_turn": "Yeah, I would say so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the cough, um, do you ever cough up any blood?",
+    "patient_turn": "No, it's uh, it's usually just a dry cough. No, no I don't produce any mucus or blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. Um, and do you feel like you're wheezy?",
+    "patient_turn": "No, I haven't heard any kind of wheeziness at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any issues with your breathlessness when you're laying down?",
+    "patient_turn": "No, I'm completely fine laying down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and it's not waking you up at night, right?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, have there been any changes to your taste recently?",
+    "patient_turn": "No, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Runny nose or stuffy nose?",
+    "patient_turn": "Nope, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, changes in your hearing or ear pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your vision or eye pain?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any fevers?",
+    "patient_turn": "Um, maybe some chills here and there, but not not really a fever, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned chills. How about night sweats?",
+    "patient_turn": "Um, just a few times per week I would maybe have to take off my blanket sometimes I notice a lot of my sweat covering the bed sheets. That's been going on for about, say a couple months now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK um any weight loss?",
+    "patient_turn": "I think over the last few months I may have lost like around 3 three kilograms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, any rashes on your body?",
+    "patient_turn": "Not that I know, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, how about uh like feeling you're like you're tired?",
+    "patient_turn": "Um, yeah, I feel pretty tired sometimes, but I just thought it was because I'm getting older.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, fair enough. How about chest pain?",
+    "patient_turn": "No chest pain, no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your arms or legs?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how about feeling like your heart's racing?",
+    "patient_turn": "No heart has been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about changes to your bowel movements?",
+    "patient_turn": "No, I go pretty regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and urine, any changes there?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about nausea and vomiting?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um any dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? Ok, um how about confusion or memory loss?",
+    "patient_turn": "Not that I know of, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you otherwise healthy? Do you have any other medical conditions?",
+    "patient_turn": "I do have high blood pressure and I think they said like my prostate is larger than normal. Um, but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been sick in the past?",
+    "patient_turn": "Uh, in terms of like breathing, I think maybe as a child like I may have had like a pneumonia but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you on any medications?",
+    "patient_turn": "Just ramipril for my high blood pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um how long have you been on that medication for?",
+    "patient_turn": "Uh, for a pretty long time, I would say more than 10 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and no issues, side effects with that, right?",
+    "patient_turn": "No, and my blood pressure is pretty well controlled on that medication.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good, um, any allergies?",
+    "patient_turn": "No. No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all of your immunizations?",
+    "patient_turn": "Yeah I got my shingles and my pneumonia vaccination everything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, in terms of family history, um, are there any heart or lung conditions that run in the family?",
+    "patient_turn": "Uh, so yeah, my dad had quite a few problems. He had type 2 diabetes then he suffered from 2 strokes and then he also had a heart attack uh, in I think when he was like 56. But then he actually ended up dying of bowel cancer in his 70s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about your mother? Is she alive? Is she healthy?",
+    "patient_turn": "Um, my mom is alive, but she suffered from Type 2 diabetes and high blood pressure as well. And she also had, like hypothyroidism. And she also suffered from depression as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um OK, so do you live by yourself and where do you live?",
+    "patient_turn": "I live on an apartment and in apartment by myself right now. I do find it difficult getting out of the house recently just because of my shortness of breath, but other than that I feel that I'm pretty independent.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke?",
+    "patient_turn": "No, I've never smoked in my life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? Um, how about other recreational drugs?",
+    "patient_turn": "No no marijuana, no cocaine, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about alcohol? Do you drink alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you still work?",
+    "patient_turn": "Uh, no, I actually worked at just the hospital I used to volunteer, but now I just can't get out of the house. I feel just tired and short of breath all the time so just staying in my house most of the time.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and has anyone around you been sick?",
+    "patient_turn": "No, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No um, and have you traveled anywhere recently?",
+    "patient_turn": "No, No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, have you been worked up for this in the past two years? Like have you had any chest X-rays or pulmonary function tests or anything like that?",
+    "patient_turn": "No, I've never really had this issue before, so no investigations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, well those were all the questions that I had. Did you have anything that you wanted to add that I maybe missed?",
+    "patient_turn": "Uh, no, I just it's been going on for two years and I feel like it's getting worse and worse. And yeah, I'm just scared of having to, you know, go on oxygen or like just not being able to breathe at one point.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. So we will try to do a good job working you up for everything that we think it may be. And right now, it sounds like it could be pulmonary fibrosis either like you know an autoimmune process or triggered after like an infection that you may have had in the past. We will definitely also look into see if it's perhaps a lung cancer, asthma and you mentioned you don't smoke so we don't think it could be COPD but we'll also test for that in case all everything else comes back negative.",
+    "patient_turn": "OK, sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

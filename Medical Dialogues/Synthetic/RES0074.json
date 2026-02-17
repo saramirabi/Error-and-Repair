@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having some pretty uncomfortable symptoms for about a week now. It started with a scratchy sore throat that got really painful when I swallow, and then I’ve developed muscle aches, fatigue, and, um, I’ve been going to the bathroom a lot more, like, watery diarrhea… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed the sore throat about five days ago. It was, um, pretty mild at first, but it’s gotten a lot worse since then, and now it really hurts to swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or location since it started?",
+    "patient_turn": "Actually, it hasn't really changed at all, but I think it got worse yesterday. I mean, it was fine before, but now it’s just a little scratchy.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "Um, it’s mostly in the back of my throat, I guess? Like, it feels really sore when I try to swallow, and it’s just… uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your ears or neck?",
+    "patient_turn": "Uh, no, not really. It’s just in my throat, I think. I haven’t noticed it spreading to my ears or neck or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your throat?",
+    "patient_turn": "I first noticed the pain in my throat about five days ago. It started off kinda scratchy, but it’s definitely gotten worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a sharp pain, especially when I swallow. It’s really uncomfortable, honestly… like, it just makes me not want to eat or drink anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain in your throat changed in intensity since it first started?",
+    "patient_turn": "Uh, I think maybe it got a bit worse, but I’m not totally sure. It’s kind of hard to tell, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when you swallow? Is it sharp, dull, or something else?",
+    "patient_turn": "You know, I really need to get some groceries later. Anyway, the pain when I swallow is, um, I guess it's pretty uncomfortable, but I was just thinking about what to make for dinner.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse when you swallow?",
+    "patient_turn": "Um, I’ve noticed that drinking water helps a little, but it still hurts. Eating makes it worse, for sure. I try to avoid solid food because it’s just too painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling breathless, dizzy, or having a fast heartbeat?",
+    "patient_turn": "No, I haven’t had any of those symptoms, thankfully. It’s mostly just the sore throat, muscle aches, and, um, the diarrhea. I’m kinda worried about that too, but no dizziness or breathlessness or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many times a day are you experiencing diarrhea?",
+    "patient_turn": "I’ve been going to the bathroom about 6 to 7 times a day, and it’s mostly watery. It’s, um, definitely not normal for me, and it’s adding to my worries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any tenderness or pain in your abdomen?",
+    "patient_turn": "Yeah, there’s been some mild abdominal tenderness, but it’s not, like, super painful. Just a little uncomfortable, I guess. It’s mostly just the throat and the diarrhea that are bothering me more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or previous health issues I should know about?",
+    "patient_turn": "Um, yeah, I have hypertension and hypercholesterolemia, which I manage with Ramipril and Crestor. I also take multivitamins, but that’s about it. Nothing else really stands out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yeah, I had an appendectomy when I was a teenager, but that’s the only surgery I’ve had. Nothing else, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve never had any issues with medications before, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone recently who was sick or had similar symptoms?",
+    "patient_turn": "Um, yeah, I went to a small family event about two weeks ago, and one person there is, like, recently symptomatic and waiting for test results. I’m kinda worried that I might have caught something from them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Would you like to get tested for COVID-19?",
+    "patient_turn": "Yeah, I definitely would like to get tested for COVID-19. I’m really concerned about my symptoms and, um, the possibility of having it, especially since someone I was around is sick.",
+    "annotation": "Correct"
+  }
+]

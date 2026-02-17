@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, my baby boy, he’s six months old, and he’s been making these grunting noises for the past couple of days. I’ve also noticed he’s been quieter than usual and, um, he’s having a hard time sleeping… like, he only slept about four hours last night. I’m kinda worried because he’s not feeding well either, just taking formula once or twice today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the grunting noises and changes in his behavior?",
+    "patient_turn": "Um, I first noticed the grunting noises about two days ago, I think. And, uh, that’s when I realized he was being quieter and not crying as much, which is really unusual for him. It’s just been, um, a bit concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you hear the grunting noises coming from?",
+    "patient_turn": "Uh, I don’t really hear them coming from anywhere specific, but I think it might be more like he’s not making noises at all, which is strange because he usually cries a lot.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the grunting noises? Are they more like a cough, a wheeze, or something else?",
+    "patient_turn": "Um, I wouldn’t say it’s like a cough or a wheeze… it’s more like, uh, just these little grunting sounds, you know? It’s hard to explain, but it sounds like he’s trying to breathe a bit harder or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he shown any changes in his usual activity level or behavior during this time?",
+    "patient_turn": "Yeah, definitely. He’s been a lot quieter than usual, and, um, he’s not really playing or interacting like he normally does. It’s just, um, really concerning because he usually has so much energy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been making those grunting noises?",
+    "patient_turn": "He’s been making them for about two days, but I’m pretty sure it started a week ago. It's hard to keep track sometimes, you know?",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has his sleeping been lately?",
+    "patient_turn": "Um, his sleeping has been pretty rough. He only slept about four hours last night, which is, like, way less than usual. I’m really worried because he usually sleeps better than that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has his feeding been over the last couple of days?",
+    "patient_turn": "Uh, his feeding has been really poor. He’s only taken formula once or twice today, and he doesn’t seem interested in feeding at all. It’s just, um, really concerning because he usually eats well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in his behavior or activity level recently?",
+    "patient_turn": "Um, I think he’s been a bit quieter, but it’s hard to say for sure. Sometimes I feel like he’s just being a little more chill, but then again, he can be active too.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has he been feeding normally, or have you noticed any changes in his appetite?",
+    "patient_turn": "Um, he hasn’t been feeding normally at all. His appetite is really off; he’s only taken formula once or twice today, and he just doesn’t seem interested in eating. It’s, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he experienced any coughing, drooling, or vomiting recently?",
+    "patient_turn": "No, he hasn’t had any coughing, drooling, or vomiting at all. It’s just, um, the grunting noises and the quietness that’s really got me worried. Everything else seems normal, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many wet diapers has he had today?",
+    "patient_turn": "He’s had about five to six wet diapers today, which is, um, normal for him. So, at least that’s a good sign, I guess, but I’m still really worried about everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you introduced any new foods or solids to his diet recently?",
+    "patient_turn": "No, we haven’t introduced any new foods or solids at all. He’s just been on formula, and, um, I haven’t changed anything in his diet. So, I’m not sure why he’s acting this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are his immunizations up to date?",
+    "patient_turn": "Yeah, his immunizations are up to date. I, um, don’t think he’s had any recent vaccinations in the past two to three weeks, so that shouldn’t be an issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any vaccinations in the last few weeks?",
+    "patient_turn": "No, he hasn’t had any vaccinations in the past two to three weeks. His immunizations are all up to date, so, um, I don’t think that’s related to what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any known allergies?",
+    "patient_turn": "Um, no, he doesn’t have any known allergies that I’m aware of. I mean, we haven’t had any issues with that, so, uh, I’m not really sure if that’s a factor here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of medical conditions, like asthma or cystic fibrosis?",
+    "patient_turn": "No, there’s no family history of asthma, cystic fibrosis, or any other medical conditions that I know of. Um, both my husband and I are healthy, so I’m not sure if that’s relevant to what’s happening with him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been hospitalized or had any surgeries since he was born?",
+    "patient_turn": "No, he hasn’t been hospitalized or had any surgeries since he was born. He did have a brief stay in the NICU when he was born, but, um, that was just for three days and he didn’t have any ongoing issues after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been exposed to any foreign objects or substances recently?",
+    "patient_turn": "No, there hasn’t been any exposure to foreign objects or substances that I know of. He’s just been at home with us, so, um, I don’t think that’s a concern.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you introduced any new feeds or medications recently?",
+    "patient_turn": "No, I haven’t introduced any new feeds or medications. It’s just been the same formula, and, um, I haven’t changed anything in his routine. So, I’m really not sure what’s causing all this.",
+    "annotation": "Correct"
+  }
+]

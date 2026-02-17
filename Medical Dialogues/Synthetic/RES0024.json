@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried because I’ve lost my sense of smell and taste for the past two days. It’s, like, completely gone, and I don’t have any other symptoms, but I’m kinda anxious about it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the loss of smell and taste changed at all since it started?",
+    "patient_turn": "No, not really… it’s been the same since it started. I mean, I still can’t smell or taste anything at all, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the loss of smell and taste?",
+    "patient_turn": "Um, not really. I’ve felt a bit fatigued and my throat feels dry, but I don’t have a sore throat or anything else, like cough or fever. It’s just the loss of smell and taste that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the loss of smell and taste?",
+    "patient_turn": "It’s been, um, two days now. I just can’t believe it’s happening, and I’m kinda worried about what it means, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the dry sensation in your throat?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to organize my closet later.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the dry sensation in your throat feel like?",
+    "patient_turn": "Um, it’s just, like, a mild dryness, you know? It’s not painful or anything, just kinda uncomfortable, but I don’t have a sore throat or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the loss of smell and taste?",
+    "patient_turn": "Uh, I think it might have been a couple of days ago... or maybe three? I'm not totally sure, though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you tell me when you first noticed the loss of smell and taste?",
+    "patient_turn": "Oh, um, I think it was about two days ago. I just woke up and realized I couldn’t smell or taste anything, and it really caught me off guard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use the topical steroid cream for your eczema?",
+    "patient_turn": "I use it a few times a week, um, mostly when I have flare-ups. It helps, but I try not to overuse it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you carry an EpiPen for your peanut allergy?",
+    "patient_turn": "Yes, I do. I had a pretty serious reaction when I was a kid, so I always carry it with me just in case. It makes me feel a bit safer, but, um, I really try to avoid peanuts altogether.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been using birth control?",
+    "patient_turn": "I’ve been using it for about three years now. It’s, um, been pretty consistent, and I haven’t had any issues with it, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you spend time with friends or family outside of your boyfriend?",
+    "patient_turn": "Um, not really that often. I mostly just have online classes, so my social contacts are pretty limited right now. I guess it’s mostly just my boyfriend and, like, a few friends online.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any substances like tobacco, alcohol, or recreational drugs?",
+    "patient_turn": "I don’t smoke cigarettes, but I do use marijuana occasionally, um, mostly through edibles. I drink alcohol socially on weekends, but that’s about it. I don’t really use any other recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like heart or lung disease?",
+    "patient_turn": "Um, no, not really. The only thing is my uncle has prostate cancer, but there’s no family history of heart or lung disease. So, I guess that’s a relief, but I’m still worried about my symptoms.",
+    "annotation": "Correct"
+  }
+]

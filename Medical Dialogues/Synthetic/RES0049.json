@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this dry cough for about a week now. It started off just at night, but, like, it's gotten worse and now it's constant. I’m kinda worried because I've also had some fevers and chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Um, I think it started about a week ago, you know? It was mostly at night at first, but now it’s just, like, all the time. It’s really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest? Does it spread anywhere else?",
+    "patient_turn": "Uh, I don’t really feel it in my chest, to be honest. It’s just a dry cough, you know? I haven’t had any chest pain or shortness of breath or anything like that. Just the cough… and, um, the fevers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it more like a tickle, or does it feel different?",
+    "patient_turn": "It's kind of a dry cough, you know? Like, it started off at night, but now it's all day. I think maybe it feels like when you have something stuck in your throat, but also, I’ve had this annoying tickle sometimes. Oh, and I remember last week, my daughter had a cough too, but hers was more like a wet cough, and she was fine after a couple of days. So, I don't know if that means anything.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like fever, breathlessness, or fatigue?",
+    "patient_turn": "Yeah, I’ve had some fevers and chills, um, for the past week. It’s not super high, but enough to make me feel, like, uncomfortable. And I guess I’m a bit tired, but it’s not, like, extreme fatigue or anything. Just, you know, feeling off. Oh, and I just lost my taste and smell yesterday, which is kinda weird and worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "You know, I’ve been thinking about getting a new car. My old one has been acting up lately, and it’s just frustrating.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you have any phlegm with it?",
+    "patient_turn": "It’s a dry cough, I think, but it’s been kind of annoying. It started about a week ago, I guess. I remember I was watching this show on TV when it first hit me, and then I thought maybe I was just getting a cold or something. Oh, and my neighbor had a barbecue last weekend, and the smoke really bothered me, so maybe that’s why it got worse? Anyway, it's just been pretty constant now, and I’m not sure if it’s all related or just a coincidence.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how much do you smoke each day?",
+    "patient_turn": "I’ve been smoking for, um, about ten years now, I think? I smoke roughly a pack a day. I know it’s not great, and I’ve been trying to cut back, especially with all the COVID-19 stuff going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of asthma or breathing problems?",
+    "patient_turn": "Yeah, I have a history of childhood asthma, but it’s been well controlled for over a decade now. I haven’t needed to use an inhaler or anything like that in a long time, so I thought I was doing okay. But now with this cough, I’m kinda worried it might be related.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized for any reason?",
+    "patient_turn": "Um, no, I haven’t had any surgeries or been hospitalized before. I’ve been pretty healthy overall, except for the asthma when I was a kid. So, this cough is really, like, out of the blue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or foods?",
+    "patient_turn": "Uh, not really. I don’t have any known drug or food allergies, except for, like, mild seasonal rhinitis in the fall. So, I guess that’s not really a big deal. But, um, I’m just worried about this cough and everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yeah, my dad had a heart attack at age 58, so that’s a bit concerning. But, um, there’s no family history of cancer or lung disease that I know of. I guess I’m just trying to keep an eye on my health, especially with everything happening right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I haven’t traveled recently. I’ve just been at home, you know, trying to avoid infecting my family since I started feeling unwell. So, yeah, no trips or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol occasionally, um, maybe a few beers a few times a week. It’s not a lot, but I guess I just like to unwind sometimes. I’m not sure if that’s relevant, but it’s just part of my routine, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently trying to cut down on smoking?",
+    "patient_turn": "Yeah, I am. I’ve been trying to reduce smoking, especially with all the COVID-19 concerns. It’s been tough, though, you know? I smoke about a pack a day, and I know I need to cut back, but it’s hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been taking Tylenol Cold for your symptoms?",
+    "patient_turn": "I’ve been taking Tylenol Cold for about four days now, mostly at night. I thought it might help with the cough and the fevers, but, um, it doesn’t really seem to make much of a difference. It’s just been really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been isolating yourself at home since your symptoms started?",
+    "patient_turn": "Yeah, I’ve been isolating myself at home since the symptoms started. I just want to avoid infecting my family, you know? It’s been a bit lonely, but I think it’s the right thing to do right now.",
+    "annotation": "Correct"
+  }
+]

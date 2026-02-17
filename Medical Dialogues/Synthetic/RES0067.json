@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Um, hi, Dr. Lee. So, my daughter, she's 2 years old, and she's been having a fever for like, um, two days now. It’s been up to 38.5°C, and it just won’t go down even with acetaminophen. I’m kinda worried because she’s also having a really hard time swallowing, both solids and liquids, and she’s been drooling a lot…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the pain or discomfort is located?",
+    "patient_turn": "Um, I think it’s mostly in her throat. She seems really uncomfortable when she tries to swallow, and, uh, she’s been drooling a lot too. It’s just, you know, really concerning to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like for her? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, it’s kind of hard to say exactly, but she seems really uncomfortable, like she doesn’t want to eat or drink, which is unusual for her. And last night, she kept tossing and turning, and I thought maybe it was because she was too hot or something, but then again, I also noticed she was really clingy, which she usually is not, so it’s a bit confusing.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has anything made her discomfort better or worse?",
+    "patient_turn": "Um, I’m not really sure if anything has helped. She’s been taking acetaminophen, but it doesn’t seem to make much of a difference with the fever or her swallowing. And, um, she just seems to get more upset when she tries to eat or drink, so I guess that makes it worse…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she shown any other symptoms, like trouble breathing, dizziness, or feeling sick to her stomach?",
+    "patient_turn": "Yeah, actually, she started having some shortness of breath since yesterday, which really worries me. She’s also been really irritable and not eating much at all. Um, I haven’t noticed any dizziness or stomach issues, though. It’s just the fever, the swallowing trouble, and now the breathing…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has she been having difficulty swallowing?",
+    "patient_turn": "Um, I think the swallowing issues started about a day ago, maybe a little more. She was fine before that, but then it just got worse really quickly. It’s just so hard to see her struggling like this…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been able to drink any fluids at all?",
+    "patient_turn": "Oh, she drinks a little, but not really. I mean, she hasn’t been drinking at all, but then again, she did take a few sips of water earlier, so maybe she can drink? It's just that she doesn't seem to want to.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Has she been more irritable or fussy than usual lately?",
+    "patient_turn": "Yeah, definitely. She’s been really irritable and fussy, like, um, more than usual. She’s usually pretty cheerful, but now she just seems so uncomfortable and upset, and it’s really hard to see her like this…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any difficulty breathing or wheezing?",
+    "patient_turn": "Um, yeah, she started having some shortness of breath since yesterday. I wouldn’t say it’s wheezing, but she’s definitely struggling a bit to breathe, and that really worries me. I just feel like everything is happening so fast…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice her fever?",
+    "patient_turn": "I think it started a couple of days ago, but actually, now that I think about it, it might have been longer than that. I mean, she had a slight fever last week, but I thought it was nothing serious. So, maybe it was just two days ago, or maybe it was more.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How high has her fever been, and have you noticed any patterns with it?",
+    "patient_turn": "Um, her fever has been up to 38.5°C, and it just seems to stay around that level. I haven’t really noticed any patterns, though. It’s just, like, constant, and it doesn’t go down even with the acetaminophen, which is really frustrating and, um, worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any cough or cold symptoms recently?",
+    "patient_turn": "Um, she had a self-resolving cough about two weeks ago, but it didn’t seem serious at the time, and we didn’t do anything for it. Since then, she hasn’t had any cough or cold symptoms, just this fever and the swallowing issues. So, yeah, it’s all kinda sudden, I guess…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she experienced any nausea or vomiting recently?",
+    "patient_turn": "No, she hasn’t had any nausea or vomiting at all. It’s just the fever, the trouble swallowing, and the shortness of breath. I mean, I’m really worried about her, but thankfully, no stomach issues…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any diarrhea or constipation recently?",
+    "patient_turn": "No, she hasn’t had any diarrhea or constipation either. It’s just been the fever and the swallowing problems, and, um, I’m really anxious about it all. I just want her to feel better…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did she have a cough two weeks ago?",
+    "patient_turn": "Yeah, she did have a cough about two weeks ago, but it was, um, pretty mild and went away on its own. I didn’t think much of it at the time, but now I’m just worried that it might be connected to all this…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she attend daycare or have any recent exposure to other sick children?",
+    "patient_turn": "Yeah, she goes to daycare, and, um, I think she might have been exposed to something about three weeks ago. There were some kids there who were sick, so I guess that could be a factor, but I’m not totally sure…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been around anyone who was sick recently?",
+    "patient_turn": "Um, yeah, she was around some kids at daycare who were sick about three weeks ago. I’m just really worried that she might have caught something from them, especially with how quickly she’s gotten worse…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are her immunizations up to date, including the H. flu vaccine?",
+    "patient_turn": "Well, her immunizations are mostly up to date, but she hasn’t had the Haemophilus influenzae type b (H. flu) vaccine. I know that’s important, and I’m just really worried that it might be a factor in all of this…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in the family have a history of respiratory issues or similar illnesses?",
+    "patient_turn": "Um, no, there’s no history of respiratory issues or similar illnesses in the family. It’s just been pretty normal for us, so this whole situation is really unexpected and, um, honestly quite scary…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any past medical problems or health issues?",
+    "patient_turn": "No, her past medical history is unremarkable. She hasn’t had any hospitalizations or complications, and she’s been pretty healthy overall. That’s why this is all so concerning for me…",
+    "annotation": "Correct"
+  }
+]

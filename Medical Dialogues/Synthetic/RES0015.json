@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been having some pretty bad breathing issues for the past six weeks. It’s getting worse, and I’ve got this cough that just won’t go away. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathing issues and cough?",
+    "patient_turn": "Uh, it started about six weeks ago, I think. At first, it was just a little annoying, but then it got worse, you know? Now, I feel like I can’t take deep breaths, and it’s really hard when I try to do anything physical.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the breathlessness and cough feel the worst?",
+    "patient_turn": "Um, it feels the worst when I’m trying to do anything active, like going up the stairs or, um, even just walking around. It’s like I can’t get enough air, and I just feel this tightness in my chest. The cough, well, it’s just really persistent, and I sometimes cough up this, uh, sputum that’s kind of pink-tinged or brown. It’s really unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the breathlessness feel like? Is it more like a tightness, or do you feel like you can’t breathe at all?",
+    "patient_turn": "Uh, it’s kind of, I don’t know, like a mix of both? Sometimes it feels tight, but I think I can breathe, just not deeply, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the breathlessness feel like for you? Is it a tight feeling, or something else?",
+    "patient_turn": "Uh, it’s definitely a tight feeling, like there’s pressure in my chest, and I can’t expand my lungs fully. It’s really uncomfortable, and sometimes I feel like I’m gasping for air, especially when I’m active. It’s, um, pretty scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness starting?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get some new shoes for the winter. They’re really nice, but I can’t decide on the color!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How has the breathlessness changed since it first started?",
+    "patient_turn": "Um, it’s definitely gotten worse since it first started. At first, I could manage it, but now it’s just, like, really persistent and I can’t do much without feeling out of breath. It’s honestly pretty scary, and I’m worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "Uh, I’ve been smoking for about ten years now. I think I smoke, um, around a pack a day, maybe a little less. It’s just, you know, something I’ve struggled with for a while, and I’m kinda worried about how it might be affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you move from India to Canada?",
+    "patient_turn": "I moved to Canada about a year ago. It’s been a big change for me, and, um, I’m still getting used to everything here. But, you know, with all these breathing issues, it’s been really tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many people do you live with in your shared house?",
+    "patient_turn": "I live with, um, six other people in my shared student house. It’s a bit crowded, and I’ve noticed that three of them have respiratory symptoms too, which is, you know, kinda concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills recently?",
+    "patient_turn": "Yeah, um, I’ve been having intermittent fevers for the past two to three weeks. I’ve had chills too, and I even recorded a fever of 102°F at one point. It’s just been really uncomfortable, and I’m honestly worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats?",
+    "patient_turn": "Yes, I have. I’ve been having night sweats every other night, which is, um, really unsettling. I wake up feeling all hot and sweaty, and it’s just adding to my worries about my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "Um, yeah, I think I’ve lost some weight. It’s not like I’m trying to, but I’ve noticed my clothes fitting a bit looser. I guess it’s just been hard to eat properly with everything going on, and it’s, you know, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What was the highest fever you’ve recorded during this time?",
+    "patient_turn": "Uh, the highest fever I recorded was 102°F. It was pretty alarming, to be honest, and it just made me feel even more worried about what might be happening with my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any sore throat, nasal congestion, or changes in taste or smell?",
+    "patient_turn": "No, um, I haven’t had any sore throat, nasal congestion, or changes in taste or smell. It’s mostly just the cough, breathlessness, and fever, you know? I’m really just focused on those symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease in your relatives?",
+    "patient_turn": "No, um, there’s no family history of lung or heart disease or cancer that I know of. It’s just, you know, me dealing with these issues right now, and it’s really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies or chronic medical conditions?",
+    "patient_turn": "Uh, no, I don’t have any known allergies or chronic medical conditions. I’ve been pretty healthy overall, except for this, um, breathing issue that’s really been bothering me lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you take acetaminophen for your symptoms?",
+    "patient_turn": "I take acetaminophen occasionally, but, um, it hasn’t really helped much with my symptoms. I just, you know, thought it might relieve some discomfort, but it’s still been pretty tough to deal with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use any recreational drugs. I’ve been trying to stay healthy, especially with everything going on, so I’m just focused on, um, figuring out what’s causing these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, um, I’m up to date on my immunizations. I’ve made sure to keep everything current, you know? It’s just really frustrating to be dealing with these health issues despite that.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having these worsening coughing fits for the past three months. They get triggered by exercise and things like vacuuming or cleaning, and it's really starting to interfere with my daily activities and fitness goals.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you experience these coughing fits now?",
+    "patient_turn": "Now, I have these coughing fits every other day. They last about 15 to 20 minutes and are pretty intense, with a lot of uncontrollable dry coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the tightness in your chest during these episodes?",
+    "patient_turn": "The tightness is mostly in the center of my chest. It feels like a heavy pressure, and it makes it a bit difficult to breathe during those episodes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you produce any mucus?",
+    "patient_turn": "The cough is mostly dry, but I do have some occasional light sputum production. It's really uncomfortable and feels like I can't control it when it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the coughing fits starting?",
+    "patient_turn": "Oh, um, I think it started about three months ago, maybe? At first, it was just a little tickle in my throat, you know? And then I moved back to my parents' place because of university closure, which was kind of stressful, and I also noticed that cleaning and vacuuming seemed to trigger it a lot. It's just been a lot to deal with!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the tightness in your chest during these coughing fits?",
+    "patient_turn": "The tightness is mostly in the center of my chest. It feels heavy and makes it hard to breathe during those episodes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to trigger your coughing fits?",
+    "patient_turn": "The coughing fits are triggered by exercise and household activities, especially vacuuming and cleaning. It's really frustrating because I want to stay active, but those things set off the coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever notice any sputum when you cough, or is it always dry?",
+    "patient_turn": "It's mostly a dry cough, but I do have some occasional light sputum production. It’s not a lot, but it does happen sometimes during the fits.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, weight loss, or other unusual symptoms recently?",
+    "patient_turn": "No, I haven't experienced any fever, weight loss, or any other unusual symptoms. Just the coughing fits and the tightness in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or any other respiratory issues?",
+    "patient_turn": "No, I've never been diagnosed with asthma or any other respiratory issues. I haven't had any prior problems like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you usually manage your seasonal allergies when they flare up?",
+    "patient_turn": "I usually manage my seasonal allergies with Reactine. It helps me a lot, but lately, it seems like my coughing fits have been more of an issue than my allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of asthma or other respiratory issues?",
+    "patient_turn": "No one in my family has a history of asthma, but my father does have similar seasonal allergies. Other than that, there aren't any respiratory issues that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I’m a non-smoker and I only drink alcohol occasionally on weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on weekends?",
+    "patient_turn": "I don’t know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick. I've mostly been studying from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever used an inhaler for any reason?",
+    "patient_turn": "No, I've never used an inhaler. This is the first time I've had issues like this, so I haven't needed one before.",
+    "annotation": "Correct"
+  }
+]

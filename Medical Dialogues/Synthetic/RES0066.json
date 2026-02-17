@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. Um, I was discharged about five days ago after being treated for bacterial pneumonia, but I’ve been feeling worse. I have this really harsh cough that, uh, produces yellow sputum, and it’s happening like 10 to 15 times a day. I'm kinda worried because I'm also feeling really short of breath, especially when I try to do anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms returning?",
+    "patient_turn": "I think it started, um, maybe a couple of days after I got home from the hospital. I just thought I was getting better, but then the cough came back, and it got worse pretty quickly. It’s just been really exhausting, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or are you bringing up any mucus?",
+    "patient_turn": "Oh, it's definitely dry, I think. But sometimes I feel like there's a lot of mucus, but I don't really bring any up. So, it's kind of confusing, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, and has it changed since it started?",
+    "patient_turn": "I first noticed the cough, um, a couple of days after I got home from the hospital. It started off, like, not too bad, but then it just got harsher and more persistent. Now it feels like it’s, um, really taking a toll on me, especially with the shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "I don’t really feel any specific pain in my chest, but the cough is just really harsh and, um, it makes me feel pressure when I breathe. It’s more like a discomfort, I guess, rather than actual pain. It’s just hard to catch my breath sometimes, especially when I’m active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or producing mucus?",
+    "patient_turn": "Um, the cough is pretty harsh and, uh, it produces yellow sputum, so it’s not dry. I’d say it’s more productive, but it’s just really frequent, like 10 to 15 times a day. It’s honestly exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Well, the cough is mostly in my chest, I think. And it’s been really persistent, like I’m coughing a lot—maybe around 10-15 times a day? Also, I’ve been feeling really fatigued, which is weird because I usually have a lot of energy, and I went for a walk last week, but just felt wiped out afterward. Plus, I’m not sure if it’s related, but I’ve been having these weird chills too!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "The shortness of breath is mostly when I'm exerting myself, like when I try to do simple things around the house. It's kind of strange because just the other day, I was thinking about how I used to run a lot, but now even walking up the stairs feels like a workout. And then there’s the cough, which I think is producing yellow sputum, but I also just remembered that I need to organize my closet, which has been a mess for ages. I guess it's all just a bit overwhelming!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the shortness of breath?",
+    "patient_turn": "Um, it feels like I’m struggling to get enough air, especially when I’m trying to do anything active, like walking or even just moving around the house. It’s like there’s this tightness in my chest, and I feel really winded, which is, uh, frustrating because I used to be more active. I guess it’s just really concerning for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your cough or sputum?",
+    "patient_turn": "No, I haven’t noticed any blood in my cough or sputum, thank goodness. It’s just the yellow sputum, but, um, I’m really worried about everything else going on, like the shortness of breath and the fatigue. It’s just been a lot to deal with since I got home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or headaches recently?",
+    "patient_turn": "Um, no, I haven’t had any dizziness or headaches. It’s mostly just the cough, shortness of breath, and feeling really fatigued. I’m kinda worried because I thought I was getting better after the pneumonia treatment, but now it feels like things are getting worse again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting lately?",
+    "patient_turn": "No, I haven’t felt nauseous or had any vomiting. It’s really just the cough, shortness of breath, and, um, this fatigue that’s been bothering me. I’m honestly just trying to figure out what’s going on because I thought I was on the mend after being in the hospital.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any sore throat or nasal symptoms recently?",
+    "patient_turn": "No, I haven’t had any sore throat or nasal symptoms. It’s really just the cough and the shortness of breath that are concerning me. I mean, I feel kind of hot during the day and have chills sometimes, but no other symptoms like that. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. I mean, I’ve been feeling pretty fatigued and not as active, but my weight seems to be the same. I’m just, um, really worried about the cough and shortness of breath instead.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any urinary or bowel issues lately?",
+    "patient_turn": "No, I haven’t had any urinary or bowel issues. It’s really just the cough, shortness of breath, and feeling fatigued that are bothering me. I’m honestly just trying to understand why I’m feeling this way after being treated for pneumonia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your limbs or any swollen lymph nodes?",
+    "patient_turn": "No, I haven’t noticed any swelling in my limbs or swollen lymph nodes. It’s really just the cough and shortness of breath that are concerning me right now. I’m, um, just feeling really worn out, and I didn’t expect to feel this way after my hospital stay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of taste or smell recently?",
+    "patient_turn": "No, I haven’t experienced any changes in my sense of taste or smell. It’s really just the cough and shortness of breath that are, um, worrying me. I’m honestly just trying to figure out what’s going on because I thought I was getting better after the pneumonia treatment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any COVID tests since you were discharged from the hospital?",
+    "patient_turn": "No, I haven’t had any COVID tests since I was discharged. I had one before I went into the hospital, but, um, I guess I didn’t think to get tested again since I was feeling better at first. Now, with all these symptoms coming back, I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any other medications besides Synthroid, calcium, and vitamin D?",
+    "patient_turn": "No, I’m not taking any other medications besides the Synthroid, calcium, and vitamin D. I mean, those are the only ones I’ve been on for my hyperthyroidism. I’m just really focused on dealing with this cough and shortness of breath right now.",
+    "annotation": "Correct"
+  }
+]

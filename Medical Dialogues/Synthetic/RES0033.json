@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this cough I’ve had for like six months now. It’s gotten worse recently, and I’m coughing several times a day, you know? Sometimes I even cough up this dark yellow-green stuff, and it’s kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it started about six months ago, but it was, um, pretty intermittent at first. Lately, though, it’s been happening a lot more often, like several times a day, and it’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed over the past week?",
+    "patient_turn": "Well, um, it’s definitely gotten worse. I’m coughing more frequently, and it’s, like, really hard to catch my breath sometimes. I’ve even had some chest pain during those bad coughing fits, which is, honestly, kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any pain in your chest?",
+    "patient_turn": "Um, the cough is just, like, all over, but the chest pain usually happens when I’m coughing really hard. It’s not, like, constant or anything, just during those fits, you know? It’s just… uncomfortable and makes me feel a bit anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it?",
+    "patient_turn": "It feels, um, pretty intense, like I really have to force it out, and sometimes it makes me feel breathless. I guess it’s, like, a deep cough, and when I do cough, I sometimes bring up that dark yellow-green sputum. It’s just… not fun at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes your cough feel better or worse?",
+    "patient_turn": "Well, um, it gets worse when I run, but I don't really run much, so it's not a big deal. And sometimes it helps when I drink water, but I don't really drink water that often.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How often do you experience the cough now?",
+    "patient_turn": "I... a few times a day.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How often do you find yourself coughing throughout the day?",
+    "patient_turn": "Um, I cough several times a day now. It’s, like, really frequent, and it’s just been getting worse, which is honestly kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any blood in your sputum when you cough?",
+    "patient_turn": "No, um, I haven’t seen any blood in my sputum, just that dark yellow-green stuff. I’m really glad about that, but the cough itself is still pretty concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills lately?",
+    "patient_turn": "No, I haven’t had any fever or chills, um, thank goodness. I’ve just been dealing with this cough and some breathlessness, but no other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss or unusual fatigue recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss or, um, unusual fatigue. I mean, I’m a bit tired from the coughing and not sleeping well, but nothing major like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches or felt nauseous lately?",
+    "patient_turn": "No, I haven’t had any headaches or felt nauseous, um, at least not recently. It’s mostly just the cough and some breathlessness that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your urinary or bowel habits?",
+    "patient_turn": "No, I haven’t noticed any changes in my urinary or bowel habits. It’s really just the cough that’s been the main issue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled anywhere recently, and I don’t think I’ve been in contact with anyone who was sick. It’s just been this cough that’s been getting worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of eczema or allergies?",
+    "patient_turn": "Yeah, I have a history of eczema, and I’ve been treating it with topical hydrocortisone cream. I also have allergies to animals, which, um, can make my eczema worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your eczema or any other condition?",
+    "patient_turn": "No, I’m not taking any medications right now, just the topical hydrocortisone cream for my eczema. I don’t have any other conditions that I’m on medication for.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides animals?",
+    "patient_turn": "Um, no, I don’t have any other allergies besides animals. It’s just the animal allergies that affect my eczema, but, you know, nothing else that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries. It’s just, um, my eczema and this cough that’s been bothering me lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of asthma?",
+    "patient_turn": "Um, not that I know of. My mom has eczema too, but there’s no known asthma in my family. It’s just, like, my cough that’s concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently using any form of contraception?",
+    "patient_turn": "I’m not sure about that. We didn’t really discuss my contraception status.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I, um, drink occasionally at parties, but it’s not like a regular thing for me. I guess it’s just, like, a few drinks when I do, but I’m not really keeping track or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use marijuana, and how much do you typically take?",
+    "patient_turn": "I use marijuana, um, once or twice a week, I think. It’s not a lot, just, like, a little bit when I’m hanging out with friends, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes or use any other recreational drugs?",
+    "patient_turn": "No, I don’t smoke cigarettes or use any other recreational drugs. It’s just the occasional marijuana use, but, um, that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your ability to exercise or keep up with activities?",
+    "patient_turn": "Yeah, I’ve definitely noticed a change. I used to be able to run and play soccer without any issues, but now, um, my exercise tolerance is decreasing because of the cough. It’s really frustrating and, honestly, kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day of meals look like for you?",
+    "patient_turn": "Um, I usually have three meals a day, and I try to keep it balanced. I guess it’s, like, a mix of proteins, veggies, and carbs, but I’m not super strict about it. Just, you know, trying to eat healthy overall.",
+    "annotation": "Correct"
+  }
+]

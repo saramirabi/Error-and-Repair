@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this really bad dry cough for about 10 days now, and it’s gotten worse, like, in the last few days. I’m also feeling short of breath, and, uh, I’ve had diarrhea for the past three days. Honestly, I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about 10 days ago, but, um, it’s really intensified in the last 3 or 4 days. It’s just this constant, harsh cough, and it’s been pretty irritating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst? Does it spread anywhere else?",
+    "patient_turn": "Well, the cough is pretty harsh and constant, mostly in my chest, I think. And, uh, I’ve also been feeling a bit short of breath, which is kind of annoying. It’s weird because, you know, I’ve been doing fine for a long time, like I run every other day, but now it’s just, I don’t know, it feels like it might be spreading a little, but it’s hard to say. Plus, I went to the grocery store a few days ago, and it was really crowded, which was a bit stressful.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What seems to make the cough better or worse for you?",
+    "patient_turn": "Well, it definitely gets worse when I cough, which is, um, pretty frustrating. I’ve noticed that sitting down helps a bit, like, it’s somewhat relieving, but, you know, it’s still there. I guess I’m just trying to find anything that might help.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, it doesn’t really hurt at all, just kind of uncomfortable, I guess. But, you know, I’ve had sharp pains before with other issues, like when I had my appendix out, but this is different. It’s not sharp at all, just a bit annoying, really.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "It’s, um, not really sharp or dull, just kind of harsh and constant. It’s mostly dry, and, you know, it can be pretty irritating, especially when I’m coughing a lot. I guess it’s just uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, wet, or something else?",
+    "patient_turn": "Um, I think it’s mostly dry, but there’s like, occasional sputum, I guess? It’s hard to say exactly how it feels, just kind of uncomfortable and, uh, irritating at times. I’m not really sure how to explain it, to be honest.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you seen any blood when you cough?",
+    "patient_turn": "No, um, I haven’t seen any blood when I cough, thank goodness. It’s mostly just a dry cough with, like, rare sputum, but no hemoptysis or anything like that. I’m really glad about that, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any wheezing when you breathe?",
+    "patient_turn": "No, I’m not experiencing any wheezing when I breathe. It’s just the cough and the shortness of breath, but, um, no wheezing or anything like that. I’m kinda worried about the shortness of breath, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "On a scale of 1 to 10, how severe is your shortness of breath right now?",
+    "patient_turn": "I’d say it’s about a 5 out of 10 right now. It gets worse when I cough, and, um, it’s a bit better when I’m sitting down, but it’s still pretty uncomfortable. I’m just, you know, feeling a bit anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many times a day are you experiencing diarrhea?",
+    "patient_turn": "I’m experiencing diarrhea about 8 to 10 times a day, which is, um, really frustrating. It’s liquid and, thankfully, there’s no blood or mucus, but it’s just been a lot, you know? I’m kinda worried about that too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like a sore throat, fever, or chills?",
+    "patient_turn": "No, I haven’t noticed any other symptoms like a sore throat, fever, or chills. It’s just the cough, shortness of breath, and the diarrhea. Honestly, I’m kinda relieved there’s no fever or anything, but it’s still really concerning with what I’m dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions do you have, if any?",
+    "patient_turn": "I have diabetes, which is managed with metformin, and I also have hypertension that I take ramipril for. Both are, um, well controlled, thankfully. Other than that, I don’t have any major medical conditions, just these new symptoms that are really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or heart issues?",
+    "patient_turn": "Well, there’s a family history of diabetes, and my dad passed away from a myocardial infarction in his 60s, but, um, there’s no known family history of lung disease. It’s just, you know, a bit concerning with my symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long did you smoke, and when did you quit?",
+    "patient_turn": "I smoked for over 20 years, um, about a pack a day, but I quit 5 years ago. I’m really glad I did, but I guess I’m just worried about how that might affect me now with these symptoms.",
+    "annotation": "Correct"
+  }
+]

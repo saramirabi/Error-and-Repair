@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m kinda worried about my breathing. I’ve been having this, like, progressively worsening breathlessness for the past three months, and it gets worse with cold air, dust, and, um, physical activity. I also have this dry cough that comes and goes… it usually lasts about an hour.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness and cough?",
+    "patient_turn": "I first noticed it about three months ago. It started off, um, kinda mild, but it’s just gotten worse since then. I mean, now it feels like I can’t catch my breath sometimes, and it’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the breathlessness and if it spreads anywhere else?",
+    "patient_turn": "Yeah, it’s mostly in my chest, you know? I feel this tightness in my throat too, and sometimes it feels heavy when I cough. It doesn’t really spread anywhere else, though… just that tightness and heaviness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the breathlessness feel like for you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s not sharp, really. It feels more like a tightness, you know? Like, I just can’t get enough air in, and it’s pretty intense sometimes—like, I’d rate it an 8 out of 10 when it’s bad. It’s honestly pretty scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What usually triggers your breathlessness episodes?",
+    "patient_turn": "Oh, you know, I’ve been thinking about getting a new couch for my living room. I saw some really nice ones online.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this breathlessness?",
+    "patient_turn": "I’ve been dealing with it for about three months now. It started off kinda mild, but it’s just gotten worse over time, and I’m really starting to feel anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What usually triggers your breathlessness episodes?",
+    "patient_turn": "Well, it usually happens when I’m exposed to cold air, or, um, when there’s a lot of dust around. Physical activity also seems to trigger it, like when I’m moving around too much. It’s really frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the breathlessness most?",
+    "patient_turn": "Um, I think it’s mostly in my chest area, I guess? But, you know, it might also be around my throat or something like that, not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or chest heaviness during these episodes?",
+    "patient_turn": "Yeah, I have noticed some wheezing, especially when I’m really struggling to catch my breath. And, um, there’s definitely that chest heaviness during those episodes too. It’s just, like, really uncomfortable and makes everything feel worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or allergies besides hay fever?",
+    "patient_turn": "Um, no, not really. I just have the hay fever that was diagnosed a few years ago. I don’t have any other past medical conditions or allergies that I know of, and I haven’t had any surgeries either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or eczema?",
+    "patient_turn": "Yeah, actually, my sister has asthma and eczema. I guess that makes me a bit worried since I’ve been having these breathing issues now. But, um, no one else in my family has any lung or cardiac problems that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your flatmate smoke indoors or around you frequently?",
+    "patient_turn": "Yeah, my flatmate smokes, and it definitely makes my coughing worse. I mean, I don’t smoke at all, but being around that smoke is really irritating, especially with my breathing issues. It’s kinda tough living with that right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol, um, pretty rarely, like about once a month, I guess? It’s not something I do often, but I just, you know, have a drink occasionally when I’m out with friends or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home or have you traveled anywhere recently?",
+    "patient_turn": "No, I don’t have any pets at home, and I haven’t traveled anywhere recently either. I’ve just been, um, staying in my flat since I moved here a couple of months ago. So, it’s just been the same environment for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or any other respiratory issues in the past?",
+    "patient_turn": "No, I’ve never been diagnosed with asthma or any other respiratory issues before. This is all pretty new for me, and, um, I didn’t have any problems like this when I was younger either. It’s honestly a bit surprising and concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any chest imaging or lung function tests done?",
+    "patient_turn": "No, I haven’t had any chest imaging or lung function tests done before. I mean, I’ve never really had any breathing issues until now, so I didn’t think I needed them. But, um, I guess it’s something we’re looking into now.",
+    "annotation": "Correct"
+  }
+]

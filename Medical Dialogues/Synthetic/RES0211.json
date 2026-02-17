@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been feeling unwell for the past few days with a dry cough, a scratchy throat, and a mild headache. I just generally feel off and a bit hot, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it started?",
+    "patient_turn": "The cough has been pretty dry since it started. It hasn't really changed much; it's just been persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your throat?",
+    "patient_turn": "It feels like a scratchy sensation in my throat, mostly towards the back. It's not painful, just uncomfortable, and it makes me want to cough more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—does it come in fits, or is it more constant?",
+    "patient_turn": "It's more constant, but it does get worse at times, especially when I'm trying to talk or when I first wake up. It’s not really in fits, just a nagging cough that I can't shake off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "... started a few days ago, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature at all recently?",
+    "patient_turn": "No, I haven't checked my temperature. I just feel hot continuously, especially at night, but I haven't measured it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats while you sleep?",
+    "patient_turn": "No, I haven't had any night sweats. I just feel hot, but it's more like I'm warm all the time rather than sweating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you coughing up any mucus or phlegm?",
+    "patient_turn": "No, I'm not coughing up any mucus or phlegm. It's been a dry cough the whole time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or had any stomach upset recently?",
+    "patient_turn": "No, I haven't felt nauseous or had any stomach upset. My symptoms have mostly been related to my throat and cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any vomiting at all?",
+    "patient_turn": "No, I haven't experienced any vomiting at all. Just the cough and feeling unwell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea recently?",
+    "patient_turn": "No, I haven't had any diarrhea. My symptoms have just been the cough and feeling generally unwell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any joint aches or pains recently?",
+    "patient_turn": "No, I haven't noticed any joint aches or pains. Just the cough and feeling a bit off overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any skin changes or rashes on your body lately?",
+    "patient_turn": "No, I haven't seen any skin changes or rashes. My symptoms are just related to my throat and cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you take your allergy medication, like Claritin?",
+    "patient_turn": "I have Claritin, but I'm not taking it regularly right now. I usually take it intermittently when my allergies act up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking your birth control pills regularly right now?",
+    "patient_turn": "Yes, I take my birth control pills regularly. I haven't missed any doses.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "No, I'm not sexually active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last menstrual period?",
+    "patient_turn": "My last menstrual period was about a week ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have allergies?",
+    "patient_turn": "Yes, my dad has allergies, and I have a cousin with asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I used to drink alcohol occasionally before the COVID-19 restrictions, but I haven't really been drinking much lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I don't know of any sick contacts. My brother had a cold a few weeks ago, but that's about it.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. I’ve been having this, uh, worsening pain in my left knee for about two months now. It’s mostly dull, but sometimes it gets sharp, and it’s been pretty bad—like a 7 out of 10, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I first noticed it, um, about two months ago. It just started off as a little discomfort, but it’s been getting worse since then. Now, it’s really hard to, uh, do my usual activities without feeling that pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located in your knee?",
+    "patient_turn": "Yeah, it’s, um, deep under the kneecap, mostly. I feel it right around the joint line and, uh, sometimes it’s tender when I touch the patella. It’s kind of frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, or is it just in your knee?",
+    "patient_turn": "Uh, I think it’s mostly just in the knee, but sometimes it feels like it might be a little around the leg, but I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s mostly dull, but there are times when it gets sharp, you know? It’s really uncomfortable, and I’d say it’s about a 7 out of 10 in terms of severity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee, and has it changed since then?",
+    "patient_turn": "A... I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I first noticed it about two months ago. It started off as just a little discomfort, but it’s been getting worse since then, and now it’s really hard to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you notice any stiffness in your knee, especially in the morning?",
+    "patient_turn": "Yeah, I do notice some stiffness, um, especially in the morning. It lasts about 15 to 30 minutes, and it’s kind of annoying, you know? It makes it hard to get moving at the start of the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does moving around or being active make your knee pain feel worse?",
+    "patient_turn": "Um, yeah, definitely. Activity makes the pain worse, you know? It’s like, the more I move, the more it hurts, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your knee?",
+    "patient_turn": "Yeah, there’s been some mild swelling in my left knee. It’s not super noticeable, but, um, I can see it a bit, and it’s, uh, concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your knee red or warm to the touch?",
+    "patient_turn": "No, it’s not red or warm to the touch, which is, um, a bit of a relief, I guess. It’s just swollen and tender, but no warmth or redness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any injuries or trauma to your knee recently?",
+    "patient_turn": "Uh, no, I haven’t had any injuries or trauma to my knee. It just started hurting on its own, which is, um, kind of strange to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing pain in any other joints besides your knee?",
+    "patient_turn": "No, I’m not experiencing pain in any other joints. It’s just my left knee that’s been bothering me, which is, um, a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever, chills, or unexpected weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any fever, chills, or, um, unexpected weight loss. In fact, I’ve actually gained about 20 pounds over the last six months, which is, uh, concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite recently?",
+    "patient_turn": "Yeah, I’ve noticed that my appetite has, um, increased a bit. I’ve been eating more, which I think might be part of why I gained weight recently. It’s, uh, kind of worrying me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions have you been diagnosed with?",
+    "patient_turn": "I have diabetes, which I manage with insulin, and I also have hypertension that I take ramipril for. Plus, I’m on a statin for hypercholesterolemia. And, um, I guess I’m also dealing with obesity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or do you have any allergies?",
+    "patient_turn": "No, I don’t have any past surgical history, and I don’t have any medication allergies either. So, um, that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many alcoholic drinks do you consume in a typical week?",
+    "patient_turn": "I usually have about, um, seven alcoholic drinks per week. It’s just something I do to relax, you know? But I’m kinda worried about how it might affect my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I’ve never really been into that, so, um, I guess that’s a good thing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of joint problems or arthritis?",
+    "patient_turn": "Not that I know of, um, there’s no family history of musculoskeletal or autoimmune diseases. But diabetes does run in my family, so, uh, that’s something I’m aware of.",
+    "annotation": "Correct"
+  }
+]

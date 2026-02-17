@@ -1,0 +1,262 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi yes I'm just coming in, uh over the last week, I've been having um like a cough, runny nose and a lot of congestion as well. So I just wanted to come in here to make sure nothing's wrong.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright, and when did the uh cough start? Was it 7 days ago?",
+    "patient_turn": "A bit less than that, I would say it's been probably like five or six days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and has the cough been getting any better or any worse or staying the same?",
+    "patient_turn": "Um it's kind of the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you bringing up any uh sputum with the cough?",
+    "patient_turn": "No, it's mainly like a dry cough, but I am getting like a lot of drainage and uh just congestion in my nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're, you are, are you feeling um like mucus drain from your nose like into the back of your uh mouth?",
+    "patient_turn": "Uh yeah, sometimes I feel like that over the last week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you you haven't caught up any any sputum, but have you brought up any any blood?",
+    "patient_turn": "Uh no, no blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any wheezing?",
+    "patient_turn": "No, no wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about um any chest pain?",
+    "patient_turn": "Um no chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you've had a, and did you, have you had a cough before or is this a new cough?",
+    "patient_turn": "Um no, this is like fairly new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And um could you, is your nose uh like, could you describe the discharge from your nose?",
+    "patient_turn": "Yeah, it's more like kind of a clear to maybe whitish discharge.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And these symptoms start about a week ago as well or about five days ago?",
+    "patient_turn": "Um yeah, around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. And have you had any uh like facial pain like over your over your cheeks or or forehead?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you felt like your nose um is obstructed, like you're not able to breathe in through either one of your nostrils?",
+    "patient_turn": "Yeah, that happens and sometimes the nostrils keep switching.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had a loss or a change in your sense of smell?",
+    "patient_turn": "Um just when I'm congested like I feel like I can't really smell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright. Have you had a loss or a change in your sense of taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and have you had any shortness of breath with the cough?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and have you had any eye redness or um eye discharge?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about a sore throat?",
+    "patient_turn": "Uhm, maybe a little bit of a tickle in my throat, but not sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK, so have you had any pain with swallowing food or liquids?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fevers or chills?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any uh night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how was your weight been recently? Any changes?",
+    "patient_turn": "No, no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and have you had any nausea or vomiting?",
+    "patient_turn": "Uhm no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea?",
+    "patient_turn": "Uh no, no diarrhea.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any urinary problems like painful urination or or frequency?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then any skin changes or or rashes?",
+    "patient_turn": "Uh nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any muscle aches or body pains?",
+    "patient_turn": "Uhm no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how has your energy been over this past week? Have you had fatigue?",
+    "patient_turn": "Uh no, I've been, I haven't been tired or like, it's just been like these symptoms that don't seem to go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. Um and uh, have you had any changes to your um to your voice?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or any any neck swelling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, um so it sounds like over the past uh week you've been having this dry cough uh as well as some nasal discharge and some congestion with um a little bit of a scratchy throat. Um any other symptoms?",
+    "patient_turn": "Uh no, that's pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright, and in the past have you been diagnosed with any medical conditions?",
+    "patient_turn": "Uh no, I've been pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. And, uh, any uh prior hospitalizations or surgeries?",
+    "patient_turn": "Uhm no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And do you take any medications regularly, prescribed or over the counter?",
+    "patient_turn": "Um I've just been taking like Tylenol cold, but it's not really been helping too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um do you have any allergies?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm and, uh currently are you, could you just tell me a little bit about your living situation, um like who you're living with and uh and whereabouts?",
+    "patient_turn": "Um yeah, so I just live in an apartment with my boyfriend and uh live like just within the city.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you going to school right now or are you working?",
+    "patient_turn": "Yeah, I'm working uh currently um just at a grocery store.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been around anybody who's been sick?",
+    "patient_turn": "Uh not that I know of, yeah, I haven't seen anyone like have symptoms or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you traveled anywhere?",
+    "patient_turn": "No, I've been in the province.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and you mentioned um that you have a boyfriend. Are you currently uh sexually active?",
+    "patient_turn": "Yep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you use condoms or any form of birth control?",
+    "patient_turn": "Uh yeah, usually like just condoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK, and is there any chance that uh you could be pregnant currently?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and I just want um, are you currently smoking?",
+    "patient_turn": "Uh no, I have haven't, haven't smoked ever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and that includes cigarettes and marijuana?",
+    "patient_turn": "Uh Yeah, no no marijuana either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you drink alcohol?",
+    "patient_turn": "Uh just like once or twice in a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is it like one or two drinks?",
+    "patient_turn": "Yeah, so I would say, like it would usually be wine.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "I see alright, and do you use any other uh recreational drugs?",
+    "patient_turn": "Uh no, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and in the family, um are there any history of heart or lung problems?",
+    "patient_turn": "Um not that I know of, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about any uh any cancers?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, um so uhm that was everything I wanted to ask today on on history, was there anything else that maybe I forgot to ask about, you wanted to mention?",
+    "patient_turn": "Uh no, I just yeah, I was just wondering if like I should be worried at all about Covid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly um something that we'll be testing for today with some of the symptoms that you're having like um cough and some nonspecific symptoms like that can show up in Covid, um for sure so it will be important to get a test for that today, which will require a nasal swab. Um that being said, it could be uhm another type of viral illness like the common cold, which is causing your your symptoms here today, um and so it will be just be important to be diligent and if your symptoms, diligent with the testing I mean, with the Covid, and if your symptoms get any worse we, it might be important to go to the hospital or or the emergency department.",
+    "patient_turn": "Yep, sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

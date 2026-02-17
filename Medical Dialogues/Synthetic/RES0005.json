@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. Well, I’ve been having this cough for, um, about two years now, and it’s been getting worse. Recently, I’ve noticed some blood-streaked sputum, which, honestly, has me kinda worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was about two years ago, um, maybe a little more? It started off just, you know, a bit annoying, but it’s really gotten worse lately, especially with physical activity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about where the cough feels the worst?",
+    "patient_turn": "Um, it feels pretty bad when I’m, like, doing anything physical, you know? Just walking or, uh, doing chores around the house makes it worse. And, um, I’ve had a couple of viral infections in the last two years that really seemed to aggravate it too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you describe it as dry, productive, or something else?",
+    "patient_turn": "Oh, it’s definitely productive. I, um, I cough up sputum, like, a few teaspoons daily, but it’s not a lot. And, um, sometimes there’s blood mixed in, which is really concerning for me…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "Well, I’ve been thinking about getting a new couch for my living room because the one I have is pretty old and uncomfortable.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or fatigue?",
+    "patient_turn": "Yeah, um, I’ve been feeling more fatigued lately, and I get, like, breathless when I exert myself. It’s, uh, really frustrating. I also lost about 8 to 10 pounds in the last month and a half, which, you know, has me kinda worried too…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "Um, I’ve been a smoker for, like, 40 years, and I used to smoke up to 30 cigarettes a day, but now it’s about 20. I know it’s not great. I drink alcohol occasionally, just a few times a month, but I don’t really exercise much anymore because of the cough and breathlessness. I’m, uh, mostly retired and just kind of take it easy…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Yeah, I have a history of COPD and chronic bronchitis, and I’m on some medications for hypertension and cholesterol, like, um, rosuvastatin and an antihypertensive, but I can’t remember the name. I used inhalers for my COPD a long time ago, but I stopped using them over 10 years ago because my symptoms got better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or feeling unusually tired?",
+    "patient_turn": "Yeah, I mentioned feeling more fatigued, and, um, I definitely get breathless when I do anything physical. I’m not really dizzy, but the fatigue is, like, really noticeable, especially lately. It’s just, um, hard to keep up with things…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or productive?",
+    "patient_turn": "Oh, you know, I’ve been really into gardening lately. I planted some tomatoes and they’re growing pretty well.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, it feels the worst when I’m, like, doing any physical activity, you know? Just walking around or doing chores really makes it worse. It’s, uh, frustrating because I used to be more active, but now it’s hard…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or allergies to medications?",
+    "patient_turn": "Um, no, I haven’t had any surgeries, and I don’t have any known allergies to medications. I’ve just been, you know, dealing with my COPD and other health issues without any major procedures.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What health issues have your family members had?",
+    "patient_turn": "Well, my father died of a heart attack in his 60s, and my mother has osteoarthritis. I also have an uncle who had bladder cancer, but, um, there’s no family history of respiratory issues or cancers that I know of. It’s just, you know, a bit concerning with my own health right now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with someone who has tuberculosis?",
+    "patient_turn": "Um, no, I haven’t traveled anywhere recently, and I don’t know anyone who has tuberculosis. I’ve just been, you know, staying at home mostly and trying to manage my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific chemicals or dust were you exposed to while working in the steel factory?",
+    "patient_turn": "Uh, I’m not totally sure about the specific chemicals, but I know there was a lot of dust and, um, probably some fumes from the steel production. It was a long time ago, and I didn’t really think much about it back then, but now I’m kinda worried about how it might affect my lungs…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your vaccinations, like the flu and pneumonia shots, up to date?",
+    "patient_turn": "Yeah, um, my vaccinations are up to date. I’ve gotten my flu shot and, uh, the pneumonia vaccine too. I try to keep on top of that, you know, especially with my health issues.",
+    "annotation": "Correct"
+  }
+]

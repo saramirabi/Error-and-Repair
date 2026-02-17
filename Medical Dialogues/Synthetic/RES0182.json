@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been losing weight without trying—about 30 pounds over the last eight months. Recently, I've developed a cough that brings up bloody sputum and I've been feeling really fatigued with low energy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the weight loss and the cough?",
+    "patient_turn": "I first noticed the weight loss about eight months ago, but the cough started about two weeks ago. It’s been pretty persistent and hasn’t gotten better with any over-the-counter remedies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough is coming from and if it feels different at any time?",
+    "patient_turn": "The cough feels like it's coming from deep in my chest, and it’s pretty much the same throughout the day. It doesn't seem to have any specific triggers, and it feels pretty relentless.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or productive?",
+    "patient_turn": "The cough is productive; I bring up bloody sputum with each cough, about a teaspoon each time. It feels pretty harsh, and it’s been concerning to see the blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like fever, chills, or fatigue?",
+    "patient_turn": "Yes, I've been having a fever along with the cough, and I've definitely been feeling fatigued and low on energy. My appetite has also been poor lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that we should know about?",
+    "patient_turn": "No, I don’t have any past medical or surgical history. I’ve been healthy up until now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "I'm not taking any medications, and I don't have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent symptoms like a sore throat or runny nose?",
+    "patient_turn": "No, I haven't experienced any recent symptoms like a sore throat or runny nose. I haven't had any viral symptoms at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease?",
+    "patient_turn": "No, there's no known family history of heart or lung disease. My family doesn't have a history of those issues or cancer either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any known exposure to tuberculosis recently?",
+    "patient_turn": "I haven't had any known exposure to tuberculosis recently, but I know it's common in Sri Lanka, where I moved from a year ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and if anyone around you has been sick recently?",
+    "patient_turn": "I live alone in a downtown apartment and work from home. I haven't had anyone around me who has been sick recently.",
+    "annotation": "Correct"
+  }
+]

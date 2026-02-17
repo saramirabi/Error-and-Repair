@@ -1,0 +1,222 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Hey, I'm I'm the mom of, of the patient. He's he's a kid, he has had, he just had a cough and stuffy nose for the past three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so did they both start around the same time or one started before the other?",
+    "patient_turn": "They started the same time. He's also had like these, these, his eyes have been like kind of red and watery as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he, what kind of cough is he having a dry cough or wet cough?",
+    "patient_turn": "It's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry cough, OK and and so with the congestion is he also having any kind of nasal drainage?",
+    "patient_turn": "Yeah, it's it's like watery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Watery OK so now are you noticing any kind of yellow or greenish material?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and he hasn't, is he coughing up any blood at all at any point?",
+    "patient_turn": "No no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And so this started just recently three days ago. Was he in contact with anyone that's been sick recently?",
+    "patient_turn": "I don't think so, but he has been like playing outside quite a bit. And sometimes he's just playing with the neighbours kids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has this happened before?",
+    "patient_turn": "Yeah it has, but I guess what I'm concerned about is the rash that he has now that he's never had before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where is the rash, exactly?",
+    "patient_turn": "It's on his face. It started this morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and can you describe the rash for me like it's color, shapes, and what kind of looks like?",
+    "patient_turn": "Small really small dots like kind of, uhm, like I'd say like brown in color. Like brownish dark reddish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, let's just are they just located on his face?",
+    "patient_turn": "Yeah, like it was on his face and it's kind of a little bit on his neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh and is he scratching at them at all?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Um, OK and so they just started today. Have you had these rashes before at all?",
+    "patient_turn": "No, no he hasn't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anything new at all that he has either eaten or any new clothing or new laundry detergent or soap, so anything at all?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, And has he had any fevers or chills anything like that?",
+    "patient_turn": "Uh, he has been feeling a little bit warm. I didn't really check his temperature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And. And busy so, it started three days ago. Anything happened before 3 days at all that might have caused the symptoms?",
+    "patient_turn": "I don't think so. As I said, he has been playing around with others so could have caught something?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And OK, any kind of ah, have you tried anything that has helped him at all? Any medications?",
+    "patient_turn": "Uhm? I haven't tried anything yet, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how often is he coughing? Is he coughing throughout the day or is it more so with exerting himself?",
+    "patient_turn": "Um, it's just kind of all through the day. It's actually gotten a little bit better. Uhm, the cough has gotten better. But what I'm concerned about is the, the rash?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK cough's gotten better yeah. Does he have visit rush it so is it mainly just on his forehead or also on his cheeks?",
+    "patient_turn": "It's on his cheeks on his chin. It's kind of on his neck. It's kind of like this blotchy reddish, brownish like little dots. Kind of, it's not like, it's not raised, it's like flat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh. Is it kind of just a bit like a bright red rash that's kind of covering the cheeks or little little dots everywhere?",
+    "patient_turn": "Kind of little dots.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any anything on his nose?",
+    "patient_turn": "Yeah, yeah, it's on his nose as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, OK, but no fevers, right?",
+    "patient_turn": "He, I guess he might have had a fever. He was feeling warm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other symptoms like shortness of breath, sore throat, anything like that?",
+    "patient_turn": "No, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And otherwise, any other symptoms like just not like behavioural changes, not being himself, being more irritable at all?",
+    "patient_turn": "So yeah, he's just been tired. He hasn't been doing anything, he's just been lying in bed. Hasn't eaten.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any at all, is he having any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in his urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in his sleep or appetite?",
+    "patient_turn": "No. Well, he has been eating little less, but nothing like nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has he been complaining at all of any abdominal pain or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Otherwise that has he been healthy or if he had any medical conditions diagnosed?",
+    "patient_turn": "He's been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and any previous surgeries or hospitalizations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medications that he takes regularly?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any family history of any lung or heart conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Concurrently, or like during your pregnancy with him, any complications at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And did, was he meeting his milestones that developmentally in terms of, also with growth and height and everything like that?",
+    "patient_turn": "Yeah, he seems to be doing OK come when he's doing as well as his other brother, his two brothers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does he go to school at all? What grade is he in?",
+    "patient_turn": "He's going to school. Um, online.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Online right now? OK, yeah. And any issues at school at all. Any complaints that we've been told?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Great, so, uh and how is the houses or your living situation like?",
+    "patient_turn": "It's, uh, things are good, so it's him, his two older brothers, my husband and me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has anyone been sick recently or had similar symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright. Has anyone in the family ever had any diagnosis of asthma, eczema, allergic rhinitis?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, nothing like that, OK. Alright, so yeah those are all the questions I had for you today. Do you have any questions or concerns?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So yeah, so, we'll, we'll be doing a couple we'll do a physical examination, I want to see examined with the rash looks like and there's many things that can cause a rash. There's uh viral infections that can cause some of the symptoms. The symptoms he's having mainly seen viral with a dry cough and runny nose. And then you can we have a rash as well. One thing I forgot to ask actually is is he fully immunized?",
+    "patient_turn": "Um, he I guess he didn't get all his immunizations done earlier. He did get them a little bit later so we came from Syria as refugees. But I I'm thinking he got all his immunizations when he, uh, came to, when we moved to Canada.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he complaining of joint or muscle aches at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, nothing like that, OK. Alright, so yeah, we'll do it like a full physical examination, and if it's more just a viral, it'll be something that we'll just have to monitor and do supportive care for. But if it's anything else we might need to do further investigations. OK, and we'll just do a COVID swab for him today as well as some of the symptoms overlap with COVID symptoms and you will get the results back in 24 hours to 48 hours and then further instruction from public health.",
+    "patient_turn": "Sounds great.",
+    "annotation": "Correct"
+  }
+]

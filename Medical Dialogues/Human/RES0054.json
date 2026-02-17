@@ -1,0 +1,357 @@
+[
+  {
+    "doctor_turn": "What brings you in today?",
+    "patient_turn": "Hi, uhm, I've just been a little bit worried, that last the couple of months I've noticed that I've been getting more and more out of breath when I've been doing exercise, and I know I got a brother who had a heart issue and I'm just really concerned that I have something wrong with my ticker, just wanted to get it checked out, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the shortness of breath start?",
+    "patient_turn": "So, this winter specifically, like we haven't been too active because of Covid this year, we've just been staying in the house all last year, but with the snow, I'd be shovelling snow whenever it fell and before I could be able to like 2 years ago be able to clear the driveway, no problem, but now even after half the driveway I've noticed I'm getting consistently out of breath, I've got this nasty cough and it's prompted my wife to get me to call in, she's a little bit worried.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "So it's mostly on exertion, it doesn't happen at rest, is that correct?",
+    "patient_turn": "Being out of breath? No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has this ever happened to you before?",
+    "patient_turn": "Yeah, about a year and a half ago we went down to Toronto, in order to see the CN tower, and you know, do tourist stuff and we tried we tried to climb a couple flights of stairs to do a little bit, and I could not, I always thought I'm pretty healthy, pretty active but it really took the wind out of my sails, so had to stop, stoop over. Just couldn't do it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How did you manage like how, how was that treated at that time and how did you get better?",
+    "patient_turn": "Oh, I didn't do any. I just attributed to being, I don't know, out of shape a little bit and I worked as a mechanic when I was younger. I was pretty active, but ever since retiring thought I'd keep up, at least my stamina won't go away that quickly, but chalked it up to being out of shape and went home.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "So your symptom, your shortness of breath seems to be getting worse, right?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any coughing with that?",
+    "patient_turn": "Yeah, yeah. And not necessarily when I noticed it when I was shovelling the driveway. But I've had a call for the last couple of years and usually in the morning I just bring up a little bit of gunk, but most of my buddies have that, just like a morning cough, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What color is it?",
+    "patient_turn": "Uh, yellow, sometimes a little brown.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did that start?",
+    "patient_turn": "Oh, it's been going on last 10 years. Well, to be honest since I've been like 30, but it's been fairly consistent, last 10 years I'd say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any blood that you bring up?",
+    "patient_turn": "Not that I've noticed, like bright red? No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any wheeziness?",
+    "patient_turn": "Yeah yeah, I noticed that when I was showing, yeah when I was out of breath, it sound sounded different sound different than being usually out of breath but it had to. It sounded wheezy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "Yeah, a little bit actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "At rest or?",
+    "patient_turn": "Nothing, nothing when I'm not moving.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did that start?",
+    "patient_turn": "First noticed it this winter on the driveway but it wasn't like I know what they say about a heart attack, supposed to like, the crushing pain in your chest that moves up your neck. Nothing like that. It's like my lungs, my throat. Like you're really, really out of breath, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you're attributing it mostly to your shortness of breath then?",
+    "patient_turn": "I think so. I really hope this is my heart. I've never had a heart attack.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where in your chest is this chest pain happening?",
+    "patient_turn": "It was kind of both sides.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain in your calves or legs, well after you walk a certain distance?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel like your heart's racing?",
+    "patient_turn": "Felt like my heart was racing after that much activity, but no, not usually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your limbs?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fainting spells or dizziness?",
+    "patient_turn": "No never fainted in my life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any confusion, memory loss?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "Headaches, you know I do get headaches from time to time. I associate them with stress, but I haven't been too stressed out recently so nothing in the last couple of years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any neck stiffness?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sensitivity to light or loud sounds associated with that headache?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss?",
+    "patient_turn": "No, I wish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fevers?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Rashes?",
+    "patient_turn": "You know I got these weird things on my head. I think mainly because of the sun. Like these brown patches, but that wouldn't be a rash, would it?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I'd have to examine that closer. If you think it's associated with the sun, it could be something like seborrheic keratosis, but I'd have to see what they look like so we can take a look at that later, if that's OK. Any changes in your vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Stuffy nose, runny nose?",
+    "patient_turn": "Had a bit of a cold couple months ago, but no, nothing recent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sore throat?",
+    "patient_turn": "Yeah, a little bit after the cough. I had a little bit of a sore throat but went away pretty quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Change in smell or taste?",
+    "patient_turn": "I haven't been able to smell or taste too well for awhile.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What's awhile?",
+    "patient_turn": "Ten years, seven years it's been more salt, more spices on my food, you know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your bowel habits?",
+    "patient_turn": "Nope, been regular all my life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea, vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Joint pain, muscle aches?",
+    "patient_turn": "You know my knees been giving me trouble for awhile, but nothing recent, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you otherwise healthy?",
+    "patient_turn": "No, got high blood pressure. See the doc about that. Uhm, high cholesterol, see the doc about that. And yeah, I don't know. Got into a car crash my 40s. Broke my arm one time. Nothing else really.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Any surgeries?",
+    "patient_turn": "Uh, I think I had my appendix out when I was, yeah I had my appendix out when I was like 12.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been taking any medications for that high blood pressure?",
+    "patient_turn": "Yeah doc's got me on two blood pressure medications and one cholesterol medication.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take those frequently?",
+    "patient_turn": "Yeah, everyday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "Jeez, been a while since I've gotten immunization. Think, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Once you turn 65, they usually give you shing-shingrex for, to prevent shingles and a pneumovax vaccine to prevent pneumococcal infections. Have you had those ones?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. If you're interested in getting those, we can discuss that at some point today as well,",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any, OK, so you mentioned a family history of your brother having congenital heart disease. Any other heart diseases that run in the family?",
+    "patient_turn": "Congenital. What's that mean?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Like something that you're born with.",
+    "patient_turn": "No, I don't think he's ever born thing he had a couple of heart attacks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How old was he when he had his first heart attack?",
+    "patient_turn": "He's older me by five years, but he had the first one when he was younger than I am now. Like 62 was the first one, another one at 65.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did they ever find a cause for his heart attack? Is he a healthy person?",
+    "patient_turn": "Healthy, he's healthy. I you know I wouldn't call him too healthy of a guy either. He's a hard liver, let's call him that. I have why it happened, I think, obviously it's his diet man. He's like a hog. Steaks, butter, bacon I'm assuming that's what did him in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other heart conditions that run in the family or other members of the family experiencing heart attacks?",
+    "patient_turn": "Yep, dad died young from a high heart attack. He was, he died younger than I am now. He passed away at 66.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other lung conditions that run in the family?",
+    "patient_turn": "None that come to mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "Yeah, yeah I smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke?",
+    "patient_turn": "I cut it back, about half a pack a day for the last two years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Before that?",
+    "patient_turn": "I was pretty much a pack a day. Maybe, well, when it was bad, 2 packs a day, but I've been smoking yeah, since about, when do they start working at the shop, like 17, everyone there smokes.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Any recreational drugs?",
+    "patient_turn": "I'll smoke weed at the shop every Friday, but I'm not huge fan of it to be honest.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How much do you smoke every Friday?",
+    "patient_turn": "Both are about four joints, seven people, so I don't know what that is. Half a gram?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink?",
+    "patient_turn": "Oh yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you drink?",
+    "patient_turn": "See, Christmas was about the last time I went out like a beer or two. Uhm, weekends but when families in town will we'll go whole hog. I'll drink maybe 20 beer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you thought about cutting that down?",
+    "patient_turn": "You gotta keep up with the family, you know, you can't let them embarrass you like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How's your diet?",
+    "patient_turn": "Been pretty good. The wife's been on a, on a health food craze last five years. Vegetables, I don't know, I eat whatever she cooks, basically.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "In terms of exercise, do you get to move around?",
+    "patient_turn": "I used to be pretty active. I used to bike around, but 'cause of Covid I've just been indoors all this time. So no, not much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any children?",
+    "patient_turn": "Yeah, I've got three kids, one for my first marriage, two with the Mrs. right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you get to see them often?",
+    "patient_turn": "Yeah, daughter lives in town and get to see her and grand kid a bit, the other boy works in Fort Mac and my oldest son, he's out east.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any contact with people who've been sick recently?",
+    "patient_turn": "No, we've been keeping entirely to ourselves. You can get our groceries ordered to the house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recent travel?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with COPD?",
+    "patient_turn": "Doesn't ring a bell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any pulmonary function tests or chest x-rays done in the past?",
+    "patient_turn": "Chest x-ray, I think they did a chest x-ray after the car crash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did you have any recently?",
+    "patient_turn": "But I can't think of getting one recently, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any questions for me?",
+    "patient_turn": "So this is a hard, like, should I be worried?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Based on your symptoms, I think it might be COPD. We'll do a pulmonary function test and chest x-ray to confirm.",
+    "patient_turn": "Sounds great, doc. Thanks a million.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Take care.",
+    "patient_turn": "Have a good one.",
+    "annotation": "Correct"
+  }
+]

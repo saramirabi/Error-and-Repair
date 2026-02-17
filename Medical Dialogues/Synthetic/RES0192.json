@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having this progressive shortness of breath for about four months now. It started off mild, but it's gotten worse, and now I can only manage to climb about two flights of stairs before I feel really winded. I've also had a persistent dry cough during this time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed it about four months ago. It was pretty mild at first, but it has definitely worsened over the past month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "It feels like I can't catch my breath, mostly in my chest. It's especially noticeable when I'm doing any physical activity, like climbing stairs or even just walking quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you? Is it constant or does it come and go?",
+    "patient_turn": "It's not constant; it mostly happens when I'm active. When I'm resting, I feel okay, but as soon as I exert myself, it hits me pretty hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed it about four months ago. It started off mild, but it has definitely gotten worse over the past month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the shortness of breath ever spread to other areas, like your arms or neck?",
+    "patient_turn": "Uh, I think it might sometimes feel like it's, you know, a little bit in my chest? But I'm not totally sure if it really spreads anywhere else, maybe just kind of stays there.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where do you feel the tightness in your chest, and does it ever spread to other areas?",
+    "patient_turn": "I mostly feel the tightness right in the center of my chest. It doesn't really spread to other areas like my arms or neck, though; it just feels concentrated there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood or mucus?",
+    "patient_turn": "No, I haven't coughed up any blood or mucus. It's just been a persistent dry cough without any sputum production.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or unusual fatigue lately?",
+    "patient_turn": "No, I haven't had any fever, chills, or unusual fatigue. I feel pretty much the same otherwise, aside from the shortness of breath and cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Yes, I've noticed an unintentional weight loss of about 15 pounds over the past six months. I haven't changed my appetite, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don't have any known drug allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven't had any prior hospitalizations or surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung diseases?",
+    "patient_turn": "No, there's no significant family history of cardiac or pulmonary diseases, or cancer, that I'm aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you quit smoking?",
+    "patient_turn": "I quit smoking recently, right after my COPD diagnosis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I usually have about one glass of wine a week, so not much at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What kind of work did you do that involved exposure to asbestos or mold?",
+    "patient_turn": "I worked in shipyards and construction, which was about 30 to 40 years ago. I had long-term exposure to potential respiratory hazards like asbestos and mold during that time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I don't know of any sick contacts.",
+    "annotation": "Correct"
+  }
+]

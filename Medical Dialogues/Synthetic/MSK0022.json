@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here. So, I’ve been having this, uh, joint pain and stiffness for several months now. It’s mostly in my hands and feet, and it’s been getting worse, especially in the mornings… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the joint pain and stiffness?",
+    "patient_turn": "I think it started a few months ago, maybe around, um, six months back? At first, it was just a little achy, but then it got worse, and now it’s really hard to, you know, make a fist or do things with my hands. It’s pretty frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located? Does it spread to any other areas?",
+    "patient_turn": "Sure, um, the pain is mostly in my knuckles, like the joints of my index, middle, and ring fingers, and also in my big toe, especially on the right foot. It’s, uh, symmetrical, so it’s on both sides. I don’t really have pain in my, um, other finger joints or anything like that, but it’s definitely affecting my hands and feet a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, the pain is kind of achy, you know? It’s really worse in the morning, like when I wake up, and it can sometimes feel sharp when I move my fingers or toes. Oh, and I’ve been trying to do some stretches, but my daughter likes to play with my hands, and that can make it a bit tough too. Plus, I remember last week I had to type a lot for work, which didn’t help either, so it’s really all over the place with the discomfort.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, I’ve noticed that resting a bit helps, but, like, after sitting for a while or first thing in the morning, it’s really stiff and painful. Moving around a little bit can help, but it’s still pretty tough to get going. I guess, um, warm compresses sometimes feel nice, but I’m not totally sure what else to do to make it better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Uh, no, I haven’t had any of those symptoms. I mean, I feel pretty okay otherwise, just the joint pain and stiffness. I don’t have any night sweats or weight loss, just a little decrease in my appetite, but nothing major. So, um, I’m mostly just worried about the pain in my joints.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Sure, um, I used to smoke a little, but I quit about four years ago. I don’t really drink alcohol, just occasionally, you know? As for exercise, I try to stay active, but with the joint pain, it’s been hard to do much lately. I mostly just, um, take care of my daughter and do my work as an administrator, but I’m finding it tough with my hands hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Yeah, I have hypothyroidism, which I think is, um, likely Hashimoto’s thyroiditis. I’ve been managing it with Synthroid for about four years now. I also take an ACE inhibitor for hypertension. Other than that, I don’t have any major medical issues or, um, surgeries to mention. No known drug allergies either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "So, the pain is mostly in my hands and feet, like the knuckles and some toes, especially the big toe on my right foot. It started a few months ago, and I think it’s gotten worse since then, but I also remember that I was doing a lot of gardening last summer, which might have been too much. Oh, and I’ve been trying to keep up with my daughter’s playtime, which can be a bit challenging, you know? But I also have this weird fascination with how plants grow, so I’ve been spending time outdoors.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Um, the pain is mostly achy, but it can get sharp sometimes, especially when I move my fingers or toes. It’s really uncomfortable, and I’d say it’s about a 6 out of 10 on the pain scale. Honestly, it’s worse in the morning and after I’ve been sitting for a while. It’s just, um, really frustrating to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or redness in your joints?",
+    "patient_turn": "Yeah, I have noticed some swelling and warmth in a few of my hand joints, and they can get a bit red too. It’s mostly around the knuckles, and that’s been, um, pretty concerning for me. I mean, it’s not just the pain; seeing the swelling makes it feel more serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of autoimmune diseases in your relatives?",
+    "patient_turn": "Um, not really, as far as I know. My mom has hypothyroidism, and I have a cousin with type 1 diabetes, but there’s no family history of rheumatoid arthritis or other autoimmune diseases that I’m aware of. It’s just, um, a bit worrying since I’m dealing with these symptoms now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the joint pain impact your daily activities or tasks?",
+    "patient_turn": "Well, it’s really affecting my daily life, to be honest. I have a hard time typing and doing manual tasks at work, especially in the morning when my hands are stiff. I mean, even playing with my daughter can be tough sometimes, and I just feel, um, frustrated that I can’t do things as easily as I used to. It’s really, uh, challenging.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the joint pain specifically affect your ability to perform tasks at work?",
+    "patient_turn": "Um, it makes typing really difficult, especially in the mornings when my hands are stiff and painful. I find myself, like, taking breaks more often because I can’t keep going without feeling discomfort. It’s just, uh, frustrating because I want to do my job well, but the pain really gets in the way of that.",
+    "annotation": "Correct"
+  }
+]

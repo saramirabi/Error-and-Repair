@@ -1,0 +1,202 @@
+[
+  {
+    "doctor_turn": "What brings you in today?",
+    "patient_turn": "So, just for the past, like 3 days I've been coughing... [full response]",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "When did your dry cough start?",
+    "patient_turn": "Uh, like 3 days ago three days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And when did your fever start?",
+    "patient_turn": "So I didn't take my temp, but like the other days, but like for sure this morning.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "The cough—is it always a dry cough or do you sometimes bring up sputum or blood?",
+    "patient_turn": "Yeah, it's always a dry cough. It's really just annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel wheezy at all?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about short of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel like your heart is racing?",
+    "patient_turn": "No, I can't say that I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your limbs?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any issues with taste or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose or a stuffy nose?",
+    "patient_turn": "Maybe a bit of a runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any issues with vision or hearing?",
+    "patient_turn": "Ah, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about fevers or chills?",
+    "patient_turn": "No, no fever. I mean I I took my temp was high. I guess I felt hot but I didn't, there were no chills.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How about weight loss?",
+    "patient_turn": "Weight loss? No, no, nothing, nothing new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your hair, nails, or skin? Like rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any issues swallowing food?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your bowel habits?",
+    "patient_turn": "Well, like I said I have Crohn's disease. I'm not like in a flare right now or anything, so I'll say no, but like my baseline is not like totally normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your urine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any confusion or memory loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other longstanding medical conditions?",
+    "patient_turn": "Oh, not really. Just that, and, uh, eczema.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had eczema for?",
+    "patient_turn": "Oh, like when I was, started when I was like a kid and then I feel like when I was a teenager I didn't really, and then part of it as an adult I really have to take care of it or else it gets bad.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or have you had any surgeries in the past?",
+    "patient_turn": "Uh, like when I was first diagnosed with Crohn's maybe 20 years ago, when I was like 20, I was in the hospital for a little bit 'cause I was really dehydrated and I couldn't really like, I just couldn't I wasn't feeling well at that time, but since then I've been pretty on top of it.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Are there any other medications that you're on?",
+    "patient_turn": "Um, just like the hydrocortisone, cream on occasion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Ah, like I have some seasonal allergies, like ah, its ragweed, which is not like right now, is not the time for it. And like cats and dogs.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Are you up to date on immunizations?",
+    "patient_turn": "I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of lung or heart conditions?",
+    "patient_turn": "Oh, like my dad had high blood pressure, but other than that I don't think there is anything that stood out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke at all?",
+    "patient_turn": "Um, like I did for a couple years when I was like 18 and then I haven't ever since.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "How about marijuana?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Other recreational drugs?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alcohol?",
+    "patient_turn": "Ah, I like I might have like a couple beers on the weekend, but not a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you live right now?",
+    "patient_turn": "So I live in a townhouse in London here. I live alone, but my I have my kids every, I have my kids like Wednesdays and Thursdays and then every other weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns for old carpets, mold, asbestos, anything like that in the home?",
+    "patient_turn": "No, it's like a pretty new build.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any sick contacts recently?",
+    "patient_turn": "Ah I mean, my kids just left this weekend. Uhm, there's really only people I've been around. I can, I maybe I should have asked him before coming here if they like knew they had seen anyone but they were fine, over the weekend.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Have you traveled to anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was there anything else that you wanted to add?",
+    "patient_turn": "I don't think so. I think that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does that sound?",
+    "patient_turn": "Ah yeah, I guess that sounds good. This is how it's gotta be, right?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Thank you again.",
+    "patient_turn": "No, thank you. Have a good day.",
+    "annotation": "Correct"
+  }
+]

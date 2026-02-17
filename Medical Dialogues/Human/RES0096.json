@@ -1,0 +1,292 @@
+[
+  {
+    "doctor_turn": "Uh, how can I help you?",
+    "patient_turn": "Uh, I have just been feeling very short of breath recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And I thought I should come in. I've also had a, I've also had a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. OK, uhm, and when does this shortness of breath, uhm, come on? How, how much activity are you able to do?",
+    "patient_turn": "Uhm, I can walk a block.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Without being short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And prior to this change, how far were you able to walk and and how long ago did you, did you notice this change?",
+    "patient_turn": "Uhm, I, I guess I could walk, uh, I don't know, it's been very, I guess it's, it's been a gradual change. Uhm, maybe a month, a month ago I felt that I couldn't really walk as much as I used to, and then it's only gotten worse. Two or three months ago I could, I could walk a kilometre or two, or more.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so quite a significant change over the last little while. Have you had any episodes where you wake up in the middle of the night with, with shortness of breath, and you need to sit up?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many pillows do you sleep with?",
+    "patient_turn": "One.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you noticed any like ankle swelling or or leg swelling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you mentioned cough. When did that start?",
+    "patient_turn": "I've had a cough for a while, the past five, ten years, but I feel that it's been a little bit more frequent now. It's just, I just get into this coughing fit and I think there was a time when I had a little bit of blood come out as well, once or twice. The coughing also makes it difficult for me to breathe, you know, I feel very short of breath after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly, uhm, how much blood have you coughed up?",
+    "patient_turn": "Oh, I don't know. I think it was it was a little bit.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Did it happen each time, or has it only been a couple of times?",
+    "patient_turn": "I think maybe, two or three times but then there have also been times when I cough up this, this stuff that I cough up is a little bit pink in color. It's not exactly blood, but it's, it's, you know, pinkish.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK, and are you producing sputum each time you're coughing up?",
+    "patient_turn": "Most of the times, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is this a change from previously? Did you have a dry cough before?",
+    "patient_turn": "A bit more of a dry cough before, but I mean, so sometimes it will be a dry cough sometimes, uh, it was more of a wet cough, but it was, it was usually just this white thing coming up. It wasn't like, there was never blood before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you're coughing more often as well over this last month?",
+    "patient_turn": "Oh yeah, Oh yeah,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been experiencing any, any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any eye pain or ear pain?",
+    "patient_turn": "No, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any eye redness or, or discharge?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any runny nose or sore throat?",
+    "patient_turn": "no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any fevers or chills?",
+    "patient_turn": "Uhm, I, I checked my fevers, I checked my temperature uh, couple days ago. It's just been this little bit, 30, I think it was 38.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so, yeah, that would be a fever.",
+    "patient_turn": "That was I think two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you feel hot now?",
+    "patient_turn": "Not really, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any night sweats?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you had any weight loss over the last several months?",
+    "patient_turn": "Oh, yeah.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How much weight?",
+    "patient_turn": "About 20 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so how, How long was that weight loss over?",
+    "patient_turn": "I'd say about about, uh, three, three-four months?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and sorry, what was your starting weight, roughly?",
+    "patient_turn": "Yeah, yeah I was, uhm, 210 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, so yeah, about a 10% reduction in your weight over the last couple of months, it sounds like. OK, How is your appetite been?",
+    "patient_turn": "Uh, it's OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you been having any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any, any wheeze?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any dizziness or lightheadedness?",
+    "patient_turn": "Uhm no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any skin rashes or muscle aches.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, uh, have you been diagnosed with any medical conditions before?",
+    "patient_turn": "Yeah, I've been diagnosed with COPD, with, uh, high blood pressure and high cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright and do you take any medications for those?",
+    "patient_turn": "Uh, I take Lipitor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And I take some puffers but don't use them very frequently. I forget to use them. And they, I tried them, but they haven't been very helpful these past two months.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, so yeah, you've tried them, when you were short of breath and they haven't helped?",
+    "patient_turn": "They haven't done much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are you allergic to any medications or have any allergies?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you been hospitalized for any reason, or like, including COPD exacerbation?",
+    "patient_turn": "Oh yeah, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or any similar symptoms?",
+    "patient_turn": "It's been, uh, I was, uh, I was actually hospitalized about four or five times last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And was this for COPD exacerbations?",
+    "patient_turn": "Yeah, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did those each require a stay in the hospital?",
+    "patient_turn": "Two or three of them I did, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any surgeries?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And are you currently smoking?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how much do you smoke per day?",
+    "patient_turn": "I've got it down quite a bit. I only have two cigarettes a day. I used to have a pack and a half, Uh, but I've got it down a lot. I'm trying to, I'm trying to quit, but it's hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure it's great that you're working towards quitting. We can discuss that further and there are several options that might be available to help if it's something you're interested in, because yeah, it's definitely really hard. Are you, do you drink alcohol?",
+    "patient_turn": "Uh, once in a while, on Christmas.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You smoke marijuana or use marijuana products?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and who are you living with currently?",
+    "patient_turn": "I live with my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you, uhm, do you help looking after the home, and uh, like functionally independent right now?",
+    "patient_turn": "Uh, yeah. I use a cane.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mhm, ok.",
+    "patient_turn": "And uh, yeah, my, my son comes over and helps out with groceries and my wife cooks but, I, I help her with cleaning sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great and, so are you retired?",
+    "patient_turn": "yep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and has anybody in the family had any heart or lung conditions?",
+    "patient_turn": "My dad died of lung cancer. He was a, he was a big smoker as well. And my mom had a heart attack.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how old were your parents approximately?",
+    "patient_turn": "Yeah, my dad was 65 and my mom was, was very young, she was 50.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Did your mom survive the heart attack?",
+    "patient_turn": "No, no she did not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, I'm sorry to hear that. Uhm, and the lung cancer you mention, any other cancers that run in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so that was all the questions I wanted to ask on on history. Uhm certainly it sounds like you're bringing up some blood with, with, with the increased cough and with difficulties breathing so we will get a, uhm, a chest x-ray and possibly a CT image of your chest as well to see if there's anything going on in your lungs and we might do some blood work as well to check a few things so uhm, we'll get those ordered and, and see what, see what that shows.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  }
+]

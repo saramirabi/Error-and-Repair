@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I’ve been having this dry cough for like five days now, and it’s getting worse… I can’t really sleep because of it. I also have a sore throat that gets worse when I cough, and I’ve been feeling really exhausted, you know? Plus, I had some night sweats last night, which was kinda alarming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Um, I think it started about five days ago. It was just a little annoying at first, but then it got progressively worse, you know? Now it’s really disruptive, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the pain or discomfort?",
+    "patient_turn": "Yeah, it’s mostly in my throat… like, it hurts when I cough, and sometimes it just feels sore even when I’m not coughing. I don’t really feel any pain in my chest or anything, just, um, localized to the throat area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when you cough? Is it sharp, dull, or something else?",
+    "patient_turn": "It's, um, kind of sharp, I think. But I don’t really cough that much, maybe just a little.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, I'm not really sure how to describe it. It's just, like, uncomfortable, I guess? Maybe a little sharp sometimes, but not always.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does your cough keep you awake at night?",
+    "patient_turn": "Yeah, it really does… I mean, it disrupts my sleep a lot. I’ve been waking up coughing, and it’s just hard to get back to sleep after that. It’s really frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever or chills recently?",
+    "patient_turn": "I’ve had some subjective fever, I think… like, I felt hot and had night sweats last night, which was kinda alarming. But I haven’t really had chills or anything like that. Just, um, feeling a bit off overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell recently?",
+    "patient_turn": "Yeah, actually, I just noticed this morning that my sense of smell is kinda off. It’s strange because I can still taste things fine, but smells just seem… different, I guess? It’s a bit unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your taste recently?",
+    "patient_turn": "No, not really. My taste seems to be fine, it’s just the smell that’s changed. I can still taste everything normally, which is, um, a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea or vomiting recently?",
+    "patient_turn": "No, I haven’t had any nausea or vomiting at all. It’s mostly just the cough, throat pain, and feeling really tired. I’m glad I haven’t had those other symptoms, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick recently?",
+    "patient_turn": "Um, not that I know of. I work at a grocery store, but I haven’t really been around anyone who seemed sick. My family doesn’t go out much either, so I’m not totally sure where this is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of asthma?",
+    "patient_turn": "Yeah, actually, both my mom and my brother have asthma. It’s, um, something I’ve always been aware of, but I don’t have it myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides pollen?",
+    "patient_turn": "No, it’s just pollen allergies for me. I don’t have any other known allergies, um, at least not that I’m aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use cannabis or any other recreational drugs?",
+    "patient_turn": "No, I don’t use cannabis or any recreational drugs. I just, um, drink a little alcohol occasionally, but that’s it.",
+    "annotation": "Correct"
+  }
+]

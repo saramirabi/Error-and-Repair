@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I’ve been having this constant headache for about four days now, and it’s, like, really aching in my forehead and temples. It’s rated around a 6 out of 10, I guess, and it’s not as intense as my usual migraines, but it just won’t go away. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or location since it first started?",
+    "patient_turn": "Well, I was thinking about what to make for dinner later. Oh, the headache?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Does the headache ever spread to other areas, like your neck or shoulders?",
+    "patient_turn": "Um, not really. It’s mostly just in my forehead and temples, you know? I haven’t felt it spreading to my neck or shoulders or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "A... ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it’s more of a dull ache, I guess. It’s constant and, um, just really uncomfortable, you know? Not sharp or anything, but definitely annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the headache? Is it mostly in your forehead, temples, or somewhere else?",
+    "patient_turn": "Oh, I just remembered that I need to pick up some milk on my way home. The headache? I think it’s kind of in my temples, but I also have been really tired lately, so that might be affecting it too.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you been feeling cold or experiencing chills?",
+    "patient_turn": "Yeah, actually, I have been feeling kind of cold. I, um, had a fever of 38.7°C yesterday, so that’s been a bit concerning. I’m not sure if it’s all related, but it’s just... you know, adding to my worries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you notice any fever or temperature changes recently?",
+    "patient_turn": "Yeah, I had a fever of 38.7°C yesterday. It was, um, pretty concerning, and I’ve been feeling cold too. I’m just not sure what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any loss of smell recently?",
+    "patient_turn": "Um, yeah, I actually have noticed a recent loss of my sense of smell. It’s, like, really strange and, honestly, a bit unsettling. I’m not totally sure what it means, but it’s just one more thing that’s worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or nasal congestion lately?",
+    "patient_turn": "No, I haven’t had any cough or nasal congestion. It’s just the headache, feeling cold, and the loss of smell, you know? No sore throat or anything like that either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach issues or gastrointestinal symptoms recently?",
+    "patient_turn": "Um, no, I haven’t had any stomach issues or gastrointestinal symptoms. It’s really just the headache, feeling cold, and the loss of smell that I’m dealing with. So, yeah, nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any muscle or joint pain recently?",
+    "patient_turn": "No, I haven’t had any muscle or joint pain. It’s really just the headache and, um, feeling cold, along with the loss of smell. I’m kinda worried about it all, but no other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any stiffness in your neck?",
+    "patient_turn": "Uh, no, I haven’t noticed any neck stiffness. It’s mostly just the headache and feeling cold, you know? No other symptoms like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or changes in your vision recently?",
+    "patient_turn": "Um, no, I haven’t had any dizziness or changes in my vision. It’s really just the headache and the other stuff, like feeling cold and the loss of smell. I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats lately?",
+    "patient_turn": "No, I haven’t had any night sweats. It’s just the headache, feeling cold, and the loss of smell that’s been bothering me. I’m honestly a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any unintentional weight loss. It’s really just the headache and the other symptoms I mentioned. I’m, um, a bit worried about everything, but no weight loss.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any swelling in your legs or feet?",
+    "patient_turn": "No, I haven’t experienced any swelling in my legs or feet. It’s just the headache, feeling cold, and the loss of smell that’s been concerning me. I’m really hoping to figure this out soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions, like diabetes or others?",
+    "patient_turn": "Yeah, I was recently diagnosed with type 2 diabetes, um, about two months ago. I started on metformin, and it’s been well tolerated so far. Other than that, I don’t have any other medical conditions or surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to any foods or medications?",
+    "patient_turn": "Yes, I’m allergic to peanuts, and it causes anaphylaxis. It’s, um, pretty serious, so I have to be really careful about that. Other than that, I don’t have any other known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have diabetes?",
+    "patient_turn": "Yeah, my family history is significant for diabetes on my paternal side. It’s, um, something I’ve been thinking about since my diagnosis, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use marijuana or drink alcohol? If so, how often?",
+    "patient_turn": "Um, I use marijuana once or twice a month, and I drink alcohol socially on weekends. It’s not a lot, but, you know, just enough to unwind a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick recently?",
+    "patient_turn": "No, I haven’t been in contact with anyone who was sick. I’ve just been working from home and, um, I don’t think I’ve had any known sick contacts. It’s just been a bit stressful with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently?",
+    "patient_turn": "No, I haven’t traveled outside the province recently. I’ve just been at home with my family, you know? So, um, no travel to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did a doctor recommend that you get a COVID-19 test?",
+    "patient_turn": "Yeah, a doctor recommended that I get a COVID-19 test because of my symptoms. They advised me to self-isolate while I wait for the results, which is, um, a bit stressful.",
+    "annotation": "Correct"
+  }
+]

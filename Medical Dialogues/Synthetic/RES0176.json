@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having some shortness of breath during my morning runs for the past 5 to 6 weeks. It usually happens after two or three blocks, and I also had a fainting episode a couple of days ago while climbing stairs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the shortness of breath gotten better, worse, or stayed the same since it started?",
+    "patient_turn": "It’s pretty much stayed the same since it started. I still feel short of breath after running for just a couple of blocks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "It feels like a tightness in my chest and just an overall difficulty catching my breath when I'm running. It's not something I notice when I'm at rest, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "It feels like I can't get enough air in, and I have to slow down or stop to catch my breath. It's definitely uncomfortable, especially when I'm trying to keep up my pace.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to organize my closet. It's been a mess since, like, forever!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed the shortness of breath about 5 to 6 weeks ago during my morning runs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath at night while lying down?",
+    "patient_turn": "No, I haven't noticed any shortness of breath at night while lying down. It only happens when I'm running in the mornings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel short of breath when lying down at any time?",
+    "patient_turn": "No, I don't feel short of breath when lying down at any time. It's just during my morning runs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "No, I haven't noticed any swelling in my legs or feet. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What exactly happened during your fainting episode?",
+    "patient_turn": "I was climbing stairs when I suddenly felt dizzy and had a racing heart. Then I collapsed and lost consciousness for a few seconds. It was a bit scary, but I didn't bite my tongue or have any injuries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience palpitations only during activity, or do they happen when you're resting too?",
+    "patient_turn": "I mostly experience palpitations during activity, like when I'm running. I haven't noticed them when I'm just resting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain at any time, even if it was mild?",
+    "patient_turn": "No, I haven't experienced any chest pain at any time, even mild. Just the shortness of breath and occasional palpitations during exertion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or wheezing recently?",
+    "patient_turn": "No, I haven't had any cough or wheezing recently. Just the shortness of breath and palpitations during my runs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills recently?",
+    "patient_turn": "No, I haven't experienced any fever or chills recently. I feel fine otherwise, aside from the shortness of breath and palpitations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your weight or appetite lately?",
+    "patient_turn": "No, I haven't noticed any changes in my weight or appetite lately. Everything has been pretty normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting recently?",
+    "patient_turn": "No, I haven't felt nauseous or experienced any vomiting recently. Just the shortness of breath and palpitations during my runs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain or urinary issues recently?",
+    "patient_turn": "No, I haven't had any abdominal pain or urinary issues recently. Everything's been fine except for the shortness of breath and palpitations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any muscle aches or rashes lately?",
+    "patient_turn": "No, I haven't experienced any muscle aches or rashes lately. Just the shortness of breath and occasional palpitations during my runs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent illnesses or infections?",
+    "patient_turn": "No, I haven't had any recent illnesses or infections. Everything has been normal aside from the shortness of breath and palpitations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you used your asthma inhaler at all in the past few weeks?",
+    "patient_turn": "No, I haven't used my asthma inhaler at all in the past few weeks. I haven't had any issues that required it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don't have any medication allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I've never been hospitalized or had any surgeries in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share any details about your pregnancy history?",
+    "patient_turn": "I have an uncomplicated obstetric history with one vaginal delivery eight years ago. Everything went smoothly during that pregnancy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung problems?",
+    "patient_turn": "No, my family history is negative for heart or lung disease. The only thing is an uncle who had prostate cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of blood clotting disorders?",
+    "patient_turn": "No, there's no family history of blood clotting disorders.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick.",
+    "annotation": "Correct"
+  }
+]

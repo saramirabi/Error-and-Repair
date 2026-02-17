@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been feeling pretty unwell for the past few days. It started with muscle aches, and then I developed a dry cough and some chills that feel like a fever. I'm just really fatigued overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the muscle aches?",
+    "patient_turn": "I first noticed the muscle aches about four days ago. They started off mild but have been pretty diffuse, mostly affecting my upper back, thighs, and arms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the muscle pain changed in intensity or location since it first started?",
+    "patient_turn": "The muscle pain has been pretty consistent since it started. It’s still generalized and mostly in the same areas—my upper back, thighs, and arms. It hasn’t really gotten worse or moved around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the muscle pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "The muscle pain feels more like a dull ache. It's not sharp or stabbing, just a general soreness that makes me feel tired and uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the muscle pain better or worse?",
+    "patient_turn": "I haven’t really noticed anything that makes it better or worse. It just seems to be there all the time, regardless of what I’m doing. Resting helps a bit, but it doesn’t go away completely.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, I think it’s kind of, like, I don’t know, just uncomfortable mostly? It’s not really sharp or anything, more like a dull ache, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "I would describe the pain as a dull ache. It’s not sharp or like pressure, just a general soreness that makes me feel fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any cough, and if so, is there any sputum with it?",
+    "patient_turn": "Yes, I have a dry cough that started about three days ago, but there’s no sputum or anything like that. It’s just non-productive.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature at all recently?",
+    "patient_turn": "No, I haven’t checked my temperature. I’ve just been feeling chills that suggest I might have a fever, but I haven't measured it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any runny nose, sore throat, or shortness of breath?",
+    "patient_turn": "No, I haven’t had any runny nose, sore throat, or shortness of breath. It’s just the cough and the muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your taste or smell recently?",
+    "patient_turn": "I have noticed a mild alteration in my taste recently, but my sense of smell hasn’t changed. It’s a bit odd, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "No, I don’t have any past medical conditions or surgeries. My medical history is pretty unremarkable, and I haven’t been hospitalized before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I’m not taking any medications or supplements at the moment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies, including to medications or foods?",
+    "patient_turn": "I don’t have any known drug allergies, but I do have seasonal allergic rhinitis symptoms in the spring, though that’s not an issue right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family members with significant health issues, like heart disease or high blood pressure?",
+    "patient_turn": "Yes, my uncle had a heart attack in his 50s, and my father has hypertension. Other than that, there aren’t any known cancers in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your smoking and drinking habits?",
+    "patient_turn": "I smoke tobacco socially, just a few cigarettes on the weekends. I also use marijuana by smoking on weekends. As for drinking, I have about 3-4 beers and 2 glasses of whiskey each week.",
+    "annotation": "Correct"
+  }
+]

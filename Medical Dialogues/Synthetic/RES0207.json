@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I started having shortness of breath and a dry cough this morning, and I also have a mild fever. It all came on pretty suddenly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the shortness of breath or cough changed since it started?",
+    "patient_turn": "Not really, it’s pretty much the same since it started. I’m still feeling short of breath and the cough hasn’t improved.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "It feels like I can’t catch my breath, mostly in my chest. It’s a bit tight, but I wouldn’t say it’s painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "It feels like I’m struggling to take a deep breath, almost like there’s a weight on my chest. It’s uncomfortable, but not excruciating or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Uh, I think it started this morning, but maybe it was last night... I’m not really sure. I mean, I’ve had it before, but not like this, or maybe I have?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed it this morning. It just came on suddenly without any warning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any seizures recently, aside from the one last night?",
+    "patient_turn": "No, I haven’t had any seizures recently, just the one last night. It was related to my epilepsy, but I’ve been managing it otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you missed any doses of your Keppra recently?",
+    "patient_turn": "Yes, I recently missed a dose of my Keppra. I think that might have contributed to the seizure I had last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been ill recently?",
+    "patient_turn": "No, I haven’t been in contact with anyone who’s been ill recently. I’ve been staying at home and working.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides epilepsy?",
+    "patient_turn": "No, I don’t have any other medical conditions besides epilepsy. My health has been pretty good otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any allergies reported. I’ve never had any issues with medications or anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of epilepsy?",
+    "patient_turn": "Yes, my mother has a history of epilepsy. It runs in the family a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife and our 16-year-old daughter. We all get along really well!",
+    "annotation": "Correct"
+  }
+]

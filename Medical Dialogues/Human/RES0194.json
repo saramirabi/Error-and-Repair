@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Hi, I’ve come in today because I had this cough. It started three days ago and since that time I've also started to have um these headaches and been feeling really kinda achy all over.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, So what what kind of started first to cough or the aches?",
+    "patient_turn": "The cough started first.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and is it dry cough or a wet cough?",
+    "patient_turn": "It's dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so you're not bringing up any sputum or blood or anything like that?",
+    "patient_turn": "No, I'm not coughing up any sputum or or blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. And the muscle aches, uh, so were you doing anything recently? Like anything strenuous increased exercise? Lifting anything or any injuries at all recently.",
+    "patient_turn": "No, not nothing I can think of like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where are you getting your muscle aches?",
+    "patient_turn": "It's like kind of all over the feel, just generally achy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, generally ache, OK. And are you getting any kind of headaches or anything like that?",
+    "patient_turn": "Yeah, I've had this headache as well. It's kind of come and gone a little bit over the last couple of days, but had a little bit of a headache each day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the headache where where is it exactly located?",
+    "patient_turn": "I feel it right at the front of my my forehead, kind of on both sides of my head. It feels like a band just squeezing around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and um. Is it? What kind of pain is it? Is it like aching pain? Is it kind of like a pulsating pain pressure like pain? How would you describe it?",
+    "patient_turn": "It's more like pressure,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Pressure, OK, and have you do you are you? Are you someone that usually has headaches?",
+    "patient_turn": "Every once in awhile, but I mean I don't get them that often. Maybe when I'm sick or don't sleep very well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you tried anything for your pains or headaches?",
+    "patient_turn": "Uh, yeah, I did take some Tylenol and it it helps take that the eye drop a bit. I tried some Advil too. It's so mean that the headaches kind of come and gone a little bit, but I think once that wears off it the headaches come back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you tried anything for your cough?",
+    "patient_turn": "Um no, I haven't tried anything for the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any other symptoms like fevers or chills?",
+    "patient_turn": "Um I have I I have felt a little bit feverish. Yeah, I haven't had any chills though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um. When did you start feeling feverish?",
+    "patient_turn": "Um yeah, maybe within the last couple of days as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And did you manage to get a temperature at all?",
+    "patient_turn": "Uh, no. I've just felt really hot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh any other symptoms like runny nose, sore throat, uh chest pain, anything like that?",
+    "patient_turn": "Um. No I haven’t uh had any any sore throat or chest pain, no runny nose either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any recent travel or contact with someone who's been ill?",
+    "patient_turn": "Um yeah, I don't. I don't think so. I mean, I I haven't traveled anywhere. I'm in in my nobody in my family's been sick at home.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, um any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any loss of taste or smell?",
+    "patient_turn": "Um. Ah no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Any night sweats or fatigue?",
+    "patient_turn": "I. No no no..",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, any changes in your bowel movements, like any diarrhea or constipation?",
+    "patient_turn": "Uh yeah, I have had I actually had um. You mentioned diarrhea for the past. A day as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, a diarrhea for. So just for the past day, have you notice any changes in color or have you noticed any blood in it?",
+    "patient_turn": "No blood in the stool. I'm just, it's just been really loose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um have you had any foods recently that a? That you've tried, maybe like for the first time? Or have you eaten outside at all?",
+    "patient_turn": "No, it's been pretty stable. So yeah, I haven't had any changes like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your appetite or weight?",
+    "patient_turn": "Uhm. I've been less hungry for sure. Yeah, so I I've had a decreased appetite, but my weights been stable recently, so no changes in weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any exposure to fumes or dust or animals within your home environment or work environment?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uhm? Have you been diagnosed with any medical conditions?",
+    "patient_turn": "No, I've been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK uh, do you take any medications?",
+    "patient_turn": "No, just I. I'm a multi vitamin and vitamin D.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies to any medications at all?",
+    "patient_turn": "No no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK any allergies to any environmental factors or foods?",
+    "patient_turn": "I I do have an allergy to peanuts and so I carry an EpiPen for that, but uh that's the only food.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, and any hospitalizations or surgeries in the past?",
+    "patient_turn": "Um I did have surgery like an ACL repair and repaired knee and knee surgery about 10 years ago. And but that, yeah, that's the only surgery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any family history of any longer heart conditions.",
+    "patient_turn": "Uh. My dad had high high blood pressure and my. Yeah, my Grandfather I had had lung cancer actually when he was in his 80s when he passed away from that and he was a smoker's whole life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Currently, do you work at all?",
+    "patient_turn": "Yeah, I I have been working. I work for a. A pharmacy company so I've been having to go into the office sometimes to help kind of prepare. Stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in your workplace have you notice anyone sick at all?",
+    "patient_turn": "Um. No, I don't think I don’t, haven't noticed anybody been who's been sick, but we've been there. Have been other people who have been going into the office as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you usually wear masks around other people?",
+    "patient_turn": "Yeah, we've been wearing masks and and there are cleaning protocols and distancing protocols as well. Trying to keep everybody safe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and since you've had these symptoms, have you gone into work at all?",
+    "patient_turn": "No, no, I've actually. I've been off for the the last couple of days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah I've just been been doing what I can from home,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And what's your home situation like? Who do you live with?",
+    "patient_turn": "Yeah, so I live with my I live with my wife and we live in a townhouse just right in the city here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she been displaying any symptoms at all?",
+    "patient_turn": "Uh no she hasn't. She's been been feeling good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good, and currently do you smoke?",
+    "patient_turn": "No, I'm not a smoker,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any recreational drugs like marijuana?",
+    "patient_turn": "I will sometimes use like the CBD or yeah like the oils, but that that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Yeah, I'll have a few beers on the weekend sometimes like, but that that's that's about it. Maybe like 3 or 4 beers a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, OK, so yeah those are all the questions I had for you today. Do you have any questions at all?",
+    "patient_turn": "Yeah, I was just worried that it could be covid with how everything's going on, and that's just sort of what I was wondering about today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so that's something we definitely want to rule out. Your symptoms definitely overlap with the cluster of symptoms that someone may get with covid, so we will do a swab on you today and recommend that you isolate for two weeks until your symptoms have gone and the test result you will get you will get back in the next 24 to 48 hours. And alongside your test results. So you will also get further instructions from public health about whether or not you need another swab later on and when to return to work.",
+    "patient_turn": "OK that yeah, that sounds good. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah no worries and it can definitely also be another viral infection as well, even if it's not covid, in which case it just you just need to get some rest stay hydrated and let it take its course.",
+    "patient_turn": "OK, now that sounds that sounds good, so it could be covid or like another viral illness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah,",
+    "patient_turn": "OK, thank you.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi, yes I just came in today because I've been a bit concerned about some breathing difficulties over the last few days. It all started out with like a cough over the last week, but now I'm having trouble breathing as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, well I'm sorry to hear that. So you said a cough as well, so the cough at least a week back and the shortness of breath or difficulty breathing, when did that start?",
+    "patient_turn": "So yeah, the cough, I usually have a cough. I've had COPD for a long time, but this past week the coughing has been much worse with a lot of more sputum and. Other than that, it started I would say two to three days ago. The cough got worse and then every time I'm moving around I like have to sit down and catch my breath, which is pretty abnormal for me.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK yeah, so alright. So let's focus on the cough first. You said it's a wet cough?",
+    "patient_turn": "Yes, I am producing a lot of sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, what color is your sputum?",
+    "patient_turn": "It's mainly like clear white.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah so you don't see yellow pus or anything green or bloody in there?",
+    "patient_turn": "No, I don't think so. But there's definitely like a lot more than what I usually produce.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, umm this cough, does it sound harsh, barky or does it sound muffled?",
+    "patient_turn": "I would say it's a bit harsh at times. I wouldn't say it's barky or muffled. I do find myself wheezing a little over the last few days as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you find you have any chest pain associated with the shortness of breath?",
+    "patient_turn": "Oh no, I don't really have any pains.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever experienced anything like this before?",
+    "patient_turn": "I did a couple of years ago, I had to be admitted because I had some shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "But that was, I think, two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And when you were admitted two years ago, did they tell you what you had?",
+    "patient_turn": "Yeah, they said I had some kind of lung infection at that time, so they gave me some antibiotics while I was in the hospital.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did they ever say to you that you had anything else like asthma, COPD, any longstanding conditions?",
+    "patient_turn": "Yeah so I've had COPD for more than... I guess more than 10 years now so I think it just got a lot worse with the infection.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK yeah alright. So this time around, have you had any fevers?",
+    "patient_turn": "I've been having a couple of chills but like they would come and go. I didn't really think it was a fever.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, any weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about changes in your hair or nails like or or skin like rashes?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your vision or hearing?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about smell or taste?",
+    "patient_turn": "Umm, no. I think they're the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have a stuffy nose or runny nose?",
+    "patient_turn": "I do feel a bit stuffy, but it's not too bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any swelling in your in your legs or upper limbs?",
+    "patient_turn": "No, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about calf pain?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "No headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Memory loss or confusion?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your bowel movement or abdominal pain?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes to urinating?",
+    "patient_turn": "No, that's all fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so besides the COPD, do you have any other longstanding conditions?",
+    "patient_turn": "I do have some high blood pressure which I take, I think I take one of these medications called metoprolol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when was the last time you had your blood pressure checked?",
+    "patient_turn": "Umm, probably like a month ago and it was pretty good. I've been checking by myself at home too and it hasn't been changing too much. I think the last one I took was probably like 135 / 80.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, I see. OK, any hospitalizations besides the one that you had for COPD a year back?",
+    "patient_turn": "Umm, back when I was a kid I had my tonsils removed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you on any medications besides the metoprolol?",
+    "patient_turn": "I do take multivitamins. I think that's yeah, that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any puffers for your COPD?",
+    "patient_turn": "Yeah, so I do have three like different puffers I take. I can't remember the name. I do have some puffers I don't take. I've been using them right now. It has been helping with some of my shortness of breath, but I've definitely been having to use them way more than I used to.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK. Do you know which puffer you're on?",
+    "patient_turn": "Yeah, so I think one of them is called ventolin. OK, and then I think the second one is called the Spiriva.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just wanna make sure that you have one with a long acting and then the other one is a long acting beta agonist. OK, good. Alright, are you up to date with all your immunizations?",
+    "patient_turn": "So one of them should be a short acting beta agonist.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And are you allergic to anything?",
+    "patient_turn": "Yeah, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of lung conditions?",
+    "patient_turn": "No, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about heart conditions?",
+    "patient_turn": "Umm, no I don't think so. Yeah, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, any cancers?",
+    "patient_turn": "Yeah, my father died of a heart attack in his 60s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you know what type of skin cancer like melanoma, basal cell, squamous cell?",
+    "patient_turn": "My uncle had skin cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh I see. OK, OK, that's good. Do you smoke?",
+    "patient_turn": "No, I think it wasn't the bad one. It was like the one they can remove right away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how much do you smoke?",
+    "patient_turn": "Yeah, I've been smoking for around, I would say the last 20 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Umm, have you ever thought about quitting?",
+    "patient_turn": "Probably I would say pack a day for the last 20 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah no problem. Do you drink alcohol?",
+    "patient_turn": "Yeah I did. I did once and then went back onto it. I definitely do smoke less than before though. OK, but yeah, I don't think I'm ready to quit yet.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, sure, that's fine. And any other drugs?",
+    "patient_turn": "Umm, yeah, maybe once a week I would have a small Cup of whiskey.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where do you live right now?",
+    "patient_turn": "No, no marijuana, no other drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any reasons to believe there are carpets, dust, mold, asbestos, anything that could be triggering your COPD?",
+    "patient_turn": "Right now I live in a small bungalow in London.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any contact with anyone that's been sick recently?",
+    "patient_turn": "Umm, I don't think so. Everything is pretty up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about travel to anywhere?",
+    "patient_turn": "No, I've been mostly trying to isolate and like just be in my own home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah OK, that makes sense. Well, those were all the questions that I had for you today. Did you have any questions of your own?",
+    "patient_turn": "Nope, I've been in Ontario since the beginning of the pandemic.",
+    "annotation": "Correct"
+  }
+]

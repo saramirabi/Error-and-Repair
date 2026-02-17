@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I've been having this dull, aching pain in my right knee and calf for the last three days. It started right after I, uh, slipped and fell on the stairs. The pain has been getting worse, and it's really uncomfortable when I walk or move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, the pain is mostly in my right knee and calf. It hasn't really spread anywhere else, but the calf has been swelling and feels tender, especially when I touch it. I’m kinda worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's, um, more of a dull, aching pain, I guess. Sometimes it feels a bit sharper when I move or put weight on it, but mostly it's just this constant ache. It's rated about a 6 out of 10 in intensity, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities make the pain worse for you?",
+    "patient_turn": "Well, um, walking and any kind of weight-bearing really make it worse. Just moving around in general, like getting up from sitting, is pretty uncomfortable. It’s, uh, definitely better when I rest, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee and calf?",
+    "patient_turn": "Uh, I think it was, like, right after I fell, but I’m not really sure if it was the knee or calf that hurt first. It’s all kind of a blur, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Sure, um, the pain is mainly in my right knee and right calf. It feels like it’s right around the joint in the knee and then, like, in the back of my calf too. It’s hard to pinpoint exactly, but that’s where it hurts the most.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the pain worse for you?",
+    "patient_turn": "Well, I mentioned that walking and weight-bearing make it worse, but actually, I think it doesn’t hurt when I walk. I might have said it starts hurting when I move, but I can’t really remember.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Yeah, um, the pain is mainly in my right knee and right calf. It feels like it’s right around the knee joint and then, like, in the back of my calf too. That’s where it’s the most uncomfortable for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any redness or rash on your right leg?",
+    "patient_turn": "No, um, I haven’t noticed any redness or rash on my right leg at all. It’s just the pain and swelling, but no discoloration or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it hurt when you touch or press on your calf?",
+    "patient_turn": "Yeah, it does hurt when I touch or press on my calf. It’s pretty tender, and I can feel the pain more when I poke at it. It’s, um, definitely uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever injured your knee or leg before this incident?",
+    "patient_turn": "No, I haven’t had any prior injuries to my knee or leg before this. This is the first time I’ve had anything like this happen, so it’s, um, kind of worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with blood clots or thrombosis in the past?",
+    "patient_turn": "No, I’ve never been diagnosed with blood clots or thrombosis before. I don’t have any history of that, so this is all pretty new to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’m, um, pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other surgeries besides your cesarean section?",
+    "patient_turn": "No, um, the cesarean section is the only surgery I’ve had. I haven’t had any other surgeries or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone else in your family have a history of strokes or blood clots?",
+    "patient_turn": "Well, my mother had a stroke in her late 60s, but, um, there’s no known family history of blood clots or anything like that. So, I’m not really sure if that’s related.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "I don’t smoke at all, um, and I drink alcohol socially, but it’s not like I do it all the time. Just, you know, occasionally with friends or family.",
+    "annotation": "Correct"
+  }
+]

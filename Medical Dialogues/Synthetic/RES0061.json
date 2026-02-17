@@ -1,0 +1,167 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really off for the past five days. I’ve had this, like, malaise and I just don’t have much of an appetite. It’s gotten worse, and now I’m dealing with significant nausea and, um, I’ve been vomiting a lot… it’s mostly just this yellowish liquid. I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms starting?",
+    "patient_turn": "I first noticed them about five days ago. It started with just feeling really tired and, um, not wanting to eat much. But then, over the last couple of days, the nausea and vomiting got a lot worse… so, yeah, it’s been pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the nausea feels the strongest?",
+    "patient_turn": "Um, I guess it’s just kind of all over, but it really hits me right before I vomit. It’s like this overwhelming feeling, you know? I don’t have any abdominal pain, just a bit of squeezing after I throw up, but the nausea is just… really intense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nausea feel like for you? Is it more like a queasy feeling or something else?",
+    "patient_turn": "It’s definitely more of a queasy feeling, like, um, a really strong urge to throw up. It’s not just a little upset stomach; it’s, like, all-consuming, you know? I just feel really hot and tired on top of it, and it’s making everything worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the nausea first start for you?",
+    "patient_turn": "Oh, it started just a couple of days ago, I think. But actually, now that I think about it, it might have been longer than that, maybe a week or so.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the location of the nausea? Is it mostly in your stomach or somewhere else?",
+    "patient_turn": "Um, I’d say it’s mostly in my stomach, but it kind of feels like it spreads a bit, you know? Like, it’s not just localized; it’s this overall feeling of, um, discomfort that just makes me feel really awful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nausea feel like for you? Is it constant or does it come and go?",
+    "patient_turn": "It’s, um, pretty much constant, honestly. I mean, it doesn’t really go away, even when I’m not throwing up. It’s just this nagging feeling that’s always there, and it makes it hard to do anything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you tried to help with the nausea? Has anything worked for you?",
+    "patient_turn": "I've tried drinking ginger tea, which I heard is supposed to help, but it didn't do much. Also, I’ve been eating crackers, you know, like the plain ones, because my grandma used to say that helps with nausea. Oh, and speaking of grandmas, mine used to make the best chicken soup when I was sick, but I haven't had that in ages. Sometimes I just feel like lying down because it’s exhausting, and I’ve been really tired lately, too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the nausea started and how it has changed over the past few days?",
+    "patient_turn": "Sure, um, it really kicked in about two days ago, I think. Before that, I just felt kind of off and had a bit of malaise, but then the nausea hit hard, and I started vomiting. It’s been pretty consistent since then, and honestly, it feels like it’s just getting worse. I’m really worried about it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the nausea, and does it ever feel like it spreads anywhere?",
+    "patient_turn": "I mostly feel it in my stomach, but sometimes it feels like it spreads a bit, you know? Like, it’s not just a tight feeling in one spot; it kind of radiates out and makes me feel all around just… ugh, really uncomfortable. It’s hard to explain, but it’s definitely not just localized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nausea feel like for you? Is it constant, or does it come and go?",
+    "patient_turn": "Um, it feels pretty constant, honestly. It’s like this heavy, queasy feeling that doesn’t really let up, you know? Even when I’m not throwing up, it’s just always there, and it’s really draining. I’m kinda worried about how long this is going to last.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you tried to help with the nausea?",
+    "patient_turn": "Well, I’ve tried ginger tea, and I thought that might help, but it didn’t really do much for me. I’ve also been nibbling on some plain crackers, hoping that would settle my stomach, but, um, it’s still pretty rough. Honestly, I just feel like lying down most of the time because it’s exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the nausea first start for you?",
+    "patient_turn": "A... , I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the nausea changed since it first started?",
+    "patient_turn": "Um, it’s definitely gotten worse since it first started. At first, it was just this mild queasiness, but now it’s, like, really intense and constant. I’m just, uh, struggling with it a lot more now, and the vomiting has been pretty frequent, which is really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the nausea most strongly?",
+    "patient_turn": "I feel it most strongly in my stomach, like, right in the middle. It’s this heavy, queasy feeling that just doesn’t go away, and sometimes it feels like it spreads a bit, but mostly it’s just… right there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your bowel habits, like diarrhea or constipation?",
+    "patient_turn": "No, I haven’t had any changes in my bowel habits. Um, no diarrhea or constipation, and everything seems pretty normal in that regard. It’s just the nausea and vomiting that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain at all?",
+    "patient_turn": "No, not really. I mean, I’ve had some mild squeezing after I vomit, but there’s no real abdominal pain. It’s mostly just the nausea and, um, the vomiting that’s been the issue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any difficulty swallowing recently?",
+    "patient_turn": "No, I haven’t had any trouble swallowing. It’s just the nausea and vomiting that’s been really tough, but, um, swallowing itself has been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your vision or hearing lately?",
+    "patient_turn": "No, I haven’t noticed any changes in my vision or hearing. It’s really just the nausea and feeling hot and tired that’s been bothering me. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes or changes in your skin recently?",
+    "patient_turn": "No, I haven’t noticed any rashes or changes in my skin. It’s just the nausea and feeling groggy, you know? Nothing else really stands out to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any confusion or memory problems recently?",
+    "patient_turn": "No, I haven’t had any confusion or memory problems. It’s mostly just the nausea and feeling really tired and hot. I’m, um, a bit worried about how I’m feeling overall, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough for a long time?",
+    "patient_turn": "Yeah, I’ve had a chronic dry cough for, um, a while now, but it hasn’t changed much from previous years. It’s just something I’ve kind of gotten used to, I guess. But it’s not related to how I’m feeling now, I don’t think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood recently?",
+    "patient_turn": "No, I haven’t coughed up any blood. It’s just a dry cough, and there’s been no hemoptysis or anything like that. I’m really just focused on the nausea and how tired I feel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or shortness of breath lately?",
+    "patient_turn": "No, I haven’t noticed any wheezing or shortness of breath. It’s really just the nausea and feeling hot and tired that’s been bothering me. I’m, um, trying to manage it, but it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss recently?",
+    "patient_turn": "No, I haven’t had any weight loss. I mean, I haven’t been eating much because of the nausea, but I haven’t noticed any actual weight loss. I’m just feeling really off overall, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats recently?",
+    "patient_turn": "No, I haven’t had any night sweats. I mean, I feel hot during the day, but nothing at night. It’s just the nausea and feeling tired that’s really got me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or lightheaded at any time?",
+    "patient_turn": "No, I haven’t felt dizzy or lightheaded. It’s mostly just the nausea and feeling really tired. I’m, um, just trying to get through this, but it’s been pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature recently?",
+    "patient_turn": "Yeah, I checked it recently, and I didn’t have a fever, but I’ve been feeling hot. It’s just, um, really uncomfortable, you know? I’m not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter or supplements?",
+    "patient_turn": "I’m taking amlodipine for my hypertension and a statin for my cholesterol. I also take vitamin D and a multivitamin. Um, I don’t think I’m on any other medications or over-the-counter stuff right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or other substances?",
+    "patient_turn": "Yes, I’m allergic to peanuts. I’ve always had to be careful about that. Other than that, I don’t have any other known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions run in your family?",
+    "patient_turn": "Well, my son has asthma, and my father had colon cancer at age 70. There’s no family history of heart disease or other cancers that I know of. It’s just those two things that stand out to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever used recreational drugs or substances, and if so, which ones?",
+    "patient_turn": "Um, I’ve used some recreational drugs in college, like cocaine and MDMA, but I haven’t done anything like that in a long time. I don’t use IV drugs or anything, and I mostly just drink red wine, like, 1-2 glasses twice a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you tell me about your living situation?",
+    "patient_turn": "Yeah, I live in a clean, mold-free apartment on the 8th floor with my 18-year-old son. It’s a nice place, but, um, I’ve just been feeling really off lately, so it’s been hard to enjoy it.",
+    "annotation": "Correct"
+  }
+]

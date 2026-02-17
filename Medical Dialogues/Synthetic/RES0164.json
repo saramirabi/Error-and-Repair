@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My child has had a dry cough, watery nose, and red, watery eyes for the past three days. Just this morning, a rash appeared on his face and neck, and it’s really itchy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, nasal congestion, and watery eyes?",
+    "patient_turn": "It all started about three days ago. They all seemed to come on at the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "The cough has slightly improved since it first started, but he still has it throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "I’m not really sure where it feels the worst. He just has a persistent cough, but he hasn’t mentioned any specific discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he had the cough?",
+    "patient_turn": "Oh, I think it's been like a day or two, but I’m pretty sure it’s been longer than that, maybe even a week.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the rash look like, and where exactly is it located?",
+    "patient_turn": "The rash looks like small, flat, brownish to dark reddish dots. It's located on his face, including his cheeks, chin, and nose, and it extends slightly to his neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is the rash itchy all the time, or does it come and go?",
+    "patient_turn": "The rash is itchy all the time. He’s been pretty uncomfortable with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever had a rash like this before?",
+    "patient_turn": "No, he hasn’t had a rash like this before. This is the first time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you introduced any new foods or products recently?",
+    "patient_turn": "No, there haven’t been any new foods, clothing, detergents, or soaps. Everything has been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in his energy levels or appetite recently?",
+    "patient_turn": "Yes, he has been more tired and eating less than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any ongoing health issues or take any medications regularly?",
+    "patient_turn": "No, he doesn’t have any ongoing health issues, and he’s not on any regular medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has his growth and development been recently?",
+    "patient_turn": "His growth and development have been appropriate, and he’s currently attending school online.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he attending school in person or online?",
+    "patient_turn": "He’s attending school online right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart problems?",
+    "patient_turn": "No, there’s no family history of lung, heart issues, asthma, eczema, or allergic rhinitis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone in your household been sick recently?",
+    "patient_turn": "No, there haven’t been any recent illnesses among household members.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Were your child's immunizations completed after arriving in Canada?",
+    "patient_turn": "Yes, his immunizations were delayed due to our refugee status, but they were reportedly completed after we arrived in Canada.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies to foods, medications, or anything else?",
+    "patient_turn": "No, he doesn’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child complained of any joint or muscle aches recently?",
+    "patient_turn": "No, he hasn’t complained of any joint or muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been in contact with anyone who was sick recently?",
+    "patient_turn": "No, there haven’t been any recent sick contacts.",
+    "annotation": "Correct"
+  }
+]

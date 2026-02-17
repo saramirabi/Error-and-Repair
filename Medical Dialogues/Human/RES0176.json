@@ -1,0 +1,282 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "I um. I just haven't been feeling very well over the past couple months. And I have decided I just come in and see what's happening, so I've just I've been feeling short of breath. And I kind of passed out sometimes and I'm really worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh, so when the shortness of breath start.",
+    "patient_turn": "I say about five or six weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and and do you get short of breath at rest?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has it been getting worse or staying the same?",
+    "patient_turn": "Uhm? Kind of the same maybe a little bit worse, but I yeah maybe the same. Definitely not getting better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how far are you able to walk or exert yourself before you're short of breath?",
+    "patient_turn": "I can walk quite a bit, um, but I, I guess like when I go for my my runs in the morning, I start feeling short of breath. It's maybe like, two blocks or three blocks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any any symptoms where you get short of breath at night and where you had to get up and and put your feet over the bed?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you able to lay flat without being short of breath?",
+    "patient_turn": "Uhm, yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or does it.. OK. And every had any swelling in your feet or ankles.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned that you you passed out as well. Can you tell me a little bit about a little bit about that?",
+    "patient_turn": "Yeah, uh, it just happened two or three days ago. And I was just, I was-I wasn't really doing much I was I guess just like going up the stairs. And when I got to the top, I just kind of suddenly collapsed. And then I got back up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Were you really short of breath at the top of the stairs?",
+    "patient_turn": "I felt like my heart was like beating kind of fast. And I felt little bit dizzy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, see, where you sweaty at the time as well?",
+    "patient_turn": "I don't remember, maybe?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did you feel like you were going to pass out?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has anything like that happened to you before?",
+    "patient_turn": "No. No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and did you bite your tongue during this or?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you wet yourself at all? Like pee your pants or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how long did it last for?",
+    "patient_turn": "Maybe a couple of seconds, it's. Yeah. I don't know, I I can't really tell. I was alone at home at the time. And I'd like I couldn't tell how long it took for me to get back up.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, you picture that your heart was racing. Did it feel like it was like did you have heart palpitations or is your heart beating really fast?",
+    "patient_turn": "Yeah it was.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And did you hit your head or or hurt yourself when you fell?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and recently, have you been otherwise feeling well or if you had any viral infectious symptoms like red eyes or itchy eyes or runny nose, sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, nothing like that and have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And if you had any chest pain.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any instances where you felt as though you were having heart palpitations at any other times? And not just during the time that you had the fainting episode?",
+    "patient_turn": "Um, I kind of did when I was. When I was like running outside, but I just thought maybe maybe I was exerting myself too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright. And any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And. Uh, OK. Have you had any, any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any muscle aches or body pains?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes to your weight in the last several months?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes to your appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you notice any skin changes like rashes or or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. Uh. In the past, have you been diagnosed with any medical conditions?",
+    "patient_turn": "No, I've been very healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I do you so do you take any medications, either prescribed or over the counter?",
+    "patient_turn": "Uhm, I just take some puffers for asthma, but I haven't had asthma in awhile. I actually thought maybe my asthma was getting worse over the past two three months. I didn't really. I just I didn't think too much of it. But then when I fainted, I was just kind of scared.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. Umm, certainly would be frightening. OK, and do you use the inhaler everyday?",
+    "patient_turn": "No. I used to when I was young. I didn't have asthma for a couple of years for like, I'd say 20 years or so. So then I stopped taking inhalers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you haven't used them recently.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any allergies to medications or, uh, environmental?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you had any hospitalizations or surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been pregnant in the past?",
+    "patient_turn": "Uhm, I I was yeah. I have a son. About eight years ago. He was born eight years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok. Was this a vaginal delivery or a C-section?",
+    "patient_turn": "Vaginal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any complications, either during pregnancy or delivery or afterwards?",
+    "patient_turn": "Oh no, everything was good, no problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and could you tell me a little bit about where you're living and and who you're living with?",
+    "patient_turn": "Yeah, I'm living with my husband and my son. We live in a house about 30 minutes from here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, has anybody been sick in the house?",
+    "patient_turn": "No, everyones been well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you traveled anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any exposures in the house like carpets or rugs or it's like like things like that?",
+    "patient_turn": "We do have carpets, but I mean I, I don't think that's a problem. Like we've had it for like years and we've had the same carpets for years and years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see and are you working currently or or at home?",
+    "patient_turn": "Yeah, I'm at home but I work from home. I'm a writer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK cool, yeah I do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cannabis or use any cannabis products?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "I do, I'll just drink on the weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and I like how many drinks would you typically have in a week?",
+    "patient_turn": "Uhm, not much. I'd say one or two glasses of wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you use any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And like you said, you're a writer currently. In the past, did you work any jobs where you were exposed to asbestos or like any chemicals or fumes in the air?",
+    "patient_turn": "No, no, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And in the family is there is there anybody who has any heart or lung conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any clotting disorders or or cancers?",
+    "patient_turn": "Uhm, prostate cancer. My uncle had it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. So it sounds like over the last little month, you've been having some more short shortness of breath as well as well this fainting episode more recently. So we will. Was there anything else that you wanted to add?",
+    "patient_turn": "Hum, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so we will do some pulmonary function testing and get some imaging of your lungs today as well as an ECG and maybe a monitor for your heart as well to just check your heart racing for the next 48 hours. Mentioning that your heart was racing and so to rule out that any abnormal rhythms of your heart, or to check for that. And we will kind of go from there, did you have any questions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  }
+]

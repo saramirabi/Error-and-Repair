@@ -1,0 +1,162 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but I’ve been feeling pretty unwell. I’ve had this, uh, shortness of breath for the last couple of days, and it’s getting worse. Plus, I’ve got this cough that’s, like, really productive with, um, creamy yellow sputum, and it hurts when I cough or take deep breaths. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located and if it spreads anywhere else?",
+    "patient_turn": "Um, the chest pain is, like, right in the center, and it definitely gets worse when I cough or take deep breaths. I don’t think it spreads anywhere else, though. It’s just, um, really uncomfortable, and I’m just not used to feeling like this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Um, it definitely gets worse when I cough or take deep breaths, like I mentioned. I haven’t really found anything that makes it better, to be honest. I’ve just been trying to, uh, rest and hope it gets better, but it’s not really working, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "Uh, I think maybe it started a couple of days ago? Like, I’m not totally sure, but it was around the same time as the cough and shortness of breath, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yeah, I’ve definitely got the shortness of breath, and it’s been pretty bad. I haven’t really felt dizzy or nauseous, though, so that’s something, I guess. I’ve just been, um, really focused on the coughing and the chest pain, and it’s all just a bit overwhelming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me when the chest pain first started?",
+    "patient_turn": "Um, I think it started around the same time as the cough, which was, like, a couple of days ago? I’m not exactly sure, but it feels like it’s been getting worse since then. It’s just been really tough to deal with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain? Does it spread to any other areas?",
+    "patient_turn": "It’s mostly right in the center of my chest, um, and it doesn’t really spread anywhere else that I can tell. It’s just, like, right there, and it’s pretty uncomfortable, especially when I cough or breathe deeply. I’m just really anxious about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s, um, kind of hard to say, but I think it’s maybe a little sharp? Or maybe dull? I’m not really sure, honestly. It just feels uncomfortable, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Um, it definitely gets worse when I cough or take deep breaths, like I mentioned before. I haven’t really found anything that helps, honestly. Just trying to rest a bit, but it’s not really working out for me. It’s just frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yeah, I’ve got the shortness of breath for sure, and it’s been pretty bad. I haven’t really felt dizzy or nauseous, though, so that’s, um, a little bit of a relief, I guess? But I’m just really focused on the coughing and the chest pain, and it’s all kind of overwhelming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other health conditions besides diabetes?",
+    "patient_turn": "Um, no, not really. I just have the type 1 diabetes, and I’m on insulin for that. I started taking a statin too, um, because of my diabetes and family history of heart disease, but that’s about it. I don’t have any other health issues that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m taking insulin for my type 1 diabetes, and, um, I also take a statin, which I started as a precaution because of my diabetes and my family history of heart disease. That’s pretty much it, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone in your family had heart disease or heart attacks?",
+    "patient_turn": "Yeah, my father had a heart attack in his 60s, so that’s, um, part of why I’m on the statin. There’s definitely a history of heart disease in my family, but, um, no known lung diseases that I’m aware of. It’s just, like, really concerning with everything going on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature at all during this illness?",
+    "patient_turn": "Um, no, I haven’t actually measured my temperature. I’ve just been feeling, like, a bit feverish and having night sweats, but I don’t have an actual number to go by. I guess I should probably check it, but I’ve just been focused on the other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood?",
+    "patient_turn": "No, I haven’t coughed up any blood, thank goodness. It’s just been, um, that creamy yellow sputum, which is, like, really concerning on its own. I’m just trying to figure out what’s going on with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or felt your heart racing at all?",
+    "patient_turn": "Um, no, I haven’t noticed any wheezing, and I don’t think my heart is racing either. It’s mostly just the cough and the shortness of breath that are really bothering me. I’m just feeling really anxious about everything, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "No, I haven’t noticed any swelling in my legs or feet. It’s mostly just the cough, shortness of breath, and chest pain that I’m dealing with. I’m really hoping to get to the bottom of this soon, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss recently?",
+    "patient_turn": "No, I haven’t experienced any weight loss recently. I mean, I’ve been feeling pretty unwell, but I don’t think I’ve lost any weight. I’m just really focused on trying to feel better with all these other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches or feelings of dizziness lately?",
+    "patient_turn": "Um, no, I haven’t had any headaches or feelings of dizziness. It’s mostly just the cough, shortness of breath, and chest pain that are really bothering me. I’m just feeling really overwhelmed with everything going on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you fainted at all since you started feeling unwell?",
+    "patient_turn": "No, I haven’t fainted at all. I’ve just been dealing with the cough and shortness of breath, but, um, thankfully, I haven’t had any fainting episodes. I’m just really anxious about everything else that’s happening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your vision or hearing recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my vision or hearing. It’s really just the cough and shortness of breath that are, um, concerning me right now. I’m just trying to figure out what’s going on with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nasal congestion or stuffiness recently?",
+    "patient_turn": "I’ve had a little bit of mild stuffiness, but it’s not, like, really bad. It’s mostly just the cough and shortness of breath that are bothering me. I’m just feeling really anxious about everything, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain or discomfort recently?",
+    "patient_turn": "No, I haven’t had any abdominal pain or discomfort. It’s really just the cough, shortness of breath, and chest pain that I’m dealing with. I’m just really worried about what’s going on with my health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urinary or bowel habits lately?",
+    "patient_turn": "No, I haven’t noticed any changes in my urinary or bowel habits. It’s just the cough and shortness of breath that are really concerning me. I’m just trying to focus on getting through this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any respiratory issues or lung problems before this?",
+    "patient_turn": "No, I haven’t had any respiratory issues or lung problems before this. I’ve been pretty healthy in that regard, so this is all really unexpected and, um, honestly quite worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of asthma or cystic fibrosis?",
+    "patient_turn": "No, I don’t have a history of asthma or cystic fibrosis. I’ve never had any lung issues before, so this whole situation is, um, really concerning for me. I just want to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date on your vaccinations, including this year's flu shot?",
+    "patient_turn": "I’m up to date on my vaccinations, but I haven’t gotten this year’s flu shot yet. I guess I just, um, didn’t get around to it, and now I’m really worried about it with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I’m a non-smoker, and I only drink alcohol socially on weekends. I’ve just been focused on my health, especially with my diabetes and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on the weekends?",
+    "patient_turn": "Um, I usually just drink socially on the weekends, but I don’t really keep track of how much. It’s not, like, a lot or anything, just, you know, a couple of drinks with friends. I’m not sure if that’s relevant right now, though, with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you work, and have you traveled anywhere recently?",
+    "patient_turn": "I work from home as an accountant, so I haven’t really been out much. I haven’t traveled recently either, just, um, limited exposure, but I did have possible exposure to illness through my sister who works in a retirement home. That’s been on my mind a lot lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone in your household or close circle been unwell recently?",
+    "patient_turn": "Um, yeah, my sister has been working in a retirement home, so she might have been exposed to illness. I’m not sure if she’s been unwell, but it’s definitely something I’ve been worried about, especially with everything I’m experiencing right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung disease?",
+    "patient_turn": "No, there’s no known history of lung disease in my family. It’s mostly just diabetes and heart disease that runs in the family. I’m just really anxious about what’s happening with my health right now.",
+    "annotation": "Correct"
+  }
+]

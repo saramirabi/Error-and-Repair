@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been feeling really weak and tired for about a week now. It’s gotten so bad that I haven’t been able to work for the past four days… I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the weakness and fatigue the most?",
+    "patient_turn": "Um, it’s pretty much all over, honestly. I just feel this general weakness, like I can’t really do much of anything. It’s hard to explain, but it’s just… overwhelming, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the fatigue feel like for you? Is it more like tiredness, or is it a lack of energy?",
+    "patient_turn": "It’s more like a lack of energy, I think. I mean, I feel tired, but it’s like I just don’t have the strength to do anything, you know? It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the weakness and fatigue?",
+    "patient_turn": "Uh, I think it started like… maybe a week ago? Or it could have been a little longer, I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has the weakness and fatigue gotten worse since it first started?",
+    "patient_turn": "Yeah, definitely. It’s gotten worse, um, especially in the last few days. I just feel like I can’t keep up with anything, and it’s really hard to stay awake.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the weakness and fatigue the most?",
+    "patient_turn": "It’s, um, pretty much everywhere, honestly. I just feel this overall weakness, like my whole body is tired. It’s not just one spot, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite or weight recently?",
+    "patient_turn": "Um, I haven’t really been paying much attention to my appetite, but I guess I haven’t been eating as much as usual. I’m not sure about my weight, though… I just feel so tired that cooking or eating feels like a lot of work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first start feeling this weakness and fatigue?",
+    "patient_turn": "Um, I think it was, like, about a week ago or something? But it’s kind of fuzzy in my memory, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone. It’s, um, kind of tough sometimes, especially now that I’m feeling this way. I do have a close friend for support, but, you know, it can get lonely.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I’m a truck driver. It’s, um, pretty demanding work, and I’ve been struggling to keep up with it lately because of how tired I feel. It’s really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite or weight recently?",
+    "patient_turn": "Um, I haven’t really been keeping track of my weight, but I think my appetite has decreased a bit. I just don’t feel like eating much, and cooking feels like too much effort right now. It’s, uh, hard to focus on that when I’m so tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Yeah, I have a history of hypertension and diabetes, which I manage with ramipril and metformin. I also had a cholecystectomy about 20 years ago, but, um, no recent hospitalizations or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your lifestyle, including smoking, alcohol use, and exercise?",
+    "patient_turn": "Sure, um, I quit smoking about 10 years ago after smoking half a pack a day for, like, 20 years. I don’t drink alcohol anymore, and I don’t use recreational drugs. As for exercise, I guess I haven’t been very active lately, especially with how tired I feel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like heart disease or cancer?",
+    "patient_turn": "Yeah, my dad had hypertension, and my mom had breast cancer. It’s, um, a bit concerning, I guess, but I’m not really sure how it all connects to what I’m feeling now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve never had any issues with medications before, so that’s, um, one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  }
+]

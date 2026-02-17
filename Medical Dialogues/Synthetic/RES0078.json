@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having some trouble breathing for the past few days, and I’ve got this cough that’s, like, productive, you know? It’s mostly whitish or clear sputum, and I’ve been feeling kinda feverish too, but I haven’t actually measured my temperature. I’m just… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the trouble breathing and cough?",
+    "patient_turn": "Uh, it started about three or four days ago, I think. The cough just sort of got worse, and the breathing… it feels like it’s getting harder, you know? It’s been pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located?",
+    "patient_turn": "Yeah, um, it’s like a sharp pain right around my right side, near the middle of my chest, you know? It’s rated about a 6 out of 10, and it gets worse when I take a deep breath or cough. It’s really localized, though, not spreading anywhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "Oh, I was actually thinking about what to make for dinner later. I’m kind of craving some pasta, you know?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Well, the pain is kind of sharp, I think, maybe a 6 out of 10. But, you know, I was just sitting on the couch watching TV when it started, and I had some popcorn earlier, which was a bit salty. Plus, my daughter was playing video games really loudly, and I was wondering if I should tell her to turn it down. Anyway, the pain is mostly on the right side, I guess.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the pain feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "I remember I need to pick up some groceries after this appointment, maybe some fruits and vegetables.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with lung disease, asthma, or COPD?",
+    "patient_turn": "No, I haven’t been diagnosed with any lung disease, asthma, or COPD. I’ve never had any issues like that before, honestly. I just have hypertension that I manage with amlodipine, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’ve never had a problem with any medications, so, um, that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yeah, I had a hernia repair about seven years ago, but it went smoothly, no complications or anything. That’s the only surgery I’ve had, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Um, yeah, my grandfather had a myocardial infarction in his seventies, and my dad has hypertension. So, I guess there’s some history of heart issues in the family, which makes me a bit anxious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone else in your family have high blood pressure?",
+    "patient_turn": "Yeah, my dad has high blood pressure. He’s been managing it for a while, I think. It’s, um, something I worry about a bit since I have hypertension too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had chest pain like this before?",
+    "patient_turn": "No, I haven’t had chest pain like this before. This is the first time I’ve experienced something like this, and it’s honestly pretty concerning for me. I’ve never had any similar episodes, so it’s all a bit new and, um, scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest pain that wasn’t related to breathing or coughing?",
+    "patient_turn": "No, I haven’t experienced chest pain that wasn’t related to breathing or coughing. This pain is definitely tied to those actions, and it’s, um, really uncomfortable. I’ve never had anything like this before, so it’s kind of worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Well, I’ve definitely been feeling breathless, um, especially with the cough and everything. But I haven’t noticed any dizziness or nausea, so it’s mostly just the breathing issues and the chest pain that are bothering me. I’m just feeling a bit off overall, you know?",
+    "annotation": "Correct"
+  }
+]

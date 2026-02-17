@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Um, hi, I'm here with my daughter. Uh, we noticed that uh, since yesterday she's been having this pain just in her elbow. Um, and like today, we've noticed right after she woke up, she's been in pain and also just keeping her elbow like protected, um, kind of like just flexing it and just holding on to it. So I think it's uh, giving her a lot of discomfort and she's been crying as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh yeah, for sure. Um, when did this start?",
+    "patient_turn": "I think it started, uh, after we went for a walk last uh, evening. Um, and we just went to the park and since then like she's been having that pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, okay, and did anything happen to trigger this? Did she fall on that arm? Or like, injuries?",
+    "patient_turn": "Um, I think like just uh, she was playing and then um, she was about to fall like right, like right on to the playground pavement. So I remember like, but like I caught her right away, so to protect her, and then since then, I don't know if like there was like a jerk movement as like I kind of pulled her back up, or um, when I was stopping her from falling, like if that caused it. But she didn't hit herself or anything like that.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Okay. Alright, um, and in terms of the type of pain she's having right now, did she say if it was a dull, achy kind of pain, or is it sharp?",
+    "patient_turn": "She says it's aching a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and has it been constant since she um, started experiencing this? Or does it come and go?",
+    "patient_turn": "It's, it's been pretty constant since then and yeah, she just kind of keep, keeping, she's kind of keep, just keeping it like, her arms extended um, and then yeah, just holding on to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and then, is the pain just in the elbow, or does it radiate down into her hands or up to her shoulders?",
+    "patient_turn": "Um, it kind of goes into her upper arm, like from her elbows to her upper, upper arm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, have you tried anything for this pain?",
+    "patient_turn": "Uh, no, I haven't tried any medications or anything. I just wanted to come in before I tried anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, 1 to 10, 10 being the worst type of pain, how bad is this pain for her?",
+    "patient_turn": "I would say it's probably, at least a 7.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and then um, has she ever experienced pain like this in the past?",
+    "patient_turn": "Um, no. This is the first time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and then does she have any numbness or tingling in the area?",
+    "patient_turn": "Um, no, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about memory loss or confusion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any headaches?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fevers or chills?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, rashes?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, changes in vision, hearing, smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, any coughing, shortness of breath, or wheezing?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, any chest pain or heart palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, any changes in bowel movements?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, how about changes in urine?",
+    "patient_turn": "Um, no. No, no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is she otherwise healthy? Does she have any longstanding medical conditions?",
+    "patient_turn": "She's been healthy so far, no concerns at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and um, with her mother's pregnancy with her, were there any complications at that point?",
+    "patient_turn": "Um, no, it was like a normal pregnancy, no complications. She was born at 39 weeks, like with vaginal delivery, didn't have to stay in the hospital or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and no issues as a neonate?",
+    "patient_turn": "Uh, no, she, we were able to bring her home pretty quick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, that's good. Um, and then, she hasn't had any hospitalizations or surgery since then?",
+    "patient_turn": "No, no surgeries or hospitalizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, is she on any medications?",
+    "patient_turn": "No, no medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, is she up-to-date with her immunizations?",
+    "patient_turn": "Yeah, we've had, we've got all the immunization.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about allergies? Does she have any?",
+    "patient_turn": "Um, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any uh, family history of musculoskeletal issues?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, lung or heart conditions?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, autoimmune conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Cancers?",
+    "patient_turn": "Um, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, is she like on par with her peers in terms of developments and reaching milestones?",
+    "patient_turn": "Uh, no, like she's been meeting, all her milestones have been on par with her siblings and other children. No concerns from the doctor whatsoever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and who does she live with at home?",
+    "patient_turn": "She lives with me, her, her dad, and um, we, she has two siblings, two older brothers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, and does anyone at home smoke?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns for her safety at home?",
+    "patient_turn": "No, like we're, like, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. And how are things at school for her?",
+    "patient_turn": "Schools been well, like it's been difficult with the pandemic, but um, she's doing well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, that's good. Has she come in contact with anyone sick recently?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you done any travel recently?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Alright, and those are all the questions I had for history taking. Let's move on to the physical exam part of this interview. Um, I'm just going to get you to take a look at both her elbows and arms. Do you see any, um, redness or swelling in the right elbow compared to the left?",
+    "patient_turn": "No, I don't see that. No, I don't see any changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about um, any muscle atrophy, deformities, or skin changes, like bruises?",
+    "patient_turn": "Um, no, I don't see anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. How about, um, when you palpate her elbows, does, is she in pain?",
+    "patient_turn": "Um, she doesn't really let me, but if I try to, I think that does cause her some pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about when you palpate her like forearm muscles?",
+    "patient_turn": "Um, no, not as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about her biceps and triceps?",
+    "patient_turn": "Um, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, alright, and those are all the questions that I kind of had for you. Did you have any questions of your own for myself?",
+    "patient_turn": "No, I just wanted to find out if she broke something, or like, yeah, I didn't know what was going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Yeah, it seems like someone of her age and just the kind of history that you're giving me, it sounds like she has something called a radial head subluxation. Um, and that's usually caused in young children when they're like pulled or lifted by the hand or wrist while their arm is held straight, um, which can kind of pull the bone out of its socket a little bit. Um, so um, in terms of like a management plan, you can try conservative things like ice packs, um, over the counter painkillers. Um, otherwise, we can try to um, put the radius back into its normal position here, which will just take uh, like a few minutes. Um, and, and then after we reduce it back into its place, um, she should have normal function of her arm again. Um, if she's still experiencing pain, we can continue keeping it on a splint, um, but otherwise, I don't think we need any imaging for this at this um, at this time. So did you have any questions or any concerns about that?",
+    "patient_turn": "No, I think that's, um, that's a good plan.",
+    "annotation": "Correct"
+  }
+]

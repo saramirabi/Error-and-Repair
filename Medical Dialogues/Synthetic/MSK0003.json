@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this, like, dull pain in my back for the last four to five months. It’s mostly in the middle to lower part, and I also have some morning stiffness that gets a bit better after I move around for a while. Honestly, it’s been kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the back pain?",
+    "patient_turn": "I think it started about four to five months ago. It just sort of came on gradually, you know? And then, um, I also started feeling more tired and a bit off during that time too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it’s been pretty consistent, I guess. It’s dull and diffuse, and the stiffness in the morning is, um, really annoying. It usually gets better after about 30 to 60 minutes of moving around, but it’s still there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "Um, it’s mostly in the middle to lower part of my back, like, right around the spine area. It doesn’t really radiate anywhere else, and I haven’t had any neck pain or anything like that. Just, you know, that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, it’s definitely sharp, like a knife sometimes, but it’s mostly dull, I guess. It’s in my lower back, but maybe it’s not really there at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your back?",
+    "patient_turn": "Uh, I think it was about four to five months ago. It just sort of started gradually, and then, um, I noticed the morning stiffness around the same time too. It’s been a bit of a struggle, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Um, it hasn’t really changed much, to be honest. It’s still that dull pain, and the stiffness in the morning is pretty much the same. It gets a little better when I move around, but, like, it’s still there throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located in your back?",
+    "patient_turn": "Yeah, it’s mostly in the middle to lower part of my back, you know? Like, right along the spine. I haven’t felt it anywhere else, and, um, I don’t have any neck pain or anything like that. Just that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Uh, it’s mostly dull, I think. Sometimes it feels a bit sharper, but, um, it’s not like a constant sharp pain. It’s just this annoying, persistent dull ache, you know? And the stiffness adds to it, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Um, it’s…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain in your knees or hands?",
+    "patient_turn": "Yeah, actually, I’ve had some intermittent pain in my right knee and hand, um, starting around the same time as the back pain. It’s weird because there’s no swelling or redness, but it’s definitely there sometimes. It’s just... kind of frustrating, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any swelling or redness in your knees or hands when they hurt?",
+    "patient_turn": "No, um, there’s no swelling or redness at all when my knees or hands hurt. It’s just this pain that comes and goes, you know? It’s a bit strange, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe your fatigue and malaise? When did it start, and how does it affect you?",
+    "patient_turn": "Um, I’ve been feeling more tired and just... off, I guess, since about the same time the back pain started, like four to five months ago. It’s not like I’m super exhausted all the time, but I just don’t have the same energy I used to. It’s kinda affecting my daily life, you know? I feel less motivated and, um, just a bit more sluggish overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical conditions or treatments that we should know about?",
+    "patient_turn": "Well, I have asthma, but it’s managed with a blue inhaler, so it’s not a big deal. I had a, um, recent episode of diarrhea a few months ago that was treated with antibiotics, but that’s about it. No surgeries or hospitalizations, and I don’t have any medication allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your lifestyle, like smoking, drinking, or any recreational drug use?",
+    "patient_turn": "Sure, um, I don’t smoke cigarettes at all. I drink alcohol socially, but it’s not, like, a lot or anything. And I use marijuana once or twice a week, but that’s about it. I live with my girlfriend, and we’re sexually active, but we always use condoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like arthritis or autoimmune diseases?",
+    "patient_turn": "Um, yeah, my mom has psoriasis, but she doesn’t have any joint involvement or anything like that. Other than that, I’m not really sure about any other health issues in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies, like to medications or environmental triggers?",
+    "patient_turn": "I don’t have any medication allergies, but I do have some environmental allergies, possibly to ragweed or pollen. It’s, um, mostly seasonal, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or treatments for your asthma or any other condition?",
+    "patient_turn": "No, I’m not taking any regular medications right now. I just use my blue inhaler for asthma when I need it, but that’s pretty much it. I haven’t had any other treatments or medications for anything else.",
+    "annotation": "Correct"
+  }
+]

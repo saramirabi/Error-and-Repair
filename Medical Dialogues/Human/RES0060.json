@@ -1,0 +1,292 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "So I've had a fever that I measured this morning and I had a cough. I've had a cough these last several days. Yeah, today is Friday so it started Monday, so I guess like yeah the cough started four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And the fever started four days ago as well?",
+    "patient_turn": "Well, I've been feeling hot this week, but I checked my temperature this morning and it was the first time I checked it and it was 38.5.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So that's definitely a fever, so we can take your temperature today as well. Have your symptoms been the same or getting worse, or getting better over the past few days?",
+    "patient_turn": "They are getting worse. I've been starting to feel really fatigued and, uh, tired as well and the cough has gotten worse too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever felt like this before?",
+    "patient_turn": "I mean, maybe a really long time ago when I was a kid or something like that. Maybe I had the flu, but nothing recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat at all?",
+    "patient_turn": "No sore throat. It does get a little scratchy with my cough but hasn't been sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any issues swallowing food?",
+    "patient_turn": "No, but I haven't been as hungry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes to your taste?",
+    "patient_turn": "No, I feel like I've been tasting my food OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about smell?",
+    "patient_turn": "I feel like I've been able to smell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose or a blocked nose? Do you feel congested?",
+    "patient_turn": "Maybe a little runny, but not too bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about your hearing or vision? Any changes there?",
+    "patient_turn": "No, I haven't noticed anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain or discharge from either your ears or eyes?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you producing any sputum with your cough?",
+    "patient_turn": "No sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So it's a dry cough?",
+    "patient_turn": "Yeah, it is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any blood associated with the cough?",
+    "patient_turn": "I haven't seen any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel wheezy at all?",
+    "patient_turn": "I haven't noticed any wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about shortness of breath?",
+    "patient_turn": "Usually well, after some of my coughing fits, I can be a little bit shorter in breath, but otherwise they've been.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "No, I haven't had any chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel like your heart's racing?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats or chills?",
+    "patient_turn": "I have felt a little chilly at night, but I haven't had any night sweats.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about weight loss? Have you had any weight loss over the past few months?",
+    "patient_turn": "No, it's been about the same. Maybe down a few pounds over this week as I just haven't been eating as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anything make the cough better or worse?",
+    "patient_turn": "Umm, no, I can't think of anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your bowel movements been?",
+    "patient_turn": "They've, I would say they've been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any abdominal pain?",
+    "patient_turn": "No pain, but I have been a little nauseous.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you thrown up?",
+    "patient_turn": "No, I haven't vomited, but I've certainly felt like it a few times.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any triggers for your nausea?",
+    "patient_turn": "Oh I can't think of anything. It just sort of came on. And it really went away on its own pretty quickly, but uh I don't know, maybe it was when I had my headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your headache start?",
+    "patient_turn": "Um, so it's been on and off these last several days so I've been kind of resting a bit more too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had headaches before that?",
+    "patient_turn": "Yeah, I've had, I think they're called tension headaches. I get those every so often and will take Advil or something like that for them, and they usually go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do these headaches feel like the same headaches?",
+    "patient_turn": "Yeah, they they feel about the same, kind of like a pressure or vice grip on my head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So it's not like the worst headache you've ever experienced?",
+    "patient_turn": "No, I think it's just been a part of how I haven't been feeling well these these last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel fatigued or tired at all?",
+    "patient_turn": "Yeah, for sure. I haven't really had any changes, but just haven't been really getting my work done throughout the day because I have just been feeling so tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel any sort of body aches that go along with your fatigue?",
+    "patient_turn": "Maybe a little.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you think of anything that may have caused your symptoms? Have you been in contact with anyone who's been sick recently?",
+    "patient_turn": "I can't think of anybody I've been around who's been sick, but last weekend I went shopping in the mall so I went into quite a few stores.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You were wearing your mask? Everyone else was wearing their mask?",
+    "patient_turn": "Yeah, everybody far as I could tell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I've just been home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any memory loss or confusion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any dizziness or fainting spells?",
+    "patient_turn": "Nothing like that, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you otherwise healthy?",
+    "patient_turn": "Um, yeah I've well, I've been told I had high cholesterol so I've been taking Rosuvastatin for that the past few years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it helping with the cholesterol levels?",
+    "patient_turn": "Yeah, the last time I was at the family doctor I was told they were at a good level.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was the last time you had blood work done?",
+    "patient_turn": "I think, uh six months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That's when you were told you were pre-diabetic?",
+    "patient_turn": "Yeah, I think my A1C was like 6.2% so, uh, on the cusp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you made any lifestyle changes to get your blood glucose under control?",
+    "patient_turn": "Well, I have been walking the dog more. The weather is getting better and trying to eat out less often. Yeah, I've been trying to lose weight, but it's been yeah, relatively stable still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries or hospitalizations in the past?",
+    "patient_turn": "Yeah, I had an inguinal hernia repaired about five years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you on any medications?",
+    "patient_turn": "Just Rosuvastatin right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any over-the-counter medications or herbal supplements?",
+    "patient_turn": "Just a multi vitamin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Penicillin. I break out in hives.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you need to be treated with any antibiotics recently?",
+    "patient_turn": "No, no, I haven't had any antibiotics for a long time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "I am, yeah, I get the flu shot every year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you know if you have any family history of lung conditions or heart conditions?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about cancers in the family?",
+    "patient_turn": "I think my grandfather had bladder cancer, but, uh, I'm not sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you had any changes to your urinary habits, any changes in your urine or voiding frequency?",
+    "patient_turn": "No, I haven't had any changes there and I haven't noticed any like blood or color changes. No pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "Um, no I do not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about marijuana?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other recreational drug?",
+    "patient_turn": "No, I just have a few beers on the weekend. Like probably I don't know two or three on Saturday and Sunday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you live?",
+    "patient_turn": "I live in a like duplex and rent the basement in a house nearby.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live with anyone?",
+    "patient_turn": "Yeah, I live with my girlfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns for old carpets or mold or asbestos in the duplex?",
+    "patient_turn": "Not in our unit so I mean, maybe upstairs, but if it's anything like our place, then no.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Did you have any other questions or concerns?",
+    "patient_turn": "Uh, no, well I guess I was just concerned about COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "We will do a COVID swab and have you isolate for 14 days.",
+    "patient_turn": "Yeah, that makes sense.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really hot for the past couple of days, and I have this severe dry cough… like, it’s not producing anything, you know? I’m also super tired, and I just thought I should get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Um, it’s mostly just this dry cough, you know? I don’t really feel any pain in my chest or anything like that. It’s just… annoying, I guess? I’m kinda worried it might be something more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it constant, or does it come and go?",
+    "patient_turn": "It’s, um, pretty constant, honestly. Like, I just keep coughing, and it feels really dry, you know? It’s not like I have any mucus or anything, which is, um, frustrating. I just want it to stop.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the cough better or worse?",
+    "patient_turn": "Uh, not really… I mean, I’ve tried drinking water, but it doesn’t seem to help much. It just feels like it’s always there, and, um, I’m not sure what else to do to make it better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like fever or feeling short of breath?",
+    "patient_turn": "Uh, no, I haven't really felt any fever or anything like that. I mean, I might have felt a little warm, but it's not like I've had a fever or anything serious.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the cough?",
+    "patient_turn": "I’ve been coughing for about two days now. It just started suddenly, and, um, it hasn’t really let up since then. It’s really starting to wear me down, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels the strongest?",
+    "patient_turn": "Um, it feels like it’s mostly in my throat, I guess? Like, it’s really dry there, and I just keep trying to clear it, but it doesn’t help. It’s just… uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if the cough gets worse at any particular time, like during the day or night?",
+    "patient_turn": "Uh, I think it might be a bit worse at night, honestly. Like, when I’m trying to sleep, it just keeps me up, and I can’t seem to get comfortable. It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry, or do you have any phlegm?",
+    "patient_turn": "It’s definitely dry… like, there’s no phlegm or anything coming up. Just this irritating, persistent cough that, um, feels like it’s scratching my throat. It’s really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like fever or fatigue?",
+    "patient_turn": "Yeah, I’ve definitely been feeling really fatigued, like, more than usual. And, um, I have that fever too, which is just making everything worse. It’s all really draining, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and fever?",
+    "patient_turn": "Oh, well, I think I’ve had the cough for maybe a couple of days, but I’m not really sure about the fever part. I mean, I might not even have a fever, to be honest.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you experienced any cold or flu-like symptoms recently?",
+    "patient_turn": "Um, no, not really. I haven’t had any cold or flu-like symptoms, like, no runny nose or sore throat or anything. It’s just the cough and the fever, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches or issues with your eyes or ears?",
+    "patient_turn": "No, I haven’t had any headaches or any issues with my eyes or ears. It’s just the cough and the fever, you know? I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of taste or smell?",
+    "patient_turn": "Uh, no, I haven’t noticed any changes in my sense of taste or smell. It’s just the cough and the fever that are bothering me. I’m really hoping it’s just something simple, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose or a sore throat?",
+    "patient_turn": "No, I don’t have a runny nose or a sore throat. It’s just the dry cough and the fever that are really getting to me. I’m kinda worried about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any shortness of breath or wheezing?",
+    "patient_turn": "No, I haven’t experienced any shortness of breath or wheezing. It’s just the cough and the fever, but, um, I’m still feeling pretty anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any palpitations or felt faint at all?",
+    "patient_turn": "No, I haven’t noticed any palpitations or felt faint. It’s really just the cough and the fever that are concerning me. I’m, um, just feeling really tired and a bit overwhelmed by it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or experienced any stomach issues recently?",
+    "patient_turn": "No, I haven’t felt dizzy or had any stomach issues. It’s just the cough and the fever that are bothering me. I’m really hoping it’s nothing serious, but it’s hard not to worry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats or chills during this time?",
+    "patient_turn": "No, I haven’t had any night sweats or chills. It’s just the fever and the cough that are really getting to me. I’m, um, just feeling really worn out from all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. It’s really just the cough and the fever that are concerning me. I’m kinda worried about what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any rashes or muscle pain lately?",
+    "patient_turn": "No, I haven’t had any rashes or muscle pain. It’s just the cough and the fever that are bothering me. I’m really hoping it’s something that will pass soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of rheumatoid arthritis or any other medical conditions?",
+    "patient_turn": "Yeah, I have rheumatoid arthritis, and I’m managing it with a DMARD under rheumatology care. I also take some supplements like iron and vitamin D, but, um, that’s pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any supplements?",
+    "patient_turn": "I’m taking a DMARD for my rheumatoid arthritis, and I also take iron, vitamin D, and biotin supplements. Um, I don’t have any known allergies or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies or have you had any surgeries in the past?",
+    "patient_turn": "No, I don’t have any known allergies, and I haven’t had any surgeries in the past. It’s just, um, the rheumatoid arthritis that I’m managing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any heavy menstrual bleeding recently?",
+    "patient_turn": "No, I haven’t had any heavy menstrual bleeding. My gynecological history is pretty unremarkable, so that’s not an issue for me. It’s really just the cough and fever that are worrying me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you quit smoking?",
+    "patient_turn": "I quit smoking about five years ago. I don’t smoke anything now, and I don’t use any recreational drugs either. I’m just focused on, um, staying healthy for my kids and myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick around me. It’s just been me and my kids at home, so, um, I’m not sure where this is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung problems?",
+    "patient_turn": "No, there’s no family history of heart or lung problems. The only thing is my aunt had pancreatic cancer, but, um, that’s about it. No other significant issues in the family that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe at home with your children and boyfriend?",
+    "patient_turn": "Yeah, I feel safe at home with my kids and my boyfriend. There aren’t any safety concerns or anything like that. It’s just, um, this cough and fever that are really stressing me out right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent stress or trouble sleeping?",
+    "patient_turn": "No, I haven’t had any recent stress or trouble sleeping. I mean, I’m a bit anxious about this cough and fever, but, um, overall, things have been pretty normal. It’s just really tiring, you know?",
+    "annotation": "Correct"
+  }
+]

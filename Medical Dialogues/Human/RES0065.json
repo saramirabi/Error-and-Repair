@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "So what brings you into the family clinic today?",
+    "patient_turn": "Yeah, I've had this sore throat for the past three days and it doesn't seem to be getting any better at all. I feel sort of feverish so. I just thought I should come in and get this checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did you start having this sore throat?",
+    "patient_turn": "Three days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about the fever?",
+    "patient_turn": "The fever I noticed maybe a day back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you get any temperature measurements?",
+    "patient_turn": "I didn't take any myself. But I felt hot, and I felt chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have your sore throat or fever gone worse at all?",
+    "patient_turn": "I think it's getting worse, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And does it usually happen during the day, throughout the night or does it have any sort of pattern?",
+    "patient_turn": "I would say that it doesn't really have a pattern. The sore throat is always there and the fever started a day back and it seems to break sometimes, but right now there is no real pattern to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And besides that, do you have any cough?",
+    "patient_turn": "No, no cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you tried anything that has helped you at all?",
+    "patient_turn": "I tried just like those Lozenges and seems to be helping just soothe my throat, but it's a temporary relief.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had anything like this happen to you before?",
+    "patient_turn": "No, nothing like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is the sore throat constant? Or does it come and go?",
+    "patient_turn": "I would say it's pretty constant now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been around anyone that has been sick recently?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Anything that makes your sore throat worse?",
+    "patient_turn": "I guess swallowing foods makes it worse, or at least it's painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you at all noticed any like swelling around your neck region, like swelling of your lymph nodes?",
+    "patient_turn": "So yeah, not swelling of my entire neck, but I have felt some lumps in my neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any swelling anywhere else on your body?",
+    "patient_turn": "Nowhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any kind of skin changes like rashes or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you traveled at all recently?",
+    "patient_turn": "No, nowhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any headaches or nausea or vomiting?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any night sweats.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you feel fatigued like increased tiredness at all?",
+    "patient_turn": "Umm, yeah, I've been feeling really tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any chest pain or feeling that your heart is racing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any issues with bowel movements, like any diarrhea or constipation?",
+    "patient_turn": "No, no, that's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your urination?",
+    "patient_turn": "No, no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been getting sleep at night or do you have to keep waking up?",
+    "patient_turn": "Um, I've been getting OK, I sleep like, I've been sleeping about 7 to 8 hours.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about your appetite?",
+    "patient_turn": "I would say that's been OK as well, it's just hard to eat a lot of food because of this sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is it just with solids or do you get the soreness with liquids too?",
+    "patient_turn": "I would say mostly with solids, sometimes with liquid. If it's like really cold or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you have any kind of allergies to anything in your house like carpets, pets or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any recent infections like a cold?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And do you have any past medical conditions?",
+    "patient_turn": "Um, I have Crohn's disease.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And when did you get diagnosed with Crohn's?",
+    "patient_turn": "That would have been last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Last year, OK. And are you taking any medications for your Crohn's disease?",
+    "patient_turn": "I am on something for it, I think it's Sulfasalazine or something like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other medications besides that?",
+    "patient_turn": "Uhm, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any previous hospitalizations or surgeries?",
+    "patient_turn": "Um, I had a colonoscopy done. I just needed hospitalization for just the day I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when was that?",
+    "patient_turn": "That was also last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you have any family history of any conditions that run in the family? Like do you have any Crohn's disease or Ulcerative Colitis that run in the family?",
+    "patient_turn": "Yeah, both do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Both do, OK. Any anything else that runs in the family?",
+    "patient_turn": "Uhm, I know there's some asthma and eczema that run in the family too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you mentioned you haven't been around anyone that was sick or recently got sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And where do you currently live?",
+    "patient_turn": "I live in an apartment by myself. Sorry, not by myself, with my parents and my younger brother.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you at all drink alcohol?",
+    "patient_turn": "No, I drank once or twice in the past, but I didn't like it. It makes my Crohn's worse so I stay away from it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about any other drugs like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so do you partake in any like sports or activities or anything like that?",
+    "patient_turn": "Um, I swim.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any contact sports?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so yeah, overall it seems that you had this sore throat which is constant, getting worse and a bit of a fever in the last one or two days and you've also had swelling in your neck and so yeah, do you have any other questions or concerns?",
+    "patient_turn": "No, like what do you think I have? Do you think it's COVID?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so definitely at this time, you know whenever people have any respiratory symptoms we always want to rule out COVID...",
+    "patient_turn": "OK, sure I can do that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, do you have any questions?",
+    "patient_turn": "No, that sounds good. Thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome. Take care.",
+    "patient_turn": "You too.",
+    "annotation": "Correct"
+  }
+]

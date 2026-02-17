@@ -1,0 +1,637 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Well, I've had this cough but the biggest issue is that I've been really short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, when did the cough start?",
+    "patient_turn": "I would say about 3 days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three days ago, OK, and uh, around that time did you also start feeling short of breath?",
+    "patient_turn": "Uh, the shortness of breath has come on, I don't know within the last day or so. It's come on after that, the cough started first.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the cough, is it a dry cough or is it a wet cough?",
+    "patient_turn": "Well, I've been bringing up some yellowish green, kind of like phlegm, so um I guess a wet cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so yellowish green you said.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any blood in the sputum?",
+    "patient_turn": "I haven't noticed any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much sputum are you coughing up each time? Like is it kind of the size of your fingertip or does it fill your whole palm?",
+    "patient_turn": "Um, yeah, probably more like the size of like a thumb tip.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK um, and do you notice any, like pus or froth in the sputum?",
+    "patient_turn": "Nothing like that I noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you were to describe the sound of your cough, does it sound like it's barky or like a hacking cough?",
+    "patient_turn": "I don't know, I guess hacking.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and do you hear any wheezing at all?",
+    "patient_turn": "No, well, maybe I guess when I'm really short of breath, yeah, wheezing, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the shortness of breath, how severe is it? 1 to 10, 10 being the worst?",
+    "patient_turn": "Maybe a 7?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "At seven OK, are you having issues sleeping because of your shortness of breath?",
+    "patient_turn": "Uh, well I can't tell if it's that or the cough. I mean between those two things it's been definitely interrupting my sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you find there are any triggers to your coughing like like um, a particular time of the day? Triggers like you know pollen or things in your environment like pets?",
+    "patient_turn": "No the cough has been kind of going on all day. Um, right when I get up in the morning and goes on all night, it's been getting worse to these last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah, um yeah, that doesn't sound great in terms of your shortness of breath. Do you find that certain positions make it worse? Or like exerting yourself makes it worse?",
+    "patient_turn": "Um, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever experienced anything like this in the past?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other symptoms that you have along with your coughing and sputum?",
+    "patient_turn": "As soon as I breath, well, I just haven't felt good like, tired, kind of weakish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah um, along with your fatigue and feeling weak, have you experienced any dizziness or fainting spells?",
+    "patient_turn": "No dizziness and I haven't fainted or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any confusion or memory loss?",
+    "patient_turn": "No concerns with my memory.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about um, muscle aches or any sort of body aches?",
+    "patient_turn": "Alright, yeah, maybe a bit, kind of, and weak.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, alright, so let's go back to your shortness of breath. Do you have any chest pain associated with that?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you ever feel like your heart's racing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about changes to your bowel movements?",
+    "patient_turn": "No, those have been normal. I haven't had any diarrhea or constipation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and no blood in your stool?",
+    "patient_turn": "I haven't noticed any blood, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about abdominal pains?",
+    "patient_turn": "Oh yeah, I don't know why, yeah, my belly's been a bit achy maybe.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and how about a sore throat?",
+    "patient_turn": "No, my throat felt OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good and have you experienced any loss of taste?",
+    "patient_turn": "No loss of taste, but I've noticed, yeah, my smell has been kind of funny.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Your smell has been kind of funny, like you can't smell or do things smell differently than you expect them to?",
+    "patient_turn": "Yeah, there was a candle on earlier today and I guess I couldn't really smell it, so I guess I haven't been able to smell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose or a blocked nose?",
+    "patient_turn": "No, I haven't had to blow my nose or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your vision or hearing?",
+    "patient_turn": "No, that's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any discharge or pain in your eyes or ears?",
+    "patient_turn": "No, that's been OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then any changes to your urine?",
+    "patient_turn": "No, I haven't had any pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you otherwise healthy? Do you have any medical conditions?",
+    "patient_turn": "Yeah, I have atrial fibrillation. And I do take Metoprolol for that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had A. fib?",
+    "patient_turn": "It was like 4 years ago I think it was. It was having that like, felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation. So yeah, I've been on a beta blocker for three years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Four years, and when was the last time you had an ECG?",
+    "patient_turn": "Uh, maybe just a couple of months ago. I think every time that I come in to see my family doctor, they do one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the last time that it was done, was it normal?",
+    "patient_turn": "Yeah, they said yeah. My heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. And then have you had any hospitalizations or surgeries in the past?",
+    "patient_turn": "I had an inguinal hernia repair about 15 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any complications from that?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then besides the Metoprolol, are you on any other medications?",
+    "patient_turn": "Oh yeah, I take a statin and baby aspirin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is that for the A. fib as well, the aspirin? Or is that just for other cardiovascular issues or some sort of preventative measure?",
+    "patient_turn": "Yeah, I heard it was good for people who have atrial fibrillation so I started taking it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Let's revisit your medications at the end of today's session. I just want to make sure that you're on the medications and I just want to make sure you're on the right dose. Does that sound good?",
+    "patient_turn": "Yeah, certainly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "I think it's like a sulfa allergy. I received an antibiotic like that many years ago and had a rash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any reason to suspect that you may have taken any sulfas recently?",
+    "patient_turn": "No, I haven't had any antibiotics so no, really no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "I am yeah. I've received the Zoster vaccine for shingles and also the one for pneumonia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you know of any family history of lung or heart conditions?",
+    "patient_turn": "No, I think my aunt had lung cancer but she smoked her entire life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about other cancers?",
+    "patient_turn": "No other cancers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in touch or do you think you've been in contact with anyone sick recently?",
+    "patient_turn": "Well, I visited my mother at a long-term care facility just this past weekend, so I guess about just over a week ago I visited there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have there been any COVID outbreaks at the long-term care?",
+    "patient_turn": "Yeah, there has been, I thought I was like away from those areas but I have heard about outbreaks there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any travel history?",
+    "patient_turn": "No travel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "I used to smoke a pack of cigarettes a day, but I quit about, uh, about five years ago. I know four years ago it was when I found out I had atrial fibrillation. I quit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about marijuana?",
+    "patient_turn": "No, I don't smoke it, but I'll use some edibles I buy from the Ontario stores a couple of times per week. Just the CBD stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "The CBD stuff OK. And how many milligrams?",
+    "patient_turn": "I'm not sure, I know it's their lowest dose though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a particular reason you take these CBD edibles?",
+    "patient_turn": "It helps me sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, if it's specifically to help you sleep, we can actually try and see if there are other options for you. You know there are pills, like they are sleep aids. Or even things like melatonin that can help regulate your sleep so we can revisit other options for you if you're open to that as well.",
+    "patient_turn": "OK for sure. Yeah I will. Um, yeah we can talk about that later.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you do any other recreational drugs?",
+    "patient_turn": "I do not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about alcohol?",
+    "patient_turn": "Uh, no, I don't drink anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you used to drink before?",
+    "patient_turn": "Yes, I just stopped a few years ago,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What's your living situation like right now?",
+    "patient_turn": "I live in a house with my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns for like old carpets, mold, or asbestos in your house?",
+    "patient_turn": "No, we've renovated it over the years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I apologize, but I would like to clarify three more symptoms with you. Did you say you felt like you had a fever earlier?",
+    "patient_turn": "Um, maybe I've been feeling a little hot, but it's been really more the cough and shortness of breath that's been bugging me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling like you have night sweats or chills?",
+    "patient_turn": "Um, not really. No, I haven't noticed that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any weight loss over the past few months?",
+    "patient_turn": "No, it's been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright good, so that brings us to the end. Do you have any questions or concerns that you would like to clarify before we end the interview?",
+    "patient_turn": "No, nothing today. I was just really hoping to get, uh, whatever this is sorted out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, you know, right now it looks like, it sounds like it could be an upper respiratory viral illness, so that includes COVID. So we will do a swab for you and then send it off to the lab for PCR results. In the meantime, because you have symptoms that overlap with COVID symptoms, we do encourage isolation for 14 days. Until your symptoms are gone, sorry, until your symptoms are gone, even if they're gone, we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID so we do encourage that, and that includes from your husband. If possible, we will get those results in a day or two. If they are positive, we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from. If it's not COVID, it could be other viral illnesses that are going around this time of year. And if your symptoms aren't getting better on their own, and there's reason to suspect you may have a bacterial infection or bacterial pneumonia, we will follow up with you and possibly prescribe antibiotics. How does that sound?",
+    "patient_turn": "Yeah, that sounds like a great plan.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great so um, I will see you at the next appointment.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, when did the cough start?",
+    "patient_turn": "Well, I've had this cough but the biggest issue is that I've been really short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three days ago, OK, and uh, around that time did you also start feeling short of breath?",
+    "patient_turn": "I would say about 3 days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the cough, is it a dry cough or is it a wet cough?",
+    "patient_turn": "Uh, the shortness of breath has come on, I don't know within the last day or so. It's come on after that, the cough started first.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so yellowish green you said.",
+    "patient_turn": "Well, I've been bringing up some yellowish green, kind of like phlegm, so um I guess a wet cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any blood in the sputum?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much sputum are you coughing up each time? Like is it kind of the size of your fingertip or does it fill your whole palm?",
+    "patient_turn": "I haven't noticed any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK um, and do you notice any, like pus or froth in the sputum?",
+    "patient_turn": "Um, yeah, probably more like the size of like a thumb tip.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you were to describe the sound of your cough, does it sound like it's barky or like a hacking cough?",
+    "patient_turn": "Nothing like that I noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and do you hear any wheezing at all?",
+    "patient_turn": "I don't know, I guess hacking.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and the shortness of breath, how severe is it? 1 to 10, 10 being the worst?",
+    "patient_turn": "No, well, maybe I guess when I'm really short of breath, yeah, wheezing, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "At seven OK, are you having issues sleeping because of your shortness of breath?",
+    "patient_turn": "Maybe a 7?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you find there are any triggers to your coughing like like um, a particular time of the day? Triggers like you know pollen or things in your environment like pets?",
+    "patient_turn": "Uh, well I can't tell if it's that or the cough. I mean between those two things it's been definitely interrupting my sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah, um yeah, that doesn't sound great in terms of your shortness of breath. Do you find that certain positions make it worse? Or like exerting yourself makes it worse?",
+    "patient_turn": "No the cough has been kind of going on all day. Um, right when I get up in the morning and goes on all night, it's been getting worse to these last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever experienced anything like this in the past?",
+    "patient_turn": "Um, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other symptoms that you have along with your coughing and sputum?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah um, along with your fatigue and feeling weak, have you experienced any dizziness or fainting spells?",
+    "patient_turn": "As soon as I breath, well, I just haven't felt good like, tired, kind of weakish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any confusion or memory loss?",
+    "patient_turn": "No dizziness and I haven't fainted or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about um, muscle aches or any sort of body aches?",
+    "patient_turn": "No concerns with my memory.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, alright, so let's go back to your shortness of breath. Do you have any chest pain associated with that?",
+    "patient_turn": "Alright, yeah, maybe a bit, kind of, and weak.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you ever feel like your heart's racing?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about changes to your bowel movements?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and no blood in your stool?",
+    "patient_turn": "No, those have been normal. I haven't had any diarrhea or constipation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about abdominal pains?",
+    "patient_turn": "I haven't noticed any blood, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about a sore throat?",
+    "patient_turn": "Oh yeah, I don't know why, yeah, my belly's been a bit achy maybe.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, good and have you experienced any loss of taste?",
+    "patient_turn": "No, my throat felt OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Your smell has been kind of funny, like you can't smell or do things smell differently than you expect them to?",
+    "patient_turn": "No loss of taste, but I've noticed, yeah, my smell has been kind of funny.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose or a blocked nose?",
+    "patient_turn": "Yeah, there was a candle on earlier today and I guess I couldn't really smell it, so I guess I haven't been able to smell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your vision or hearing?",
+    "patient_turn": "No, I haven't had to blow my nose or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any discharge or pain in your eyes or ears?",
+    "patient_turn": "No, that's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then any changes to your urine?",
+    "patient_turn": "No, that's been OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you otherwise healthy? Do you have any medical conditions?",
+    "patient_turn": "No, I haven't had any pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had A. fib?",
+    "patient_turn": "Yeah, I have atrial fibrillation. And I do take Metoprolol for that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Four years, and when was the last time you had an ECG?",
+    "patient_turn": "It was like 4 years ago I think it was. It was having that like, felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation. So yeah, I've been on a beta blocker for three years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the last time that it was done, was it normal?",
+    "patient_turn": "Uh, maybe just a couple of months ago. I think every time that I come in to see my family doctor, they do one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. And then have you had any hospitalizations or surgeries in the past?",
+    "patient_turn": "Yeah, they said yeah. My heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any complications from that?",
+    "patient_turn": "I had an inguinal hernia repair about 15 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then besides the Metoprolol, are you on any other medications?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is that for the A. fib as well, the aspirin? Or is that just for other cardiovascular issues or some sort of preventative measure?",
+    "patient_turn": "Oh yeah, I take a statin and baby aspirin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Let's revisit your medications at the end of today's session. I just want to make sure that you're on the medications and I just want to make sure you're on the right dose. Does that sound good?",
+    "patient_turn": "Yeah, I heard it was good for people who have atrial fibrillation so I started taking it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Yeah, certainly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any reason to suspect that you may have taken any sulfas recently?",
+    "patient_turn": "I think it's like a sulfa allergy. I received an antibiotic like that many years ago and had a rash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "No, I haven't had any antibiotics so no, really no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you know of any family history of lung or heart conditions?",
+    "patient_turn": "I am yeah. I've received the Zoster vaccine for shingles and also the one for pneumonia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about other cancers?",
+    "patient_turn": "No, I think my aunt had lung cancer but she smoked her entire life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in touch or do you think you've been in contact with anyone sick recently?",
+    "patient_turn": "No other cancers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have there been any COVID outbreaks at the long-term care?",
+    "patient_turn": "Well, I visited my mother at a long-term care facility just this past weekend, so I guess about just over a week ago I visited there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any travel history?",
+    "patient_turn": "Yeah, there has been, I thought I was like away from those areas but I have heard about outbreaks there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "No travel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about marijuana?",
+    "patient_turn": "I used to smoke a pack of cigarettes a day, but I quit about, uh, about five years ago. I know four years ago it was when I found out I had atrial fibrillation. I quit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "The CBD stuff OK. And how many milligrams?",
+    "patient_turn": "No, I don't smoke it, but I'll use some edibles I buy from the Ontario stores a couple of times per week. Just the CBD stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a particular reason you take these CBD edibles?",
+    "patient_turn": "I'm not sure, I know it's their lowest dose though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, if it's specifically to help you sleep, we can actually try and see if there are other options for you. You know there are pills, like they are sleep aids. Or even things like melatonin that can help regulate your sleep so we can revisit other options for you if you're open to that as well.",
+    "patient_turn": "It helps me sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you do any other recreational drugs?",
+    "patient_turn": "OK for sure. Yeah I will. Um, yeah we can talk about that later.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about alcohol?",
+    "patient_turn": "I do not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you used to drink before?",
+    "patient_turn": "Uh, no, I don't drink anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What's your living situation like right now?",
+    "patient_turn": "Yes, I just stopped a few years ago,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns for like old carpets, mold, or asbestos in your house?",
+    "patient_turn": "I live in a house with my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I apologize, but I would like to clarify three more symptoms with you. Did you say you felt like you had a fever earlier?",
+    "patient_turn": "No, we've renovated it over the years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling like you have night sweats or chills?",
+    "patient_turn": "Um, maybe I've been feeling a little hot, but it's been really more the cough and shortness of breath that's been bugging me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any weight loss over the past few months?",
+    "patient_turn": "Um, not really. No, I haven't noticed that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright good, so that brings us to the end. Do you have any questions or concerns that you would like to clarify before we end the interview?",
+    "patient_turn": "No, it's been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, you know, right now it looks like, it sounds like it could be an upper respiratory viral illness, so that includes COVID. So we will do a swab for you and then send it off to the lab for PCR results. In the meantime, because you have symptoms that overlap with COVID symptoms, we do encourage isolation for 14 days. Until your symptoms are gone, sorry, until your symptoms are gone, even if they're gone, we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID so we do encourage that, and that includes from your husband. If possible, we will get those results in a day or two. If they are positive, we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from. If it's not COVID, it could be other viral illnesses that are going around this time of year. And if your symptoms aren't getting better on their own, and there's reason to suspect you may have a bacterial infection or bacterial pneumonia, we will follow up with you and possibly prescribe antibiotics. How does that sound?",
+    "patient_turn": "No, nothing today. I was just really hoping to get, uh, whatever this is sorted out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great so um, I will see you at the next appointment.",
+    "patient_turn": "Yeah, that sounds like a great plan.",
+    "annotation": "Correct"
+  }
+]

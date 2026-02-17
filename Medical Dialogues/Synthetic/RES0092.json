@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve had this cough for about two weeks now. It started off dry, but lately, I’ve been coughing up some clear sputum, and it’s just… it’s kinda worrying me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it started?",
+    "patient_turn": "Uh, I think the cough has been pretty much the same, you know, like it hasn’t really gotten worse or anything, but sometimes it feels a bit different… maybe? I'm not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it spreads anywhere?",
+    "patient_turn": "Um, it mostly feels like it’s in my throat, I guess? It doesn’t really spread anywhere else, but sometimes it feels a bit tight, especially when I’m, like, outside in the cold or when I’m running. It’s just… annoying, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you—would you describe it as dry, tickly, or something else?",
+    "patient_turn": "Well, it started off as a dry cough, but now it’s kinda, um, tickly sometimes? Like, I feel this urge to cough, and then when I do, I might bring up some clear sputum. It’s just… frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make the cough better or worse for you?",
+    "patient_turn": "Um, I’ve noticed that it gets worse when I’m outside in the cold or when I’m exercising, like running. But, uh, it seems to feel a bit better when I’m indoors and, like, warm. I guess it’s just really sensitive to those things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath, dizzy, or nauseous?",
+    "patient_turn": "No, I haven’t felt short of breath or dizzy, um, or anything like that. I mean, I’ve been feeling pretty normal otherwise, except for this cough. I did have some upper respiratory symptoms a week ago, like a sore throat and body aches, but those have all gone away now. It’s just the cough that’s sticking around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Sure, um, I don’t smoke or use any recreational drugs, so that’s good. I do drink socially sometimes, but it’s not a lot. I try to stay active, you know, I run a bit, but I’ve been a little hesitant to do that lately with this cough. I’m just trying to figure it all out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "No, I don’t have any past medical problems or surgeries, and I’m not taking any medications right now, except for birth control. I’ve always been pretty healthy, so this cough is, um, a bit concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your cough first start, and has it changed at all since then?",
+    "patient_turn": "Oh, you know, I’ve been thinking about getting a new phone because mine is so old.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough in your chest or throat?",
+    "patient_turn": "Uh, it mostly feels like it’s in my throat, I think? It doesn’t really feel heavy in my chest or anything, just… kind of annoying in my throat, you know? It’s like there’s this tickle that makes me want to cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as dry, or is there any phlegm?",
+    "patient_turn": "At first, it was definitely a dry cough, but now it’s, um, a bit different because I’ve been bringing up some clear sputum. So, I guess you could say it’s not completely dry anymore, but it’s still kinda tickly, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about two weeks ago. It started off dry, and then, um, it changed a bit to include some clear sputum recently. It’s just been lingering, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "I think the cough started about two weeks ago, but I also feel like it might have been longer, like maybe a month? It hasn't really changed much, though, except sometimes it feels like it’s just a little bit worse.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it spreads anywhere?",
+    "patient_turn": "Um, it mostly feels like it’s in my throat, I guess? It doesn’t really spread anywhere else, but sometimes it feels a bit tight, especially when I’m, like, outside in the cold or when I’m running. It’s just… annoying, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to things like pollen, dust, or certain foods?",
+    "patient_turn": "Uh, no, I don’t have any known allergies. I mean, I’ve never had any issues with pollen or dust or anything like that. So, I’m not really sure what’s causing this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with asthma or any other lung condition?",
+    "patient_turn": "No, I’ve never been diagnosed with asthma or any lung condition. I’ve always been pretty healthy, so this cough is, um, a bit concerning for me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease, like asthma or COPD?",
+    "patient_turn": "No, there’s no family history of lung disease that I know of. I mean, my family is generally pretty healthy, so I’m not really sure why I’m dealing with this cough right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your cough get worse when you run or exercise?",
+    "patient_turn": "Yeah, it definitely seems to get worse when I run or exercise. Like, I feel this tightness in my throat, and I start coughing more. It’s just, um, frustrating because I want to stay active, but this cough makes it hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the severity of your cough changed at all over the past two weeks?",
+    "patient_turn": "Um, I don’t think the severity has really changed much. It’s been pretty consistent, you know? It’s just been there, and sometimes it feels a bit worse when I’m outside or exercising, but overall, it’s kind of stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any blood in your sputum at all?",
+    "patient_turn": "No, I haven’t seen any blood in my sputum at all. It’s just been clear, which is, um, a relief, I guess? But the cough itself is still really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does being in cold weather make your cough worse?",
+    "patient_turn": "Yeah, definitely. Being in cold weather seems to make my cough worse, like, I feel that tightness in my throat and it triggers more coughing. It’s just really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with?",
+    "patient_turn": "I live with some roommates while I’m finishing up my undergraduate degree. They’re all pretty healthy too, as far as I know. I haven’t had any known sick contacts recently, so I’m not really sure where this cough is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick around me. I mean, I’ve just been busy with school and stuff, so it’s kind of strange that I ended up with this cough after my upper respiratory symptoms.",
+    "annotation": "Correct"
+  }
+]

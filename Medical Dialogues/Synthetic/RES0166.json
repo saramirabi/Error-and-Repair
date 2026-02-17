@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I started having shortness of breath this morning while just walking to the kitchen. It feels like I'm breathing really fast and shallow, almost like I just ran a marathon, and there's also some sharp chest pain when I take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed it this morning. It just came on suddenly while I was doing a little walking around the house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the shortness of breath changed since it started, or has it stayed the same?",
+    "patient_turn": "It has stayed the same since it started. It hasn't gotten worse, but it’s definitely still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "It feels like it's all over my chest, but mostly I just notice it when I try to take a deep breath. It’s more of a general feeling of not getting enough air.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "It feels shallow and rapid, like I'm struggling to catch my breath. It's a bit uncomfortable, almost like I’ve just done a lot of intense exercise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the chest pain?",
+    "patient_turn": "Um, it’s kind of… in the chest area, I think? But, like, it might be more on one side, or maybe it’s just, you know, all around.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the chest pain is located?",
+    "patient_turn": "It’s mostly in the center of my chest, but I think it might be a bit more on the right side. It’s hard to pinpoint exactly, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, fever, or other symptoms recently?",
+    "patient_turn": "No, I haven’t had any cough, fever, or other symptoms. It’s just the shortness of breath and the sharp chest pain when I breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in the hospital recently?",
+    "patient_turn": "Yes, I was just discharged from the hospital two days ago after a four-day stay for a hip fracture.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or are you currently taking any medications?",
+    "patient_turn": "I have a history of leukemia from over 10 years ago, but I’m not on any ongoing treatment or medications right now. I’m not taking anything currently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol, and if so, how much?",
+    "patient_turn": "I don’t smoke at all. I do drink alcohol moderately on weekends, but I haven’t used marijuana recently—just occasionally before the pandemic.",
+    "annotation": "Correct"
+  }
+]

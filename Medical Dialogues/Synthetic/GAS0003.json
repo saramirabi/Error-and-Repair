@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m having this, like, really bad pain in my right upper abdomen. It started about eight hours ago, and it was kinda intermittent at first, but now it’s constant and, honestly, it’s pretty intense—like an 8 out of 10. I’m also feeling a bit nauseous, but no vomiting or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain, and how has it changed since then?",
+    "patient_turn": "So, I first noticed it about eight hours ago, and, um, it was kind of on and off at first, but then, like, over the last 5 or 6 hours, it just became constant. It’s really uncomfortable, and I’m kinda worried because it doesn’t seem to be getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in my right upper abdomen, like, right here… but it doesn’t really spread anywhere else. It’s just, you know, that area that hurts a lot. I wish it would go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, I was just thinking about how I need to get my car serviced soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "The pain first started about eight hours ago. It was, um, kind of intermittent at first, but then it became constant, like, really quickly. I’m just feeling really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain feel better or worse for you?",
+    "patient_turn": "Well, um, I’ve noticed that eating sometimes makes it worse, especially if I have fatty foods. I’ve tried taking Tylenol, but it hasn’t really helped at all. Honestly, I’m just trying to find something that will ease it a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain starting?",
+    "patient_turn": "I first noticed the pain about eight hours ago. It was, um, kind of intermittent at first, but then it just became constant, and that’s when I started to get really worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "... upper.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the pain spread to any other areas of your body?",
+    "patient_turn": "No, it doesn’t really spread anywhere else. It’s just, um, localized in that right upper abdomen area. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or sweating with the pain?",
+    "patient_turn": "No, I haven’t had any fever, chills, or sweating. It’s just the pain and some mild nausea, but that’s it. I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel movements or urination recently?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my bowel movements or urination. Everything seems normal in that regard, which is, I guess, a small relief, but the pain is still really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any skin changes or noticed blood in your stools?",
+    "patient_turn": "No, I haven’t seen any skin changes or noticed blood in my stools. It’s just the pain and some nausea, but, um, nothing else like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your appetite changed at all since the pain started?",
+    "patient_turn": "Yeah, my appetite has definitely decreased because of the pain. I just don’t feel like eating much, and, um, it’s hard to think about food when I’m feeling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any significant weight loss recently?",
+    "patient_turn": "No, I haven’t had any significant weight loss. I mean, I’ve been eating less because of the pain, but, um, I don’t think I’ve lost a noticeable amount of weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or illnesses?",
+    "patient_turn": "No, I haven’t had any recent infections or illnesses. I’ve been feeling pretty okay aside from this pain, you know? I’m just really worried about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions, like diabetes or others?",
+    "patient_turn": "Yeah, I have diabetes, but it’s managed with metformin. Um, other than that, I don’t have any other significant medical conditions. Just, you know, this pain now, which is really stressing me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "I’m only taking metformin for my diabetes, and, um, I don’t have any known allergies. That’s pretty much it, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other surgeries besides your wisdom teeth removal?",
+    "patient_turn": "No, I haven’t had any other surgeries besides my wisdom teeth removal when I was a teenager. Um, I’ve never been hospitalized or anything like that, so this pain is really new for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease or heart-related issues?",
+    "patient_turn": "Yeah, my father had a myocardial infarction in his 60s, but, um, there’s no family history of cancer or inflammatory bowel disease. I’m just trying to focus on my own health right now, but it’s a bit overwhelming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in terms of activities and habits?",
+    "patient_turn": "Well, um, I’m currently unemployed because of COVID-19, so my days are a bit different. I usually try to exercise regularly by running when the weather permits, and I, um, I drink 1-2 alcoholic drinks a day, usually wine. I live alone in an apartment, so I guess I’m just trying to keep a routine, but this pain is really throwing me off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who was ill?",
+    "patient_turn": "No, I haven’t traveled anywhere recently, and I haven’t been in contact with anyone who was ill. I’ve just been, um, staying at home mostly, so I’m not sure why I’m feeling this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for any reason in the past?",
+    "patient_turn": "No, I’ve never been hospitalized before. This pain is really the first major health issue I’ve had, and it’s, um, honestly pretty scary for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "No, I haven’t been around anyone who’s been sick recently. I’ve just been, um, keeping to myself mostly, so I’m not really sure what’s causing this pain.",
+    "annotation": "Correct"
+  }
+]

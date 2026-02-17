@@ -1,0 +1,297 @@
+[
+  {
+    "doctor_turn": "How can I help you today?",
+    "patient_turn": "Um yeah hi, I brought I brought my 8 year old daughter here um because I've noticed that she's been quite wheezy um for the past four five days and now she has a slight cough, um sounds like she's a little short of breath, so I just wanted to get things checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so for the, when it first presented, about four to five days ago, what did you notice, notice first?",
+    "patient_turn": "Um I noticed that she was wheezy um and it's it seemed like she was having some difficulty taking in deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, now was this with any type of activity or just at rest?",
+    "patient_turn": "Yeah, she was playing tag with one of her cousins and she she was quite out of breath after.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has she ever had anything like this before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nothing like that, OK, and has it been fairly steady since then? Or has it been fluctuating?",
+    "patient_turn": "It's been fluctuating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but it hasn't really gone away in the sense that you're still concerned coming now four days later?",
+    "patient_turn": "Yeah, it's just it would, she would have these these uh episodes, but it would resolve on its own and then she would, you know go back to doing some sort of activity and then she would have all these symptoms all over again, but when she rests um then it goes away, so I wasn't really sure, too sure what to think of it. But now I think it's important to get it checked out, so here we are.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any fevers at home?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had a runny nose at all at home?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she seemed well otherwise, does she look sick?",
+    "patient_turn": "Yeah, she looks fine otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has she had any sick contacts recently? Anyone around her or her friends been sick?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any recent travel anywhere?",
+    "patient_turn": "Uhm, no, no, we didn't go anywhere because of covid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but she's still been going to school I suppose, playing with her friends?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed any rashes? Any skin changes anywhere on her body?",
+    "patient_turn": "Uh not that I've noticed, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, nothing like that, has she complained of any pain anywhere?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she had any recent infections?",
+    "patient_turn": "Uh she had, actually she had a couple of infections over the past two years. Uh they would come and go uh and we took her to the doctor each time and it just ended up being some sort of viral infection.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so nothing really needing antibiotics in the last couple of years?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And in terms of how she's been doing, has she been keeping up with her peers in terms of education, and how she moves, how she acts?",
+    "patient_turn": "Uh yeah, she's been yeah, she's been on par with her peers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so does she have a family physician?",
+    "patient_turn": "Um yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so they haven't brought up any concerns about how she's growing, how she's developing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So her weight, her height, they've been good for her age?",
+    "patient_turn": "Yeah, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Excellent. And has she gotten, has she been keeping up to date for immunizations?",
+    "patient_turn": "Yes, she's fully up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Excellent. In regards to how she's doing, otherwise health, in terms of her health, has, did she see a family physician for any other medical issues that she might be having?",
+    "patient_turn": "Uh no, she's otherwise pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How was the birth? Was there any complications when she was born?",
+    "patient_turn": "No, she was a vaginal delivery, full term, no complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so nothing when you were pregnant with her, no toxic congestions? By that I mean um did you drink any alcohol, smoke at all when you were pregnant with her?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And you just had antenatal care, so you saw doctor for ultrasounds and just for checkups?",
+    "patient_turn": "Yep, everything was fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And when she was born, she didn't have to stay in the hospital at all?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And was she born, uh what weight was she when she was born?",
+    "patient_turn": "Uh, she was, how much was she? I think she was about 8 kilos.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "8 kilos?",
+    "patient_turn": "Sorry 8 pounds, 8 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, no worries. And then otherwise she is, so she's been healthy otherwise, been doing well, uh just in terms of how she's been doing uh with other systems of her body, have you noticed any concerns for her bowel movements?",
+    "patient_turn": "Uh no, she's been pretty regular.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any concerns for peeing?",
+    "patient_turn": "Uh no, she's been going pretty frequently and she's, yeah no changes there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And we already talked, she hasn't had any fevers, when she coughs does she ever bring anything up?",
+    "patient_turn": "Uh no, I haven't noticed any phlegm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when she's having these wheezy episodes, do you ever notice that she looks like she's really straining to breathe, really struggling?",
+    "patient_turn": "Uh yeah, so she, it's not like she turns blue or anything like that, um she just slightly slightly has a hard time catching her breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so these usually recover on their own?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You don't give her anything for it?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh does she have any allergies?",
+    "patient_turn": "Um no, well she has some seasonal allergies, but nothing that she's been tested for.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you give her anything for seasonal allergies?",
+    "patient_turn": "Sometimes she takes like Reactine or like over the counter stuff, but um no, no prescribed medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so she doesn't have any allergies where her face swells up or she has trouble breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and this, these episodes mainly happen when she's playing with friends, so do they happen in a certain environment? Like for example, is this in a friends house or is this outdoors or has it been across different settings?",
+    "patient_turn": "It's been across different settings but I will say it's worse when um when when there's colder weather.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do these episodes ever happen in your home?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And what's the context from them happening in your home?",
+    "patient_turn": "Um usually when she is out and about running around in the backyard with her friends um is when I've mostly noticed it, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so she doesn't have any symptoms at rest?",
+    "patient_turn": "Oh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And she doesn't have any symptoms at night?",
+    "patient_turn": "Uh at night, so there was one one one night when she had some issues um with like wheeziness but it did resolve on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And did she wake up at night with that or just?",
+    "patient_turn": "Just trouble falling asleep, I think yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so we already talked about, so she doesn't really have any past medical issues that she's seen a doctor for, uh any surgeries?",
+    "patient_turn": "No surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is she taking medications right now?",
+    "patient_turn": "Um no, no medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Aside from the occasional Reactine?",
+    "patient_turn": "Uh yeah, aside from that, nothing, no regular medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And she's in school?",
+    "patient_turn": "Um yeah, she's uh she's in Grade 3 now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does she live with you?",
+    "patient_turn": "Uh yeah she lives with me and my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you two live in a house in town?",
+    "patient_turn": "Um yep, in a townhouse",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And what do you two do for work?",
+    "patient_turn": "Um so my husband is an ultrasound technician and I am a uh kindergarten teacher.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, excellent, and this is a question we just ask everyone, has there ever been any CC CAS involvement in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And does anyone smoke in the household?",
+    "patient_turn": "Uh, no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh do you keep any carpets or pets in the household?",
+    "patient_turn": "We have carpets, but they're new carpets. We just got them, uh maybe six months ago, and nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So no pets, no dogs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any wood burning fireplaces, stoves in the household?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And changed your air filters?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, excellent, so I think I have all the information I need, we're just going to do a physical exam and then I'm going to go talk to the physician and I'll come in and see your daughter and we'll talk about next steps from there. Do you have any questions that you'd like me to direct to him before that happens?",
+    "patient_turn": "No, thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have a good one",
+    "patient_turn": "You too, bye bye.",
+    "annotation": "Correct"
+  }
+]

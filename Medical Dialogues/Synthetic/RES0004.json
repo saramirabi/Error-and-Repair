@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve had this sore throat for like two or three weeks now. It’s really burning and scratchy, and it hurts when I swallow… both solids and liquids. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I think it started about two or three weeks ago, um, right around the time I noticed this rash on my chest and hands. It’s been pretty uncomfortable since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Um, not really, I guess. It’s still pretty much the same, you know? It hurts when I swallow, but sometimes cold drinks help a bit. I mean, it’s not like it’s keeping me up at night or anything, but it’s still annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Uh, I think it’s mostly in my throat, but maybe a little in my neck too? I’m not really sure if it spreads anywhere else, though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, cold drinks help a bit, like I said, but, uh, swallowing solids and liquids definitely makes it worse. I’ve been trying to avoid anything that hurts too much, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the sore throat?",
+    "patient_turn": "Yeah, um, I’ve had some muscle and joint aches, and I had a fever of 38.7°C. There’s also that rash that showed up after the sore throat started, but it’s not itchy or painful. I’ve been feeling a bit off, but no cough or stuffy nose or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the sore throat and other symptoms?",
+    "patient_turn": "So, um, the sore throat has been going on for about two to three weeks, and I think the muscle and joint aches started around the same time. The rash appeared after the sore throat began, so it’s all kind of been happening together, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the sore throat pain is located?",
+    "patient_turn": "Um, it’s mostly in my throat, like right in the back, you know? I think it’s more on the right side, but it’s hard to say exactly. It just feels really scratchy and burning there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your ears or neck?",
+    "patient_turn": "Uh, not really to my ears, but I do feel some mild tenderness in my neck. It’s mostly just the throat that hurts, but the neck is a bit sore too, especially with those swollen lymph nodes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, I just remembered that I need to finish a project for school. It's due next week, and I haven't even started yet!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, like I said, cold drinks help a little, but swallowing anything, whether it’s food or liquids, definitely makes it worse. I’ve been trying to stick to softer foods, but it’s still pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath, dizzy, or having a fast heartbeat?",
+    "patient_turn": "Uh, no, I haven’t really felt short of breath or dizzy, and my heartbeat seems normal. It’s mostly just the sore throat, the muscle and joint aches, and that rash. I’m kinda worried about everything, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Um, I don’t smoke or drink alcohol, and I’ve only tried marijuana a few times, but that’s it. I live with my parents and my sister, and I usually just hang out with friends or play sports. I guess I haven’t been as active lately because of how I’ve been feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications regularly?",
+    "patient_turn": "Yeah, um, I have asthma, but it’s mostly managed with my Ventolin and Flovent inhalers. I also take Reactine sometimes for allergies, but that’s pretty much it. No major medical issues besides that, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "On a scale of 1 to 10, how would you rate your sore throat pain?",
+    "patient_turn": "I’d say it’s about a 2 or 3 out of 10. It’s not super intense, but it’s definitely uncomfortable, especially when I swallow. I’m just really hoping it gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced sore throats like this one in the past?",
+    "patient_turn": "Um, not really like this one. I had sore throats when I was a kid, but they were treated with antibiotics, and they didn’t last this long. This one feels different, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any allergy medications regularly, or just occasionally when needed?",
+    "patient_turn": "I mostly take allergy medication, like Reactine, just occasionally when I need it, you know? It’s not something I take every day, just when my allergies act up, especially in the spring.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to any medications?",
+    "patient_turn": "Uh, no, I don’t have any known drug allergies. I’ve never had a problem with medications before, so, um, I think I’m good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your immunizations current, including your annual flu shot?",
+    "patient_turn": "Yeah, I’m up to date on all my immunizations, including the annual flu shot. My parents make sure of that, so I don’t have to worry about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease or lung problems?",
+    "patient_turn": "Um, not really, no. The only thing is my grandfather had pancreatic cancer, but there’s no history of heart disease or lung problems in my family that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around anyone who was sick?",
+    "patient_turn": "Uh, no, I haven’t traveled anywhere recently. I did hear that some classmates had similar illnesses a few weeks ago, but I haven’t been around anyone sick at home. So, um, I’m not totally sure how I got this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did any of your classmates have symptoms like yours recently?",
+    "patient_turn": "Yeah, um, some of my classmates had similar symptoms about three to four weeks ago. I guess that’s when they were feeling sick, but I didn’t really think much of it until I started feeling this way.",
+    "annotation": "Correct"
+  }
+]

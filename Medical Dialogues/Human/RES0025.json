@@ -1,0 +1,147 @@
+[
+  {
+    "doctor_turn": "so I hear you've been having some some nausea vomiting, diarrhea. Can you tell me a little more about that?",
+    "patient_turn": "Yeah, so uh, like around three or four days ago I started, uh to get really nauseous and since then I've been vomiting every few hours and really I don't know. Just yesterday started to started to have some diarrhea as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so that's three or four days ago for the nausea and vomiting, is that correct?",
+    "patient_turn": "Uh yeah yeah the nausea start kind of started three or four days ago and then after that that the vomiting came. So yeah maybe the vomiting was more like 2 days ago it started, and then diarrhea kind of the last day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK OK. OK, and before that you were feeling well?",
+    "patient_turn": "Yeah, well I was feeling maybe like a little tired for a day or two before, but um, I don't know. Sometimes you just feel like that, so I didn't really think much of it, but.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "And since it started, have, I know these all kind of started at different times but has have your symptoms gotten worse overtime?",
+    "patient_turn": "Yeah, they they. They've gotten worse. At first they were kinda really spread it like far enough apart that I would thought it was just going to go away on its own and then it it hasn't so has me concerned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your vomit?",
+    "patient_turn": "No, it's been kind of yellowish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and just if you notice like a like a really bright kind of yellow green substance in your vomit.",
+    "patient_turn": "Umm not really bright, but I mean maybe more like dark green or yeah nothing bright.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK And you said now it's it's happening every couple hours for you?",
+    "patient_turn": "Um yeah every few every few hours it's been ah. It seems to be what I'm like like after eating, it is just making me making me nauseous.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, so have you been able to eat anything? When's the last time you actually had something to eat?",
+    "patient_turn": "Yesterday I did, I had some soup and was able to to keep most of it down, but um. But it's been mostly liquid's I've been drinking.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In terms of diarrhea, so that started a couple days ago, if you only had diarrhea since then, or have you had like any form stools?",
+    "patient_turn": "No, it's it. It was started more like yesterday and it's really only been diarrhea since. So yeah, like twice last night and then like three to three times this morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had anything like this before?",
+    "patient_turn": "No, I haven't been sick like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "I just got back from a trip in the US was there for work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how did you travel there?",
+    "patient_turn": "I I. Traveled by a train.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long were you there for and when did you get back?",
+    "patient_turn": "I was there for one night and got back five days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "when you were there, were you in contact with anyone?",
+    "patient_turn": "I well, I stayed in a hotel so. I, I guess that the people, uh, that um yeah, the people that were staying at the hotel.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone since coming back that's been sick?",
+    "patient_turn": "Um No. I I, I haven't been in contact with anybody, anybody who's been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In addition to the symptoms that you're describing to me, have you had any fevers?",
+    "patient_turn": "I've I started to feel hot this morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough?",
+    "patient_turn": "Umm no, I haven't really had a cough by my throat's felt a little like scratchy though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, scratchy throat OK. Have you had any sore throat?",
+    "patient_turn": "No, I wouldn't really say it's sore, but. Yeah, I mean we just kinda like like itchy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you live, do you live alone or with family?",
+    "patient_turn": "I I live with family. I live with my wife and two children.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How are they feeling right now?",
+    "patient_turn": "They were. They've been feeling fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any conditions that you see your family doctor for regularly?",
+    "patient_turn": "I have anxiety and back pain. So, uh, I do get ah. Some hydromorphone for for that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and what medications do you take besides the hydromorphone?",
+    "patient_turn": "Uh, uh, Escitalopram.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "have you ever had any surgeries?",
+    "patient_turn": "Uh, yeah on my on my back I was in an accident a few years back. So, um. Well, that's where the pain is from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Um yeah, to penicillin. I had a hives when I was a kid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of your digestive system problems or respiratory problems?",
+    "patient_turn": "Um Yeah, no one in my families had any problems with their stomach or I haven't heard of any like colon cancer. I mean my my dad had a heart attack when he was in his late 60s, but that's kind of the only thing that I can think happened in my family in terms of health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "Yeah, I I work for a tech company so I was going down to meet a potential buyer for one of our products.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "Um yeah I will have wine. Maybe one or two glasses on on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "do you smoke cigarettes?",
+    "patient_turn": "Umm no but I I used to, I I quit about seven years ago. Yeah, so I quit about seven years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So do you use any other substances, like cannabis?",
+    "patient_turn": "Um I will have a joint every once in awhile if I with friends, but that's been it's been awhile. 'cause of the pandemic haven't really been hanging out with anybody.",
+    "annotation": "Correct"
+  }
+]

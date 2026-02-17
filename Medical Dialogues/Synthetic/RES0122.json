@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this nasal congestion for about two weeks now, and it’s just getting worse. I’ve got this pressure and pain around my face and head, especially when I lie down… it’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal congestion and pain?",
+    "patient_turn": "I first noticed the nasal congestion, um, about two weeks ago. The pain and pressure kinda started around the same time, but it’s been getting worse, you know? It’s really hard to ignore now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located? Does it spread to any other areas?",
+    "patient_turn": "Yeah, um, the pain is mostly around my cheeks and jaws, and it kinda radiates to my forehead and head. It feels like a lot of pressure, and it gets worse when I’m lying on one side. I’m just, um, really tired of dealing with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It’s more like a dull pressure, I guess? It’s not really sharp, but it’s definitely uncomfortable and, um, it feels like it’s just building up. Honestly, it’s hard to focus on anything else with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, lying on my side definitely makes it worse, like, I feel this intense pressure around my cheeks and forehead. Oh, and I’ve also been trying steam therapy, which usually helps a bit, but then I remember I need to call my sister about her birthday party, and that’s stressing me out too, so it’s hard to focus on the pain relief sometimes.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and definitely no nausea or anything like that. It’s mostly just the congestion and the pressure… and I’ve noticed my sense of smell is kinda reduced, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Sure, um, I don’t smoke or use recreational drugs at all. I do have a glass of red wine every day, but that’s about it. I work from home as an accountant, so I’m not super active, but I try to get some exercise in when I can… it’s just hard sometimes, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications regularly?",
+    "patient_turn": "Oh, you know, I really need to get my car washed, it’s been ages since I did that. But regarding medications, I sometimes take Tylenol cold when I feel a bit off, but nothing else really.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and definitely no nausea or anything like that. It’s mostly just the congestion and the pressure… and I’ve noticed my sense of smell is kinda reduced, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the pain started and how it has changed since then?",
+    "patient_turn": "Sure, um, the pain started around the same time as the congestion, about two weeks ago. At first, it was just a little annoying, but it’s definitely gotten worse over time. Now it feels like this constant pressure, and it’s really hard to ignore… I’m kinda worried it might not go away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "Yeah, um, the pain is mostly around my cheeks and jaws, and it kinda spreads to my forehead and head. It’s like this heavy pressure, and it gets worse when I lie down, which is just, um, really uncomfortable. I just want it to go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Um, it’s... like , I think. And it’s mostly in my... , I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, lying on my side definitely makes it worse, like, I feel this intense pressure around my cheeks and forehead. I’ve tried steam therapy, which helps a bit, but, um, it’s still pretty uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and definitely no nausea or anything like that. It’s mostly just the congestion and the pressure… and I’ve noticed my sense of smell is kinda reduced, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Sure, um, I don’t smoke or use recreational drugs at all. I do have a glass of red wine every day, but that’s about it. I work from home as an accountant, so I’m not super active, but I try to get some exercise in when I can… it’s just hard sometimes, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of taste recently?",
+    "patient_turn": "Yeah, um, I’ve noticed that my sense of taste is kinda altered, which is really annoying. It’s like everything tastes a bit different, and I think it’s related to the congestion. Honestly, it’s just adding to my frustration with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled recently, and I don’t know anyone who’s been sick either. I work from home, so it’s mostly just me and my family, and none of them are ill. It’s just, uh, really strange that I’m feeling this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of significant health issues?",
+    "patient_turn": "Well, um, my dad had a heart attack in his late 50s, but he’s doing well now. Other than that, I don’t think there are any significant health issues in my family. It’s just, you know, a bit concerning with my symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical problems or known allergies?",
+    "patient_turn": "Um, no, I don’t have any past medical problems or known allergies. My medical history is pretty unremarkable, I guess. I’ve had two uncomplicated cesarean sections, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you exercise or stay active during the week?",
+    "patient_turn": "Uh, I try to stay active, but it’s not super consistent. I mean, I work from home, so I’m sitting a lot, you know? I do my best to get some exercise in when I can, maybe a couple of times a week, but it’s hard to find the time sometimes.",
+    "annotation": "Correct"
+  }
+]

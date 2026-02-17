@@ -1,0 +1,202 @@
+[
+  {
+    "doctor_turn": "What brings you here today?",
+    "patient_turn": "Um hi, yeah I've had the stuffy nose um that's been on and off, as well as a runny nose for the past week and it doesn't seem to be getting any better, so I thought I should come in and get it checked out in case I have covid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah I know for sure that's a good idea. So how long have you had this for?",
+    "patient_turn": "A week now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A week. And did. So what started first? Was it the runny nose? Or like the stuffiness?",
+    "patient_turn": "It felt pretty stuffy at first, but now it's mostly running.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you coughing at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK, and the runny nose what kind of content are you producing or draining? Is it mainly like clear or is there any color to it?",
+    "patient_turn": "It's mostly clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, is it mainly just congestion and drainage from your nose or are you feeling and go at the back of your throat as well?",
+    "patient_turn": "Uh no it's just mostly for my nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any other symptoms like sore throat, shortness of breath, fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. And is this like something that's constant or does it come and go?",
+    "patient_turn": "Ah, it's it's. Ah It's been pretty constant for the past week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has this happened to you before at all?",
+    "patient_turn": "No, well, actually I've had I've had a cold before but not recently. Maybe like five years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you tried any over the counter medications at all?",
+    "patient_turn": "Um I've tried like decongestants and. That's not. Well, I guess my nose is runny now so that worked a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and have you been in contact with anyone who's been sick recently?",
+    "patient_turn": "Uhm? No, I don't think so. My I have um a nephew who I live with who goes to daycare.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he been sick at all?",
+    "patient_turn": "No, he's been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any recent travel at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any headaches or nausea or vomiting?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any fatigue?",
+    "patient_turn": "A little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any loss of sense of taste or smell.",
+    "patient_turn": "Um. No, um not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any sort of like chest pain or racing sensation of racing of yourbheart or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK? Any changes in your bowel movements?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about your any difficulties in urinating?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been sleeping and eating well?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any weight changes like any significant weight loss recently?",
+    "patient_turn": "No, no, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. At home or at work home any exposure to like fumes, dust or animals?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Um I have type one diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when were you diagnosed with that?",
+    "patient_turn": "When I was like 7.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And so you have your insulin medication and your are you all up to date with that?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you see an endocrinologist?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. Any medications that you are on besides insulin?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any allergies at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been hospitalized or had any surgeries before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any family history of any medical conditions, in particular with the lungs or the heart.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any autoimmune diseases?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently right now do you work or do you go to school?",
+    "patient_turn": "I’m in school right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so are you living, where are you living right now?",
+    "patient_turn": "I live in an apartment by myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently, do you use any recreational drugs like marijuana or anything?",
+    "patient_turn": "Uh no, not OK so not frequently, but maybe like once a month I'll have an edible.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any other recreational drugs like cocaine and heroin? Anything like that?",
+    "patient_turn": "Oh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. And you drink alcohol?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you smoke tobacco?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, those were all the questions that I had for you today. Do you have any questions for me?",
+    "patient_turn": "I yeah, how do I get rid of this? And it's really been bugging me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, it kind of so just a stuffy nose in the runny nose it seems like it's most likely a viral infection like the common cold. It takes a few weeks for the symptoms to get relieved, but there's not much that we can do besides supportive care, so make sure you get you stay well hydrated. You can use over the counter medications uh like Tylenol cold. now, if you to relieve some of your symptoms, but since right now we're in a pandemic, some of these symptoms can also be seen in covid patients, so we will also get a swab done for you today, and you should have the results back by 48 hours. Um until then, we recommend that you stay isolated in your own home and not see anyone else. And then once the results come back, you'll get further instructions from public health.",
+    "patient_turn": "OK, that sounds great. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Your welcome. Take care",
+    "patient_turn": "You too bye.",
+    "annotation": "Correct"
+  }
+]

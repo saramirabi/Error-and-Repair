@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this pain in my right knee for a few weeks now. It started out just after I was active, but now it hurts even when I’m just walking or, you know, going upstairs. It’s kinda worrying me…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I think it was, um, a few weeks ago? At first, it was just after I played soccer or basketball, but then it started hurting more, like, even when I’m not doing anything. It’s been getting worse, I guess…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is in your knee?",
+    "patient_turn": "Yeah, it’s, um, right below the kneecap, like in the front of my knee. It’s kinda achy when I’m resting, but it gets sharp if I touch it directly. It’s really uncomfortable…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, or is it just in that spot?",
+    "patient_turn": "Well, it’s mostly just in that spot below my kneecap, but, you know, I was thinking about how I’ve been running a lot lately, and I also play basketball, which can be tough on the knees. And, oh! I remember last summer I twisted my ankle during a game, but that was a while ago. So, yeah, just that spot really.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s mostly achy when I’m resting, but it gets really sharp if I touch it directly. I’d say it’s like a 6 or 7 out of 10 in severity, which is, you know, pretty uncomfortable. It’s just frustrating because I want to keep playing sports…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one spot, or does it spread to other areas?",
+    "patient_turn": "It pretty much stays in that one spot below my kneecap. I haven’t noticed it spreading anywhere else, which is, um, a relief, I guess? But it’s still really uncomfortable, and I just want it to get better…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "Oh, it’s definitely sharp, but I think it’s also kind of dull sometimes, too. I mean, I could say it’s mostly achy, but then again, I don’t really feel it that much unless I’m doing something, like running or jumping. So, I guess it’s not really sharp at all, actually.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you had any previous injuries or medical conditions related to your knee or any other part of your body?",
+    "patient_turn": "Um, not really. I haven’t had any previous injuries or medical conditions, like, related to my knee or anything else. I did twist my ankle last summer during a game, but that was a while ago and it’s been fine since then. So, yeah, nothing else really…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications on a regular basis?",
+    "patient_turn": "No, I’m not taking any medications regularly. I don’t have any allergies or anything like that, so, um, I guess I’m just trying to manage the pain with, you know, ice and stuff for now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "Um, no, I don’t have any known allergies to medications or anything else. I’ve never had any issues with that, so, yeah, I’m all good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent illnesses or fevers?",
+    "patient_turn": "No, I haven’t had any recent illnesses or fevers. I’ve been feeling fine otherwise, just dealing with this knee pain, you know? It’s kinda frustrating…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel or urinary habits recently?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my bowel or urinary habits. Everything seems normal there, it’s just this knee pain that’s really bothering me. I’m kinda worried about it, to be honest…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of knee problems or injuries?",
+    "patient_turn": "No, um, my family doesn’t have a history of knee problems or injuries. I think everyone’s been pretty healthy, so it’s just me dealing with this right now. It’s a bit frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with both my parents and my younger sister. It’s, um, nice having them around, but I feel kinda bad that I can’t be as active with them because of my knee pain. I just want to get back to normal…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any tightness or discomfort in your thigh muscles recently?",
+    "patient_turn": "Yeah, I’ve noticed some tightness in my thigh muscles. It’s been, um, a bit uncomfortable, especially when I’m trying to run or jump. I’m not totally sure if that’s related to my knee pain, but it’s definitely something I’ve felt…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Would you like to talk about any imaging options for your knee pain?",
+    "patient_turn": "Um, I guess I’m open to talking about imaging options if it helps figure out what’s going on. I mean, I hope it’s nothing serious, but if my symptoms don’t improve, then maybe it would be a good idea to look into it. I just really want to get back to playing sports…",
+    "annotation": "Correct"
+  }
+]

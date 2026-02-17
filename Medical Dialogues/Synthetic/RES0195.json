@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been experiencing shortness of breath for the past two to three months, and it's gotten worse. Now, I feel it even at rest, and it comes with some chest discomfort. I've also had some eye irritation and a painful rash on my shins that started about a month ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of the chest discomfort? Does it stay in one place or spread anywhere?",
+    "patient_turn": "The chest discomfort feels like it's right in the center of my chest, and it doesn't really spread anywhere. It's more of a tight feeling when I try to take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest discomfort feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "It feels more like pressure, not sharp or dull. It's just this tightness that makes it hard to take a full deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make the discomfort better or worse for you?",
+    "patient_turn": "I've noticed that it gets worse when I'm active or even just walking around the house. It’s also more noticeable when I'm trying to take a deep breath. Resting seems to help a bit, but it’s still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest discomfort and shortness of breath?",
+    "patient_turn": "Um, I think the shortness of breath started maybe two or three months ago, but the chest discomfort, well, it’s been a bit tricky. I mean, I was actually cleaning the house a lot around that time, and I remember I also started exercising a bit more. Oh, and my kids have been really active lately, which keeps me on my toes. So, it’s hard to pin down exactly when it all started, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or anything unusual?",
+    "patient_turn": "Yes, I've definitely noticed the breathlessness, which has been pretty constant lately. I haven't felt dizzy, but I do have some eye irritation and a painful rash on my shins that started about a month ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest discomfort, and how has it changed over time?",
+    "patient_turn": "I first noticed the chest discomfort around the same time as the shortness of breath, about two to three months ago. It started off as something I felt occasionally, but now it's more constant and noticeable, especially when I try to take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough, fever, or other respiratory symptoms recently?",
+    "patient_turn": "No, I haven't had any cough, fever, or other respiratory symptoms. It's just the shortness of breath and chest discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any unintentional weight loss recently?",
+    "patient_turn": "Yes, I've noticed unintentional weight loss of about 15 pounds over the past six months, even though my appetite has been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around any unusual environments or people?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been around any unusual environments or people. I've mostly been at home, working as an online teacher.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "My past medical history is pretty unremarkable, except for a previous uncomplicated cesarean section. I don't have any other medical conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any known allergies?",
+    "patient_turn": "I'm not taking any medications, and I don't have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of autoimmune diseases?",
+    "patient_turn": "Yes, my family history is significant for autoimmune diseases. My parents have rheumatoid arthritis, lupus, and type 1 diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in your work and lifestyle?",
+    "patient_turn": "I work from home as an online teacher, so my days usually involve teaching classes and grading assignments. I spend a lot of time at my desk, but I also try to keep up with my kids and their activities. I don't smoke or use recreational drugs, and I have a glass of wine occasionally, like once a week.",
+    "annotation": "Correct"
+  }
+]

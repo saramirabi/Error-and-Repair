@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I've been having this, um, worsening cough for about two months now. It's, like, really productive, and I’m producing, I guess, around 5 to 10 teaspoons of sputum daily. I'm kinda worried because I also get short of breath, especially when I’m active, but sometimes even at rest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Um, I think it started about two months ago, but it’s been getting worse since then. I mean, at first, it was just a little annoying, but now it’s, like, really persistent and, uh, I’m coughing a lot more, especially in the mornings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels like it’s coming from?",
+    "patient_turn": "Well, it feels like it’s coming from my chest, you know? It’s kind of deep, and sometimes I feel a bit of discomfort when I cough. It’s not, like, sharp or anything, but it’s definitely there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it feels more dull, you know? It’s not sharp at all, but it’s just, like, this persistent feeling that I need to cough. It can be, uh, uncomfortable, especially when I’m trying to breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "A...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, it’s definitely gotten worse. At first, it was just occasional, but now it’s, like, pretty much all the time, and I’m producing a lot more sputum. I also feel short of breath more often, especially when I’m active, and it’s just, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels like it’s coming from?",
+    "patient_turn": "It feels like it’s coming from my chest, you know? It’s kind of deep and, um, sometimes I feel a bit of discomfort when I cough. It’s not sharp, but it’s definitely there, and it can be, like, really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the cough ever spread to any other areas, like your throat or back?",
+    "patient_turn": "Um, not really, I don’t think. It mostly feels like it’s just in my chest. Sometimes I might feel a little irritation in my throat, but it’s not, like, a big deal or anything. The main issue is just the cough itself and the shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "Uh, I’ve been experiencing this cough for about two months now. It started off kinda mild, but it’s definitely gotten worse over time. I’m really starting to get worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think maybe it started a couple of months ago… or maybe a bit longer, not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Do you have a history of asthma or have you ever used inhalers?",
+    "patient_turn": "Yeah, I have a history of asthma. I use a daily steroid inhaler, and I’ve been using salbutamol, like, 6 to 10 times a week lately. I guess my asthma has been acting up more with this cough and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day, and for how many years have you been smoking?",
+    "patient_turn": "I smoke about 30 cigarettes a day, and I’ve been doing that for, um, 25 years now. I’ve tried to quit a few times, but it hasn’t really worked out for me. I’m kinda worried about how it’s affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest infections or taken antibiotics in the last six months?",
+    "patient_turn": "Yeah, I’ve had a few chest infections over the past year, and I was treated with antibiotics for those. The last time I took antibiotics was about six months ago. Right now, I don’t have any signs of infection, like fever or anything, but I’m just feeling this persistent cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation and who you live with?",
+    "patient_turn": "Um, I live in a small apartment with my wife. It’s just the two of us, and we don’t have any pets. I work a desk job, so there’s not really any dust or chemical exposure there. I guess it’s a pretty quiet life, but, uh, this cough is really starting to get to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of lung diseases, like COPD or asthma?",
+    "patient_turn": "Yeah, my sister has COPD, but, um, there aren’t any known cancers in the family. I guess that’s a bit concerning, especially with my own history of asthma and now this cough.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this really sharp pain in my right buttock that, like, radiates down my right leg. It's been getting worse over the past couple of days, and, honestly, it’s pretty intense—like an 8 out of 10.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this pain?",
+    "patient_turn": "Well, I guess it started a few days ago, but it was, um, milder at first. I thought it was just, you know, something that would go away, but then it just got worse really quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, it’s mostly in my right buttock, but then it kinda goes down my leg, you know? It’s like this sharp pain that makes it hard to walk or sit, and I’ve also been feeling some numbness and tingling in my right leg, which is, um, kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, I remember I really need to schedule a dentist appointment soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "So, the pain is mostly in my right buttock, but it definitely spreads down my right leg. It’s, um, really uncomfortable, and I’ve been feeling some numbness and tingling too, which is, like, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Um, it’s definitely sharp, you know? Like, really intense, and it feels like it just, um, hits me out of nowhere sometimes. It’s hard to ignore, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain, and how has it changed since then?",
+    "patient_turn": "A... it started, um, maybe a couple of days ago?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "So, the pain is mainly in my right buttock, and it definitely spreads down my right leg. It’s, um, really uncomfortable, and I’ve also been feeling some numbness and tingling in that leg, which is, like, pretty worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the pain affect your ability to walk or sit?",
+    "patient_turn": "Uh, it makes it really hard to walk, honestly. I’ve been limping a lot because of the pain, and sitting is, um, uncomfortable too. I have to keep shifting positions to find some relief, which is, like, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weakness in your right leg?",
+    "patient_turn": "Yeah, I have. There’s, um, definitely some mild weakness in my right leg. It’s, like, hard to put weight on it sometimes, and I feel like I’m, um, kinda limping because of it. It’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol?",
+    "patient_turn": "Yeah, I smoke, um, about half a pack of cigarettes a day for, like, 40 years now. I drink alcohol socially, but, you know, I don’t use any recreational drugs or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like heart disease or neurological problems?",
+    "patient_turn": "Um, no, I don’t really have any relevant family history of, like, musculoskeletal or neurological issues, or, um, autoimmune diseases or cancer. So, I guess that’s a good thing?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urinary or bowel habits recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my urinary or bowel habits. Everything seems, um, normal in that regard, which is, like, a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent trauma or injuries to your back or legs?",
+    "patient_turn": "Uh, no, I haven’t had any trauma or injuries to my back or legs. It just sort of came on, you know, without any specific incident, which is, um, kinda confusing for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, weight loss, or chills recently?",
+    "patient_turn": "No, I haven’t had any fever, weight loss, or chills. I mean, everything else seems normal, but this pain is just, um, really bothering me.",
+    "annotation": "Correct"
+  }
+]

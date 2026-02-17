@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really nauseous for about three to four days now, and it’s gotten worse. I started vomiting a couple of days ago, like, every few hours, especially after eating, and then I had diarrhea starting yesterday. I’m kinda worried because it’s just not getting better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nausea?",
+    "patient_turn": "Uh, I think it was about three or four days ago. It just kind of started out of nowhere, and then it, um, progressed to vomiting and diarrhea. It’s been really uncomfortable, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the nausea feels the worst?",
+    "patient_turn": "Um, I guess it’s just this general, uh, queasy feeling in my stomach. It’s not like a sharp pain or anything, but it’s just, you know, really uncomfortable and makes me not want to eat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the nausea changed since it first started?",
+    "patient_turn": "Well, at first it was just, um, mild nausea, but then it got worse pretty quickly. Like, I started vomiting a couple of days ago, and now I can barely keep anything down, you know? It’s just been really tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the nausea feels strongest?",
+    "patient_turn": "Uh, I think the nausea started maybe three days ago? But, you know, I didn't really feel it at all until yesterday.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the nausea changed since it first started?",
+    "patient_turn": "Oh, um, it’s definitely gotten worse. At first, it was just a little queasy feeling, but then it turned into, like, constant nausea, and now I’m vomiting pretty often. It’s just been really hard to deal with, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about the vomiting? How often does it happen?",
+    "patient_turn": "Yeah, um, I’ve been vomiting every few hours, especially after I eat. It started about two days ago, and it’s mostly this yellowish to dark green stuff. I’m just really tired of it, you know? It’s hard to keep anything down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain or discomfort in your stomach?",
+    "patient_turn": "Um, I wouldn’t say there’s really pain, but it’s more like a constant discomfort in my stomach. It just feels really uneasy, you know? I guess it’s just all over, not really in one specific spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the discomfort better or worse?",
+    "patient_turn": "Uh, not really, to be honest. Eating definitely makes it worse, and I’ve been trying to stick to liquids and some soup, but even that’s tough. I guess just resting helps a little, but it’s still pretty uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like feeling breathless, dizzy, or nauseous?",
+    "patient_turn": "I haven't felt dizzy or breathless at all, but I guess I did feel a little dizzy earlier today. It's just been mostly nausea and vomiting for me, you know?",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the nausea, and does it feel different from the vomiting?",
+    "patient_turn": "Uh, the nausea is just this overall queasy feeling in my stomach, and it feels kind of constant. The vomiting, though, is, um, more intense, like it just hits me suddenly and I can’t control it. So, yeah, they feel a bit different, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the vomiting feels like? Is it painful or uncomfortable in any way?",
+    "patient_turn": "Um, it’s definitely uncomfortable, but I wouldn’t say it’s painful. It just feels really, uh, intense when it happens, and I feel this pressure in my stomach before I throw up. It’s just not a nice experience at all, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often have you been vomiting since it started?",
+    "patient_turn": "Uh, I’ve been vomiting every few hours since it started, especially after I try to eat something. It’s just been really frustrating, you know? I can’t seem to keep anything down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced anything like this before, such as similar vomiting or stomach issues?",
+    "patient_turn": "No, um, I haven’t had anything like this before. This is the first time I’m dealing with something like this, and it’s really, uh, concerning for me. I just don’t know what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your recent trip and if you ate or drank anything unusual while you were away?",
+    "patient_turn": "Um, I went on a one-night work trip to the US about five days ago. I traveled by train and stayed in a hotel, but I don’t think I ate or drank anything too unusual. I mean, I had some regular meals, but nothing that stood out as, like, different or risky, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been since you started feeling unwell?",
+    "patient_turn": "Uh, my appetite has really dropped. I’ve mostly been sticking to liquids and some soup, but even that’s been hard to keep down. I just don’t feel like eating at all, which is, um, really unusual for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever or chills since you started feeling unwell?",
+    "patient_turn": "I felt a bit hot this morning, but I haven’t actually checked for a fever or anything. No chills or anything like that, just, um, a scratchy, itchy throat. It’s been a bit weird, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough or sore throat at all?",
+    "patient_turn": "No, I haven’t had a cough or a sore throat, really. Just this scratchy, itchy feeling in my throat, but it’s not, um, painful or anything. Just kind of annoying, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Um, yeah, my dad had a heart attack in his late 60s, but that’s about it. There’s no other history of heart disease or anything like that in my family, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What are your daily habits regarding smoking, alcohol, and exercise?",
+    "patient_turn": "Well, I used to smoke, but I quit about seven years ago. I drink wine moderately on weekends, but, um, I haven’t really been drinking much lately with how I’ve been feeling. As for exercise, I try to stay active, but it’s been tough with my back pain, you know?",
+    "annotation": "Correct"
+  }
+]

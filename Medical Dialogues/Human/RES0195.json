@@ -1,0 +1,272 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Yeah hi, I'm so over the past few months I've noticed that I get short of breath sometimes. And my eyes are so irritated. And they feel itchy and red. And I've also noticed this rash below my knees, so I just wanted to get everything checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and when did this all kind of start?",
+    "patient_turn": "Ah it started a couple months ago like 2, 3 months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and when did the shortness of breath start?",
+    "patient_turn": "That's been on and off for the past two months as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about the rashes?",
+    "patient_turn": "The rashes started like a month back, but it looks worse now. It started off small.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so for the cough, is it like a dry cough or a wet cough?",
+    "patient_turn": "It's a pretty dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry cough OK, are you bringing up any green or yellow material or any blood at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and this also started like a few months ago?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is it constant or does it come and go?",
+    "patient_turn": "Um it's it's getting worse now so it feels more constant now, but at first it it just came in. Yeah, it came in went.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has this happened to you before at all of these symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright um. So it started a few months ago and how about the rashes? Are they have they been there like the ones below your knee since the two months? Or do they come and go?",
+    "patient_turn": "Um that's been there for the past month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And can you describe the rash a little bit? What does it look like?",
+    "patient_turn": "Sure, so it's now pretty diffuse. It's just below my knees like on my shins. It's on both sides. The one on my right side is a little bit bigger. It's about I'd say maybe like 10 centimeters and diameter. It's it's red or like a dark pink um. There's nothing coming out of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is it painful or itchy at all?",
+    "patient_turn": "It's um painful, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. What kind of paint do you feel that when you press on it?",
+    "patient_turn": "It's it's not that OK, so it's not painful painful, it's tender. So if I touch it, it will feel tug tender.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh. Have you tried anything that has helped you relieve these symptoms?",
+    "patient_turn": "Um I took some ibuprofen that helped a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, um and. So you've had the cough, but have you been having any kind of shortness of breath?",
+    "patient_turn": "No. Well, actually sorry, sorry I have had a shortness of breath. I haven't had a cough.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK, so no cough, but you've been having shortness of breath.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And. When your shortness of breath is it more so that you're not able to take deep breaths, or you taking shallow breaths, how would you describe it?",
+    "patient_turn": "It just feels like, yeah, I can take in a full deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. And are you having any other symptoms like fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about the eye irritation? When did that start?",
+    "patient_turn": "That started a month ago as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you do you have any red eyes? Or can you see any changes in your vision at all?",
+    "patient_turn": "Yeah, my eyes do look a little bit red and. I don't know if my vision changed a lot, but sometimes things will look a little bit blurry when they're far away.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK. And with the shortness of breath, is it brought on by exertion, or can it be at rest as well?",
+    "patient_turn": "It can be at rest as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And then, do you have any other symptoms? Like any joint pains?",
+    "patient_turn": "No no join pains.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any nausea or vomiting?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any muscle pain?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any recent travel or contact with someone who's been sick?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you see any or do you notice any like fluid coming out from your eyes or anything like that?",
+    "patient_turn": "Uh no, I didn't notice that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you get any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any chest pain?",
+    "patient_turn": "Sometimes the shortness of breath.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "OK, is it just like a discomfort or is it a pressure or stabbing pain?",
+    "patient_turn": "Ah it just feels like a discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel your heart is racing?",
+    "patient_turn": "Uh. No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any changes in your bowel movements at all?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your urinary pattern?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any sore throat, runny nose, any cold like symptoms?",
+    "patient_turn": "Uh no, but I haven been feeling um a little bit hot, so I wonder if I have a fever. I haven't checked it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, we can check. Have you had any recent weight changes?",
+    "patient_turn": "Now that you mention it, I have had some weight loss over the past um six months. I've lost about 15 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "15 pounds OK. How about your appetite? Have you been eating well?",
+    "patient_turn": "Yeah, I've been eating the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and have you had any exposure to any fumes, dust, animals or pets in your environment?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any medications?",
+    "patient_turn": "Um nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "No allergies .",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Hospitalizations or previous surgeries?",
+    "patient_turn": "Uh I had a C-section for my second child.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any complications with that?",
+    "patient_turn": "No, it was it was a pretty standard. I didn't have any excessive blood loss or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of any medical conditions like any lung or heart conditions?",
+    "patient_turn": "Um no lung or heart conditions. There are some autoimmune conditions in my family though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK and what what kind of autoimmune conditions are there?",
+    "patient_turn": "Uh, there is rheumatoid arthritis um . There is um uh lupus. Like type one diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK and then. Are they for any like direct relatives like your parents or or children?",
+    "patient_turn": "Yes, my parents.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently right now do you work?",
+    "patient_turn": "I work from home. Yeah, I teach I teach online.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how's your living situation like right now?",
+    "patient_turn": "Pretty good. We live in a house. I live with my husband and two children.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um. And do you currently smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any recreational drug use like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and any um alcohol?",
+    "patient_turn": "I drink once in awhile like I'll have a glass of wine on Fridays.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, yeah, so those are all the questions I had. Do you have any questions for me?",
+    "patient_turn": "Um no, like what what do you think I have and how should I treat it?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so definitely one thing we need to rule out with the shortness of breath is any viral or viral infection like coronavirus so we will get a test done for you today. However, since this seems to be kind of a chronic issue, been going on for a few months and you're having with the shortness of breath, some other symptoms, the rash below knees, or is what we called erythema nodosum and irritation in your eyes and you have a family history",
+    "patient_turn": "No, that sounds great. Thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome, and you may need depending on what we find, steroid treatment today or until you see the rheumatologist.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, take care.",
+    "patient_turn": "You too.",
+    "annotation": "Correct"
+  }
+]

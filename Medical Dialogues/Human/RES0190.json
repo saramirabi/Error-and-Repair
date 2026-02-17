@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Yes, I just came in here today. I I've just been. Really getting like the soreness in my throat for the past, I would say four days and I also had a fever for the last two days as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So the sore throat, have you been having pain with swallowing foods or liquids?",
+    "patient_turn": "Uhm maybe a little bit with solids, not so much with liquids. But yeah, I definitely been feeling more sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed any changes to your voice?",
+    "patient_turn": "Uhm, no, not really, not. I haven't really notice any changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, have you noticed any redness in the back of your mouth?",
+    "patient_turn": "Yeah, I've noticed some redness and then I also feel like there's like some material, like whitish material coming up from the back of my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, this could be a uh, what they call a tonsillar exudate possibly, we'll look on physical exam. OK, does it look like there's swelling in the back of your mouth?",
+    "patient_turn": "Yeah, it definitely looks angry.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any swelling in your neck as well like either on on the sides, like, or any lumps there?",
+    "patient_turn": "Yeah, definitely like more on the front side of my neck on both sides. I feel kind of like some swelling and lumps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you've had a fever as well these last couple of days, so have you had any chills?",
+    "patient_turn": "Yeah, I've had chills and then also been feeling warm during the day. I think yesterday I took a temperature at night and it was 38.4 degrees Celsius.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so yeah, certainly a fever. Have you had any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and have you had any headaches?",
+    "patient_turn": "No headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any eye redness or eye discharge?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any ear pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a runny nose or felt congested?",
+    "patient_turn": "Last week I did have a little bit of a runny nose and a little bit of a cough as well, but this week I'm not really having any cough or runny nose, it's just a sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so the running nose and cough have gone away completely?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long did those last for?",
+    "patient_turn": "Uhm probably like 5 days so it's I think it started two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you're an are you having a cough now?",
+    "patient_turn": "No, no cough right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and uh, OK, and have you had any changes to your sense of smell or sense of taste?",
+    "patient_turn": "Uh, no they've both been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any loss of appetite?",
+    "patient_turn": "Uhm, no, my appetite's been pretty much the same I, I still try and I I do get hungry and I try to make sure, even though it hurts a little bit, to keep eating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and when you did have a cough, or during this time as well, have you coughed up any sputum or any blood?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, have you had any wheezing?",
+    "patient_turn": "Uhm, no wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, now have you had any shortness of breath?",
+    "patient_turn": "No, no shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about any chest pain?",
+    "patient_turn": "No, no chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so have you had any dizziness or lightheadedness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any heart palpitations?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any constipation?",
+    "patient_turn": "Ah no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you had any urinary problems like pain with voiding or urinary frequency?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, have you had any rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any muscle aches or or joint pains?",
+    "patient_turn": "Uh, no not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, have you had any confusion or memory loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you had any changes to your energy? Like any fatigue or malaise?",
+    "patient_turn": "Uhm no, I don't think so. I'm still I still feel like pretty energetic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. In the past have you been diagnosed with any medical conditions?",
+    "patient_turn": "No, no, I've been pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and do you take any medications regularly, either over the counter or prescribed?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you have any allergies?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you have any? Are your immunizations up to date?",
+    "patient_turn": "Yeah, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, can you tell me a little about your living situation? So like where you're living and who you're living with?",
+    "patient_turn": "Yeah, I I live with my parents right now in a, in a house just in the city. And I also live with my older brother.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been going to school?",
+    "patient_turn": "Yeah, right now it's online school right now due to the pandemic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has anybody at home been sick or have you been around anybody who's been sick?",
+    "patient_turn": "My brother did have like similar sore throat symptoms, I think maybe two weeks ago and he did get some medications from the doctor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so did he get antibiotics?",
+    "patient_turn": "I think so. I think he got some antibiotics.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and, I know if some people in your age group might experience with smoking or or alcohol. Have you or any of your friends tried anything like that before?",
+    "patient_turn": "No, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and everything that we talk about is always confidential, so you can feel safe sharing with me, and so has there been any concerns with physical or emotional violence at home?",
+    "patient_turn": "No, I feel pretty safe. My parents are pretty caring and loving.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well that's excellent. And are you sexually active?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been sexually active in the past?",
+    "patient_turn": "No, not at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And now in the family, are there any conditions such as heart problems or lung problems that run in the family?",
+    "patient_turn": "Uh, no. Like my parents are pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and any cancers that run in the family?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how's school going?",
+    "patient_turn": "School is going pretty well, no real issues. It took some time and adjusting to the new online curriculum, but it's going pretty well now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well that's good. I'm glad that you been able to, uh, adjust. So I think that was everything I wanted to ask about on history today. Did you have anything else that you maybe wanted to add? Or that I maybe forgot to ask about?",
+    "patient_turn": "No. I think that those are all the questions I had.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so with your current symptoms right now with no cough, tonsillar exudate, a fever, also your age and the like swelling and redness that you notice in the back of your throat is likely a group a strep pharyngitis that's causing this. And with your exposure to your brother who also received antibiotics, could be potentially be a sick contact for you that you were around, so this would require antibiotics as well for yourself and we'll do a rapid strep antigen test to check for this and wait on the result for that because it it still could possibly be a viral illness and so that passes negative and we're thinking it's a viral illness then we might hold off on antibiotics for now and monitor symptoms. And if at any point things get worse like you start to get shortness of breath or your fever's getting worse and it's not, not being controlled, then we'll reeassess the situation.",
+    "patient_turn": "OK, sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this cough for about four days now, and it’s been producing, like, yellow-green sputum. Then, yesterday, I started feeling short of breath, even at rest, which is kinda worrying… I also had a fever, chills, and night sweats.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and how has it changed since then?",
+    "patient_turn": "I first noticed the cough about four days ago, and it was, um, just a regular cough at first, but then it got worse, you know? Now it’s really productive, and I’m coughing up that yellow-green sputum. It’s just been, like, really uncomfortable, especially with the shortness of breath that started yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the discomfort is located when you take a deep breath?",
+    "patient_turn": "Um, it’s mostly in my chest, I think. It feels, like, tight or strained when I take a deep breath, but I don’t have any chest pain or anything like that, which is good, I guess. It’s just uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like when you take a deep breath?",
+    "patient_turn": "It feels, um, sort of like a pressure or tightness, you know? Like, I have to really push to take a deep breath, and it’s not painful, but it’s definitely uncomfortable and makes me feel a bit anxious. I’m just kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the discomfort better or worse?",
+    "patient_turn": "Oh, I really need to remember to get my car’s oil changed soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any dizziness or nausea, thankfully. Just the shortness of breath and, like, the cough with the sputum. I’ve been feeling a bit more tired than usual, but not, like, super fatigued or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "I actually just realized I need to buy some new shoes because mine are getting really worn out. ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any dizziness or nausea, just the shortness of breath and that cough with the yellow-green sputum. I’m kinda worried about the breathlessness, though, especially since it started at rest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the shortness of breath better or worse?",
+    "patient_turn": "Um, I think it gets a bit worse when I'm, like, doing things? I'm not really sure though, it’s just kind of vague, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the shortness of breath?",
+    "patient_turn": "Yeah, I’ve had that cough with the yellow-green sputum, and, um, I’ve also been feeling feverish with chills and night sweats. But, like, no dizziness or nausea or anything else, just those symptoms. It’s all been a bit overwhelming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood at all?",
+    "patient_turn": "No, I haven’t coughed up any blood, thankfully. It’s just been that yellow-green sputum, but, um, I’m really glad there’s no blood. That would be really scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt unusually fatigued or exhausted lately, beyond just being tired?",
+    "patient_turn": "Not really, um, I wouldn’t say I’m unusually fatigued, but I have felt like I need more rest than usual. It’s just been a bit tiring dealing with all these symptoms, I guess. But I don’t feel, like, completely exhausted or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What past medical conditions have you been diagnosed with?",
+    "patient_turn": "I have hypertension and hypercholesterolemia, which I manage with medications. Other than that, I don’t have any major past medical conditions that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What surgeries have you had in the past?",
+    "patient_turn": "I’ve had a cesarean section and a cholecystectomy about five years ago. Those were, um, the only surgeries I’ve had, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve never had any issues with medications, which is a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and if you've been around anyone sick recently?",
+    "patient_turn": "I live alone in an apartment, and, um, I haven’t been around anyone sick recently, at least not that I know of. I did see my grandchildren last week, but they were all asymptomatic, so I’m not sure if that’s related.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like heart disease or diabetes?",
+    "patient_turn": "Yeah, my family history is a bit concerning. My father had a fatal myocardial infarction in his 50s, and I have a brother with hypertension and diabetes. My mom has osteoarthritis, and my dad had skin cancer, too. It’s just, um, a lot to think about, you know?",
+    "annotation": "Correct"
+  }
+]

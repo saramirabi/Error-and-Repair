@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about four days now, and I’ve also had a fever. My temperature was 38.5°C this morning. Honestly, I’m kinda worried because it’s getting worse, and I feel really fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough and fever first start?",
+    "patient_turn": "Uh, the cough started about four days ago, and the fever, um, I think it started around the same time, but it’s been getting worse since then. I just feel really tired and, you know, not great overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst? Does it hurt anywhere else?",
+    "patient_turn": "Um, it’s mostly just a dry cough, and I don’t really feel any pain, you know? I mean, I don’t have chest pain or anything like that. Just, uh, some mild nausea and occasional headaches, but nothing too severe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it constant or does it come and go?",
+    "patient_turn": "It’s, um, it comes and goes, I guess. Sometimes it’s worse, especially when I’m, like, trying to talk or, um, when I cough a lot, I feel a bit breathless afterward. But it’s mostly dry, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the cough better or worse?",
+    "patient_turn": "... anything else.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like fever or fatigue?",
+    "patient_turn": "Yeah, definitely. I’ve had the fever, and I feel really fatigued, like, more than usual. I also have some mild nausea, but no vomiting, thankfully. And, um, I’ve had some intermittent headaches, which are kind of like my usual tension headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels the strongest?",
+    "patient_turn": "Oh, I was thinking about how I need to clean out my closet this weekend.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or does it produce any mucus?",
+    "patient_turn": "Um, it’s definitely a dry cough. I’m not producing any mucus or anything like that, just, you know, a lot of coughing without anything coming up. It’s really annoying, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, or is there any phlegm or mucus?",
+    "patient_turn": "It's definitely dry, but sometimes I feel like there’s some mucus, but I also think it might just be dry. So, I'm not really sure.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the severity of your cough on a scale from 1 to 10?",
+    "patient_turn": "Um, I’d say it’s around a 6 or 7, maybe? It’s pretty bothersome, especially when I’m trying to do things or talk. It just feels, you know, really persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the past few weeks?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently. I, um, don’t usually take them, and I don’t think I’ve needed them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to mold or asbestos?",
+    "patient_turn": "Uh, no, I don’t have any known allergies to mold or asbestos. I live in a duplex basement rental, but I haven’t noticed any issues with that kind of stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your immunizations, including the flu shot, current?",
+    "patient_turn": "Yeah, um, my immunizations are up to date, including my annual flu shot. I make sure to keep up with those, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart disease?",
+    "patient_turn": "No, um, my family history is pretty clear for lung or heart disease. The only thing is my grandfather had bladder cancer, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What’s your living situation like? Do you live alone or with someone?",
+    "patient_turn": "I live in a duplex basement rental with my girlfriend. It’s, um, cozy, I guess, but I’m just a bit worried about how I’m feeling right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any other medical conditions besides hypercholesterolemia and prediabetes?",
+    "patient_turn": "Um, no, I haven’t been diagnosed with any other medical conditions besides hypercholesterolemia and prediabetes. Those are the main ones, I think.",
+    "annotation": "Correct"
+  }
+]

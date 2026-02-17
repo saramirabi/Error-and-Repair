@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I’ve been having this, like, really bad sore throat for the past three days, and it’s just getting worse. I also started feeling feverish yesterday, and I’ve had some chills, but I haven’t measured my temperature or anything. It hurts a lot when I swallow, especially solids… it’s kinda hard to eat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the sore throat first start?",
+    "patient_turn": "Uh, it started about three days ago, I think. It was, um, pretty constant, but it’s just been getting worse since then, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain is located in your throat?",
+    "patient_turn": "Yeah, um, it’s mostly in the back of my throat, I guess? It really hurts when I swallow, and sometimes even when I drink cold liquids. It’s just, like, really uncomfortable all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a dull pain, but it can get pretty sharp when I try to swallow. It’s just, like, really irritating and makes it hard to eat or drink anything. Honestly, it’s been pretty exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat, and has it changed since then?",
+    "patient_turn": "Um, I think it was…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "Oh, um, it’s mostly in the back of my throat, like, where the tonsils are, I guess? It’s just really sore back there, and it feels worse when I try to swallow anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your ears or neck?",
+    "patient_turn": "Yeah, um, I’ve noticed that my neck feels kinda sore too, like, I can feel some lumps there, which I think are swollen lymph nodes. It doesn’t really hurt in my ears, but I guess the pain in my throat makes everything feel a bit more uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Oh, I just remembered I need to get my car washed later.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, it definitely gets worse when I swallow, especially solids. I’ve tried using lozenges, and they help a little, but it’s only temporary relief, you know? Cold liquids can sometimes help, but not always. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s mostly a dull pain, but it can get sharp when I swallow. It’s just really uncomfortable and makes everything feel harder, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Uh,…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature at home recently?",
+    "patient_turn": "Uh, no, I haven’t actually measured my temperature. I just feel, um, feverish and have had some chills, but I don’t have a thermometer to check it. I’m kinda worried it might be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it hard for you to eat because of the pain in your throat?",
+    "patient_turn": "Yeah, definitely. Eating is really difficult because of the pain when I swallow. I mean, I try to eat, but it just hurts so much, especially with solids. I’ve been, um, managing to eat a little, but it’s not easy at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled anywhere recently, and I don’t know of anyone around me who’s been sick. It’s just, like, really strange that I’m feeling this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How are you currently managing your Crohn's disease?",
+    "patient_turn": "Oh, um, I’m managing it with sulfasalazine, which I’ve been on since I was diagnosed last year. I haven’t had any major issues lately, but, you know, I’m just a bit worried about how this sore throat might affect everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies, like to pollen, dust, or certain foods?",
+    "patient_turn": "Uh, no, I don’t have any allergies to environmental factors or foods that I know of. I mean, I haven’t had any issues with that, so… I’m not really sure if that’s relevant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of throat issues or similar health problems?",
+    "patient_turn": "Um, not that I know of, but my family does have a history of Crohn’s disease and ulcerative colitis. I think my brother has asthma and eczema too, but, like, nothing specifically about throat issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries or are you taking any other medications besides sulfasalazine?",
+    "patient_turn": "No, I haven’t had any surgeries aside from a colonoscopy last year, and, um, sulfasalazine is the only medication I’m taking right now. I haven’t had any other significant health issues, so it’s just that.",
+    "annotation": "Correct"
+  }
+]

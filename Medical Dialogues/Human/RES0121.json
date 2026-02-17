@@ -1,0 +1,197 @@
+[
+  {
+    "doctor_turn": "What brings you here today?",
+    "patient_turn": "Yeah hi, I've had this cough, um, for the past four days and it just can't, it won't go away. So, I was just wondering if, you know, I can get something for it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so uh, so you've been having the cough for four days. Can you describe the cough a little bit? Is it like a dry cough or wet cough?",
+    "patient_turn": "Uh, it's dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's dry, okay. Um, are you coughing up blood at all?",
+    "patient_turn": "No, no blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, are you bringing up any, although you're not coughing, are you bringing up any kind of sputum?",
+    "patient_turn": "No, no, it's, it's pretty, it's pretty dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and any other symptoms at all, besides the cough?",
+    "patient_turn": "No, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and have you been sick at all recently with fever, chills, runny nose, um any cold like symptoms?",
+    "patient_turn": "Um, you know, a week back I had a runny nose. Um, and sometimes like a stuffy nose, but that went away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and after that, did you have any fevers at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and has this happened to you before at all? Like a cough lasting more than four days?",
+    "patient_turn": "Yeah, it's happened to me in the past. Um, yeah it, yeah it has. Um, but it's just more bothersome this time cause I'm coughing a lot more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is there anything that you've tried that has helped you relieve the cough at all?",
+    "patient_turn": "I tried some over-the-counter cough suppressants. Uh, they don't seem to be working too well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, and anything that's making your cough worse at all? No?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other symptoms, like a sore throat, runny nose, headache, anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Have you been around anyone that's sick recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Um, have you had any, um have you traveled at all outside of the province or country at all recently?",
+    "patient_turn": "Nope, not outside the province.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and other than that, are you having any symptoms of, kind of, muscle aches uh, or anything like that?",
+    "patient_turn": "Uh no, no muscle aches. Um, nothing else that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any shortness of breath?",
+    "patient_turn": "No, no shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is the cough like constant, goes on throughout the day, or is there a time that it's worse?",
+    "patient_turn": "Uh, it's pretty, it's pretty constant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And do you have any kind of um increased tired, like getting more tired or fatigued?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any kind of chest pain or feeling that your heart is racing?",
+    "patient_turn": "Um no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any changes in your bowel movements? Any constipation or diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any um nausea or vomiting?",
+    "patient_turn": "Um nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, any kind of uh, changes in your sleep or appetite?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And um, have you lost any significant weight recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, otherwise, are you healthy? Do you have any medical conditions at all?",
+    "patient_turn": "Uh, no I don't, I'm otherwise healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Otherwise healthy, okay. Any allergies to any medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies to any environmental, or any environmental factors?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, any family history of any medical conditions related to the heart, lungs, any cancers at all?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, alright. Um, are you, so, what, what is your living situation like right now?",
+    "patient_turn": "I live in um, an apartment by myself, I'm a student.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and are you working at all or are you a student seeming?",
+    "patient_turn": "Um, I work part time. I work as a barista.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and anyone, anyone in your work environment, or uh in your home environment, or at school that has been sick around you?",
+    "patient_turn": "Not that I've heard of, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, and other than that, do you smoke at all?",
+    "patient_turn": "Um, no I, well, I used to smoke before. I stopped last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Last year, okay. And how long did you smoke for?",
+    "patient_turn": "I smoked just a couple, like two years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, yeah. So congratulations, that's a really great thing to do, especially like right now, with the pandemic going on and everything it's, earlier you stop, it's really good.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Besides uh, like smoking, um do you use any recreational drugs like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. And how about alcohol?",
+    "patient_turn": "Nope, I don't drink too much alcohol. I drink like over the Holidays.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And I forgot to ask you this earlier, but any hospitalization or surgeries in the past?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nothing like that, okay. Those are all the questions, um, I have for you. Do you have any questions or concerns?",
+    "patient_turn": "Um, yeah, what should I do about this cough?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so this cough, um, it's been going on for the last four days. Since you do have a cough, um and right now that, like, is considered a symptom, like, like a potential symptom for COVID, we definitely want to do a COVID swab test for you, which will come back in 24 hours to 48 hours. You should still try and isolate as much as you can away from any roommates, or family members for the next, so, 14 days since you first experienced the, the cough.",
+    "patient_turn": "Okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Based on, like, public health will call you as well so you can follow their instructions. And if, it can be anything else too, like, with a cough, there can be multiple things going on. You can have um, like an upper respiratory, viral, or bacterial infection. But since you're not having too many other symptoms right now, it can just be bronchitis. Um, this is something that we'll try and keep an eye on and make sure it's nothing else like, uh pneumonia, for example. But right now, yeah, we'll get that testing done and then just, kind of wait and watch.",
+    "patient_turn": "Sure, yeah. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome, take care.",
+    "patient_turn": "You too.",
+    "annotation": "Correct"
+  }
+]

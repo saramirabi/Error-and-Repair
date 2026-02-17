@@ -1,0 +1,307 @@
+[
+  {
+    "doctor_turn": "What brings you here today?",
+    "patient_turn": "I've had this pain in my back thats kind of like in my lower back and my buttocks and it's now radiating down to my right leg. I've had this for awhile now, but it's getting worse and I just want to come get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you had this pain for?",
+    "patient_turn": "About a month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has it gotten worse at all like did you have the pain radiating through your leg before or is that something that happened after?",
+    "patient_turn": "That's something that happened after that happens that that's been going on for the past week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is this pain constant or does it come and go?",
+    "patient_turn": "And it's pretty much always there, but certain things can make it worse. Like if I'm walking or doing certain activities it can it can make it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And did you have any back pain before this month?",
+    "patient_turn": "No, not, I mean no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And what kind of pain would you say it is? Is it like a sharp stabbing pain or is it more so a dull aching pain?",
+    "patient_turn": "Um usually or well before it was like a mild achy pain, but now it can be. It's sharp and it feels like a burning sensation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, a burning sensation, where would you say that burning sensation is?",
+    "patient_turn": "It's like down my buttocks to the right leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you feel any kind of numbness or tingling with it?",
+    "patient_turn": "Um a little, a little bit of tingling. Yeah, a little bit of tingling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you rate the pain from a scale of zero to 10, 10 being the worst pain you've had in your life?",
+    "patient_turn": "So usually it's about like a 5 to 6 out of 10, but when it gets bad and um sharp, I'd give it an 8 out of 10.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are there any kind of motions or positions that cause you more pain?",
+    "patient_turn": "Yeah, so I'd say like just any sort of physical activity, like if I'm on my feet a lot, it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mmm.",
+    "patient_turn": "Yeah, that's pretty much the only thing that I can think of right now.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, did anything happen one month ago or before this pain started? Like any injuries or falls that might have caused this pain?",
+    "patient_turn": "Um no like a long time ago, like 6-7 years ago I injured my back at work but. I just did some conservative treatments for that and it went away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK was it your lower back?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And what do you do for work?",
+    "patient_turn": "I used to work on an assembly line, so I used to. Like carry heavy objects and things like that. Like car parts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you still work there?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK when did you stop working there?",
+    "patient_turn": "About three years back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and is there any other work you do currently?",
+    "patient_turn": "Um I work from home now. I do daycare at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and just getting back to the pain so it's kind of in your lower back, your buttocks and then it goes to your right upper leg?",
+    "patient_turn": "Mmmm",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does it move anywhere else besides that or those are the regions that it stays in?",
+    "patient_turn": "No, those are kind of the only regions that I'm experiencing it right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you get more pain leaning bending forward or would you say extending your back?",
+    "patient_turn": "I would say ext.. Extending my back hurts more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and you get pain with sitting down?",
+    "patient_turn": "Um sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about lying down?",
+    "patient_turn": "Um lying down I guess it depends on the position. If I am straight on my back it's it's not too bad, but if I like I'm hunched over or something like that, it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see OK and have you tried any medications over the counter and painkillers that have helped?",
+    "patient_turn": "I tried some ibuprofen and some like topical.. um like ointments but it helps temporarily and then the pain comes back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, let's see and. Other than that, so other than this pain that's been going on do you have any fevers or chills?",
+    "patient_turn": "Uhm No, no fevers or chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any increased fatigue?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any rashes or skin changes?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any uh. Any cough or cold symptoms recently?",
+    "patient_turn": "Um no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and apart from your back, any kind of joint or muscle pain anywhere else in your body?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your bowel movements?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any urinary problems?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any stool incontinence or urinary incontinence?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any kind of numbness or paresthesia like around just your lower back and buttocks?",
+    "patient_turn": "No, no numbness just like that, tingling, burning feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK any recent weight changes like any significant weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any muscle weakness at all in that area?",
+    "patient_turn": "I'm finding it hard to walk.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Harder to walk? OK. Are you limping at all?",
+    "patient_turn": "Yeah, I'm putting more weight on my left leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you feel, so you mention you feel tingling going down your right leg? Do you feel any kind of numbness at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK alright do you have any kind of urinary or fecal retention like at all?",
+    "patient_turn": "No, I'm going. I'm using the washroom OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. Do you have any history of any cancers at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. Are you on any. So do you have any past medical conditions you've been diagnosed with?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Do you take any medications regularly?",
+    "patient_turn": "No, I don't. I just take calcium and vitamin D and other but multi vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies to any medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any previous surgeries or have you been hospitalized for any reason?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, any family history of any autoimmune conditions, any heart or lung conditions?",
+    "patient_turn": "Um no not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and currently you said you work from home. How would you describe your living situation like?",
+    "patient_turn": "I would say I it's it's OK. I live in an apartment with my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently do you smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "I'll have a glass of wine like once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use any recreational drugs?",
+    "patient_turn": "Um so I've I've been using cannabis oil for the past month just to see if it helps with the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has that been working for you at all?",
+    "patient_turn": "A little bit I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, so those are some of the questions I had. And I'm just gonna ask a few questions about just examining the areas that are giving you trouble. So along your back, if you if you were to press down on from the middle to your lower back, any kind of pain when you press down.",
+    "patient_turn": "Um lower back, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, So what kind of pain is it like sharp or is it kind of a dull aching pain?",
+    "patient_turn": "When I press down it feels sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have you notice any kind of swelling in your legs or, near the areas where you have pain swelling or redness, or any warmth?",
+    "patient_turn": "Um it seems to. Actually, no, it's not. It's not warm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in terms of just movement, are you able to bend down?",
+    "patient_turn": "I can bend down, it's just hard for me to get back up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK See and how about like bend sideways.",
+    "patient_turn": "I can do that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how about if you're laying flat are you able to raise your legs without bending your knees?",
+    "patient_turn": "I can do that, yeah, actually no. I can't. Sorry that that hurts.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "So your right leg hurts when you do that?",
+    "patient_turn": "Yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great. And other than that, like when you when you do any of those movements, can you, do you get like that tingling again?",
+    "patient_turn": "Yeah it does. Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK alright and when you stand up and walk how would you describe, are you having any kind of limping at all?",
+    "patient_turn": "Um a little bit of limp yeah, I'm putting more weight on the left leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, so yeah, those are just some of the questions I I had for you today. Do you have any questions at all?",
+    "patient_turn": "Um no, what can I do about this back pain and how long do you think I'll have it for?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so it's been happening for one month right and you're getting some symptoms in in your lower leg, so normally we would wait before we do any kind of diagnostic imaging. But since you're also having these other symptoms we we were worrying about sometimes lower back pain can lead to something called sciatica. It's just when one of the nerves get pinched, and then that's why you're getting the tingling around your right upper leg. So what we can do is. We can do if you haven't had an X-Ray, we can do an X-Ray of your lower back. And then we can also do an MRI.",
+    "patient_turn": "OK",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And. Based on what results come back at the same time we will, I will give you some information about some anti-inflammatory medications you could take to help relieve some of your pain, but other than that I will also refer you to some physiotherapy. That will help you do some exercises at home. Just ways to protect your back as well as strengthen some of your muscles to help deal with some of that pain. Yeah, so we'll get the results back. And then we'll go from there.",
+    "patient_turn": "OK, sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

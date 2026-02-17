@@ -1,0 +1,207 @@
+[
+  {
+    "doctor_turn": "Uh how may I help you?",
+    "patient_turn": "Hi, so yeah I just came to the hospital because I've just been feeling over the last um few days uh just I can't really take like a deep breath. And then I've also been coughing up uh this greenish yellowish material.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, and when did this uh cough start? Sorry.",
+    "patient_turn": "So I think the cough started like 4 days ago and then the shortness of breath started uh just yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and it's been yellowish green, were you coughing up sputum prior to this and um or did you have a cough before this?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and have you noticed any blood?",
+    "patient_turn": "No, no blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, um and the shortness of breath, are you experiencing this at rest or um or with exertion?",
+    "patient_turn": "No, like at rest, even right now I'm like having trouble taking deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK are you feeling any uh any chest pain?",
+    "patient_turn": "Um not pain, but there's definitely some straining and discomfort when I take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is it, is the discomfort worse when you take a deep breath?",
+    "patient_turn": "Uh yeah, it's just like I just have to strain a lot to like take that deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and uh have you noticed any wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and have you had any shortness of breath or do you have any shortness of breath if you lie flat?",
+    "patient_turn": "Uh, no, not really. Not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, or have you had any uh times where you've uh woken up um from sleep because you were short of breath and you had to sit up?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. Um and have you had any uh fevers or chills?",
+    "patient_turn": "I have had a fever like today, I had a fever I measured it was like 38.5. Yesterday, I felt like I had chills and a fever as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, certainly sounds like a fever and have you had any night sweats?",
+    "patient_turn": "Last night, I would say I had night sweats. My sheets were a bit drenched.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes to uh, loss of smell, loss of taste?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a runny nose or felt congested?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and how about any eye symptoms like redness or itchiness, pain?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and um have you had any uh instances of fainting or feeling dizzy?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any rashes?",
+    "patient_turn": "No rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um and then any muscle aches or body pains?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how has your energy been? Have you had any fatigue or malaise the last several days?",
+    "patient_turn": "Yeah, I would say so. I just feel like I don't know if it's to do with the short, of being short of breath, but yeah, I just feel like I've just been needing more rest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK and have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, alright, um so you've had this uh cough and you've been bringing up more sputum and shortness of breath and um and you've had a fever as well, um have you been experiencing any other symptoms?",
+    "patient_turn": "Um no, I think those are pretty much all the symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and in the past, have you been diagnosed with any medical conditions before?",
+    "patient_turn": "I do have, uh I take medications for high blood pressure. Um then I take medications for high cholesterol as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and do you take any other medications?",
+    "patient_turn": "Um just uh vitamin D calcium multi vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any allergies to medications?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any prior surgeries or hospitalizations?",
+    "patient_turn": "Uh yeah, I've had a few. Uh so I had a C-section in my twenties. Um then I had just uh five years ago, I had a um my gallbladder removed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and uh could you tell me a little bit about your living situation? Like who you're living with and and whereabouts?",
+    "patient_turn": "Yeah, so I'm living alone right now. Um, just in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been around anybody who's been sick?",
+    "patient_turn": "Uhm no I, not anyone that I know of. I do, I I did see my just randkids just last week, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did they have a runny nose? Any symptoms like that?",
+    "patient_turn": "Not that I noticed, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um have you traveled anywhere recently?",
+    "patient_turn": "No, I've been at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Um and and do you smoke cigarettes?",
+    "patient_turn": "No, I probably smoked for a very short time for like probably five years of my life in my 20s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, do you smoke um marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and um any family history of heart or lung conditions?",
+    "patient_turn": "Uh, I do have uh, my father passed away from a heart attack in his 50s. My brother has um high blood pressure, diabetes. Um and on my mom's side, she had like osteoarthritis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any cancer that is in the family?",
+    "patient_turn": "Um skin cancer, on my um father's side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and have you had antibiotics recently or within the last six months for any reason?",
+    "patient_turn": "No, no antibiotics.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so, so that was everything that I wanted to ask today on uh on history. Um was there anything that you also wanted to mention I I maybe forgot?",
+    "patient_turn": "No, I think that's all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um OK, so uh yeah, with the the symptoms um it could be um pneumonia which could be bacterial or viral, um as well as the possibility of um something like uh like Covid, which is of course a concern for today. So we will go ahead and start those investigations and get a swab. Um and um you may need antibiotics for um for this, if there there is uh pneumonia so we'll also get a chest X-ray as well.",
+    "patient_turn": "OK, alright sounds good.",
+    "annotation": "Correct"
+  }
+]

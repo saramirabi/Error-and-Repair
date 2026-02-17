@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been having this, like, crampy chest pain that started suddenly last night while I was just resting. It’s been pretty constant since then, and it kinda radiates to my throat… I’m a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start?",
+    "patient_turn": "Uh, it started last night, I think, like, around the time I was just sitting down, you know? It came on suddenly and hasn’t really changed since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "I’d say it’s more crampy, you know? Not really sharp, but definitely uncomfortable, like a tightness or pressure in my chest. It’s hard to describe, but it’s been pretty persistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was just, um, sitting down and relaxing, you know? I wasn’t doing anything strenuous or anything like that. It just sort of hit me out of nowhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start? Can you recall the time?",
+    "patient_turn": "Uh, I think it was maybe last night or, um, possibly the night before? It's kind of hard to remember the exact time, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Um, it's kind of in the middle, I think? But, like, sometimes it feels like it goes up to my throat, but I'm not really sure about that part.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "Uh, it first started last night, I think, while I was just sitting down. It came on suddenly, and it’s been pretty constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath along with the chest pain?",
+    "patient_turn": "Yeah, I have. I’ve been experiencing, um, constant shortness of breath since this started. It’s a bit concerning, and I think I might have a slight wheeze too, but no cough or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a cough or any wheezing sounds when you breathe?",
+    "patient_turn": "I don’t have a cough, but I think I might have a slight wheeze when I breathe. It’s, um, a little unsettling, to be honest, especially with the chest pain and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt more tired than usual in the last few days?",
+    "patient_turn": "Yeah, I have, um, I started feeling mild fatigue about two days ago. It’s not like me to feel this way, and it’s just adding to my worries with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills recently?",
+    "patient_turn": "No, I haven’t had any fever or chills, um, thankfully. Just the chest pain and shortness of breath, but no other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest pain like this before?",
+    "patient_turn": "No, I haven’t had any similar chest pain episodes before. This is, um, definitely new for me, and it’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you manage your diabetes on a daily basis?",
+    "patient_turn": "Well, I manage my type 2 diabetes with long-acting and short-acting insulin, you know? I try to keep an eye on my diet and, um, take my vitamin D and calcium supplements too. It’s a bit of a routine for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides penicillin?",
+    "patient_turn": "No, I only have an allergy to penicillin. I’m not allergic to anything else that I know of, um, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "No, I don’t smoke at all, and I only drink alcohol socially on weekends, you know? It’s not a regular thing for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease or lung conditions?",
+    "patient_turn": "Well, my mom had valvular heart disease, but, um, there aren’t any known heart attacks or lung conditions in the family. No cancer either, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the last few weeks?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently. I’m not totally sure when the last time was, but it’s been a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations mostly up to date?",
+    "patient_turn": "Yeah, I think most of my immunizations are up to date, except I’m not really sure about my Pneumovax status. I did get the shingles vaccine, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and any potential exposures at home?",
+    "patient_turn": "Um, I live with my husband in a new townhouse, and I don’t think there’s any exposure to dust, mold, or chemicals. We have a pet cat, but I don’t have any allergies to her, so, um, I think it’s pretty safe here.",
+    "annotation": "Correct"
+  }
+]

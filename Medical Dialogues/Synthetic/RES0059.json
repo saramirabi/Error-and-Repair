@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three days now, and it’s kinda been bothering me. I also have a mild sore throat and I’ve felt a bit hot, but I haven’t measured a fever or anything. Honestly, I’m just a bit worried about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and how has it changed since then?",
+    "patient_turn": "I first noticed it, um, about three days ago. It started off kinda mild, but I think it’s gotten a little worse since then. I mean, it’s still dry, but it’s just… it feels more persistent, you know? And I’ve been feeling more tired and weak, too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it more of a tickling sensation or something else?",
+    "patient_turn": "... just a .",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain along with the cough?",
+    "patient_turn": "No, I haven’t had any chest pain, um, just a little bit of mild shortness of breath when I, like, run for the bus. But no pain or anything like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough most in your throat or chest?",
+    "patient_turn": "Um, it’s mostly in my throat, I think. I don’t really feel it in my chest at all, just that scratchy feeling in my throat when I cough. It’s kinda annoying, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your cough first start?",
+    "patient_turn": "Uh, I think it might have been, like, three days ago? Or maybe a little longer, not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, it started off kinda mild, but, um, it feels like it’s gotten more persistent. I mean, it’s still dry, but I just feel like I’m coughing more often now, and it’s really starting to wear me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your throat or chest?",
+    "patient_turn": "Um, it's kind of, like, in the throat area, I guess? But I'm not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or blood when you cough?",
+    "patient_turn": "No, I haven’t noticed any mucus or blood at all. It’s just been a dry cough, um, which is part of why I’m feeling so worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing or trouble breathing at all?",
+    "patient_turn": "No, I haven’t had any wheezing or, um, trouble breathing, really. Just a little bit of mild shortness of breath when I run for the bus, but nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats or chills recently?",
+    "patient_turn": "No, I haven’t had any night sweats or chills. I mean, I’ve felt hot sometimes, but it’s not like I’m sweating at night or anything. Just, um, a bit worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. I mean, I feel a bit weak and tired, but my weight seems to be the same, as far as I can tell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach issues, like nausea, vomiting, or changes in your bathroom habits?",
+    "patient_turn": "No, I haven’t had any stomach issues or anything like that. No nausea or vomiting, and my bathroom habits are the same. It’s just really the cough and the sore throat that are bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy, confused, or faint at any time recently?",
+    "patient_turn": "No, I haven’t felt dizzy, confused, or faint at all. I mean, I’ve just been feeling weak and tired, but nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes, ear pain, or changes in your vision?",
+    "patient_turn": "No, I haven’t noticed any rashes, ear pain, or changes in my vision. It’s really just the cough and the sore throat that are concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick recently?",
+    "patient_turn": "Um, no, I haven’t been around anyone who was sick recently. I mean, I’ve been mostly at home with my family, so I’m not really sure where this is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced similar symptoms like this in the past?",
+    "patient_turn": "No, I haven’t had similar symptoms in the past, um, at least not in recent years. This is all pretty new for me, and it’s making me a bit anxious, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or health issues I should know about?",
+    "patient_turn": "Well, I have hypercholesterolemia, but I manage it with lifestyle changes. Other than that, I don’t have any major health issues or past surgeries, um, just seasonal allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized for any reason?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized for anything. I’ve been pretty healthy overall, um, until now, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies other than your seasonal allergies?",
+    "patient_turn": "No, I don’t have any other allergies besides my seasonal allergies. Just, um, the usual stuff like pollen, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date on all your vaccinations, including the flu shot?",
+    "patient_turn": "Yes, I’m up to date on all my vaccinations, including the annual flu shot. I always try to keep up with that, um, especially with everything going on lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease. My mom has hypertension, but that’s about it. No cancers or anything like that in the family, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you smoke cannabis or drink alcohol?",
+    "patient_turn": "I smoke cannabis occasionally on weekends, like, about one joint. And I usually have two to three beers on weekends too. But I don’t smoke tobacco or use other recreational drugs.",
+    "annotation": "Correct"
+  }
+]

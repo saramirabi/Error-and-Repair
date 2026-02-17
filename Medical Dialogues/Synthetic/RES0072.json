@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been having this really painful sore throat for about a day now. It’s, like, constant and makes it hard to swallow anything, even liquids. I’d rate the pain around a 6 out of 10, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the sore throat start, and has it changed since then?",
+    "patient_turn": "So, it started, um, just yesterday, and it’s been pretty much the same since then—really painful and constant. I mean, it hurts to swallow both solids and liquids, but cold drinks help a little bit, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat, and does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in the back of my throat, I think, and it feels really raw. I don’t feel like it spreads anywhere else, but I’ve also had some mild soreness in my abdomen, like, it’s kind of uncomfortable, but it’s not super intense or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "I’d say it’s more of a sharp pain, you know? Like, it really stings when I swallow, and it’s just… really uncomfortable. It’s not exactly pressure, but it’s definitely not a dull ache either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "...  drinks.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "I first noticed it, um, yesterday. It just kind of came on suddenly, and it’s been pretty much the same since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain is located?",
+    "patient_turn": "Yeah, it’s mostly in the back of my throat, like, right around the tonsils area, I think. It feels really raw and painful there, especially when I try to swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your ears or neck?",
+    "patient_turn": "Um, not really, I don’t think. The pain is mostly just in my throat, but I have noticed some swelling in my neck, like, in the front, but it doesn’t really hurt anywhere else, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "I’d say it’s sharp, definitely. It really stings when I swallow, and it’s just, um, really uncomfortable overall. It’s not dull at all, more like a constant, nagging pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, I think maybe cold drinks help a bit? But I’m not really sure about the other things that might make it worse.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Well, the pain is kind of constant and it's painful, like a 6 out of 10. I mean, it feels uncomfortable, you know? And I was just thinking about how I had pizza for dinner last night, which was probably not the best idea, but I love pizza, and now I’m regretting it a bit. But yeah, the pain is there all the time.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, cold drinks definitely help a bit, like, they soothe my throat. But, honestly, trying to swallow anything solid makes it worse, so I’m kinda avoiding that. I’m just, you know, really trying to manage the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or vomited since the pain started?",
+    "patient_turn": "Yeah, actually, I’ve felt nauseous, and I’ve vomited a few times—three times yesterday and once today. The first time it was food, but then it turned into, like, yellow-green bile. It’s been pretty rough, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any headaches or fever since your throat pain started?",
+    "patient_turn": "Um, yeah, I’ve had a mild headache, and I think I might have a bit of a fever. I’ve been sweating, but I haven’t measured my temperature or anything. It’s just, like, a general feeling of being unwell, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or trouble breathing at all?",
+    "patient_turn": "No, not at all. I haven’t had any cough, sputum, or trouble breathing. It’s really just the sore throat, nausea, and that mild headache. I’m kinda relieved it’s not anything worse, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical or surgical history. I’ve been pretty healthy up until now, honestly. No allergies or anything like that either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you share a bit about your family and living situation?",
+    "patient_turn": "Yeah, I live with my parents and my younger brother. I go to school part-time and do some online learning too. Um, I haven’t had any known sick contacts or traveled recently, so I’m not really sure how I ended up feeling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies or take any medications regularly?",
+    "patient_turn": "No, I don’t have any allergies, and I’m not on any regular medications. I’ve never really needed any, you know? I’m just, um, feeling a bit worried about this sore throat and everything.",
+    "annotation": "Correct"
+  }
+]

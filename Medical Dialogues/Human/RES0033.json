@@ -1,0 +1,212 @@
+[
+  {
+    "doctor_turn": "OK, um, when did this, what can you tell me a little bit more about the cough itself? Any any sputum?",
+    "patient_turn": "So yeah, it it does have some like dark yellow greenish mucus material every time I cough. That's not doesn't always happen, but it's been worse like that keeps happening over the last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any blood in the sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much have you been bringing up would you say?",
+    "patient_turn": "I would say every time I bring it up it's around like one teaspoon, usually one teaspoon in the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did this cough start?",
+    "patient_turn": "Um, so I think it started around like I would say six months ago and it's kind of just coming it just keeps coming and going here and there, but it's recently just starting to get very irritating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um any triggers or uh precipitating events for for the cough?",
+    "patient_turn": "So like six months ago I remember I was in just in Phys.Ed and we were just doing some laps and that's when I just really started coughing. And yeah, nothing else was really going on. I just feel like when I started running sometimes I start to cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and has the cough been getting worse or staying the same, getting better?",
+    "patient_turn": "I think it was pretty it was pretty much the same over the last few months, but then over the last week I would say just got really bad and over the last few days it's just been getting worse and worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so it's been the cough has been happening on and off up until four days ago, it sounds like. Uh, is the cough happening daily now?",
+    "patient_turn": "Oh yeah, I would say like I'm coughing especially the last few days coughing several times a day. Um, it's pretty random, but like I would say throughout the day, I'm coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anything you've tried to make the offer better?",
+    "patient_turn": "Um, I mean, really, I, I didn't really know what to try, um, so no, I haven't tried anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and anything you've noticed that that so I guess, yeah, anything you notice that makes it worse?",
+    "patient_turn": "So yeah, just like when I'm doing more activities, especially running, I find, uh I just get like these coughing fits and it just gets worse when I'm running. Yeah, it's pretty annoying because even sometimes when I'm just in class I just start coughing randomly, but I would say it's the worst when I'm doing activities.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so exercising brings out the cough? Any other symptoms you've been experiencing besides the cough?",
+    "patient_turn": "Uh the only thing that sometimes, uh, like I panic sometimes when uh when I have like a really bad coughing fit especially in gym class. It almost feels like I can't breathe and that's when I get really scared.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, have you been having any nausea or vomiting?",
+    "patient_turn": "Oh no, no nausea or vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about any headaches?",
+    "patient_turn": "No, no headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you had a fever?",
+    "patient_turn": "Uh I think I felt like a little bit warmer in the past few days, but I didn't I didn't really check.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chills?",
+    "patient_turn": "I don't think so, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you traveled anywhere recently?",
+    "patient_turn": "Uh no, I've been I'm I've been home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any racing of your heart?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any symptoms of fatigue?",
+    "patient_turn": "Uh no I, I think my energy levels are fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, do you have any chest pain?",
+    "patient_turn": "Um, sometimes when I cough, like when it's really bad, I sometimes feel like I get some pain in my chest when I'm coughing, but that's only been the case for the last few few days, I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um any urinary problems?",
+    "patient_turn": "No, I've been peeing alright, no issues there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any bowel problems?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any issues with your appetite?",
+    "patient_turn": "No, I think I've been eating the same amount.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes to your weight?",
+    "patient_turn": "Uh no, still the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and any problems with, uh, sorry, uh, any recent infections?",
+    "patient_turn": "Like I feel like I might have a cold but I think I maybe a week ago I had like a little bit of a runny nose, so I don't know, I might have a cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, and these symptoms, cold symptoms, you've been feeling for the last few days?",
+    "patient_turn": "Yeah, it's almost up to a week now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any problems with sleep?",
+    "patient_turn": "I feel like sometimes just in the past few weeks, like I started coughing at night and woke myself up, so sleep has been a little bit disturbed over the past few weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, any exposures to tuberculosis?",
+    "patient_turn": "Oh no, no, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any exposures to inhalants like smoke or or dust or fumes?",
+    "patient_turn": "Uh no I don't have any pets like there's no like moss or anything in my home. No fumes, dust, yeah, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and have you been diagnosed with any or treated with or any medical conditions in the past?",
+    "patient_turn": "Just just like with the skin I I have eczema but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you allergic to any medications?",
+    "patient_turn": "Uh, so, I for my eczema like I do have like a hydrocortisone cream that I apply. But yeah, I don't think I'm allergic to any medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um do you have allergies?",
+    "patient_turn": "I I do have allergies like sometimes around like animals. Like if I go to the farm or if I'm like at a zoo and just petting animals, I get my eczema gets really bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any hospitalizations?",
+    "patient_turn": "No, no, no, never been hospitalized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anybody you've been around who's sick?",
+    "patient_turn": "No, I've been I've been pretty much been at home, so no one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any surgeries?",
+    "patient_turn": "No surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of asthma or or eczema?",
+    "patient_turn": "I don't know bout asthma. My mom does also have like similar like eczema to me. But yeah, nothing, nothing else that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and what are you doing right now for work?",
+    "patient_turn": "So currently like I'm not working. I'm a student just doing some online studying. I'm actually going to college to learn about how to make video games, but yeah, it's all just been at home right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um, where are you from? Like are you living at home right now or are you away for school?",
+    "patient_turn": "Yeah, so I mean right now it's all online so I'm living at home with my mom.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and do you drink alcohol?",
+    "patient_turn": "Uh not often like just when I'm at like parties and like when I was at school, just maybe sometimes on the weekends, but nothing regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, and have you tried any other drugs besides marijuana?",
+    "patient_turn": "Um, just just marijuana I I try sometimes at parties but nothing like regular. Uh other than that, like just sometimes I've been offered like some pills at parties, but other than that, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So it sounds occasional.",
+    "patient_turn": "OK, nothing like it, I'm not addicted or anything to any drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you smoke cigarettes?",
+    "patient_turn": "I don't smoke cigarettes, but I do have marijuana once or twice in a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and and uh, can you tell me a little bit about your diet and exercise?",
+    "patient_turn": "I feel like I'm fairly active even though like I cough when I'm exercising, I still play soccer with my friends and on a team. Other than that, I like to go biking. Um, yeah, I feel like I'm still pretty active, but it is getting more difficult with my cough. Other than that, my diet has been pretty pretty good like at home. Especially, I'm getting three meals a day and having a balanced diet. So yeah, I feel I'm doing well there.",
+    "annotation": "Too much information"
+  }
+]

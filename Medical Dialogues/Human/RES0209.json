@@ -1,0 +1,222 @@
+[
+  {
+    "doctor_turn": "So what brings you in?",
+    "patient_turn": "OK, I'm so I have been coughing a lot over the past week or so. And it's been pretty dry, but I've been coughing like almost nonstop throughout the day, and I'm feeling very short of breath, and my bronchodilator helps, but I found I'm using it a lot now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you known that you have asthma for?",
+    "patient_turn": "I was diagnosed when I was eight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're 10 now.",
+    "patient_turn": "That's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you're using your bronchodilator more. This is the one that you use, kind of as needed?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and then do you have one that you take every day no matter what?",
+    "patient_turn": "Uhm? No, I don't have that one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. You just have the one that you take as needed. Do you take any other medications?",
+    "patient_turn": "Uh no I don't take anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just the one is it a it's a puffer?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you're using it more than normal, so how often were you normally using it?",
+    "patient_turn": "Um I was only using it like I don't know. Maybe once every two weeks or so. Not very often. But now I'm using it like almost everyday like five six times a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any are you? Does it usually turn out that you need it like during certain times like say when you're exercising or when it's cold?",
+    "patient_turn": "Um I find I use it more, both like when it when it's right after I like, run around after gym during recess. Um and yeah, the cold also makes it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any other triggers that you can think of?",
+    "patient_turn": "No, no other triggers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Normally get more in certain seasons?",
+    "patient_turn": "I. I guess no, no big changes there. I find the cold air makes it worse like winter makes it worse or like. Yeah, maybe also the spring spring with like pollen and stuff like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you have allergies too?",
+    "patient_turn": "I think, so I haven't ever been like formally diagnosed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see I see. Yeah, that would make sense. No. OK, uh, so you say you've had more coughing lately, is that right? You said the last two weeks. Or the last week.",
+    "patient_turn": "Last two weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Last two weeks. Is your cough a dry cough?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been bringing up gunk? OK, dry cough? Have you noticed any wheezing?",
+    "patient_turn": "Oh yeah, I've been wheezing a lot, actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh and that's uh. Do you use your bronchodilator every time that you're wheezing?",
+    "patient_turn": "When it gets really bad, like when I get so easy that I find it hard to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're getting wheezy even more times than then you're having to use your bronchodilator.",
+    "patient_turn": "Yes, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you having any symptoms at night time?",
+    "patient_turn": "Yeah, how they don't happen as much as my daytime symptoms, but I been having it maybe like every other day or like you know, every two days or so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And when you have these so when you have these episodes, you're copping your wheezy. Do you feel like you're having a hard time breathing?",
+    "patient_turn": "Yep, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel it gets tight in your chest?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, have you had any any colds lately? Or any infections?",
+    "patient_turn": "Um no, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "K, does anyone that lives with you or anyone that you're around often, has anyone been sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Could you have been in contact with anyone that sick even outside of your house?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you traveled anywhere?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you lost any of your sense of taste or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fevers?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any any? Nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any belly pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "We just ask those questions because sometimes these things can happen with an infection or after an infection and we just want to make sure that that's not, you know what's happening right now. We probably will do a covid swab just because of the times that we're living in right now, but I just want to ask you a few more questions before I go talk to the doctor. So do you have besides your asthma, do you have any health problems?",
+    "patient_turn": "Oh no, no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you said, besides the bronchodilator, you're not taking any medications.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you think you might have allergies in the spring? Do you have allergies to anything else that you know?",
+    "patient_turn": "Uh no, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does anyone else in your family have asthma?",
+    "patient_turn": "I think my sister has asthma too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Anyone in your family have any other breathing problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Anyone else in the family have any allergies?",
+    "patient_turn": "Uh no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, sounds good and you live at home did you say live with your parents and your sister?",
+    "patient_turn": "Yep, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Cool. Are you currently going to school online or in person?",
+    "patient_turn": "Uh both We do half days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How are you finding that?",
+    "patient_turn": "Yeah, it's been OK. It's it's different, but it's been working out OK so far.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Cool not to have to get out of your PJS some days.",
+    "patient_turn": "Yes, that's true.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did do you guys have any pets in the home?",
+    "patient_turn": "No pets, we have just like well I guess we have goldfish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, OK. Those are cool pets. Does anyone in the house smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, I think that's all my questions that I had for you today. What do you like to do for fun?",
+    "patient_turn": "Oh I'm I like playing games online with my friends and and before covid we used to get together and have movie nights and play sports together.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It sounds really cool. Hopefully, we can get this figured out for you so you don't have any, you don't have to use your medications every time you play sports 'cause that's no fun. And",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You should be able to enjoy that. So, so we're going to try to get this sorted out for you. I'm gonna go talk to the doctor and tell him everything or her everything that you said and yeah we’ll come back and see you shortly, hopefully maybe all you need is a little change to your medications and maybe it will be better be able to better control your asthma.",
+    "patient_turn": "Yeah, that sounds great. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Thanks for talking with me and we'll see you soon.",
+    "patient_turn": "OK, great thanks.",
+    "annotation": "Correct"
+  }
+]

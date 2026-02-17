@@ -1,0 +1,247 @@
+[
+  {
+    "doctor_turn": "What took, brought you in today?",
+    "patient_turn": "Yeah, I'm just feeling, so, I do have COPD, but I just feel so much worse. I do have shortness of breath, but I think it's just been worse over the past three days. I'm having more difficulty climbing stairs, or even just going to the bathroom.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you said this started?",
+    "patient_turn": "Three days ago, three or four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And since that time has the shortness of breath been getting worse or staying the same?",
+    "patient_turn": "Yeah, so initially it was just, it was just climbing stairs, you know, but then after that, I mean, this morning, I was just short of breath going to the bathroom.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had, uh, shortness of breath on exertion like this before?",
+    "patient_turn": "Uhm, you know, sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "I don't, do much anyway, because my CPD, you know, just makes things a little bit difficult, uh, yeah, I use my puffers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any, uh, episodes where you've woken up in the middle of the night and were really short of breath, you had to, uh, sit up?",
+    "patient_turn": "No, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you able to lie flat?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned you were bringing up sputum. Could you describe the color?",
+    "patient_turn": "Yeah, I don't know it's kinda yellow, uh, green.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has that changed from before?",
+    "patient_turn": "Yeah, yeah, so usually it's just sort of whiteish and foamy, and uh, yeah it's different. And it's more, you know, it's alot more, every time I'm coughing it's just like, spoonfuls, it's a lot more than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, it sounds like a lot more and have you noticed any blood?",
+    "patient_turn": "No, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, so have you had a cough then?",
+    "patient_turn": "Oh yeah, I've had a cough for the past 20 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is your cough worse at any particular time of the day, Or does it happen throughout the day?",
+    "patient_turn": "Well, it's a bit worse when I'm smoking, but otherwise it's the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has your cough been worse these past couple of days as well?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any ear pain or eye pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a loss of smell or a loss of taste?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any wheezing?",
+    "patient_turn": "A little bit. It's been there for a while though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any changes to the wheeze?",
+    "patient_turn": "No, I don't think so. I don't know. I can't tell.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "I see, OK, and have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any lightheadedness or dizziness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any heart palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any abdominal pain, nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any bowel problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any changes to your skin or any rashes?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any fevers or chills?",
+    "patient_turn": "I think I was feeling very chilly last night. My wife had to bring an extra blanket for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any night sweats?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, have you checked your temperature?",
+    "patient_turn": "No, I didn't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, we'll certainly check that today. And have you had any weight loss in the last several months?",
+    "patient_turn": "I don't check my weight very often, but no, uh, yeah, my clothes still fit, they're all, they're fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, fair enough and, uh, have you noticed any, like, leg swelling or any swelling in your belly?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in regards to your past health, you mentioned COPD, but have you been diagnosed with any other medical conditions?",
+    "patient_turn": "Yeah I have high blood pressure, and my cholesterol is also a little bit on the high side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK and you use puffers. Do you use any other medications?",
+    "patient_turn": "Yeah, I think my doc prescribed some pills, I don't know, I don't remember what they are, I just take them every day.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, we can get that information. Have you had any hospitalizations?",
+    "patient_turn": "Uhm, I've been to the ER a couple of times and this one time, it was similar to this time, when I was having difficulties breathing and had to stay for about five days or so. I think that was two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how are your symptoms feeling now when compared to, uh, that time?",
+    "patient_turn": "I wasn't producing this green yellow thing that's coming out of my mouth right now. It was not that bad. It's just last time I was having difficulties breathing, so I decided to come in. But this time I just have this weird thing, I don't even feel like looking at it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, for sure it sounds like there's something certainly going on here and Yeah, have you had any past surgeries?",
+    "patient_turn": "I had, uh, I had a knee replacement.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, uh, can you tell me a little bit about your living situation, like who do you live with and whereabouts?",
+    "patient_turn": "Yeah, I live with my wife about ten minutes away from here. We live in an apartment, uh, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you working, are you retired?",
+    "patient_turn": "I retired two years ago. I used to work at Chrysler, as a mechanic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been around anybody who might be sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, how about, have you traveled anywhere?",
+    "patient_turn": "No, I've just been staying indoors. My wife's been staying with me. We're both pretty careful, we're worried about catching covid so we don't even go out for groceries, we just have those delivery guys come and bring us our groceries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you smoke cigarettes, you mentioned, how much do you smoke per day?",
+    "patient_turn": "I smoke about a pack a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you smoked for?",
+    "patient_turn": "Let's see, about forty-five years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you thought about quitting?",
+    "patient_turn": "Yeah, yeah, multiple doctors have told me to quit and it's just, I don't think I can quit. It's not gonna happen. I can't live without my cigarettes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, the door is always open and certainly something we can talk about at anytime, uh, if you'd like to, but, uh, in the meantime, we'll leave it alone for now. I was wondering if you drink alcohol?",
+    "patient_turn": "I drink a glass or two every weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do use any other recreational drugs like marijuana, cocaine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, any family history of heart or lung conditions?",
+    "patient_turn": "Uhm, high blood pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has anybody in the family had lung cancer?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and, so you've been experiencing worsening sputum production that now has a green color to it, and now having a bit more, more short of breath, which sounds like COPD exacerbation, especially since it's a similar type of presentation as before. And so we'll order a chest X-ray, some blood gases and do a sputum culture and possibly start antibiotics, but, depending on the severity we may not not need to just yet. And then we'll also use some inhalers as well as inhaled steroid to help with the inflammation in the airways.",
+    "patient_turn": "Sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, we'll get that started.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  }
+]

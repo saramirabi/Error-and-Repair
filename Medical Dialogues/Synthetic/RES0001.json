@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this sharp chest pain for about eight days now, and it gets worse when I breathe deeply or, you know, when I exert myself. I also have this shortness of breath that happens even with just a little walking, and it’s kinda worrying me…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in the center of my chest, but sometimes it feels like it radiates a bit, you know? I’m not totally sure if it goes anywhere specific, but it’s definitely in that area. It’s just really sharp and, um, concerning…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "It’s definitely sharp, like, um, really intense at times. I wouldn’t say it feels like pressure, more like a stabbing sensation, you know? It’s just really hard to deal with, especially when I’m trying to do anything…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, it gets worse with deep breaths and, um, when I’m active, like walking even just a little bit. But it does get better when I rest, and it’s actually not there at all when I’m lying down, which is, um, a bit of a relief, honestly…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain, and has it changed since it started?",
+    "patient_turn": "Uh, I think the chest pain started maybe about eight days ago or so, and it’s been pretty sharp. Oh, and I remember that I went to a concert last month and the music was really loud, which was kind of fun. But, you know, I also had that hysterectomy recently, and I’ve been trying to take it easy since then, so maybe it's all related?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain, and how has it changed since then?",
+    "patient_turn": "I first noticed the chest pain about eight days ago, and, um, it’s been pretty consistent since then. It hasn’t really changed much in terms of intensity, but it’s just really sharp and, you know, it’s been hard to deal with, especially since I’m still recovering from my surgery. I’m kinda worried about it…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long does the pain usually last when it occurs?",
+    "patient_turn": "The pain usually lasts about 15 to 20 minutes when it happens. It’s just, um, really intense during that time, and then it kind of goes away when I rest, which is a bit of a relief, but still, it’s really worrying…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "On a scale of 1 to 10, how severe is your shortness of breath with activity?",
+    "patient_turn": "Um, I’d say it’s about a 7 or 8 out of 10 when I’m active. It’s really hard to catch my breath, even with just a little walking, and it’s honestly pretty scary. I’m just not used to feeling this way…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel your heart racing or pounding when you’re active?",
+    "patient_turn": "Yeah, I do feel my heart racing or, um, pounding when I’m active. It’s really noticeable, especially when I’m trying to do something simple like walking. It just adds to the whole, you know, anxious feeling I have about everything…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any soreness or swelling in your left leg?",
+    "patient_turn": "Um, yeah, I have noticed some soreness and swelling in my left leg. There’s no redness or anything, but it’s definitely, you know, concerning. I’m not really sure what’s causing it, and it just adds to my worries about everything going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or unexpected weight loss lately?",
+    "patient_turn": "No, I haven’t had any fever or chills, and I haven’t noticed any unexpected weight loss either. It’s just been the chest pain, shortness of breath, and, um, the leg soreness that’s really been bothering me. I’m kinda worried about what it all means…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced similar chest pain or shortness of breath before?",
+    "patient_turn": "No, I haven’t had similar chest pain or shortness of breath before. This is all pretty new to me, and, um, it’s really unsettling, especially since I’ve been trying to recover from my surgery. I just don’t know what’s going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was the last time you had any imaging or pulmonary function tests done?",
+    "patient_turn": "Um, I haven’t had any recent imaging or pulmonary function tests done. The last thing was my hysterectomy a few weeks ago, but, you know, nothing for my chest or breathing issues. I’m just really anxious about what might be happening…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my mom had a myocardial infarction at age 56, so there’s definitely some history of heart disease in my family. I’m kinda worried that, you know, this might be related to that, especially with everything I’m experiencing right now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke each day, and how often do you drink alcohol?",
+    "patient_turn": "I smoke about half a pack a day, but I’ve been trying to cut back, you know? As for alcohol, I drink occasionally, mostly just on the weekends, like a glass of wine or something. I’m not sure if that’s relevant, but I guess it’s part of my lifestyle…",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, Dr. Lee. I’ve been having this chronic cough for just over two months now. It’s really persistent, and I’m kinda worried because it’s been disrupting my sleep and, um, I’ve noticed some yellow-green sputum and even a bit of pink-tinged sputum lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, it’s been pretty consistent, honestly. I cough several times an hour, and it’s, like, persistent throughout the day and night. I mean, it’s slightly worse when I’m active, and, uh, it’s just really frustrating because it keeps me up at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough most?",
+    "patient_turn": "Uh, I don’t really feel it in a specific place, you know? It’s just this constant cough that, um, feels like it’s coming from my chest. It’s not like I have any pain or anything, but it’s just really annoying and, um, makes me feel uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was maybe around two months ago? Or possibly a little longer, but I’m not really sure exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it dry, or do you produce mucus?",
+    "patient_turn": "Oh, it’s mostly dry, I think. But sometimes I guess it produces mucus, but really I don’t have a cough at all, actually.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it started about three to four months ago, around the time I traveled to India. I was in a crowded environment, and, um, I might have been exposed to some sick relatives there. So, yeah, that’s when it all began.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fevers or night sweats recently?",
+    "patient_turn": "Yeah, I’ve had some intermittent fevers and, um, night sweats too. It’s been really uncomfortable, and I’m not sure what’s going on. I mean, it just adds to the whole situation with the cough, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss or a decrease in your appetite recently?",
+    "patient_turn": "Um, yeah, I’ve noticed some mild unintentional weight loss and, uh, my appetite has decreased a bit. I’m not really eating as much as I used to, and it’s, like, concerning me, you know? I just feel off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any shortness of breath or chest pain lately?",
+    "patient_turn": "No, I haven’t had any shortness of breath or chest pain, thankfully. It’s just the cough and, um, the other symptoms like the fevers and night sweats that are bothering me. But, yeah, no pain or breathing issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or swelling in your legs or feet?",
+    "patient_turn": "Um, no, I haven’t noticed any wheezing or swelling in my legs or feet. It’s mostly just the cough and, uh, the other symptoms like the fevers and night sweats. I’m really just focused on getting to the bottom of this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or dizziness recently?",
+    "patient_turn": "Uh, no, I haven’t had any headaches or dizziness. It’s really just the cough and the other symptoms like the fevers and night sweats that are, um, bothering me. I’m just feeling really worn out from it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fainting episodes recently?",
+    "patient_turn": "No, I haven’t experienced any fainting episodes. It’s just the cough and, um, the other symptoms like the fevers and night sweats that are really concerning me. I’m just feeling really tired and, uh, a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "Um, I’m on several medications for my hypertension, type 2 diabetes, and hypercholesterolemia. I take, uh, rosuvastatin, among others. I’m not totally sure of all their names, but, yeah, those are the main ones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or substances?",
+    "patient_turn": "Yeah, I have a penicillin allergy. I had a rash when I was a kid, so I avoid that. Other than that, um, I don’t think I have any other allergies that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t had any hospitalizations or surgeries in the past. I mean, I’ve been managing my conditions with medications, but, um, nothing major like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my mother had a myocardial infarction at age 48. That’s, um, pretty significant in my family history, but I don’t know of any other heart issues or, um, pulmonary diseases in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how much do you smoke daily?",
+    "patient_turn": "I’ve been smoking for about 30 years, um, roughly half a pack a day. I’ve been trying to reduce it recently, but it’s been tough, you know? I’m really worried about how it might be affecting my health with all these other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you made any recent attempts to quit smoking?",
+    "patient_turn": "Yeah, I’ve been trying to reduce my smoking lately, but, um, it’s been really challenging. I guess I’m just feeling a bit overwhelmed with everything going on, and I know I need to quit for my health, especially with this cough and other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use any recreational drugs. I’ve just been focused on managing my health and, um, dealing with this cough and other symptoms. So, yeah, nothing like that for me.",
+    "annotation": "Correct"
+  }
+]

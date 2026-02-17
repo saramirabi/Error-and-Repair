@@ -1,0 +1,172 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about a week and a half now. It’s, like, intermittent and lasts just a few seconds each time. I’m kinda worried because it’s been persistent, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it started about a week and a half ago, um, right after I had some mild flu-like symptoms, like a sore throat and runny nose, but those went away after a couple of days. The cough just kinda stuck around, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "Um, well, I think it started about a week and a half ago, maybe a little longer. You know, I was actually watching a movie when I first noticed it, and I remember thinking it was just a little tickle in my throat. It’s kind of funny because I had a bit of a sore throat back then, but that went away pretty quickly, and now the cough is just, uh, here and there, not too often, but definitely still there. Oh, and during that time, I also made some popcorn, which was really good, but I think it might have made me cough more!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough coming from?",
+    "patient_turn": "Um, it feels like it’s coming from my throat, you know? Like, it’s more of a tickle or irritation rather than, um, anything in my chest. I don’t really feel any pain or anything like that, just this annoying cough that keeps popping up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens?",
+    "patient_turn": "Honestly, it feels kinda like a tickle or, um, irritation in my throat, you know? It’s not painful, just, like, annoying and makes me want to clear my throat. It usually lasts just a few seconds, but it can be, um, pretty bothersome sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "A…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "Um, no, it hasn’t really changed much. It’s been pretty stable, you know? Still intermittent and just lasts a few seconds each time, so I guess that’s a bit of a relief.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough in your chest or throat?",
+    "patient_turn": "Uh, it feels like it’s mostly in my throat, you know? I don’t really feel anything in my chest, just that tickling sensation that makes me cough. It’s not painful or anything, just annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it dry, or do you feel any irritation?",
+    "patient_turn": "Um, it’s definitely dry, and I feel that tickling irritation in my throat when it happens. It’s not painful, just, like, really annoying and makes me want to cough. I guess it’s just this persistent urge that keeps coming back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was like a week and a half ago or something? I'm not totally sure, but it seems like it’s been a little while now.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "Um, no, it hasn’t really changed much. It’s been pretty stable, you know? Still intermittent and lasts just a few seconds each time, which is, um, a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did your cough ever produce any sputum, and if so, what did it look like?",
+    "patient_turn": "Yeah, at first it did produce some sputum, but it was just watery and, um, there was no blood or anything like that. But now, I don’t have any sputum production at all, it’s just dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does smoking make your cough feel worse when you smoke?",
+    "patient_turn": "Um, yeah, it definitely seems to make it worse when I smoke. I’ve noticed that I cough more after having a cigarette, which is, like, kinda frustrating since I’m trying to quit. It’s just, you know, an annoying cycle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any shortness of breath along with your cough?",
+    "patient_turn": "Uh, no, I haven’t had any shortness of breath at all. It’s just the cough, really. I’m kinda relieved about that, to be honest, since I’ve heard that can be a sign of something more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain at all during this time?",
+    "patient_turn": "No, I haven’t felt any chest pain. It’s just the cough and, um, some irritation in my throat, but no pain or anything like that, which is good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats during this time?",
+    "patient_turn": "No, I haven’t had any night sweats or anything like that. It’s just been the cough, really, and I’m glad there’s nothing else going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt unusually tired or fatigued lately?",
+    "patient_turn": "Um, no, I haven’t really felt unusually tired or fatigued. I mean, I’ve been a bit anxious about the cough, but overall, I feel okay. Just, you know, hoping it goes away soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches recently?",
+    "patient_turn": "Uh, no, I haven’t had any headaches or anything like that. It’s just the cough that’s been bothering me, really. So, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting recently?",
+    "patient_turn": "No, I haven’t felt nauseous or had any vomiting. It’s just been the cough, you know? So, um, that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of taste or smell recently?",
+    "patient_turn": "Um, I did have some transient anosmia early on, like, when the flu-like symptoms were happening, but that went away pretty quickly. Now, I haven’t noticed any changes in my taste or smell, so that’s good, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been working from home and, um, staying around the apartment. So, yeah, no recent travel at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust, fumes, or strong odors lately?",
+    "patient_turn": "Uh, no, I haven’t been around any dust, fumes, or strong odors. I’ve just been at home, you know? So, um, I don’t think that’s been a factor for my cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel or urinary habits recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my bowel or urinary habits. Everything seems normal in that regard, so, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share when your appendectomy was and if you had any complications afterward?",
+    "patient_turn": "Yeah, I had my appendectomy about five years ago, and, um, there were no complications afterward. Everything went pretty smoothly, so I guess that’s good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to any medications besides penicillin?",
+    "patient_turn": "Uh, no, I’m only allergic to penicillin. I had a rash when I was a kid, but, um, that’s it. I don’t have any other medication allergies that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any regular medications or supplements?",
+    "patient_turn": "No, I’m not taking any regular medications or supplements. I, um, don’t have any chronic medical conditions, so I haven’t needed anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any ongoing health issues or chronic medical conditions?",
+    "patient_turn": "No, I don’t have any ongoing health issues or chronic medical conditions. I’ve been pretty healthy overall, just, you know, dealing with this cough right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of diseases, like heart disease or respiratory issues?",
+    "patient_turn": "Um, well, there is a family history of colon cancer in my father and grandfather, but, uh, no significant history of heart disease or respiratory issues that I know of. So, I guess that’s something, at least.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke in a week?",
+    "patient_turn": "I smoke about 3 to 4 cigarettes a week now, which is, um, down from half a pack daily over the past 30 years. I’m really trying to quit, you know, without any pharmacologic aids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently trying to quit smoking?",
+    "patient_turn": "Yeah, I am trying to quit smoking. I’ve cut down a lot, um, from half a pack daily to just 3 to 4 cigarettes a week, but it’s still, like, a struggle, you know? I’m hoping to quit completely soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I just, um, drink alcohol socially on weekends, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on weekends?",
+    "patient_turn": "Um, I usually drink socially on weekends, but it’s not, like, a lot. I guess it depends on what’s going on, but I try to keep it moderate, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling worried about COVID-19 or any symptoms related to it?",
+    "patient_turn": "Yeah, I am kinda worried about COVID-19, especially with this cough. That’s why I got a COVID swab test, you know? I just want to make sure I’m being safe and following the precautions while I wait for the results.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test recently?",
+    "patient_turn": "Yeah, I just had a COVID swab test done recently because of my cough. I’m, um, waiting for the results now, and I’m just trying to be cautious in the meantime.",
+    "annotation": "Correct"
+  }
+]

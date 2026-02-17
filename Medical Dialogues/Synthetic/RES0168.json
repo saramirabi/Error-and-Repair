@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having sinus symptoms for a few weeks now. I've got green nasal discharge, congestion, facial pressure, and a headache. It's been pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms?",
+    "patient_turn": "I first noticed the symptoms about three weeks ago. They’ve been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain or pressure is located?",
+    "patient_turn": "The pain and pressure are mainly in the front of my face, around my forehead and cheeks. It really feels like it’s all congested up there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your teeth or jaw?",
+    "patient_turn": "No, it hasn’t spread to my teeth or jaw. It’s mostly just that pressure in my forehead and cheeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this pain or pressure in your face?",
+    "patient_turn": "I started noticing the facial pressure around the same time as the other symptoms, about three weeks ago. It’s been pretty consistent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain or pressure feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, it’s kind of a dull pressure, I guess? It started a few weeks ago, I think, and I’ve also been dealing with this weird nasal stuff. Oh, and I remember my dog was really sick last month, which was super stressful, but I’m not sure if that’s related. Sometimes, I feel like it might get worse if I’m lying down, but I’m not totally sure. And I’ve been using saline rinses, but they don’t seem to help much.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Does the facial pain ever spread to your teeth or jaw?",
+    "patient_turn": "No, the facial pain doesn’t spread to my teeth or jaw. It’s just localized to my forehead and cheeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. I’ve been working from home, so I’ve mostly been around my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any environmental issues in your new home, like mold or strong odors?",
+    "patient_turn": "No, I haven't noticed any environmental issues in my new home. There haven't been any strong odors or signs of mold that I've seen. It seems pretty normal to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease that I know of. My family has generally been pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use recreational cannabis oil capsules?",
+    "patient_turn": "I use recreational cannabis oil capsules about once a month, mostly for relaxation and to help with my knee pain.",
+    "annotation": "Correct"
+  }
+]

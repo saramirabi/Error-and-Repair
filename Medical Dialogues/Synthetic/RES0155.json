@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but I’ve been having some, uh, worsening shortness of breath for about five days now. It’s, like, really hard to catch my breath, especially when I’m doing anything, you know? And I’ve got this chest discomfort that feels more like congestion than pain… it’s just been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and chest discomfort?",
+    "patient_turn": "I think it started about five days ago… um, it just kind of got worse over time. At first, I thought it was just, you know, something minor, but then the shortness of breath really kicked in, and the chest discomfort hasn’t gone away. It’s been pretty constant, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the discomfort is in your chest? Does it spread anywhere else?",
+    "patient_turn": "Um, it's kind of in the center, I think? But it also feels like there's this tightness, and sometimes it feels like it might spread to my back, or maybe it’s just the way I'm sitting. Oh, and I remember last week I was lifting some heavy boxes at work, which probably didn’t help, but also my daughter had a friend over and they were really loud, which was distracting.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the discomfort? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s, um, more like a dull discomfort, I guess? It’s not sharp or anything, but it’s just this constant feeling of congestion, like there’s pressure in my chest. It’s really uncomfortable, and it’s hard to ignore, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the discomfort better or worse?",
+    "patient_turn": "Well, um, it definitely gets worse with any kind of exertion, like when I’m moving around at work or even just, you know, walking a bit. But when I’m resting, it’s not as bad, which is a relief, honestly. I’ve been using my Ventolin inhaler more than usual, like three to four puffs just this morning and last night, but I’m not sure it’s helping as much as I’d like.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the discomfort, like shortness of breath or dizziness?",
+    "patient_turn": "Yeah, um, the shortness of breath is really the main thing, and it’s been pretty bad. I’ve also had this productive cough with yellow-green sputum, which is kinda gross, but I haven’t had any blood in it, so that’s something, I guess. I’ve felt a bit feverish the last couple of days too, but I haven’t measured a fever or anything, so I’m not totally sure what’s going on. No dizziness or anything like that, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make the discomfort worse for you?",
+    "patient_turn": "Well, I think when I’m walking around, it gets worse, especially if I’m carrying something heavy, like groceries. Oh, and I also noticed that when I’m trying to talk a lot, it feels tighter in my chest. Last week, I had to help my neighbor move some furniture, and that was really tiring. Plus, sometimes the weather changes make me feel off, like when it gets really humid or cold, but I can’t pinpoint it exactly.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the discomfort? Is it sharp, dull, or something else?",
+    "patient_turn": "It's... Um...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any lung conditions, like COPD or asthma, in the past?",
+    "patient_turn": "Yeah, I’ve been diagnosed with COPD for about three years now. I also have hypertension and GERD. It’s been a bit of a struggle, to be honest, and I’ve had multiple chest infections in the past that required antibiotics. I’m just really worried this might be another infection or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with high blood pressure or gastroesophageal reflux disease (GERD)?",
+    "patient_turn": "Yes, I have been diagnosed with high blood pressure and GERD. I’ve been managing them with medication, but, um, I guess I’m just really focused on this chest discomfort and shortness of breath right now. It’s been tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick around me. I mean, I live with my daughter, and she seems fine, so I’m not really sure what’s causing all this. It’s just been really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your weight recently?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my weight recently. My appetite has been pretty much the same, but I guess with all this discomfort, I’m just not feeling great overall. It’s been hard to focus on anything else, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sleep or appetite lately?",
+    "patient_turn": "Not really, um, my sleep has been okay, I guess, but I’m just feeling more anxious with all this discomfort. My appetite is pretty much the same, but I’m just not as interested in eating as I usually am. It’s just hard to think about food when I’m feeling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach issues or changes in your bathroom habits recently?",
+    "patient_turn": "No, I haven’t had any stomach issues or changes in my bathroom habits. It’s mostly just this chest discomfort and shortness of breath that’s been bothering me. I’m really hoping to get some answers soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’ve been on my current medications for a while now, and, um, I haven’t had any issues with them. It’s just this whole situation that’s really got me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized in the past?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized before. I mean, I’ve had those chest infections that needed antibiotics, but nothing that required a hospital stay. I’m just really hoping this isn’t something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease in your relatives?",
+    "patient_turn": "No, there’s no family history of lung or heart disease or cancer that I know of. It’s just me dealing with these issues, and, um, I’m kinda worried about what this all means for my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke each day, and how often do you drink alcohol?",
+    "patient_turn": "I smoke about a pack of cigarettes a day, which I know isn’t great. I’ve been smoking for, like, 30 to 40 years, but I’ve tried to cut back a bit recently. As for alcohol, I drink occasionally, mostly just wine on the weekends. I’m really trying to be more mindful of my health, especially with everything going on right now.",
+    "annotation": "Correct"
+  }
+]

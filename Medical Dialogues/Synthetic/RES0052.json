@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my daughter has had this harsh cough and, uh, some nasal congestion for the past couple of days. And now she’s also got this pink eye thing going on, but it’s not really, um, producing any discharge or anything. I’m kinda worried about her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and nasal congestion?",
+    "patient_turn": "Oh, um, it started about two days ago. She just, you know, started coughing a lot and then her nose got all stuffy. It’s been, uh, pretty constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Not really, um, it’s still pretty harsh, I guess. There’s no sputum or anything like that, and it doesn’t seem to get worse at any specific time of day. It’s just, you know, there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or congestion in her chest or throat?",
+    "patient_turn": "Well, it seems like it's mostly in her throat, I think? But, you know, she was playing outside a lot last week, and I remember she also had some ice cream that day, which she really loves. It was kind of a hot day, so maybe that contributed too. Oh, and she had some friends over, so they were all running around and laughing, which could have made her a bit tired as well.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it dry, or does it have any wheezing or rattling sounds?",
+    "patient_turn": "Um, it’s pretty dry, I think. I haven’t heard any wheezing or rattling sounds, just that harsh cough. It’s, uh, really concerning to hear her like that, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been able to sleep well at night despite the cough?",
+    "patient_turn": "Uh, not really. I mean, she’s been waking up a bit because of the cough, and it seems to bother her. I can tell she’s, um, kinda tired during the day too, which makes me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any fever or felt unusually hot recently?",
+    "patient_turn": "Well, she hasn’t had a documented fever, but she did feel hot to me, you know? I’m not totally sure if it was an actual fever, but she mentioned feeling a bit off and, um, she hasn’t been eating as much lately either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any changes in her energy levels or been more tired than usual?",
+    "patient_turn": "Yeah, she’s definitely been more tired than usual. I mean, she usually has a lot of energy, but lately, she just seems, um, a bit sluggish and not as playful. It’s, uh, really concerning to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any cough or difficulty breathing?",
+    "patient_turn": "No, um, she hasn’t had any difficulty breathing, thank goodness. It’s just the cough that’s been bothering her, but she’s not wheezing or anything like that, so I guess that’s a relief.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any fever or felt unusually hot?",
+    "patient_turn": "Well, she hasn't really had a fever, but I think she felt a bit hot at times? Like, I noticed she was a bit warm while we were playing outside, and it was a sunny day, which always makes everyone feel a little drained, right? Also, I remember she didn’t eat much dinner the other night because she was just too busy playing with her toys. Oh, and speaking of toys, she just got a new puzzle that she’s been obsessed with lately!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How long has she been coughing?",
+    "patient_turn": "Um, it’s been about two days now since the coughing started. It feels like a long time, honestly, especially since it’s been pretty harsh. I just want her to feel better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does she feel the cough in her chest or throat?",
+    "patient_turn": "I think it’s mostly in her throat, you know? She hasn’t really complained about her chest or anything like that. It’s just, um, the cough seems to be bothering her throat a lot, and I can tell it’s uncomfortable for her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the cough sounds like?",
+    "patient_turn": "Um, I think the cough sounds kind of like a bark? But, you know, she was also playing with her dolls earlier and making all kinds of funny noises, which might have influenced how she sounds now. Also, we had pizza for dinner last night, and she was really excited about that, so she might have been talking a lot during the meal. Sometimes she gets a little carried away when she's excited, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has she said anything about her eye feeling itchy?",
+    "patient_turn": "Yeah, she has mentioned that her eye feels a bit itchy. I noticed she’s been rubbing it a lot, which, um, makes me think it might be bothering her. But there’s no discharge or anything, so I’m not totally sure what’s going on with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she mentioned having a sore throat or any pain when swallowing?",
+    "patient_turn": "Um, she hasn’t really said anything about it hurting when she swallows, but I think she might have mentioned her throat feeling a bit sore. It’s hard to tell sometimes, you know? She’s just been a bit off with her appetite too, so that makes me worry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you and your family traveled anywhere recently?",
+    "patient_turn": "No, we haven’t traveled anywhere recently. Um, we’ve just been at home, and she hasn’t been around any sick kids at daycare or anything like that. It’s just been a regular couple of weeks for us, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been around anyone who was sick recently?",
+    "patient_turn": "No, um, she hasn’t been around anyone who was sick that I know of. I mean, we’ve been pretty careful, and she hasn’t mentioned any friends at daycare being unwell either. It’s just, you know, kind of strange that she’s feeling this way out of the blue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like asthma or allergies?",
+    "patient_turn": "Um, no, there’s no family history of asthma or allergies that I know of. It’s just been, you know, pretty normal for us. No one in the family has had any major health issues, so I’m not really sure why she’s having these symptoms now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any past medical or surgical issues that we should know about?",
+    "patient_turn": "No, she hasn’t had any past medical or surgical issues at all. She’s been pretty healthy, you know? No medications or allergies either, so this is all a bit concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is she currently taking any medications or does she have any known allergies?",
+    "patient_turn": "No, she’s not taking any medications, and, um, she doesn’t have any known allergies either. It’s just, you know, really worrying to see her like this when she’s usually so full of energy.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi, I'm here with my 3-year-old daughter and she's been holding her elbow awkwardly and um she seems like she's in pain and so I was just wondering if like something happened to her elbow and if you can fix it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah for sure. OK so. Is she holding her arm, like any particular position, like with her elbow, kind of flexed or is her arm extended?",
+    "patient_turn": "It's it seems kind of flex is holding it awkwardly and she can't she she's not, she's not stretching it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm. And when did this start, when did you first notice?",
+    "patient_turn": "I notice this yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and I, had she been holding her, her arm, kind of like this the whole time?",
+    "patient_turn": "Yeah, there's just like a slight bend to it. It's not fully straightened. It's not fully like fully flexed. It's just kind of hanging out her side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and. Has there been anything that's made the pain worse?",
+    "patient_turn": "Uhm no, I don't think so, I think. No, I think she she's just been holding it awkwardly like that I I'm assuming so it doesn't cause more pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is the pain sharp, burning or achy?",
+    "patient_turn": "I think it's it's. It's sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A sharp pain, OK and does the pain radiate anywhere else like pain in the hand or wrist, or pain up into the arm or shoulder?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has there been like was there anything that happened around the time that you first noticed her holding her arm like this, such as a fall, or maybe like somebody pulling on on her hand like swinging her from her arm or anything like that?",
+    "patient_turn": "Um I know her father was swinging her arms yesterday, They were playing in the park, so maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so just uh, she's swinging from arms yesterday, OK and. Has she talked about having any numbness or tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any muscle weakness that you've noticed?",
+    "patient_turn": "Ah no, no muscle weakness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fevers or chills.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and it has she had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any sensory changes like any issues with vision or hearing?",
+    "patient_turn": "Uhm no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "any issues with sense of smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How she had a cough or sore throat.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has she had any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has she had any weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you has she had a runny nose or sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about a cough or shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any wheezing or chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "any diarrhea, constipation, or blood in the stool?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to her urinary patterns?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and as you had any appetite loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How is your energy been?",
+    "patient_turn": "It's been the same she's just not doing as much because her arm is in pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but no fatigue?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK. And how about any memory loss or confusion?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any muscle aches or body pains or or any joint pains anywhere else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about skin changes such as rashes or any changes to her hair or nails?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in the past, has she had any medical problems or has she been diagnosed with any medical conditions before?",
+    "patient_turn": "No, she's been pretty healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does she take any medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did she have any allergies?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has she been hospitalized for any reason or has she had any surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any concerns for reaching developmental milestones such as walking, talking and like social interactions.",
+    "patient_turn": "No. No issues there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No problems?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and then how about like just growth and and development? Is she getting taller and I'm gaining weight?",
+    "patient_turn": "Yeah like that's been pretty good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well that's good and were there any concerns with the pregnancy with her? Any like gestational diabetes, high blood pressure or infections?",
+    "patient_turn": "No everything went smoothly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, was she at term or where she pre term?",
+    "patient_turn": "She was at term. She was like a 37 1/2 weeks or something like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And was it vaginal delivery or c-section?",
+    "patient_turn": "It was vaginal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and was there any reason for her to stay in hospital afterwards?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And can you tell me a little bit about the living situation currently like who is the primary caregiver for her and like who she who she's living with then whereabouts?",
+    "patient_turn": "And she's living with both her parents and myself as well as her dad. And she has a 7 year old brother and we live in a house just outside of London.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK and is she going to daycare right now or anything like that?",
+    "patient_turn": "Umm no she's she's at home with me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, she been around anybody who's been sick,",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you traveled anywhere?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, an any concern for like physical or emotional violence in the home?",
+    "patient_turn": "No nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there anybody who smokes in the home?",
+    "patient_turn": "Uhm no, no one smokes at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are there any musculoskeletal or neurological conditions that run in the family?",
+    "patient_turn": "Uhm no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any heart or lung conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so I ask you to just have a look at her elbow now and.",
+    "patient_turn": "Sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Let me know the if you're seeing any swelling or redness?",
+    "patient_turn": "OK. And so the elbows look fine, neither elbow appears red or swollen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. Are you seeing any muscle atrophy or any joint deformity or or malalignment?",
+    "patient_turn": "No, I don't see that. I also actually it might be slightly. It looks a little bit awkward the way she's holding it, so I can't tell if it's misaligned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any skin changes over the elbow?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright Ann. If you were to press over various portions of the elbow, are there any areas that cause pain like the lateral side, medial side, or anterior posterior?",
+    "patient_turn": "It hurts she's in pain whenever I touch anywhere near the elbow area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um is there any pain with with movement?",
+    "patient_turn": "Yes. Whenever I tried to bend it or straighten it out all the way she she complaints of pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about moving the rest or shoulder?",
+    "patient_turn": "No, that's fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so that that was everything that I wanted to ask about and and look for on the physical today. Did you have anything else that perhaps I forgot to mention that might be important?",
+    "patient_turn": "Uhm no that was kind of it, I just was wondering how we can fix her elbow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I yeah certainly so. It will be so when I get an elbow X Ray. And. But typically to fix this type of injury, so currently I'm thinking this could be a like a radial head subluxation, and possibly a radial head fracture, but most likely I radial head subluxation, where there's a mechanism of pulling on a child's arm. And it's just that the what could happen is the part of the radius, which is that a forearm bone can pull out of the ligament that's holding it down.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "An just because of the structures there, not yet fully matured and strong, and somebody who's that young. And so it will cause pain reduced range of motion at the elbow and you won't really see much swelling or redness, and with just the physical exam maneuver you can reduce it and then put the head of the radius back into place and things will be usually back to back to normal. But if there is a fracture which will look for an X-Ray then there the pain might be last a little bit longer, but immobilization of the arm is not required and most kids will regain full mobility in in a short time after the reduction.",
+    "patient_turn": "OK, that sounds good, thank you.",
+    "annotation": "Correct"
+  }
+]

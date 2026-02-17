@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My child has had a dry, barky cough for the past two days, and it seems to get worse at night. There are also some harsh sounds when they breathe in, which is really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "It’s mostly stayed the same, but it definitely gets worse at night. The barky sound is pretty alarming, especially when I hear those harsh breathing sounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from? Is it in the chest, throat, or somewhere else?",
+    "patient_turn": "It seems to be coming from the throat. It sounds really harsh and barky, almost like a seal, and I can tell it’s not in the chest since there’s no wheezing or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it dry, or does it seem to have any other qualities?",
+    "patient_turn": "The cough is definitely dry. There’s no sputum or anything like that, just a really harsh, barking sound. It seems uncomfortable for my child, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "... started.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "I first noticed the cough about two days ago. It just came on suddenly and has been pretty persistent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had a fever since the cough started?",
+    "patient_turn": "Yes, my child has had a fever of about 38.7°C since the cough started. It seems to go along with the cough, but there haven’t been any other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child's appetite changed since the cough began?",
+    "patient_turn": "Yes, my child's appetite has been slightly reduced since the cough began. They seem a bit fussier than usual, but they’re still eating some.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed your child being more fussy or irritable lately?",
+    "patient_turn": "Yes, I have noticed that my child has been more fussy and irritable lately. It seems to be related to the cough and the fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any past medical problems or conditions we should know about?",
+    "patient_turn": "No, my child doesn’t have any past medical problems or conditions. They’ve been healthy overall, and there haven’t been any hospitalizations or chronic issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your child's immunizations current and up to date?",
+    "patient_turn": "Yes, my child's immunizations are current and up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of allergies or lung diseases?",
+    "patient_turn": "No, there’s no family history of allergies or lung diseases. Everyone in the family has been pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your child's living situation and who they live with?",
+    "patient_turn": "My child lives with both parents and an older sister in a smoke-free home. We haven’t had any recent travel or known sick contacts, so everything seems normal on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, my child hasn’t traveled recently, and there haven’t been any known sick contacts. Everything has been pretty normal at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any concerns about your child's safety or well-being at home?",
+    "patient_turn": "No, I don’t have any concerns about my child's safety or well-being at home. Everything seems fine in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How is your child's development compared to other children their age?",
+    "patient_turn": "My child's development seems normal compared to other children their age. They’ve met all their milestones, and their vision and hearing are fine too.",
+    "annotation": "Correct"
+  }
+]

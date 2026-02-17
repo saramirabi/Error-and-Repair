@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I hurt my right ankle while running yesterday. I kind of twisted it inward, and, well, it started off as mild pain but then got worse over the day. Now it’s this constant dull ache on the outside of my ankle… it’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located on your ankle? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, the pain is mostly on the outside of my right ankle, like, the lateral side. It does kinda radiate a bit to the sole of my foot, but it’s mostly focused on the ankle itself. It’s just… really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "It’s, um, more of a dull, achy pain, honestly. It’s not sharp or anything, but it’s constant and, like, really annoying. It definitely gets worse when I try to move or put weight on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "I was, um, just running, you know? I think I stepped wrong and twisted my ankle inward. It happened pretty quickly, and I didn’t think it was that bad at first, but then the pain just… kept getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain after the injury?",
+    "patient_turn": "Uh, I think it was maybe a few hours after I twisted it, but I’m not totally sure. I was just running, you know, like I usually do.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How would you describe the pain now compared to when it first started?",
+    "patient_turn": "Well, um, when it first started, it was pretty mild, just a little uncomfortable. But now it’s, like, a constant dull ache that really bothers me, especially when I try to move or put weight on it. So, it’s definitely worse than it was at the beginning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It feels, um, mostly dull and achy, to be honest. It’s not sharp or anything like that, but it’s this constant discomfort that just doesn’t go away. It’s really frustrating, especially when I try to move it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your ankle?",
+    "patient_turn": "It's, um, kind of on the side, but I can't remember if it was the left or right side, I think maybe the right?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your foot or leg?",
+    "patient_turn": "Yeah, it does, um, kind of radiate to the sole of my foot a bit. But mostly, it’s focused on the outside of my right ankle. It’s just, you know, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the pain worse for you?",
+    "patient_turn": "Well, um, moving my ankle or putting weight on it definitely makes the pain worse. Even just, like, walking around a bit is really uncomfortable. Honestly, it feels a lot better when I just rest it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any swelling, redness, or warmth around your ankle?",
+    "patient_turn": "No, um, I haven’t noticed any swelling, redness, or warmth at all. It’s just, like, tender on the outside, but nothing else seems off, you know? Just the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any numbness, tingling, or weakness in your foot since the injury?",
+    "patient_turn": "No, I haven’t felt any numbness or tingling, and, um, my foot doesn’t feel weak either. It’s just the pain in my ankle that’s really bothering me. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any pain in other joints besides your ankle?",
+    "patient_turn": "No, um, I haven’t had any pain in other joints. It’s just my right ankle that’s been hurting. I’m really hoping it’s nothing serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite or weight lately?",
+    "patient_turn": "No, I haven’t noticed any changes in my appetite or weight. Everything’s been pretty normal in that regard, um, just dealing with this ankle pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any significant illnesses or medical conditions in the past?",
+    "patient_turn": "Uh, not really, just a diarrheal illness a couple of months ago that I had to take antibiotics for. Other than that, I don’t have any significant medical issues, you know? Just this ankle injury now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m currently taking, um, vitamin D and vitamin A supplements. That’s about it, really. No other medications or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any allergies that I know of. Um, I’ve never had a reaction to medications or anything like that, so I’m good on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries before. Um, I think the only thing was that diarrheal illness I mentioned, but that didn’t require any hospitalization. So, yeah, nothing major in my medical history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of joint problems or conditions?",
+    "patient_turn": "Yeah, um, my grandparents had osteoarthritis, and my dad has gout. So, I guess there’s some history of joint issues in the family, but, um, I haven’t had any problems like that myself until now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I work as a software engineer, um, so I spend a lot of time sitting at a desk. It’s not super active, which is probably why this ankle injury is, like, really frustrating for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone, um, so it’s just me. I guess that makes it a bit tougher to deal with this ankle pain since I don’t have anyone around to help out, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs. I, um, drink alcohol very rarely, like, maybe a glass of wine every few months. So, I try to keep things pretty healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol very rarely, um, like maybe a glass of wine every few months. It’s not something I do often at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any previous injuries to your ankle?",
+    "patient_turn": "Uh, not really, just a possible sprain when I was a kid, but nothing significant since then. This is, like, the first major issue I’ve had with my ankle in a long time.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this cough for over a week now. It’s, uh, kind of intermittent, and I’ve noticed some sputum, like, a couple of teaspoons daily. I’m also feeling really tired and, um, I have this mild sore throat and some headaches. So, I guess I just wanted to make sure everything’s okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, the cough started, um, over a week ago, I think. It’s been pretty persistent, you know, just coming and going throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Not really, um, it’s pretty much stayed the same. It’s still intermittent, and I’m still producing that white to slightly yellowish sputum. I mean, I haven’t noticed any blood or anything like that, so… I guess that’s a good sign?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest soreness, and does it ever spread to other areas?",
+    "patient_turn": "It’s, um, mostly in the center of my chest, I think. It gets a bit worse when I cough, but it doesn’t really spread anywhere else. It’s not, like, super painful, just sort of a mild soreness, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest soreness feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Uh, it’s kind of... I think maybe a bit dull? But I’m not totally sure, it’s hard to describe, you know? Sometimes it feels like it’s just there, but then, I guess it doesn’t really bother me much.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the soreness better or worse?",
+    "patient_turn": "Well, um, it definitely gets worse when I cough, but I haven’t really found anything that makes it better, to be honest. I mean, I’ve just been trying to rest and, uh, take it easy, but it’s still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any shortness of breath or dizziness, thankfully. And, uh, no nausea or anything like that either. It’s mostly just the cough, sore throat, and, um, those headaches. I’m kinda worried about how tired I’ve been feeling, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me when the chest soreness started and if it has changed since then?",
+    "patient_turn": "A... , I think.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any shortness of breath or dizziness, thankfully. And, uh, no nausea or anything like that either. It’s mostly just the cough, sore throat, and those headaches. I’m kinda worried about how tired I’ve been feeling, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your daily habits, like exercise, alcohol use, or smoking?",
+    "patient_turn": "Um, I don’t smoke or use any recreational drugs, so that’s good. I do drink occasionally on the weekends, but it’s not a lot, you know? As for exercise, I try to stay active, but, um, I haven’t been doing much lately because I’ve been feeling so tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "No, I’ve never had any issues, but I did take some medications before. I mean, I don’t take anything regularly now, though.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What color is your sputum?",
+    "patient_turn": "Uh, it’s mostly white to, um, slightly yellowish. I think it’s just a couple of teaspoons daily, but, you know, no blood or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling chills, day or night, along with your cough?",
+    "patient_turn": "Yeah, I’ve been feeling chills, um, both day and night. It’s kind of uncomfortable, honestly, but I haven’t measured a fever or anything. It’s just... there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anything seem to make your cough worse?",
+    "patient_turn": "Um, I haven’t really noticed any specific triggers for the cough. It just kind of comes and goes throughout the day, you know? I mean, coughing definitely makes the chest soreness worse, but, uh, nothing else really seems to set it off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any blood in your sputum when you cough?",
+    "patient_turn": "No, um, I haven’t seen any blood in my sputum at all. It’s just that white to slightly yellowish color, so, um, I guess that’s a relief?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently?",
+    "patient_turn": "No, I haven’t traveled outside the province recently. I’ve just been, um, mostly at home and at school, you know? No trips or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is anyone you live with feeling unwell right now?",
+    "patient_turn": "No, um, no one I live with is feeling unwell. It’s just me, and, uh, I haven’t noticed anyone else around me being sick either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced similar symptoms or episodes like this before?",
+    "patient_turn": "No, I haven’t had anything like this before. This is, um, the first time I’m dealing with these symptoms, and I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the past month?",
+    "patient_turn": "No, I haven’t taken any antibiotics in the past month. I, um, haven’t needed them or anything like that, so... I guess that’s not an issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of high blood pressure?",
+    "patient_turn": "Yeah, um, my mom has a history of hypertension. That’s the only thing I know about in my family, though.",
+    "annotation": "Correct"
+  }
+]

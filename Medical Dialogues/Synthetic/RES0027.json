@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this persistent dry cough for about three days now, and it’s getting worse. It’s really disrupting my sleep, and I’m kinda worried about it. I also felt hot today, and I’ve been really fatigued… and I had some chills and night sweats last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, it started about three days ago. I mean, it was just a little annoying at first, but it’s gotten progressively worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest, or does it feel like it’s spreading anywhere?",
+    "patient_turn": "Um, it’s mostly just a dry cough, you know? I don’t really feel any chest pain or anything like that, and it doesn’t feel like it’s spreading. It’s just… really persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it more tickly, scratchy, or something else?",
+    "patient_turn": "I’d say it feels more tickly, um, like there’s something irritating my throat. It’s not really scratchy, but it’s definitely persistent and makes me want to cough a lot, which is, you know, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the cough better or worse?",
+    "patient_turn": "Honestly, I haven’t really found anything that makes it better. It just seems to get worse, especially at night when I’m trying to sleep. Um, I guess it might feel a little better when I drink warm liquids, but it doesn’t last long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, I think it started a couple of days ago, or maybe it was just yesterday. But I definitely haven't had it for that long, like maybe a week or so.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels like it’s coming from?",
+    "patient_turn": "Um, it feels like it’s coming from my throat, you know? It’s not really in my chest or anything, just… kind of that tickly feeling in my throat that makes me cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or does it produce any mucus?",
+    "patient_turn": "It’s definitely dry, um, no mucus or anything like that. Just a persistent dry cough that’s really bothering me, especially at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I first noticed it about three days ago. It started off kinda mild, but it’s just gotten worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, it’s definitely gotten worse since it first started. At first, it was just a little annoying, but now it’s really persistent and, um, it’s keeping me up at night. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or if it feels like it's coming from your chest or throat?",
+    "patient_turn": "It feels like it’s coming from my throat, um, not really my chest. It’s that tickly feeling that makes me want to cough a lot, but it’s definitely more in my throat than anywhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, scratchy, or something else?",
+    "patient_turn": "It’s mostly dry, um, and a bit tickly. I wouldn’t say it’s scratchy, but it definitely feels irritating, you know? Just really persistent and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start, and has it changed since then?",
+    "patient_turn": "I think it started about three days ago, but I’m not really sure. It might have been longer, like maybe a week, but it definitely feels like it's been around for just a couple of days.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed if the cough gets worse at any specific time of day?",
+    "patient_turn": "Yeah, it definitely gets worse at night when I’m trying to sleep. I mean, it’s really disruptive, and I just can’t seem to get comfortable. It’s, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Um, I don’t really feel any discomfort in my chest. It’s mostly just in my throat, you know? That tickly feeling that makes me cough a lot, but nothing painful or anything like that in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches along with your cough?",
+    "patient_turn": "Yeah, I’ve had a mild headache, um, I think it’s probably related to all the coughing. It’s not too severe, but it’s definitely there and adds to how I’m feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any cold-like symptoms, like a runny nose or sore throat, before the cough started?",
+    "patient_turn": "No, I didn’t have any cold-like symptoms before this started. It just kind of came out of nowhere, which is, um, a bit strange for me. I haven’t had a runny nose or sore throat or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. I mean, I feel a bit fatigued and, um, not great, but my weight seems to be the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or ongoing health issues?",
+    "patient_turn": "Yeah, I have hypothyroidism, but it’s well controlled with Synthroid. My last TSH was normal about six months ago, so, um, I think that’s all good. Other than that, I don’t have any ongoing health issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yes, I had an appendectomy when I was a teenager, but it went fine, no complications or anything like that. That’s the only surgery I’ve had.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter or supplements?",
+    "patient_turn": "I take a daily multivitamin, and, um, I’m on Synthroid for my hypothyroidism. I don’t take any other medications or over-the-counter stuff right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and who you live with?",
+    "patient_turn": "Sure, I live in a townhouse with my husband and our two teenage kids. It’s, um, been a bit hectic lately because my husband has been acutely ill with vomiting and fever-like symptoms for the past couple of days. So, you know, it’s a bit concerning with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of heart disease or other significant medical conditions?",
+    "patient_turn": "Yeah, my sister recently had a heart attack, which is, um, really worrying. My parents both passed away from old age without any known heart disease or cancer, so that’s a relief, but my sister’s situation has me a bit anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any concerns about COVID-19 or experienced any symptoms related to it?",
+    "patient_turn": "Yeah, I’ve been kinda worried about COVID-19, especially with my husband being sick and my symptoms. I asked about it because of the cough and everything, and I know they’re planning to do some tests to check for it and other infections.",
+    "annotation": "Correct"
+  }
+]

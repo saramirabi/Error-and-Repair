@@ -1,0 +1,172 @@
+[
+  {
+    "doctor_turn": "I was wondering if you could start by telling me what brought you into the emergency Department.",
+    "patient_turn": "So I came to the emergency Department because I've been having pain in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, where is the pain located?",
+    "patient_turn": "I would say it's like the whole pretty much the left side of my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did this pain start?",
+    "patient_turn": "So I think it started just around 2 hours ago. I actually was riding my bicycle and just fell off on, kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK I am how would you describe the pain, sometimes people will use words like burning dull, achy.",
+    "patient_turn": "I think it's more like someone is just stabbing me and then whole left side area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um. Anything that you've been doing that's that's made the pain worse?",
+    "patient_turn": "If I. Think I have to take really really slow and shallow breaths. If I try to take a deep breath it just really hurts like taking those small, smaller breaths helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you feel the pain anywhere else, or is it just on the left side of your chest?",
+    "patient_turn": "No, I would say just on the left side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has the pain been getting worse, staying the same or getting better?",
+    "patient_turn": "I'd say over the last two hours it's been getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any other associated symptoms?",
+    "patient_turn": "Uh, like I think I I'm having. Also maybe it's just because I'm trying to breathe slowly, but I feel like I can't catch my breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um has anything like this ever happened to you before?",
+    "patient_turn": "No, no. I mean, I've never had any pain in my chest before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK are you, did you have a loss of consciousness when you fell off your bike?",
+    "patient_turn": "No, I got right back up. I just just had the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so any injuries to the head?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "That's fine. I was wearing a helmet.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, excellent and any headache right now?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any fever chills?",
+    "patient_turn": "No, I feel I'm fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel as though your heart's racing?",
+    "patient_turn": "I would say like in the last hour a little bit more so than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any skin changes or or rashes you've noticed?",
+    "patient_turn": "Besides, just I got some scrapes here and there on my hands, but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have a cough?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any recent infections?",
+    "patient_turn": "No, I've been pretty pretty healthy recently. No, no cough or no infections.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, any dizziness?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and I know you mentioned the few scratches on your hands, but any other injuries?",
+    "patient_turn": "Oh no, I I think I got a pretty lucky.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, OK. And any alcohol or drug intake prior to falling off your bike?",
+    "patient_turn": "Oh no, no, I was completely sober. No no drugs or alcohol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any weakness or numbness or tingling that you noticed?",
+    "patient_turn": "Um no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and, when was the last time you had anything to eat or drink?",
+    "patient_turn": "I just had some cereal and, um, just some chocolate milk around breakfast time but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many hours ago was that?",
+    "patient_turn": "I would say around 3 hours ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, and have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Uh, not other than just a hay fever, but nothing nothing else. I have like a lot of allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies to medications?",
+    "patient_turn": "Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh, and any hospitalizations?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any surgeries?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Anybody in the family who have any illnesses?",
+    "patient_turn": "Just my father. He has type 2 diabetes but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how do you support yourself currently financially?",
+    "patient_turn": "Oh so I work just as like a mechanic just in the city and currently I just have myself to support. I live alone in an apartment, so I'm doing fairly well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke?",
+    "patient_turn": "I smoke around like I'd say 2 and a half to 3 packs per day. I know it's. Yeah, I have tried quitting before, but I would say I've been smoking since I was 18.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke marijuana?",
+    "patient_turn": "No, no, no marijuana, no other drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Yeah, it's just like sometimes on the weekend. I'll just have a beer or two while watching the game, but not nothing regular.",
+    "annotation": "Correct"
+  }
+]

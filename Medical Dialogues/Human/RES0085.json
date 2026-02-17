@@ -1,0 +1,182 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Yeah, so I just brought my son, went to the hospital. I've just been getting very concerned because he's making like these, like grunting noises for the last day and, like it's it's really worrying me, I don't know if he's like not breathing and I also just did like a temperature on him just this morning and it came up to like like a high 38, so I don't know what's going on, and then he's just very like irritable and just not himself I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so all of this started a day ago, you mentioned?",
+    "patient_turn": "Yeah, it started yesterday, but the grunting started today, like, I think he was a bit on the warmer side last night as well, more irritable last night, but the grunting started this morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Uhm, and you mentioned his fever was 38, correct?",
+    "patient_turn": "Yeah, I think it was like 38, 7 or something like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is he coughing at all?",
+    "patient_turn": "Uhm, yeah, I would say with the grunting there is some coughing in between as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he bringing up any phlegm?",
+    "patient_turn": "Uhm, he's been having some spit ups as well. They're mainly like clear and whitish, but yeah I don't know if he's bringing anything else up. There's no green or yellow material though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, any blood in there?",
+    "patient_turn": "No, I haven't notice any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he sound wheezy?",
+    "patient_turn": "Uh no, it's mainly just the grunting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, does he look swollen to you?",
+    "patient_turn": "Uh, swollen as in just, uh, like in his.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "In his, uh, like uh, legs, arms or belly area.",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No ok, and uh, does he have a runny nose or a stuffy nose?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, how is his feeding?",
+    "patient_turn": "Yeah, it's it's been difficult. So right now, like his mom is at home, but she was having difficulty feeding. He's mainly breastfed right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And he's not really been feeding too much either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about like the number of wet diapers he has?",
+    "patient_turn": "Just the normal like, that hasn't changed. He has like three or four in a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good. Have you noticed any changes to his bowel movements or urine?",
+    "patient_turn": "No, pretty much been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is he throwing up at all?",
+    "patient_turn": "Nope, just some spit ups, I don't know if that's, Just because of the coughing or if they're just spit ups, like, but nothing after eating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, have you noticed any rashes on him?",
+    "patient_turn": "No, no rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, has he had any fainting spells or seizures?",
+    "patient_turn": "Uh, no, I've been really trying to make sure, like, I was worried if he gets blue or something that we would rush to the emergency department, but I haven't noticed anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK good. Has he been in contact with anyone who's been sick recently?",
+    "patient_turn": "No, I don't think so. We've been trying to be very careful with the pandemic and everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "For sure, any travel to anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he an other-wise healthy baby?",
+    "patient_turn": "Yeah, so, uh, healthy but he was born premature at 36 weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And no complications really with the pregnancy or after he was born. But yeah, he was premature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so he didn't need any hospitalizations right after birth, right?",
+    "patient_turn": "No, he was fine after birth.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And no longstanding medical conditions after birth?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he needed hospitalizations for anything in the past, or surgeries?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he up to date with all his immunizations?",
+    "patient_turn": "Yeah, the two months vaccinations are all up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. Medication-wise is he on anything?",
+    "patient_turn": "No, no medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of lung conditions or heart conditions?",
+    "patient_turn": "No, not that we know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any cancers in the family?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And who does he live with at home?",
+    "patient_turn": "Just me and my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, in a house, apartment?",
+    "patient_turn": "In a house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any old carpets, mold, dust, asbestos, pets, anything like that at home?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does anyone at home smoke?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well, those were all the questions I had for you. Did you have any questions of your own?",
+    "patient_turn": "Yeah, no, I was just really worried like, the grunting is just really scaring us. So do you, I was just wondering if you know what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so the grunting is worrisome. He could have anything from bronchiolitis to pneumonia so what we'll do is, we'll, first get his temperature, we'll get his O2 sat and we will get some imaging done as well to see if it's more in line with bronchiolitis or pneumonia. If it's bronchiolitis, it will be supportive treatment so we can keep him here at the hospital because he is in some distress and we'll keep him hydrated and give him some oxygen. And if it's pneumonia, we'll prescribe him some antibiotics. How does that sound?",
+    "patient_turn": "Yeah, and will he need to stay in the hospital at all?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah so for now, because, if he is in any distress and if he needs oxygen, and IV hydration, he'll need to stay in the hospital until he's better from that standpoint. I should also mention, we should do a covid swab on him as well because his symptoms are in line with covid as well, so we'll have to do that to rule it out.",
+    "patient_turn": "OK, yeah, that sounds good, Uh, uh, yeah, thank you so much.",
+    "annotation": "Correct"
+  }
+]

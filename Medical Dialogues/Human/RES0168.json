@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "So I've just I had some sinus problems in the past. I've had some sinus infections and I just feel like I have one right now and I know that like I know that you know, a lot of the time I I've done all the things that I've been told to do in the past like I've been doing, like Saline rinses and just doesn't feel like it's helping very much right now. When I rinse, I'm getting like this greenie gross kind of mucus coming out. And it's just like giving me this like headache. It just feels crappy.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Yeah, I'm sorry you're feeling that way. So this runny nose, OK, do you have a cough at all?",
+    "patient_turn": "Uh, no I don't have a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any shortness of breath?",
+    "patient_turn": "Uhm, I don't have a real like shortness of breath, but it does feel congested.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about wheeziness?",
+    "patient_turn": "Uh, no wheeziness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No wheeziness, OK. And how about, how about like sore throat or loss of taste?",
+    "patient_turn": "Uhm, uh so my throat not sore in like the way that you get catch a sore throat but I get a lot of post nasal drip and it makes it like stingy. So it's like it's sore in that way, but it's not like you know if you have like strep throat or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about changes in your vision or hearing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fevers or chills?",
+    "patient_turn": "I, I took my temp last night. It was pretty high. It was like 99 point like something, uhm 99 like 7 or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ah, OK.",
+    "patient_turn": "So my thermometer said that's high, I don't, I don't really know, but yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how about like, facial pain or pressure or feeling like it's full?",
+    "patient_turn": "Oh yeah, I have that. It's like yeah, all on the front part of my face.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And then you mentioned some nasal obstruction, some discharge and you said no loss of smell, right?",
+    "patient_turn": "No, I didn't lose any smell. Like sometimes it's kind of hard to smell because it's so plugged up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right.",
+    "patient_turn": "I still have like I'm able to smell like, especially after I do the rinses. It helps a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about like a chest pain?",
+    "patient_turn": "Uhm, no, I haven't had any chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any issues with bowel movements or have those been normal?",
+    "patient_turn": "Those have been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your urine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any headaches?",
+    "patient_turn": "Yeah, like I get that like sinusy headache that you know, it's pretty common for me, like kind of just all in like the front of my face and sometimes it kind of feels like it goes all over.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about umm, how about like dizziness or fainting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Are you otherwise healthy or do you have any longstanding medical conditions?",
+    "patient_turn": "No, this is pretty well, pretty well the only thing. I had some problems with my knee like I had some problems with the ACL, so like I see like an orthopaedic person for that, but otherwise, otherwise I'm healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, uhm, and are you on any medications?",
+    "patient_turn": "No, like I I sometimes like I used this saline rinse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "For a bit. I used to use the nasal steroid spray and I I hadn't had an infection for awhile and things were feeling OK, so I haven't been using it recently. Umm, and then I occasionally will use like, like an Advil if my knees sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and no hospitalizations or surgeries?",
+    "patient_turn": "Uh, so I had an ACL repair surgery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh right, yeah, OK.",
+    "patient_turn": "And like I went to the emergency department once when I had a bad sinus infection, but I didn't like stay over at the hospital.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. How about immunizations? Are you up to date?",
+    "patient_turn": "I think so. I never really didn't get any.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK. Any allergies?",
+    "patient_turn": "Uh, like a little bit to cats but nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any family history of lung or heart conditions?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about smoking, do you smoke?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Do you drink alcohol?",
+    "patient_turn": "I drink a few beers on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "You know five or six per weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And then, five or six for weekend. OK and any recreational drugs?",
+    "patient_turn": "I will occasionally take like a cannabis, like a capsule like the oil in the capsule.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what is that for?",
+    "patient_turn": "Just like recreational. Also like I mean my knee, my knee pain. Sometimes it helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mhmm, OK.",
+    "patient_turn": "But essentially that that might be like once like per month or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. Alright, and, any sick contacts recently?",
+    "patient_turn": "No, no. I've been working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and any travel recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And where do you live?",
+    "patient_turn": "I live here in town with my wife and our teenage son.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is anyone at home sick?",
+    "patient_turn": "No, they're fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "They're fine. OK, and what about.. Sorry?",
+    "patient_turn": "They're both working from home like doing school from home too. So we rarely don't go anywhere like my wife goes to get groceries and that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see. And any old carpets, smoke, asbestos, mold anything like that at home?",
+    "patient_turn": "No, no, it's a pretty new house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, any pets at home?",
+    "patient_turn": "We have a dog. It's a labradoodle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah.",
+    "patient_turn": "And that's it, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had him?",
+    "patient_turn": "Oh, like, he's like 3 now. Like my sinus infections and that have been going on for longer than we've had him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. Those are all the questions that I had for you. Did you have any questions of your own for me?",
+    "patient_turn": "I don't think so. I just I hope you know, we can do something about this. Because you know, I tried all this stuff that is supposed to be like, you know, conservative like the first steps and it just doesn't seem like it's getting better. It's been like few weeks. So, I thought it was probably time to come see you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, sorry. What have you tried at home again?",
+    "patient_turn": "So I use the, the rinses the saline rinses. I used a little bit of nasal decongestant but I know like I know I've been told I'm not supposed to do that for more than a few days, so I don't. Yeah, that's, I think that's pretty well it 'cause they said there's not much we can really do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah. So your symptoms, OK because some some of these things overlap with Covid, we're going to have to swab you and they'll notify you of your results in like 24 to 48 hours. But what it sounds like is something called Sinu, Sinusitis and it sounds like acute bacterial rhinosinusitis because of some f the symptoms that you have, and it's been going on for more than a week and it's, it's not going away with the rinse, saline rinses and these decongestants. So we will prescribe some antibiotics for you. Probably amoxicillin. Take those for five to seven days and see if some of your symptoms clear up. If they continue to be severe, umm, actually, at this will also prescribe you some inhaled corticosteroids because I think those can help as well, so will give you both of those for now and then just follow up with us in a week after you've tried both things and we'll see how your symptoms are holding up at that point. Does that sound like a good plan to you?",
+    "patient_turn": "Yeah, I think that sounds that sounds fair. Yeah, thank you.",
+    "annotation": "Correct"
+  }
+]

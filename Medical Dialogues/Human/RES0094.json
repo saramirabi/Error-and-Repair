@@ -1,0 +1,162 @@
+[
+  {
+    "doctor_turn": "Uh, how may I help you?",
+    "patient_turn": "I've, uh, had a runny nose over the last few days and I've started to have a sore throat as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Hmm, Uhm, when did this start?",
+    "patient_turn": "I would, so the runny nose started, uh, about five days ago and, and the sore throat, uhm, about the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you, uh, with the, the runny nose, do you have any, what's the discharge like?",
+    "patient_turn": "Uh, it's been kind of watery, it's clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright and has your sore throat gotten better or worse over the past five days?",
+    "patient_turn": "Uh, it did get a little bit worse initially and since then it's been kind of stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you, uhm, had any difficulties swallowing?",
+    "patient_turn": "No, it, it is a bit sore, uhm, to swallow so it takes me a little bit longer to eat, but I've been able to still, still eat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you changed, noticed any changes in your voice? Any hoarseness in your voice?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And do you have any nasal congestion? Does your nose feel stuffy?",
+    "patient_turn": "Yeah it does, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, any fevers or chills?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any difficulties breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm any, uh, pain in your chest?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other symptoms, anything related to your belly, say, diarrhea or Constipation or any changes in your urinary, any urinary symptoms?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, are you feeling fatigued, tired? Have any muscle aches?",
+    "patient_turn": "I, I have felt a little bit more drowsy these last few days and, uhm, yeah my, uhm, I have had some muscle aches as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken anything to help yourself, anything over the counter or any pills?",
+    "patient_turn": "I did use, uh, some uhm, like cold medication to help because I was having a headache as well and a lot of I guess just like pressure from the nose stuffiness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did the cold meds help?",
+    "patient_turn": "Yeah, it did help a little bit, it did help my nose clear up but it came right back after a few hours.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how's your headache now?",
+    "patient_turn": "It's not too bad. It's pretty mild, but it's there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uhm, do you usually get headaches of this sort, or is this very different from what you generally experience, if you usually have headaches.",
+    "patient_turn": "I don't usually get headaches, but I have felt uhm, a headache like this before though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, when was that?",
+    "patient_turn": "Maybe the last time I was, I was sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure.",
+    "patient_turn": "Or if I don't get a good night's sleep. School's pretty early in the morning, so sometimes if I'm not sleeping well.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "I see. OK alright, any other symptoms that you've experienced over the past five days that I didn't ask you about?",
+    "patient_turn": "No, it's been, yeah mostly the runny nose and sore throat and headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. OK, alright, and do you have any medical conditions?",
+    "patient_turn": "No, I've been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "All right, good, any medications that you take on a regular basis?",
+    "patient_turn": "Uh, I'll use like Reactine or Claritin sometimes for allergies, but that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What allergies do you have?",
+    "patient_turn": "I have allergies to dust and some environmental things, like pollen or ragweed I think maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Alright, and, uhm, do you have any family history of any medical conditions?",
+    "patient_turn": "Uh, I think my dad has high blood pressure. He takes a medication for that, uhm nothing serious though that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, and who do you currently live with?",
+    "patient_turn": "So I live with both my parents and I have an older sister as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Good, OK, and do you smoke?",
+    "patient_turn": "I did try a vape once or twice, but, didn't really like it so, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, what about marijuana?",
+    "patient_turn": "Uh, no, I haven't tried that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you recently traveled anywhere?",
+    "patient_turn": "No, we've been doing classes virtually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any contact with anyone who you think might be sick.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK alright, well sounds like you have a sore throat and runny nose. You've been a little bit drowsy, had some headaches in the past five days, things were getting a little bit worse early on, but it's been a little bit, it's been more stable now. We'll do a physical exam, see, just listen to your chest, have a look inside your mouth and check your temperature and go from there. It sounds like you probably have a viral infection of some sort that should get, hopefully get better over time. We will also get a covid swab done just in case and if things seem to get worse, we can, you can definitely come back.",
+    "patient_turn": "OK, great, thank you.",
+    "annotation": "Correct"
+  }
+]

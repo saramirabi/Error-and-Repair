@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having some trouble breathing for the last couple of days. It feels like I can't take a deep breath, and I've been really tired with some muscle aches. I also noticed I've lost my sense of taste and smell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the difficulty in breathing changed at all since it started?",
+    "patient_turn": "Yes, it has definitely gotten worse. At first, it was just a little hard to take deep breaths, but now it feels like I have to put in a lot more effort to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the difficulty in breathing?",
+    "patient_turn": "It feels like it's mostly in my chest, but it's more about the effort to breathe rather than any specific pain. Just a general tightness, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the difficulty in breathing feel like for you?",
+    "patient_turn": "It feels like I can't get enough air when I try to take a deep breath. It's kind of uncomfortable, and I feel like I have to work harder to breathe than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this difficulty in breathing?",
+    "patient_turn": "... a couple of days ago.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice this difficulty in breathing?",
+    "patient_turn": "I first noticed it about two or three days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the difficulty in breathing changed since it first started?",
+    "patient_turn": "Yes, it has definitely gotten worse since it started. It was mild at first, but now it feels like I have to work much harder to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or sore throat along with your breathing difficulties?",
+    "patient_turn": "Yes, I have a mild sore throat and I've started to develop a dry cough as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt feverish or experienced any chills recently?",
+    "patient_turn": "I've felt hot to the touch, so I think I might have a fever, but I haven't had any chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea or vomiting lately?",
+    "patient_turn": "No, I haven't had any nausea or vomiting at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province in the last few weeks?",
+    "patient_turn": "No, I haven't traveled outside the province recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical week look like for you in terms of work and social activities?",
+    "patient_turn": "I mostly work from home as a financial advisor, so my days are pretty quiet with minimal client contact lately. Socially, I usually have a few drinks on the weekends, and I recently spent some time with my grandchildren, one of whom had a cold.",
+    "annotation": "Correct"
+  }
+]

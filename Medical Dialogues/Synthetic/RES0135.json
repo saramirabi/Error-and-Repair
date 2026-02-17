@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my daughter. She’s one year old and has had this high fever for like three to four days now, and she’s been coughing a lot. It started with a runny nose, but that’s kinda gotten better, I guess. Now she’s wheezing, and it’s just... really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the fever and cough starting?",
+    "patient_turn": "Um, I think the fever started about three or four days ago, and the cough came shortly after that. At first, it was a productive cough with clear sputum, but now it’s dry, and, honestly, it’s just been really persistent. I’m kinda worried about her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from? Is it mostly in her chest or throat?",
+    "patient_turn": "Um, I think it’s mostly in her throat, but I’m not really sure. Actually, I don’t think she has a cough at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it harsh, wheezy, or something else?",
+    "patient_turn": "Yeah, it’s definitely harsh and, um, wheezy now. It started off more productive, but now it’s just dry, and it sounds really uncomfortable for her. I just feel so bad seeing her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has she been experiencing this cough?",
+    "patient_turn": "Uh, I’d say she’s been coughing for about three to four days too, I think. It kinda started around the same time as the fever, and it’s just... it hasn’t really let up, you know? It’s really hard to watch her struggle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the fever, and how high has it been?",
+    "patient_turn": "Um, the fever started about three to four days ago, and it’s been around 38 to 39 degrees Celsius. It’s just been really high, and I’m honestly worried because it doesn’t seem to be going down much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or is she bringing up any mucus?",
+    "patient_turn": "I think it’s kind of, um, dry now? But I’m not totally sure if that’s how it started. It's just a little confusing, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How long has she been experiencing this cough?",
+    "patient_turn": "Uh, she’s been coughing for about three to four days, I think. It started around the same time as the fever, and it’s just been really persistent, which makes me really worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been experiencing any difficulty breathing or wheezing?",
+    "patient_turn": "Yeah, there’s been some wheezing, I think. It started today, but I also remember last week when we went to the park, she seemed a little out of breath running around. And just the other day, I noticed her breathing was kind of fast while she was playing, but I wasn’t too concerned then. Plus, I’ve been really busy with work and trying to keep up with house chores, so maybe I didn’t notice everything right away.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How long has she had the fever, and has it changed in intensity?",
+    "patient_turn": "Um, she’s had the fever for about three to four days now, and it’s been pretty consistent, like around 38 to 39 degrees Celsius. I don’t think it’s really gone down much, which is, um, making me really anxious. I just want her to feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does her cough sound like, and has it changed at all?",
+    "patient_turn": "Um, her cough sounds really harsh and wheezy now. It used to be more productive with clear sputum, but now it’s just dry. I guess it feels like it’s gotten worse over the last few days, and that’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she coughed up any blood or noticed any blood in her sputum?",
+    "patient_turn": "No, um, there hasn’t been any blood in her sputum or anything like that, thank goodness. It’s just clear when she was bringing it up before, but now it’s dry. I’m really relieved there’s no blood, but I’m still really worried about her overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any fainting episodes or experienced chills?",
+    "patient_turn": "No, um, she hasn’t fainted or had any chills that I know of. It’s just been the fever and the cough, and she’s been more irritable. I’m just really anxious about her health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she experienced any night sweats or redness in her eyes?",
+    "patient_turn": "No, she hasn’t had any night sweats or redness in her eyes, as far as I can tell. It’s mostly just the fever and cough, but I’m honestly just really worried about her overall condition.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any ear pain or discharge recently?",
+    "patient_turn": "No, she hasn’t had any ear pain or discharge that I’ve noticed. It’s just been the fever and cough, and I’m really hoping it’s nothing serious. I just want her to feel better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she developed any skin rash recently?",
+    "patient_turn": "No, um, she hasn’t developed any skin rash that I can see. It’s just the fever and cough that are really concerning me right now. I’m just feeling really anxious about her health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in her bowel or urinary habits recently?",
+    "patient_turn": "No, I haven’t noticed any changes in her bowel or urinary habits. She’s still having about five wet diapers a day, so I think she’s staying hydrated, but I’m still really worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any bulging in her fontanelle?",
+    "patient_turn": "No, I haven’t noticed any bulging in her fontanelle. I’m just really focused on the fever and cough, and it’s been so stressful for me. I just want her to be okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she experienced any nausea or vomiting recently?",
+    "patient_turn": "No, she hasn’t had any nausea or vomiting that I know of. It’s just the fever and cough that are really worrying me right now. I’m honestly just hoping she gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is she drinking enough fluids and staying hydrated?",
+    "patient_turn": "Yeah, she seems to be drinking enough fluids. I mean, she’s had about five wet diapers a day, so I think she’s staying hydrated. But, um, I’m still really worried about her overall condition with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many wet diapers does she have in a day?",
+    "patient_turn": "She’s been having about five wet diapers a day, which I think is okay for her age. But, um, I’m still really anxious about her other symptoms, you know? I just want her to feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any similar illnesses in the past?",
+    "patient_turn": "Yeah, she had a similar respiratory illness a few months ago that required a brief hospitalization and oxygen therapy. It was really scary then, and now I’m just worried it’s happening again. I don’t want her to go through that again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are her immunizations up to date?",
+    "patient_turn": "Yes, her immunizations are up to date. I’ve been keeping track of them, but, um, I’m still really anxious about her health right now with everything that’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart problems?",
+    "patient_turn": "No, there’s no family history of lung or heart problems that I know of. It’s just been really stressful with her getting sick, and I’m just hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and who lives with you?",
+    "patient_turn": "Um, we live in a new home with hardwood floors, and it’s just me, her dad, and her grandmother. There are no pets or smokers around, and we haven’t traveled recently or had any sick contacts. I guess I just want to make sure she’s safe and healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you or your child been in contact with anyone who was sick recently?",
+    "patient_turn": "No, um, we haven’t had any contact with anyone who was sick recently. It’s just been the three of us at home, and I’m really hoping that’s a good thing, but I’m still so worried about her symptoms.",
+    "annotation": "Correct"
+  }
+]

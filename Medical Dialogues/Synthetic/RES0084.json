@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I've been having this headache for about a week now, and it just keeps getting worse. It started off really severe, like an 8 or 9 out of 10, but now it's more like a 2 or 3, I guess. But, um, I also have a fever and body aches, and I'm just really tired… I’ve been in bed for the past week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "Um, it started about a week ago, but it really got worse like four days ago. That’s when it became really intense, you know? I just… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your headache? Where do you feel it the most?",
+    "patient_turn": "It's mostly over my forehead, and sometimes it goes to my temples. It feels, um, achy and sometimes throbbing, you know? It’s just been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity since it first started?",
+    "patient_turn": "Yeah, it has. It was really severe at first, like an 8 or 9 out of 10, but now it's, um, more mild, like a 2 or 3. I guess that's a bit of a relief, but I still feel pretty awful overall with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make your headache better or worse?",
+    "patient_turn": "Well, I think it gets a bit worse when I’m on the computer for too long, which is kind of funny because I work at a desk job, so I’m on the computer a lot. Also, I tried taking some over-the-counter pain relievers, which helped a little, but then I also noticed that my neighbor’s dog has been barking a lot lately, which might be bothering me too. It's just been a lot happening, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the headache is located?",
+    "patient_turn": "Um, it’s mostly in my forehead, like right above my eyes, and then sometimes it spreads to my temples. It’s kind of hard to pinpoint exactly, but that’s where I feel it the most. It’s just… really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, throbbing, or something else?",
+    "patient_turn": "It's mostly dull and achy, but it can be throbbing at times too, you know? Like, it’s not sharp, but it just feels heavy and uncomfortable. Honestly, it’s just been really draining.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the headache better or worse for you?",
+    "patient_turn": "Well, I think the headache tends to get a little better if I drink some water and rest, but then I also had this really big cup of coffee this morning, and that might have helped too. Also, I’ve been trying to avoid bright lights because they kind of hurt my eyes, but then again, my friend was telling me about this new restaurant opening up, and I can't wait to try it, but I guess that doesn’t really help with the headache, does it?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the headache, like fever, chills, or fatigue?",
+    "patient_turn": "Yeah, definitely. I’ve had a high fever for the past couple of days, like between 38 and 39°C, and I've been feeling really fatigued. I mean, I’ve been bedridden for a week now, and I also have these body aches and some facial stuffiness. It’s just all really exhausting, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, throbbing, or something else?",
+    "patient_turn": "Oh, you know, I really need to remember to pick up some groceries after this appointment. I think I’m out of milk, and I might want to get some snacks too.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the headache better or worse for you?",
+    "patient_turn": "Um, I think resting and drinking water helps a bit, but honestly, it can get worse if I’m staring at screens for too long. I’ve also been trying to avoid bright lights because they really bother me. It’s just, you know, a bit of a struggle to find what helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did your headache first begin?",
+    "patient_turn": "Uh, it first began about a week ago. But then it got really bad like four days ago, and that’s when I started feeling really awful with all the other symptoms too. It’s just been a lot to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or shortness of breath at all?",
+    "patient_turn": "Um, no, I haven’t had any cough or shortness of breath. It’s just been the headache, fever, body aches, and some facial stuffiness. I’m kinda relieved about that, but still worried about everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain or palpitations during this time?",
+    "patient_turn": "No, I haven’t had any chest pain or palpitations. It’s mostly just been the headache and fever, along with the body aches and fatigue. I’m really trying to focus on those symptoms, but I guess I’m just feeling a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or faint at any point during this illness?",
+    "patient_turn": "No, I haven’t felt dizzy or faint at all. It’s mostly just the headache, fever, and fatigue that’s been really tough to handle. I’m just, um, trying to take it one day at a time, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any confusion, neck pain, or noticeable weight loss lately?",
+    "patient_turn": "No, I haven’t had any confusion or neck pain, and I haven’t noticed any weight loss either. It’s just been the headache, fever, and feeling really tired. I’m honestly just trying to get through this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any rashes or stomach issues, like nausea or diarrhea?",
+    "patient_turn": "No, I haven’t had any rashes or stomach issues, like nausea or diarrhea. It’s really just been the headache, fever, and body aches. I’m kinda worried about what’s going on, but I’m just trying to focus on getting better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m taking metformin for my diabetes, a statin for my cholesterol, and some antihypertensive medication for my blood pressure. I’ve been pretty good about taking them, you know? But, um, I haven’t taken anything for the headache besides some over-the-counter pain relievers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve been lucky in that regard, I guess. Just, um, trying to manage everything else going on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions run in your family?",
+    "patient_turn": "Well, my father had premature coronary artery disease and died from a heart attack in his 50s. My mom has hypertension and diabetes, but there’s no family history of cancer. It’s just, um, a bit concerning with my own health issues, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol, and if so, how much?",
+    "patient_turn": "I used to smoke, like a pack a day from ages 25 to 35, but I quit a long time ago. I drink alcohol very rarely, just red wine maybe once a month. I guess I try to keep it pretty minimal, you know?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m a grade 12 student and I’ve been having this sharp pain in my right knee for the last couple of days. It happened when I got kicked during a soccer game, and it’s been kinda bothering me since then… like, it’s swollen and red on the inside part of my knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start after your soccer injury?",
+    "patient_turn": "So, it started, um, like two days ago right after the injury. I mean, it was pretty sharp at first, and it’s sort of stayed the same or maybe gotten a little worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located on your knee? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s mostly on the inside part of my knee, you know, like the medial aspect. Um, it doesn’t really spread anywhere else, just there… and it doesn’t hurt in the back or sides, which is kinda good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, um, especially when I put pressure on it or try to bend or straighten my knee. I’d say it’s about a 5 out of 10 in severity, but it’s really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse?",
+    "patient_turn": "Well, I think lying down makes it worse, but also, I’ve been trying to put ice on it, which helps a bit, I guess. And it’s funny because last week I was watching this documentary about soccer injuries, and they were talking about stretches, so I’ve been trying some of those too, but I’m not sure if they help.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you ever injured your knee before this incident?",
+    "patient_turn": "No, I haven’t had any knee injuries before this. This is the first time something like this has happened to me, and, um, I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any fever or unusual fatigue lately?",
+    "patient_turn": "No, I haven’t felt any fever or unusual fatigue. I mean, I’ve just been dealing with this knee pain, but nothing else like that, so... I guess that’s good?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced pain in any other joints besides your knee?",
+    "patient_turn": "No, I haven’t had any pain in other joints. It’s just my knee that’s been bothering me, which is, um, a bit of a relief, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in sensation or any skin rashes around your knee?",
+    "patient_turn": "No, I haven’t noticed any changes in sensation or any skin rashes around my knee. It’s just the pain and swelling, but nothing else like that, so... I’m kinda glad about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "Um, no, my past medical and surgical history is pretty unremarkable. I haven’t had any surgeries or major health issues, and I don’t have any allergies either. So, yeah, nothing really to worry about there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to any medications?",
+    "patient_turn": "No, I’m not allergic to any medications. I’ve never had any issues with that, so, um, I guess that’s good?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and if you use tobacco, alcohol, or recreational drugs?",
+    "patient_turn": "Sure, I live with my parents and siblings, and, um, I don’t use tobacco or alcohol or any recreational drugs. I’m just focused on school and soccer, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of joint or nerve problems?",
+    "patient_turn": "No, um, my family history is negative for any joint or nerve problems. So, I guess that’s another thing I don’t have to worry about?",
+    "annotation": "Correct"
+  }
+]

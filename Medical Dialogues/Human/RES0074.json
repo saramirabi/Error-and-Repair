@@ -1,0 +1,242 @@
+[
+  {
+    "doctor_turn": "What brought you in today?",
+    "patient_turn": "Yeah, so I've just been feeling a bit off over the last week. First I started having like, just a scratchy throat and that was probably I think 5 days ago that happened and then over the last 3 days I've been having diarrhea and also my whole body is just hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so, when did the sore throat start?",
+    "patient_turn": "I'd say like 5 days ago it started and it first began like kind of a tickle, but now it's more like, even swallowing food hurts a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been eating or drinking less than usual?",
+    "patient_turn": "Uhm, yeah my appetite's been a bit less over the last few days just because of how much it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any neck swelling?",
+    "patient_turn": "Uh, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any redness in the back of your throat?",
+    "patient_turn": "I checked, I didn't see too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And have there been any changes to your voice?",
+    "patient_turn": "Uhm, a little bit, I wouldn't say too significant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and muscle aches, like, when did those start?",
+    "patient_turn": "Yeah, so that started just 3 days ago. I remember waking up and my thighs were hurting, then my upper arms and then it kind of went into my upper back and now it's kind of just general pain in all of the muscles.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you having any muscle weakness?",
+    "patient_turn": "Uhm, I would say it's mainly pain, I don't really feel weakness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how has your energy been? Have you been having fatigue?",
+    "patient_turn": "Yeah, I would say, uh, I don't know if it's because of the pain, but I definitely feel a lot more tired.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned diarrhea as well. When did that start?",
+    "patient_turn": "Yeah, diarrhea also started around 3 days ago. I normally go 1 or 2 times a day, but now I'm going like 6 or 7 times a day and it's all usually pretty watery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any blood in the stool?",
+    "patient_turn": "No, I don't think I noticed blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any, really like, dark or tarry looking stool?",
+    "patient_turn": "No, it's usually just been loose watery stools.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been experiencing any other symptoms besides the sore throat, muscle aches, fatigue, and diarrhea?",
+    "patient_turn": "Uhm, no, I don't think so. Those are probably all of the symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so quickly to run through a review. Have you been having any fevers or chills?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any headaches?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had a runny nose?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a loss of smell or taste?",
+    "patient_turn": "I don't think so. I haven't been really eating too much recently, but I don't think so, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A wheeze?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, you said you haven't had a cough, but have you brought up any sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chest pain?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any dizziness or lightheadedness?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any feeling as though your heart is racing.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any abdominal pain?",
+    "patient_turn": "Uhm, maybe just a little bit with all the diarrhea, I feel like I do have some, Just, tenderness in my abdomen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh and have you had any nausea or vomiting?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any urinary problems?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any rashes anywhere?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any changes to your weight recently or over the last several months?",
+    "patient_turn": "No, my weight has been around the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been diagnosed with any medical conditions before?",
+    "patient_turn": "Yeah, so I have high blood pressure and high cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you take any medications for either of those?",
+    "patient_turn": "Yeah, so for the cholesterol I'm taking this medication called Crestor. For the high blood pressure I'm taking this medication called Ramipril.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and do you take any other medications like over the counter or supplements or prescribed?",
+    "patient_turn": "Just multi-vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been hospitalized before?",
+    "patient_turn": "Just, like, in my teens I had my appendix removed but that's it. I have been pretty good otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any other surgeries besides the appendix removed?",
+    "patient_turn": "No, that's the only surgery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any allergies to medications?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and can you tell me a little bit about your living situation?",
+    "patient_turn": "Yeah, so I currently live with my wife and son. We live in a house just in London, and like, I made sure to just isolate myself to one room and I wear a mask around them just in case.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anybody else in that house been sick?",
+    "patient_turn": "No, no one has been sick recently, at least in my house, but uh, just two weeks ago I did attend a family event, and just last week I found out, uhm, someone was having symptoms. They just got tested two days ago and their test result hasn't come back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see. And have you traveled anywhere outside of the province or outside of the country?",
+    "patient_turn": "No, it was just here in London, so nothing other than that. I haven't left the province.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what was the approximate number of people?",
+    "patient_turn": "It was just five peaople so we satyed within the limits stated for the city and they were people, in like, my circle as well, so yeah, I don't think I was doing anything wrong.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, just to give an idea of like, risk and contact tracing as well if we need to. And, uh, do you smoke cigarettes?",
+    "patient_turn": "No, I don't smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Yeah, maybe a one or two beers a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, do you use any recreational drugs?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, uh, in terms of family history, does anybody in the family have any heart or lung conditions?",
+    "patient_turn": "No, no, not that I know of. I Do you think my brother, my older brother, has high blood pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, nobody's had a heart attack or a stroke?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or any cancer in the family?",
+    "patient_turn": "Oh yeah, cancer, uh, so my father has. It's not the bad skin cancer, it's the one where they can just zap it off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and so, he hasn't needed surgery for it?",
+    "patient_turn": "No?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and I think that's all the questions that I wanted to ask today. Was there anything else that that maybe I forgot to tell you or forgot to ask about?",
+    "patient_turn": "Yeah, I was just wondering, I don't know the results of the contact that I had, uh, so should I also get tested today?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly with nonspecific symptoms such as what you've been experiencing, we will do a test for covid today. However, we will do some lab investigations as well, because it could be something else, so we'll wait for some of those results to come back, and it's great that you've already taken the initiative to isolate from family members and whatnot. And so I ask you to continue doing so, and we will get back to you when the results are in.",
+    "patient_turn": "OK, yeah, that sounds good, thank you so much.",
+    "annotation": "Correct"
+  }
+]

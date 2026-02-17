@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my son, he had this sudden, really bad cough and wheezing during soccer practice yesterday. It was, like, really scary for me, and he had trouble breathing for a bit, but it got better after about an hour. I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and wheezing?",
+    "patient_turn": "Uh, it started yesterday afternoon, during soccer practice. He just, um, suddenly started coughing really hard and wheezing, and it was pretty dry and muffled. It was, like, out of nowhere, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough or wheezing changed since it first started?",
+    "patient_turn": "Oh, you know, I was just thinking about how my neighbor's dog barks all night. It’s really annoying. But, um, the cough is still pretty much the same, I guess.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and wheezing seem to be coming from?",
+    "patient_turn": "Um, I think it’s coming from his chest, you know? It sounds really tight and, uh, wheezy, like he’s having trouble getting air out. It’s just, um, really concerning to hear him like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or does it bring up any mucus?",
+    "patient_turn": "It’s, um, really dry, like, there’s no mucus or anything coming up. Just this harsh, dry cough that sounds, uh, pretty uncomfortable for him. I feel bad because he’s only six, and it must be tough for him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and wheezing?",
+    "patient_turn": "Oh, um, I already mentioned it, but it was yesterday afternoon during soccer practice. It just came on suddenly, and I was really worried when I saw him struggling to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and wheezing are located?",
+    "patient_turn": "Uh, I think it’s mostly in his chest. It sounds like it’s coming from deep down, you know? It’s just really concerning to hear him wheeze like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it dry or does it produce any mucus?",
+    "patient_turn": "Uh, it sounds kind of, you know, rough? I think it might be dry, but I’m not totally sure. And, um, sometimes it seems like there might be a little bit of something, but, like, I can’t really tell.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and wheezing?",
+    "patient_turn": "Um, I think I already said, but it was yesterday afternoon during soccer practice. It just came on really suddenly, and it was, like, super alarming for me to see him like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough or wheezing changed since it first started?",
+    "patient_turn": "Yeah, um, the wheezing has gotten a bit better since it first started, but it’s still there. The cough is still pretty much the same, though, and I’m just, like, really worried about him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough and wheezing in his chest?",
+    "patient_turn": "Um, I’m not really sure, like, exactly where in his chest it is. It just sounds really tight, you know? It’s hard for me to pinpoint, but it definitely feels like it’s deep down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and wheezing?",
+    "patient_turn": "Um, I think it was maybe yesterday or the day before? It’s a bit fuzzy in my mind. I’m not really sure about the exact timing, though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has the cough or wheezing changed at all since it first started?",
+    "patient_turn": "Yeah, um, the wheezing has improved a bit since it first started, but it’s still there. The cough is still pretty much the same, and I’m just, like, really worried about him. I hope it gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and wheezing feel the strongest?",
+    "patient_turn": "Um, I think it feels the strongest in his chest, you know? It sounds like it’s coming from deep down, and it’s just really concerning to hear him wheeze like that. I wish I could help him feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any fever or rash in the past few days?",
+    "patient_turn": "No, um, he hasn’t had any fever or rash at all. It’s just been the cough and wheezing, and, honestly, I’m kinda relieved there’s no fever or anything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever been diagnosed with asthma or had similar breathing issues before?",
+    "patient_turn": "No, um, he’s never been diagnosed with asthma or had any breathing issues like this before. He’s pretty healthy overall, but, you know, his sister has asthma, so I’m a bit worried it might be something similar.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any known allergies besides his seasonal environmental allergies?",
+    "patient_turn": "Um, no, not that I know of. He has those seasonal environmental allergies that we treat with antihistamines, but, like, I don’t think he has any other allergies. I’m just, uh, really hoping that’s not causing this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease besides your son's sister with asthma?",
+    "patient_turn": "No, um, there’s really just his sister with asthma in the family. No other history of lung or heart disease that I know of. It’s just, like, making me a bit anxious because I want to make sure he’s okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, um, he hasn’t traveled recently, and I don’t think he’s been around anyone who was sick either. It’s just been, like, normal activities, you know? So, I’m not really sure what’s causing this.",
+    "annotation": "Correct"
+  }
+]

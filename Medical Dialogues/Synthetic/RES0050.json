@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. So, I’ve had this chronic cough for like five years, but it got a lot worse in the last three days. I’m also producing more sputum, and it’s changed from clear to yellow and green, which is kinda worrying. Plus, I’ve been wheezing and feeling short of breath, especially when I’m doing daily activities… it’s just really exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the change in your cough and sputum production?",
+    "patient_turn": "Uh, it was about three days ago when I really noticed it getting worse. I mean, before that, it was just a chronic cough, but now it feels like I’m coughing more and, um, the sputum is definitely different. It’s just been really concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the discomfort when you cough?",
+    "patient_turn": "Um, I think it’s in my chest, but it’s kind of hard to pinpoint exactly, you know? It’s just... uncomfortable, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the discomfort in your chest when you cough?",
+    "patient_turn": "It’s, um, like a dull ache, I guess? It’s not sharp or anything, but it’s definitely there when I cough. It just makes me feel more tired and, honestly, a bit anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this discomfort in your chest?",
+    "patient_turn": "I think it started around the same time as the cough got worse, so, um, about three days ago. It’s just been, you know, kind of a constant thing since then, especially when I’m coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the discomfort changed in intensity or frequency since it first started?",
+    "patient_turn": "Um, I’d say it’s pretty much stayed the same since it started. It’s not getting worse, but it’s definitely there every time I cough, which is, you know, pretty annoying and concerning. I’m just kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel this discomfort in your chest?",
+    "patient_turn": "Uh, it’s mostly in the center of my chest, I think. It’s not on one side or the other, just sort of right in the middle. It’s hard to explain, but it’s definitely related to the coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the discomfort ever spread to other areas, like your shoulders, arms, or back?",
+    "patient_turn": "A... ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the discomfort? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s definitely more of a dull feeling, I guess. It’s not sharp at all, just sort of... there, you know? It’s uncomfortable, especially when I cough, but it’s not like a stabbing pain or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the discomfort better or worse for you?",
+    "patient_turn": "Well, um, coughing definitely makes it worse, obviously. And I think just, you know, being active or doing anything that requires effort makes it feel more uncomfortable. But I’m not really sure if there’s anything that makes it better… maybe just resting a bit?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or feeling unusually tired?",
+    "patient_turn": "Yeah, I’ve definitely been feeling short of breath, especially when I’m doing daily activities. It’s, um, really tiring, to be honest. I’ve also noticed I’m more fatigued than usual, but I don’t have dizziness or anything like that. Just, you know, feeling worn out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, drinking alcohol, or exercising?",
+    "patient_turn": "Uh, I used to smoke, like, a lot—about 45 pack-years—but I quit two years ago. I drink alcohol occasionally, maybe once every two weeks, but I don’t really exercise much. I mean, I try to stay active, but with this cough and shortness of breath, it’s been hard to do anything more than just, you know, the basics.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Well, I have hypertension and diabetes, so I take a beta blocker and metformin for those. Oh, and I also take calcium and vitamin D supplements, but I think I might have forgotten to mention that I used to smoke, like, a lot, but I quit two years ago. It was really hard, you know? And I drink occasionally, maybe like once every two weeks, but I don't really keep track. Also, I haven't had any surgeries, and my immunizations should be up to date, but I think I missed the pneumococcal vaccine.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or fatigue?",
+    "patient_turn": "Yeah, I’ve definitely been feeling breathless, especially when I’m doing anything active. It’s, um, really frustrating. And I’m also feeling more fatigued than usual, but I haven’t had any dizziness or anything like that. Just, you know, really tired and worn out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough getting worse?",
+    "patient_turn": "Uh, it was about three days ago. Before that, it was just my usual chronic cough, but then it suddenly got a lot worse, and I started producing more sputum, which is, um, really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or night sweats recently?",
+    "patient_turn": "No, I haven’t had any fever, chills, or night sweats at all. It’s just been the cough and the shortness of breath, but, um, I’m glad I don’t have those other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your sputum?",
+    "patient_turn": "No, I haven’t noticed any blood in my sputum, thank goodness. It’s just been yellow and green, but no blood or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any ear or eye symptoms, like pain or changes in vision?",
+    "patient_turn": "Um, no, I haven’t had any ear or eye symptoms at all. It’s just really been focused on the cough and the shortness of breath, you know? No pain or changes in vision or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nasal congestion or a sore throat recently?",
+    "patient_turn": "No, I haven’t had any nasal congestion or a sore throat. It’s just the cough and the shortness of breath that have been bothering me, but nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell or taste lately?",
+    "patient_turn": "Uh, no, I haven’t noticed any changes in my sense of smell or taste. It’s really just been the cough and the breathing issues that are, um, concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss or felt your heart racing or fluttering?",
+    "patient_turn": "No, I haven’t experienced any weight loss, and my heart hasn’t been racing or fluttering either. It’s just the cough and feeling tired, you know? Nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "No, I haven’t noticed any swelling in my legs or feet. It’s really just the cough and shortness of breath that are, um, bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes in your urination or bowel movements recently?",
+    "patient_turn": "No, I haven’t had any changes in my urination or bowel movements. It’s just been the cough and the breathing issues that are, um, really concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any joint or muscle pain, rash, nausea, or vomiting lately?",
+    "patient_turn": "No, I haven’t had any joint or muscle pain, rash, nausea, or vomiting. It’s really just the cough and feeling short of breath that are, um, making me anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "No, I haven’t had any surgeries in the past. I mean, I’ve been pretty healthy aside from my chronic cough and the other issues I mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I’ve been pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of heart or lung disease?",
+    "patient_turn": "No, there’s no family history of heart or lung disease. The only thing is, um, there’s liver cancer in the family, but that’s about it.",
+    "annotation": "Correct"
+  }
+]

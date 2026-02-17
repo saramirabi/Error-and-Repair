@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this dry cough for about five or six months now, and it's been getting worse. Lately, I've also been feeling really short of breath, even when I'm just sitting around, you know? It's kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and shortness of breath?",
+    "patient_turn": "Well, I think the cough started about five or six months ago, but, um, the shortness of breath has really ramped up in the last month or so. It's just, like, getting harder to breathe, especially when I try to do anything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain or discomfort is located? Does it spread anywhere else?",
+    "patient_turn": "Um, the discomfort is mostly in my chest, and it kinda hurts when I take a deep breath. I don’t think it really spreads anywhere else, but, honestly, it’s just… it’s uncomfortable, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Uh, it feels more like a pressure, I guess? Sometimes it’s a bit sharp, especially when I breathe deeply. It’s just, um, really uncomfortable, and I’m not sure what’s causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Oh, you know, I was thinking about how I need to clean out my garage this weekend. It’s been a mess, and I might find some old tools in there.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, I think it gets worse when I try to do anything physical, like walking or, you know, even just getting up from the couch. Lying down sometimes helps a little, but, honestly, it’s still there, and it’s kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Well, I just remembered that I haven’t had pizza in a while, and I was thinking about trying a new place.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Oh, I remember this one time I went fishing, and it was such a great day out on the lake.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yeah, I’ve definitely noticed the shortness of breath, especially over the past month. It’s, um, pretty concerning because it happens even when I’m just sitting still. I haven’t really felt dizzy or nauseous, though, so that’s something, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "Uh, I’ve been smoking for about 55 years now, which is, like, a really long time. I’m currently smoking about a pack a day. Honestly, I know it’s not good for me, but it’s just been a part of my life for so long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I have. I’ve lost about 15 pounds over the past two months, and it’s, um, kind of concerning because I didn’t really mean to lose that weight. I guess I’ve just not been feeling great, and it’s hard to eat sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats recently?",
+    "patient_turn": "Um, yeah, I’ve been having night sweats, like, once or twice a week for the past two to four weeks. It’s really uncomfortable, and I’m not sure what’s causing it. It just adds to everything else I’m dealing with, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any lung disease in the past?",
+    "patient_turn": "Uh, no, I haven’t been diagnosed with any lung disease before. I mean, I’ve had some other health issues, but nothing related to my lungs. This is all pretty new for me, and it’s, um, really worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last health checkup or lung scan?",
+    "patient_turn": "Um, I haven’t had a recent health checkup or lung scan, to be honest. It’s been a while since I’ve seen a doctor for anything like that, and I guess I just kinda let it slip. Now I’m really starting to regret that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I mean, I’ve been taking some medications for my other health issues, but nothing has ever caused me any problems, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What other medical conditions do you have besides osteoarthritis, BPH, and hypertension?",
+    "patient_turn": "Um, those are pretty much the main ones I have—osteoarthritis, benign prostatic hyperplasia, and hypertension. I don’t have any other major medical conditions that I know of, but, honestly, with everything going on now, I’m starting to feel a bit overwhelmed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use any recreational drugs. I’ve just never really been into that stuff, you know? I guess I’ve always focused on other things, but now with all these health issues, it’s just… it’s a lot to handle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and what kind of support do you have?",
+    "patient_turn": "I live alone, but I do have good support from my kids who live nearby. They check in on me and help out when they can, which is nice. I mean, I’m independent with daily activities, but it’s comforting to know they’re there for me, especially now with everything going on.",
+    "annotation": "Correct"
+  }
+]

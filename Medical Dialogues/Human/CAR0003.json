@@ -1,0 +1,307 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did you first start feeling breathless?",
+    "patient_turn": "About two months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did it come on about like gradually through time or suddenly just happened?",
+    "patient_turn": "I guess gradually, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, do you feel, uh, how often do you feel breathless?",
+    "patient_turn": "I'd say it's worse when I when I walk more than 50 meters. That's kind of the main like that's kind of the main trigger, just exertion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and were you able to walk normally more than 50 meters before two months?",
+    "patient_turn": "Yeah, three months ago I was fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you have any other symptoms like cough or chest pain?",
+    "patient_turn": "I have a cough sometimes, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but nothing like constant?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any wet cough or any productive cough or are you producing like sputum or phlegm?",
+    "patient_turn": "Yeah, I guess I'd say I have this frothy sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has your breathlessness been getting any worse at all over the last two months?",
+    "patient_turn": "I would say so, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you mentioned like exertion makes it worse, but anything else like going outside or exposure to any chemicals that makes it worse?",
+    "patient_turn": "Uh, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about a positional changes? Does lying flat at all make it worse?",
+    "patient_turn": "I would say so, yes. Yeah, I'm basically gasping for air when I lay down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you ever find yourself waking up at night in the middle of the night to catch your breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And when do you feel the breathlessness the most? Is it more so during the day or at night?",
+    "patient_turn": "I guess it's worse at night because I'm laying down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Great and, in terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number?",
+    "patient_turn": "I would say like 3/4.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three or four steps, OK. And was there anything new that happened in your life recently? Any new medical diagnosis recently? Or any travel that happened before you started having these symptoms?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and prior to two months, have you ever had any similar experiences?",
+    "patient_turn": "Prior to 2 months? No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, does anything make it better? Like any positional changes makes the breathlessness go away?",
+    "patient_turn": "I guess when I I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you having any other symptoms like sore throat, runny nose, chest pain, dizziness, anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you recently traveled outside of the country?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you recently had any surgeries?",
+    "patient_turn": "No recent surgeries, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any headache nausea or vomiting?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any fevers or chills or night sweats.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you feel increasingly fatigued throughout the day?",
+    "patient_turn": "Uh, I would say so, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any changes in your bowel movements at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any chest pain at all within the last two months?",
+    "patient_turn": "No, no chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any swelling in your in your legs, ankles, or in your hands and arms?",
+    "patient_turn": "There is some swelling.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and uh, where do you, where are you getting this swelling?",
+    "patient_turn": "Around my legs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how when did you first notice this?",
+    "patient_turn": "Around the same time actually two months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed any kind of fevers at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been in contact with anyone that has been ill recently?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been coughing up any blood at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, apart from the breathlessness when laying down, any other issues with your sleep?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your appetite?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any recent infections like a cold at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any exposure to tuberculosis in the past?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any exposure to fumes or dust within your home or work environment?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any animals or pets in the house?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in terms of your past medical history, has anyone told you that you have anything like COPD or any cardiovascular issues like high blood pressure, cholesterol?",
+    "patient_turn": "Um so, yeah, so I have high blood pressure, diabetes and high cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you take any medications for this?",
+    "patient_turn": "Yep, so I take aspirin, ramipril and simvastatin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever had any chest pain or heart attack in the past?",
+    "patient_turn": "Yeah, actually I had a heart attack four years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you remember what they did for your heart attack?",
+    "patient_turn": "Something like a stent or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and since then you've been on these medications?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and after they managed your heart attack, have you ever had similar symptoms to when you had your heart attack?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "nothing like that? OK. Do you have any allergies to any medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any environmental allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you previously had any surgeries in the past?",
+    "patient_turn": "Um, I guess the stenting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just the stenting? And apart from that, have you had any other previous hospitalizations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any family history of any cancers or heart attacks?",
+    "patient_turn": "Um, my father died of a heart attack when he was 60.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently do you work at all?",
+    "patient_turn": "I do, um, I work as a cashier.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has the shortness of breath been affecting your daily routine at home or at work at all?",
+    "patient_turn": "Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And at home, do you currently live with anyone or do you live by yourself?",
+    "patient_turn": "I live by myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you live in an apartment or house?",
+    "patient_turn": "I live in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are there any exposures like dust or mold or asbestos in your home environment?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently do you smoke?",
+    "patient_turn": "Not right now. I used to smoke. I used to smoke 10 a day for like 40 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use any recreational drugs like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in terms of your daily routine, do you feel that you get 3 meals a day, a well balanced diet?",
+    "patient_turn": "I wouldn't say well balanced. I'm trying to eat healthier but doesn't always happen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about exercise? Do you find that your exercise levels or activity levels have gone down in the last two months?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, is there any other questions or concerns that you have or something I may have missed to ask you today?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  }
+]

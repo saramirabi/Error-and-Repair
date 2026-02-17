@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my son has had a sore throat for about three days now. He’s also running a really high fever, like, um, 39.4°C, and it’s been hard for him to swallow… it’s kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice his sore throat?",
+    "patient_turn": "Uh, I first noticed it about three days ago. He was, um, complaining about it and then it just got worse, you know? He’s been in a lot of pain when he tries to eat solid foods.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started?",
+    "patient_turn": "Um, I think it’s gotten worse, to be honest. At first, he was just a bit uncomfortable, but now it really seems to hurt him a lot when he swallows. He can drink cold liquids, but, like, solid foods are really tough for him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does he feel the pain in his throat?",
+    "patient_turn": "Well, um, it seems to be more in the back of his throat. I noticed it’s really red back there, but, uh, he hasn’t mentioned any specific spots, just that it hurts when he swallows.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for him? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Well, you know, I was thinking about what to have for dinner later. I might just make some pasta, but I haven't decided on the sauce yet.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for him?",
+    "patient_turn": "Um, cold liquids seem to help a bit, like, he can drink those without too much trouble. But, uh, solid foods definitely make it worse, and I think just swallowing in general is really painful for him. It’s kinda hard to watch him struggle like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any other symptoms, like a cough, difficulty breathing, or feeling dizzy?",
+    "patient_turn": "No, um, he hasn’t had any cough or breathing issues, which is a relief. He’s just been really focused on the sore throat and the fever. No dizziness or anything like that, just the pain and, um, the high fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been experiencing the sore throat and fever?",
+    "patient_turn": "Uh, the sore throat has been going on for about three days, and the fever started around the same time, I think. It’s been pretty high, like, 39.4°C, and it just hasn’t really gone down. I’m kinda worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for him? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Uh, I think it’s more of a sharp pain for him, especially when he tries to swallow. It seems really intense, you know? He doesn’t really describe it much, but I can tell it’s bothering him a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse for him?",
+    "patient_turn": "Oh, I just remembered that I need to pick up some milk on my way home. It’s been a bit hectic lately, you know?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Has he experienced any other symptoms, like difficulty breathing, dizziness, or feeling nauseous?",
+    "patient_turn": "No, um, he hasn’t had any difficulty breathing or dizziness, which is good. He’s just been dealing with the sore throat and the fever. No nausea or anything like that, just, um, the pain and the high temperature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about his daily habits, like his eating, drinking, and activity levels?",
+    "patient_turn": "Uh, well, he usually eats pretty well, but lately he’s been, um, not wanting to eat solid foods because of the throat pain. He can drink cold liquids, but, you know, he’s not really eating much at all. As for activity, he’s been a bit more tired and just wants to rest, which is unusual for him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any recent illnesses or infections, like colds or fevers, before this sore throat?",
+    "patient_turn": "Um, no, he hasn’t had any recent illnesses before this. He’s been pretty healthy, actually. But, uh, his little sister has had some colds recently, and they both go to the same daycare, so I guess that might be a factor?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any allergies or reactions to medications in the past?",
+    "patient_turn": "No, um, he doesn’t have any known allergies, and he hasn’t had any reactions to medications either. He’s been pretty healthy overall, so that’s not something I’m worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been eating less solid food since the sore throat started?",
+    "patient_turn": "Yeah, definitely. Since the sore throat started, he’s really been avoiding solid foods. It’s just too painful for him to swallow, so he’s mostly sticking to cold liquids, which is, um, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did the mother have any health issues during her pregnancy?",
+    "patient_turn": "Um, yeah, I remember she had gestational diabetes, but it was managed by diet. Other than that, I think everything was pretty normal during the pregnancy. He was born full-term and had a normal birth weight, so, um, no major issues there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in the family have a history of lung problems?",
+    "patient_turn": "No, um, there’s no family history of lung conditions that I know of. It’s just been pretty normal for us, so I’m not really worried about that aspect.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your home environment like?",
+    "patient_turn": "Well, um, our home is pretty supportive and, you know, we try to keep it clean. There’s minimal carpeting, and we don’t have any exposure to tobacco smoke or recreational drugs. It’s a good environment for the kids, I think, but, um, I’m just really worried about my son right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your son meeting his developmental milestones for his age?",
+    "patient_turn": "Yeah, um, he’s been meeting all his developmental milestones and growing normally. He’s a bright little guy, so it’s just hard to see him like this, you know? I’m really hoping he gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your son up to date with all his immunizations?",
+    "patient_turn": "Yes, um, he’s up to date with all his immunizations. We’ve been keeping track of that, so I’m not worried about that part. It’s just this sore throat and fever that’s really concerning me right now.",
+    "annotation": "Correct"
+  }
+]

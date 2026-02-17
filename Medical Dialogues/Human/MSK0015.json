@@ -1,0 +1,237 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Yeah, so I'm I'm George, the father, my daughter is 5 years old and I noticed just a few days ago that she was walking a little bit funny and kind of having a limp when she came back from school. And since since that then, she's been saying that it just hurts too much to put any weight on on that leg, on the right leg. And since then I've been like carrying her around. It's been very painful for her. So I just wanted to come in and check what might be going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and so so. And this, when did this exactly start?",
+    "patient_turn": "So just two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, an um did she have any trauma to her right hip or or to hurt your right leg like a fall or any injuries?",
+    "patient_turn": "Sorry um no. Not that I know of at least and she hasn't told me anything like that. She does do some activities, some sports, but I haven't seen her fall anywhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um. Alright, and uh, has she has she not not been able to walk then?",
+    "patient_turn": "Yeah, so I've I've been carrying around for at least like she's missed school too, but been carrying her around for the last 1 1/2 to two days. As soon as I had like ask her to walk she starts kind of a hopping and saying that there's a lot of pain near the top of her leg and by your hips whenever she puts her foot like a foot down. So yeah, she's in pain crying, so I kind of have to carry her.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK. And, uh, how has her behaviour been recently like her mood and things like that?",
+    "patient_turn": "She's definitely been more just, a bit anxious about the pain. Very scared about putting her foot down and just overall, I think also more irritable crying more because of the pain so but I I guess I understand if there's something going on it must be very painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. Alright, has she had any fevers or chills?",
+    "patient_turn": "Uhm I. Did notice a couple of days ago she felt a bit warm but we didn't really measure her temperature. Over the last few weeks, though, she has had a. Kind of a runny nose and a cough and I think she might have had a fever last week as well so she has been sick recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it sounds like she might have had a cold last week and did like the runny nose and cough go away?",
+    "patient_turn": "Yeah, the runny nose and cough are gone. Fever was gone too, but she did feel a little bit warm yesterday so I'm not sure about that.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so she's at a a bit warm now still OK.",
+    "patient_turn": "Yup.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any any headaches?",
+    "patient_turn": "No, no headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sensory changes like things to her vision or hearing or taste or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any um sore throat or cough?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had a loss of appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has she had any unexpected weight loss?",
+    "patient_turn": "Oh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any abdominal pain?",
+    "patient_turn": "No abdominal pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes to bowel movements such as diarrhea or constipation, incontinence?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any problems with urination like pain or frequency?",
+    "patient_turn": "No, not that she's mentioned, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any skin rashes or changes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any muscle aches or body pains or any other pains anywhere else?",
+    "patient_turn": "Yeah, I just got my general like I have osteoarthritis, so I like It's been a pretty long time though but I get some pain in my hips sometimes my knees, so it's it's that's been going on for awhile, but this is something I've never experienced though like this significant pain and swelling and redness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any changes to your memory or any confusion?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any unexpected weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Um in the past have you been diagnosed with any medical conditions?",
+    "patient_turn": "I do have. So I have a couple conditions. I have osteoarthritis in both my knees and hips. I have high blood pressure. I did have a heart attack four years ago and I also have had heart failure. And also I'm just a bit on the overweight side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you currently taking any medications?",
+    "patient_turn": "Yeah, so I am taking just um Furosemide then Ramipril for my blood pressure. But yeah, that's that's about it right now and like just painkillers over the counter.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And any allergies to medications?",
+    "patient_turn": "Um, just to have a penicillin allergy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what's the rash, or sorry what's the reaction?",
+    "patient_turn": "I don't really remember I was a child at that time. I don't remember what reaction I really got.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK and have you had any prior hospitalizations or surgeries?",
+    "patient_turn": "Surgeries I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did you have any surgeries on your on your heart like a cabbage or?",
+    "patient_turn": "I had a couple a couple of stents put in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you take aspirin for that?",
+    "patient_turn": "Um yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, Alright, and could you tell me a little bit about where you're living and who you're living with?",
+    "patient_turn": "Yeah, I live with my wife and daughter. And kind of live in a small little townhouse just, in the city.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, are you currently working or uh, are you retired?",
+    "patient_turn": "I I kind of had to retire after just my past medical history like the heart attack and then. There was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. My wife still works. Yeah, I'm taking it more easy now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And with being at home, are you able to manage the majority of activities of daily living on your own, or are you receiving help?",
+    "patient_turn": "Oh you're not receiving any outside help. I can do most things myself. My wife does most of our shopping and cooking though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you drink alcohol?",
+    "patient_turn": "Yeah, I I do. I do drink probably drink like three or four beers a night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Ann, and at the smoke cigarettes?",
+    "patient_turn": "I used to I I forced myself to quit after my heart attack.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well that's good. I'm glad that you quit and how long did you spoke for and how much were you smoking during that time?",
+    "patient_turn": "Probably smoked for more than 30 years and I was smoking only one to two packs a day at most.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. OK, and then I about your um family history. Is there anybody in the family that has any heart or lung conditions?",
+    "patient_turn": "Yeah, so heart disease runs in my family. My brother, my dad, they both both have had heart attacks. But yeah, my on my mom side everyones pretty healthy though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, that's good, and Alright, so I just wanted to the I guess physical exam piece you've already mentioned that it's red, it's swollen and is warm to touch compared to the other knee and um painful to move. Are you having any limping with your gait?",
+    "patient_turn": "Yeah, I barely like I can't really put too much away or move that knee around. So yeah, if I stood up I would have a limp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and is there any instability to either varus or valgus stress?",
+    "patient_turn": "Uhm, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any instability when testing the ACL or PCL with the anterior and posterior kind of translation test. Pulling and pushing it?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any I don't think I asked this any muscle weakness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any numbness, tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or burning sensations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so that was everything that I wanted to check. Was there any anything that I may be missed or any final questions?",
+    "patient_turn": "No, yeah no, I was just I I just don't know if like this is serious and if I need surgery or something because it's been really painful.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Yeah, certainly so right now the top thing on top two things on the differential would be gout or pseudogout they do have some risk factors for that, including a diuretic medication as well as alcohol and obesity are all risk factors for it. However, you also had a knee injection a week ago, which could predispose to an infection. So gout and septic arthritis are the two things that I am thinking about an, so we'll do a knee aspiration and send that off for some investigations and that will help us determine which what the cause is and we can choose the appropriate appropriate treatment.",
+    "patient_turn": "OK, sounds good.",
+    "annotation": "Correct"
+  }
+]

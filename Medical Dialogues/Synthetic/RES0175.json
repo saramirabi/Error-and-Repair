@@ -1,0 +1,142 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been feeling generally unwell for the past two days. I have a dry cough, muscle aches, chills, and I'm really tired. I also noticed I've lost my sense of taste recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms?",
+    "patient_turn": "I first noticed the symptoms about two days ago. It started with feeling unwell, and then the cough and muscle aches followed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your symptoms changed since they first started?",
+    "patient_turn": "They’ve mostly stayed the same since they started. The cough is still dry, and I still feel fatigued and achy. I haven't noticed any improvement or worsening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the muscle aches?",
+    "patient_turn": "The muscle aches are pretty much all over my body. It feels like my arms and legs are heavy, and I just feel generally sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your breathing, like wheezing or shortness of breath?",
+    "patient_turn": "Yeah, I’ve noticed a little wheezing, but it’s not too bad. I mean, I also went for a long walk a couple of days ago, and maybe that made me feel a bit more winded than usual. Also, I’ve been trying to drink more water lately, but sometimes I forget, you know? And my neighbor's dog barks all night, which doesn’t help.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or wheezing in the past?",
+    "patient_turn": "I don’t have a history of cough or wheezing. This is the first time I’ve experienced anything like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus when you cough?",
+    "patient_turn": "No, I haven’t noticed any mucus when I cough. It’s just a dry cough without any sputum production.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood?",
+    "patient_turn": "No, I haven’t coughed up any blood at all. It’s just a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any headaches right now?",
+    "patient_turn": "No, I’m not experiencing any headaches right now. Just the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat at the moment?",
+    "patient_turn": "No, I don’t have a sore throat. It’s just the cough and other symptoms I mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any nasal congestion or runny nose?",
+    "patient_turn": "No, I don’t have any nasal congestion or a runny nose. My symptoms are mostly the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting recently?",
+    "patient_turn": "No, I haven’t felt nauseous or experienced any vomiting. My symptoms are mainly the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain or diarrhea lately?",
+    "patient_turn": "No, I haven’t had any abdominal pain or diarrhea. My symptoms are just the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urination recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my urination. Everything seems normal there, just the other symptoms I mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your skin, like rashes or discoloration?",
+    "patient_turn": "No, I haven’t noticed any changes in my skin, like rashes or discoloration. My symptoms are just the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or lightheadedness recently?",
+    "patient_turn": "No, I haven’t experienced any dizziness or lightheadedness. I just feel fatigued and achy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any heart palpitations or an irregular heartbeat lately?",
+    "patient_turn": "No, I haven’t felt any heart palpitations or irregular heartbeat. My symptoms are mainly the cough, muscle aches, and fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt faint or lost consciousness at any time recently?",
+    "patient_turn": "No, I haven’t felt faint or lost consciousness at any time. I’ve just been feeling unwell with the cough and muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "I have benign prostatic hyperplasia (BPH), which I manage with tamsulosin (Flomax). I haven’t had any surgeries or hospitalizations, and I don’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking besides tamsulosin?",
+    "patient_turn": "I'm not taking any other medications besides tamsulosin. That's the only one I use for my BPH.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "No, I haven’t had any surgeries in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or other substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife, and she’s currently asymptomatic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick recently?",
+    "patient_turn": "No, I haven’t been in contact with anyone who has been sick recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke cigarettes in the past?",
+    "patient_turn": "Yes, I smoked cigarettes for about 20 years, but I quit 10 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol occasionally, about once or twice a month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of heart disease or other significant medical conditions?",
+    "patient_turn": "Yes, there is a family history of hypertrophic cardiomyopathy and early sudden cardiac deaths. My brother passed away at age 15 due to it. I'm under cardiology follow-up with regular checkups.",
+    "annotation": "Correct"
+  }
+]

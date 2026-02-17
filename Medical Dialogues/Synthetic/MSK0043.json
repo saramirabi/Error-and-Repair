@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this really severe pain in my left knee… it just started a few hours ago, and it’s, like, stabbing and really bad. It’s swollen, red, and I can’t move it at all without it hurting a lot. I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain in your knee first start?",
+    "patient_turn": "It, um, started just a few hours ago. I mean, it came on really suddenly, and it’s been, like, a 9 out of 10 on the pain scale. I didn’t do anything to hurt it, so it’s really confusing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started?",
+    "patient_turn": "Uh, not really… it’s just gotten worse, honestly. Like, any movement or pressure makes it hurt even more. I can’t bear weight on it at all without help, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your knee? Does it spread to any other areas?",
+    "patient_turn": "It’s, um, all over my left knee, you know? It feels like it’s just in the whole area, and it’s really tender. I don’t think it spreads anywhere else, just… just my knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, like, um, stabbing pain. It’s really intense, and it just makes it hard to do anything with my knee. I can’t even, like, move it without it hurting a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "Um, I think I was just, you know, sitting around, maybe watching TV or something? I'm not really sure, it just kind of came on suddenly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in the knee, or does it spread anywhere else?",
+    "patient_turn": "Well, the pain is mostly in my knee, like, the whole area feels really bad. I mean, I can’t really bend it at all, and it’s kind of warm. Also, I was just thinking about how I haven't been able to play basketball for a while now, which is frustrating. I do remember I had this weird sensation the other day when I was trying to walk, but that might not be related.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you felt feverish or unwell at any time recently?",
+    "patient_turn": "Yeah, I’ve been feeling a bit feverish today, but, um, no chills or anything like that. I just feel off, you know? It’s adding to my worry about the knee pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach issues, nausea, or vomiting recently?",
+    "patient_turn": "Um, no, I haven’t had any stomach issues, nausea, or vomiting. It’s just been the knee pain and feeling a bit feverish today. I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or sexually transmitted diseases?",
+    "patient_turn": "No, I haven’t had any recent infections or sexually transmitted diseases. I’m not really sure what’s going on with my knee, but that’s not something I’ve dealt with recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent tick bites or noticed any rashes on your body?",
+    "patient_turn": "Uh, no, I haven’t had any recent tick bites or noticed any rashes anywhere on my body. It’s just this sudden knee pain that’s really concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of diabetes or any other medical conditions?",
+    "patient_turn": "Yeah, I have poorly controlled diabetes that I manage, um, intermittently with metformin. I also had hepatitis C a couple of years ago, but that’s been treated. I’m just really worried about this knee pain right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, I was treated for hepatitis C about two years ago.",
+    "patient_turn": "Oh, um, yeah, I was treated for hepatitis C about two years ago, likely from, you know, intravenous opioid use. I’m just trying to focus on this knee pain right now, though. It’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any episodes of cellulitis in the past?",
+    "patient_turn": "Yeah, I’ve had recurrent cellulitis in my lower leg before. I was treated for it, um, most recently about six months ago. I’m just hoping this knee pain isn’t related to that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking?",
+    "patient_turn": "I’ve been smoking for, um, about 20 years now, like, half to one pack a day. I know it’s not great for my health, but, you know, it’s just something I’ve been doing for a long time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently using intravenous opioids?",
+    "patient_turn": "Yeah, I am currently using intravenous opioids. I had my last injection, um, two days ago. I know it’s not good for me, but it’s been part of my life for a while now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "Um, no, I’m not sexually active. I live with my parents and, you know, that’s just not something I’m involved in right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with?",
+    "patient_turn": "I live with both of my parents. I’m currently on disability because of chronic back pain from a work injury, so, um, I’m at home a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What caused your chronic back pain that led to your disability?",
+    "patient_turn": "Uh, it was from a work injury, but I’m not totally sure about all the details. I just know it’s been really hard to deal with, and that’s why I’m on disability right now.",
+    "annotation": "Correct"
+  }
+]

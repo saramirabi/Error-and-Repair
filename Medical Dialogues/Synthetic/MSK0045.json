@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this pain in my right shoulder for about a week now. It's, like, really achy and stiff when I'm resting, and then it gets sharp when I try to move it… I’d say it’s about a 7 out of 10 in pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shoulder pain?",
+    "patient_turn": "I first noticed it about a week ago, but, um, I think it might be related to a rotator cuff injury I had a few months back. I was doing a lot of heavy lifting at work, and, honestly, I didn’t finish my physiotherapy because of my work schedule… so, yeah, it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is in your shoulder?",
+    "patient_turn": "Yeah, um, the pain is mostly right at the shoulder joint itself. It doesn’t really radiate anywhere else, just, like, right there… and it’s pretty persistent throughout the day, which is, um, kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain stay in your shoulder, or does it spread to other areas?",
+    "patient_turn": "Well, the pain is mostly in my shoulder, but sometimes I feel like it might be a bit in my neck too, you know? I mean, I’ve been lifting a lot at work, and just the other day I was trying to reach for something on a high shelf and it kind of... hurt a little more than usual. And, oh, I also had to help my friend move last weekend, which was probably not the best idea.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Does the pain stay in your shoulder, or does it spread to other areas?",
+    "patient_turn": "Um, the pain mostly stays in my shoulder, but sometimes I feel a little bit in my neck too, you know? I think it might be from all the lifting I’ve been doing. It’s just, like, really uncomfortable and makes it hard to do things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "Oh, the pain is really sharp when I move my arm, but actually, I think it might be more of a dull ache most of the time.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you seen any swelling or redness around your shoulder?",
+    "patient_turn": "No, um, I haven’t seen any swelling or redness at all. It just feels stiff and painful, but there’s no visible signs of inflammation, you know? It’s just really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it hurt when I gently touch your shoulder?",
+    "patient_turn": "Um, not really when you touch it gently. I mean, there’s no tenderness on mild palpation, but it definitely hurts when I try to move it. It’s just, like, really stiff and achy most of the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or unexpected weight loss recently?",
+    "patient_turn": "No, um, I haven’t had any fever, chills, or weight loss. I feel pretty much the same otherwise, just dealing with this shoulder pain, you know? It’s honestly a bit concerning, but no other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your diabetes?",
+    "patient_turn": "Yeah, I’m taking metformin for my diabetes. I’ve been managing it with that, but, um, I’m not sure if it’s related to my shoulder pain or anything. It’s just been a lot to handle lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, um, I don’t have any medication allergies. I’ve never had any issues with that, so, yeah, I’m good on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized in the past?",
+    "patient_turn": "No, um, I haven’t had any surgeries or been hospitalized before. I’ve been pretty healthy overall, except for this shoulder issue and my diabetes, of course.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of joint or muscle problems?",
+    "patient_turn": "Um, not that I know of. There’s no family history of musculoskeletal or rheumatological conditions, so, yeah, it’s just me dealing with this shoulder pain. It’s kinda frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation? Do you live alone or with others?",
+    "patient_turn": "Oh, um, I live alone in an apartment. It’s been okay, but, you know, sometimes it gets a bit lonely, especially when I’m dealing with this shoulder pain. I just wish I could do more without it bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "Uh, I drink alcohol occasionally, but it’s not a lot. Maybe, like, a couple of drinks on the weekends or something. I try not to overdo it, you know? It’s just, um, a way to relax sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did the doctor find during your last physical exam?",
+    "patient_turn": "I’m not sure about that. I haven’t had a recent physical exam, just, um, this shoulder pain issue that I’m dealing with right now.",
+    "annotation": "Correct"
+  }
+]

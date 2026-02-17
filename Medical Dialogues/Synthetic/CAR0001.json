@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this sharp pain in my chest. It started last night and hasn’t gone away… it’s been about eight hours now. It’s pretty intense, like a 7 or 8 out of 10, and it gets worse when I lie down or take deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located?",
+    "patient_turn": "Sure, um, it’s on the left side of my chest. It feels constant, and, honestly, it’s really uncomfortable. I mean, it doesn’t seem to radiate anywhere else, just… right there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "It started last night, um, I think around, like, 10 or 11 PM? It’s been going on for about eight hours now, and it just hasn’t let up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in one spot or move around?",
+    "patient_turn": "It’s mostly in one spot, on the left side of my chest. It doesn’t really move around, you know? Just stays there, and it’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "...  side.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, um, it doesn’t really spread anywhere else. It’s just in that one spot on the left side of my chest. I haven’t felt it in my arms, neck, or back at all, so that’s a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, it’s a sharp pain, I guess, and it’s on the left side. You know, I’ve been feeling a bit lightheaded too, which is kind of weird. Oh, and I remember I had a big lunch yesterday, maybe that’s part of it? Plus, I was running a bit late for my appointment today, so I rushed out the door without breakfast.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Not really, um, it’s pretty much stayed the same. It’s still sharp and constant, and it gets worse when I lie down or take deep breaths. Honestly, I was hoping it would get better, but it hasn’t changed much at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "Yeah, it’s on the left side of my chest, um, kind of just under my ribcage. It feels really localized there, and it’s just, you know, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arm, neck, or back?",
+    "patient_turn": "No, um, it doesn’t spread to my arms, neck, or back at all. It’s just that one spot on the left side of my chest. So, I guess that’s a little reassuring, but the pain itself is still pretty intense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest pain like this before?",
+    "patient_turn": "No, um, I’ve never had anything like this before. This is the first time I’m dealing with chest pain, and it’s honestly really scary. I’m kinda worried about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any ongoing medical conditions or past health issues I should know about?",
+    "patient_turn": "No, um, I don’t have any ongoing medical conditions or past health issues. I haven’t been hospitalized or had any surgeries, and I’m not on any medications. So, this chest pain is really out of the blue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, um, I haven’t been hospitalized or had any surgeries before. This is really the first time I’m experiencing something like this, and it’s honestly pretty concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, including over-the-counter or herbal supplements?",
+    "patient_turn": "No, um, I’m not taking any medications at all, not even over-the-counter stuff or herbal supplements. I guess I’ve just been, you know, trying to stay healthy and manage things on my own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, um, I don’t have any known allergies to medications or anything else. I’ve never had any issues with that, so I guess that’s one less thing to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current and up to date?",
+    "patient_turn": "Yeah, um, my immunizations are up to date. I’ve kept up with all of that, so I’m not really worried about that part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke and how many alcoholic drinks do you have in a week?",
+    "patient_turn": "I smoke about a pack of cigarettes a day, um, I’ve been doing that for like 10 to 15 years now. And I usually have around 10 alcoholic drinks a week, so, you know, I guess I’m not the healthiest when it comes to that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yeah, um, my dad had a heart attack when he was 45, and he also had high cholesterol. So, I guess that’s something I’m kinda worried about, especially with this chest pain I’m having.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever, rashes, or other unusual symptoms recently?",
+    "patient_turn": "No, um, I haven’t noticed any fever, rashes, or anything unusual like that. I’ve just been dealing with this chest pain and feeling a bit lightheaded, but nothing else really stands out.",
+    "annotation": "Correct"
+  }
+]

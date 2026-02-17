@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My son has been having a dry cough, wheezing, and shortness of breath for the past few months. It mostly happens at night and after he plays, especially when he's around cats. It's been tough for him, and he's missed some school because of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms in your son?",
+    "patient_turn": "I first noticed the symptoms a few months ago. They started off pretty mild but have been getting more frequent, especially at night and after he plays.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often does he experience these symptoms now?",
+    "patient_turn": "He experiences the symptoms a few times a week, usually at night or after physical activity. Sometimes it seems to get worse when he's been around cats.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where he feels the cough or wheezing in his chest?",
+    "patient_turn": "He doesn't really talk about where it feels uncomfortable, but I can hear the wheezing, and it sounds like a high-pitched noise when he breathes out. It seems to bother him more when he's trying to catch his breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or does it produce any mucus?",
+    "patient_turn": "The cough is dry; he doesn't seem to produce any mucus when he coughs. It's more of a persistent, irritating cough that comes and goes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to make his cough or wheezing worse?",
+    "patient_turn": "Well, he tends to cough a lot more at night, especially when he’s been running around. You know, like at school, or when he plays with his friends, especially if there’s a cat around. It's funny because we don’t have any pets, but sometimes he visits his friends who do. Oh, and I think last week his teacher said something about allergies in the classroom, so that might be part of it too. Also, he’s been really tired lately because of the coughing, so it’s been hard for him to focus on his homework.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has he experienced any fever, sore throat, or other symptoms along with the cough and wheezing?",
+    "patient_turn": "No, he hasn't had any fever, sore throat, or other symptoms like that. It's just been the cough and wheezing without any other signs of illness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, he hasn't been hospitalized or had any surgeries in the past. The only notable thing in his medical history is having bronchiolitis when he was two.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he currently taking any medications or does he have any known allergies?",
+    "patient_turn": "No, he’s not taking any regular medications, and he doesn’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, he had bronchiolitis at age two, likely of viral origin.",
+    "patient_turn": "Yes, that's right. He had bronchiolitis at age two, but it was likely viral. Other than that, he hasn't had any significant health issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How are his developmental milestones and school performance?",
+    "patient_turn": "His developmental milestones and school performance are normal. He's doing well in school and keeps up with his classmates.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in the family have a history of asthma or respiratory issues?",
+    "patient_turn": "Yes, his mother has a history of asthma that was diagnosed in childhood. She manages it with a daily inhaler.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he experienced any seasonal allergy symptoms, like itchy eyes or a runny nose?",
+    "patient_turn": "Yes, he has experienced seasonal allergy symptoms, especially in the fall, like itchy eyes and a runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he traveled anywhere recently or been around anyone who was sick?",
+    "patient_turn": "No, he hasn't traveled anywhere recently, and there hasn't been any contact with sick individuals.",
+    "annotation": "Correct"
+  }
+]

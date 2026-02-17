@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this, like, worsening pain in my right lower abdomen for the past three days. It started off crampy, but now it’s, um, pretty constant and really uncomfortable… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located?",
+    "patient_turn": "Yeah, it’s mostly in the right lower quadrant, um, below my belly button. Sometimes it kinda extends a bit above it, but mostly it’s right there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "Oh, it started just yesterday, I think. But maybe it was a couple of months ago.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it’s definitely gotten worse since it first started. It was, um, crampy at first, but now it’s mostly constant and, like, really uncomfortable. I’m just, um, finding it hard to deal with, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or location since it first started?",
+    "patient_turn": "Yeah, it’s definitely changed in intensity. It started off crampy, but now it’s, um, more constant and really intense. The location is mostly the same, in the right lower quadrant, but the pain has just, like, gotten worse overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it's kind of…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or vomited at all?",
+    "patient_turn": "Yeah, I’ve felt nauseous, and I actually, um, vomited once. It was, like, really uncomfortable, and that made the pain worse, too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your bowel habits been lately?",
+    "patient_turn": "Well, um, they’ve changed quite a bit. I was having regular daily movements, but then about five days ago, I started getting constipated. I haven’t had a bowel movement in, like, two days now, which is, um, kinda concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or take any medications regularly?",
+    "patient_turn": "Yeah, I have type 2 diabetes, but it’s mostly controlled with metformin. I haven’t had any recent changes to my medications, and, um, no past surgeries except for dental extractions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in terms of exercise, alcohol, and smoking?",
+    "patient_turn": "Um, I don’t really smoke or use any recreational drugs. I drink alcohol occasionally, like, on special occasions or when it’s really hot out. As for exercise, I try to stay active, but, you know, with work and everything, it’s not always easy to fit it in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of gastrointestinal problems?",
+    "patient_turn": "Not really, um, there’s no family history of gastrointestinal disease that I know of. My grandmother did die early from breast cancer, but that’s about it.",
+    "annotation": "Correct"
+  }
+]

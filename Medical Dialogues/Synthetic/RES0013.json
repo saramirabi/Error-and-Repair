@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I started having this chest ache on my left side last night. At first, I thought it was just, like, muscular or something, but then it got worse, and now I’m having a lot of trouble breathing… it feels sharp when I take deep breaths. I'm kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the chest pain start exactly?",
+    "patient_turn": "It started, um, last night, I think. It was pretty mild at first, but then it just kept getting worse over the hours, you know? Now it really hurts, especially when I try to breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s mostly on the left side of my chest, um, like right here… but it doesn’t really spread anywhere else, I don’t think. It’s just, like, sharp when I breathe in deeply, and it’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "You know, I’ve been thinking about getting a new grill for the summer. The weather’s been nice, and I really want to have a barbecue.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "Um, I was just, like, relaxing at home, I guess. I didn’t really do anything strenuous or, um, anything out of the ordinary. It just sort of came on suddenly, and I didn’t think much of it at first.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Um, it’s definitely sharp, especially when I breathe in deeply. It’s not really dull or like pressure, you know? Just this really intense, sharp pain that makes it hard to take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain is located?",
+    "patient_turn": "Oh, I just remembered that I need to call my brother later. He’s been asking about my garden, which is actually doing pretty well.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Are you having any trouble breathing or feeling short of breath?",
+    "patient_turn": "Yeah, um, I am having a lot of trouble breathing. It’s really hard to take deep breaths, and I feel short of breath, especially when I try to do anything, like climbing stairs. It’s, um, pretty scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, leg swelling, or fever recently?",
+    "patient_turn": "No, I haven’t had any cough or leg swelling, and, um, no fever either. It’s just this chest pain and the shortness of breath that’s really bothering me. I’m kinda worried since I don’t know what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any medical conditions or taken any medications in the past?",
+    "patient_turn": "Um, the only thing I’ve been diagnosed with is hypertension about a year ago, but I’ve just been managing it with lifestyle changes, you know? I haven’t taken any medications for it or anything else. So, uh, nothing else really comes to mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how much do you smoke each week?",
+    "patient_turn": "I’ve been smoking since college, so, um, that’s like, what, over 30 years now? I smoke about a pack a week, I guess. I know it’s not great for my health, but, um, I didn’t really think it would lead to something like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I usually have, um, about one beer on the weekends, so not much at all. I don’t really drink during the week, you know? Just a little bit on the weekends to relax.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung disease?",
+    "patient_turn": "Um, not that I know of. My parents both had hypertension, but there’s no mention of heart or lung disease in the family. So, I guess it’s just the hypertension that runs in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you received your annual flu vaccine and any other vaccinations recently?",
+    "patient_turn": "Yeah, I’m up to date on my childhood immunizations, and I get my annual flu vaccine every year. I just had that done recently, so, um, I’m good on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that seems to trigger or worsen your chest pain?",
+    "patient_turn": "Honestly, I haven’t noticed any specific triggers. It just kind of came on suddenly, and it seems to get worse when I try to take deep breaths or do anything active, like climbing stairs. I’m not totally sure what’s going on, but it’s really concerning me.",
+    "annotation": "Correct"
+  }
+]

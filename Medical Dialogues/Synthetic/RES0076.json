@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. Well, I’ve been having this, um, dry cough for about six months now, and it’s gotten worse lately. I’m also coughing up blood, like, two to three teaspoons daily, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was, um, around six months ago? It started off mostly dry, but, you know, it’s just been constant and, uh, really annoying. I didn’t think much of it at first, but now with the blood, I’m really concerned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "Yeah, um, it’s definitely gotten worse. It was mostly dry at first, but now it’s, like, more persistent, and the hemoptysis is really worrying me. I mean, I didn’t expect it to escalate like this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Um, I think it’s mostly in my chest, but I’m not really sure where exactly, you know? It’s just kind of there, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it painful or just irritating?",
+    "patient_turn": "It’s mostly just irritating, I’d say. I mean, it doesn’t really hurt, but it’s, um, uncomfortable and makes it hard to breathe sometimes. I’m just, like, tired of dealing with it, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Uh, I think it’s more like a tightness, but I’m not really sure if it’s in the middle or maybe off to the side a bit. It’s kind of hard to pinpoint, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s not really sharp or anything, just, like, annoying and persistent. I guess I’d say it feels more dull, but it can get pretty uncomfortable, especially when I’m trying to breathe deeply. It’s just, um, frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "I’ve been dealing with it for about six months now. It started off as a dry cough, but, um, it’s really become a lot more concerning lately with the blood and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, I think it feels the worst in my chest, but it’s hard to say exactly where. It’s just, like, a general discomfort there, you know? It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it constant, or does it come and go?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get my car serviced soon. It's been making a weird noise lately, like a rattling sound.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How many years have you been smoking?",
+    "patient_turn": "I’ve been smoking for about, um, 40 years now. I used to smoke two packs a day, but I’ve cut down to half a pack. I guess I’m just really worried about what this cough means.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day now?",
+    "patient_turn": "I’m currently smoking about half a pack a day. I used to smoke a lot more, like two packs, but I’ve cut back over the years. I’m just, um, really anxious about my health with this cough and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I have. I’ve lost about 10 to 15 pounds in the last two months, and, um, it’s kind of concerning. I didn’t really mean to lose that much weight, and it’s just adding to my worries, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea recently?",
+    "patient_turn": "Yeah, I’ve had some intermittent nausea over the past couple of months. It’s not, like, constant or anything, but it’s definitely there sometimes, and it’s just, um, adding to how I feel overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite recently?",
+    "patient_turn": "Um, yeah, my appetite has definitely decreased. I just don’t feel like eating much lately, and it’s, like, really frustrating because I know I need to eat. I think it’s all tied to how I’ve been feeling with the cough and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel more tired than usual because of your shortness of breath?",
+    "patient_turn": "Yeah, I do feel more tired than usual. The shortness of breath really wears me out, and, um, I guess it’s making me feel fatigued overall. It’s just been really tough to deal with all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or chills recently?",
+    "patient_turn": "No, I haven’t had any fevers or chills. I mean, I’ve been feeling off, but nothing like that. Just, um, the cough and the other symptoms are really what’s bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around anyone with tuberculosis?",
+    "patient_turn": "No, I haven’t traveled anywhere recently, and I don’t know anyone with tuberculosis. I mean, I’m just trying to figure out what’s going on with my health right now, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, the only thing I have is that I had cataract surgery on my right eye a while back. Other than that, I don’t have any major medical conditions, but, you know, I’m really worried about this cough and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "Yeah, I take multivitamins, but that’s about it. I don’t really take any other medications, um, except for the nicotine patches and gum when I tried to quit smoking. I’m just, like, really hoping to get some help with this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or respiratory issues?",
+    "patient_turn": "Well, there’s a family history of lung cancer—my great uncle had it—but, um, I don’t know about any other specific lung diseases or respiratory issues. It’s just, like, making me more anxious given my own situation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live in a home or area where you might have been exposed to asbestos?",
+    "patient_turn": "No, I don’t live in a place with known asbestos exposure. I live with my wife, and, um, I think our home is pretty safe in that regard. But, you know, with my smoking history and everything, I’m still really worried about my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I work as a bus driver. I’ve been doing that for a while now, and, um, I don’t think I’ve been exposed to any toxins at work. But with this cough and everything, I’m just feeling really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol, and if so, how much do you typically consume?",
+    "patient_turn": "I drink socially, like, one to two beers on the weekends. It’s not a lot, but, um, I guess I’m just trying to keep things low-key with everything going on with my health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve just been focused on, um, dealing with my smoking and trying to figure out what’s going on with this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you attempted to quit smoking in the past?",
+    "patient_turn": "Yeah, I’ve tried to quit a few times, using nicotine patches and gum. It’s been tough, you know? I really want to stop, especially with this cough getting worse.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. I’ve been having this chronic cough for, like, several years now. It’s, uh, really persistent and I’m kinda worried because it’s been getting worse, especially in the mornings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Well, it feels the worst in my chest, I guess? I mean, it’s just really persistent and, um, sometimes it feels like I can’t catch my breath, especially when I take deep breaths. It’s just frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as dry, wet, or something else?",
+    "patient_turn": "Oh, it’s definitely a productive cough, um, you know? I’m bringing up green to yellow sputum, but it’s not a lot—just, like, a couple of tissues worth each day. It’s, um, kind of gross, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, it's…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough most, or if it spreads anywhere?",
+    "patient_turn": "Well, it mostly feels like it’s in my chest, you know? Sometimes it makes me feel a bit tight, but it doesn’t really spread anywhere else, I think. It’s just, um, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it feels more like a dull, persistent kind of cough, you know? It’s not sharp or anything, but it can be really annoying and makes me feel, uh, kind of out of breath sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, you know, I really should check my grocery list. I think I’m out of milk and maybe some bread too.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, I think it’s just gotten worse over time, you know? It’s more persistent now, especially in the mornings, and I feel like I’m coughing more often than I used to. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much sputum do you produce each day, in terms of tissue size?",
+    "patient_turn": "Um, I’d say it’s about a couple of tissues worth each day, you know? It’s not a huge amount, but it’s enough to be, like, annoying and, um, concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes your cough worse, like certain activities or environments?",
+    "patient_turn": "Well, I’ve noticed it gets worse in the mornings, um, and deep breaths can definitely make it worse too. I’m not really sure about specific activities or environments, but it just seems to be there all the time, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more fatigued than normal lately?",
+    "patient_turn": "Yeah, I have, um, definitely noticed that I’m feeling more fatigued over the past few months. It’s just, like, really hard to keep up with everything, and I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet recently?",
+    "patient_turn": "Um, yeah, I think I’ve noticed some mild swelling, like, in my legs and maybe my feet. It could be related to, uh, weight gain too, but it’s just, like, a little concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel short of breath when walking or climbing stairs?",
+    "patient_turn": "Yeah, I do feel, um, short of breath when I’m walking several blocks or climbing stairs. It’s, like, really frustrating because I used to be able to do those things without any issues. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you find yourself waking up at night to go to the bathroom?",
+    "patient_turn": "Yeah, I do wake up at night to go to the bathroom, um, which is kind of annoying. I guess it’s called nocturia? It’s just another thing that’s been bothering me lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe your sleep quality?",
+    "patient_turn": "Um, I’d say my sleep quality isn’t great, to be honest. I have trouble staying asleep, and I just feel really tired during the day. It’s, like, hard to get a good night’s rest with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I’ve noticed some unintentional weight loss, um, about 5 pounds or so. It’s kind of strange because I still have a good appetite, but I’m not really sure why that’s happening. It’s just a bit concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or chills recently?",
+    "patient_turn": "No, I haven’t had any fevers or chills, um, thankfully. I mean, I’ve been feeling off, but no actual fever or anything like that. It’s just been the cough and the fatigue, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of hypertension or other medical conditions?",
+    "patient_turn": "Yeah, I have a history of hypertension, um, which was diagnosed in recent years. I’m managing it with Lisinopril, but other than that, I don’t have any other major medical conditions that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries or been hospitalized before?",
+    "patient_turn": "Um, I’ve only had a cesarean section, and that’s it. I haven’t had any other surgeries or hospitalizations, so, yeah, nothing else to really mention there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies, um, thankfully. I’ve never had any issues with medications before, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my father had a history of heart disease. He, um, died of a myocardial infarction at age 78. Other than that, there’s no family history of cancer or asthma, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live in an apartment with my husband and our daughter. It’s, um, pretty busy most of the time, but we manage, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many meals do you typically eat in a day?",
+    "patient_turn": "I usually eat, um, one to two meals a day. It’s not a lot, I guess, but I try to have varied meats and vegetables when I do eat. Just, um, sometimes it’s hard to find the time to eat more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you find time to exercise regularly?",
+    "patient_turn": "Um, not really. I don’t exercise regularly because, you know, I just don’t have the time with everything going on. I’m kinda worried that it’s affecting my health, but it’s tough to fit it in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking cigarettes?",
+    "patient_turn": "I’ve been smoking for nearly 40 years, um, about one to two packs a day. It’s, like, a hard habit to break, and I know it’s probably not good for me, but it’s just something I’ve done for so long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many days a week do you typically drink alcohol?",
+    "patient_turn": "I usually drink a 5-6 ounce glass of wine, um, three to four nights a week. It’s just something I enjoy, but I’m starting to wonder if it’s affecting my health too, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve never really been into that, so it’s just, um, not something I do.",
+    "annotation": "Correct"
+  }
+]

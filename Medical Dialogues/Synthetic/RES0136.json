@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for the past two days, and I’m really short of breath… like, it gets worse when I try to walk even a little bit. It all started when I woke up, and I’m kinda worried because it hasn’t gone away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the cough and shortness of breath start?",
+    "patient_turn": "So, it started, um, two days ago when I woke up. I remember feeling fine before that, but then, suddenly, I just had this dry cough and the shortness of breath hit me. It’s been constant since then… and, honestly, it’s pretty scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and shortness of breath feel the worst?",
+    "patient_turn": "Oh, it's not really bad at all, actually. I mean, it feels kind of okay, but I think it's mostly just in my chest, or maybe not.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or does it produce any mucus?",
+    "patient_turn": "Um, it’s definitely a dry cough. I haven’t noticed any mucus or anything like that. It’s just, you know, really irritating and persistent, and it’s making it hard to breathe sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and shortness of breath?",
+    "patient_turn": "I first noticed it, um, two days ago when I woke up. It just kind of hit me out of nowhere, and I’ve been dealing with it since then. It’s been really tough, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you? Is it a tightness, heaviness, or something else?",
+    "patient_turn": "Um, it feels more like a tightness, I think? Like, there’s this pressure in my chest, and it’s hard to take a deep breath. It’s just really unsettling, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make your shortness of breath feel worse?",
+    "patient_turn": "Well, you know, I really need to get my car washed soon. It’s been so dirty, and I was thinking about the last time I went to the beach. It was such a nice day! ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the shortness of breath?",
+    "patient_turn": "I’d say it feels, um, kind of like a tightness or pressure in my chest. It’s hard to take deep breaths, and it just feels really, um, unsettling. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the shortness of breath?",
+    "patient_turn": "A…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "I first noticed the shortness of breath, um, two days ago when I woke up. It just kind of hit me suddenly, and it hasn’t really gone away since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the shortness of breath? Is it constant or does it come and go?",
+    "patient_turn": "It’s pretty much constant since it started, um, two days ago. It doesn’t really come and go; it’s just always there, and it gets worse when I try to do anything, like walking. It’s really, um, concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath or other symptoms at night while sleeping?",
+    "patient_turn": "No, I haven’t noticed any shortness of breath at night while sleeping. It’s mostly just during the day when I’m awake. I mean, I’ve been okay at night, but it’s really tough during the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills in the last few days?",
+    "patient_turn": "Um, no, I haven’t had any fever or chills. My temperature was 37.2°C last night, but that’s not really high, right? So, I guess I’m just feeling this cough and shortness of breath without any other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any similar breathing problems or respiratory issues in the past?",
+    "patient_turn": "No, I haven’t had any similar breathing problems or respiratory issues before. This is all new for me, and it’s honestly really worrying. I’ve never experienced anything like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any significant past medical issues or conditions I should know about?",
+    "patient_turn": "Um, not really. I just have osteoarthritis that I manage with Advil, and I recently increased my morphine dosage for the pain. Other than that, I don’t have any significant past medical issues, just, you know, I had my wisdom teeth removed. That’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart problems?",
+    "patient_turn": "No, there’s no family history of lung or heart problems that I know of. My grandmother had breast cancer, but that’s it. So, um, I’m not really sure if that’s related to anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and do you use marijuana regularly?",
+    "patient_turn": "I drink alcohol, um, like, weekly, maybe two to three glasses of wine. And I use marijuana occasionally for pain, but it’s been a couple of months since I last used it. So, I guess I don’t use it regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did your husband notice any unusual drowsiness or difficulty waking you up recently?",
+    "patient_turn": "Yeah, he did mention that I was really drowsy and had difficulty waking me up the day before all this started. I didn’t really think much of it at the time, but now I’m kinda worried it might be related to how I’m feeling.",
+    "annotation": "Correct"
+  }
+]

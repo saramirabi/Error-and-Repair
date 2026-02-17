@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been feeling pretty awful. I’ve had this, like, persistent nausea for about nine days now, and it’s worse in the mornings. I’ve even been vomiting once or twice a day… it’s just really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I’m sorry to hear that. When did the nausea first start?",
+    "patient_turn": "Uh, it started about nine days ago. I remember it was, like, really sudden, and it just hasn’t gone away since then. It’s been pretty tough, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the nausea changed in intensity or frequency since it first started?",
+    "patient_turn": "Um, I think it’s pretty much stayed the same, honestly. It’s consistently bad in the mornings, and, like, certain smells really trigger it. So, yeah, it’s been pretty persistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the nausea most strongly?",
+    "patient_turn": "I don’t really feel it strongly anywhere, but sometimes it’s just there, you know? But I guess I’ve never felt nausea before this, so it’s a bit strange.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the nausea, like changes in your appetite or weight?",
+    "patient_turn": "Um, yeah, I’ve noticed I’m not really eating much because of the nausea, so my appetite has definitely changed. I’m not sure about my weight, but I feel like I might be losing a bit since I’m not eating regularly. It’s just, um, really hard to eat when I feel like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the nausea first start for you?",
+    "patient_turn": "Oh, um, I mentioned it earlier, but it started about nine days ago. It just kind of hit me out of nowhere, and I’ve been dealing with it since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the nausea changed since it first started?",
+    "patient_turn": "Uh, I think it’s pretty much stayed the same. It’s consistently bad, especially in the mornings, and certain smells just make it worse. So, yeah, no real changes in how it feels, just… still really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first start noticing the nausea?",
+    "patient_turn": "Oh, um, I first noticed it about nine days ago. It just sort of came on suddenly, and I’ve been dealing with it ever since. It’s been really tough, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the nausea changed since it first started?",
+    "patient_turn": "Uh, I don’t think it’s really changed much. It’s been pretty consistent, you know? Still really bad in the mornings and triggered by certain smells, so, um, no real improvements or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nausea feel like for you?",
+    "patient_turn": "Oh, it’s kind of like a rolling sensation, but I really need to pick up some groceries later. I’ve been thinking about what to make for dinner, maybe pasta?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How often do you find yourself needing to urinate during the day?",
+    "patient_turn": "Oh, um, I’ve been urinating every 1-2 hours during the day. It’s, like, more frequent than usual for me, but I don’t have any urgency or incontinence, so that’s a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain or discomfort when you urinate?",
+    "patient_turn": "No, um, I haven’t noticed any pain or discomfort when I urinate. It’s just more frequent, but there’s no burning or anything like that, so that’s good, I suppose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last menstrual period?",
+    "patient_turn": "Uh, my last period was about six weeks ago. It’s longer than my usual cycle, and I’m kind of worried about that, to be honest. I haven’t had my period since then, which is unusual for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or flu-like symptoms lately?",
+    "patient_turn": "No, I haven’t had any fever, chills, or flu-like symptoms at all. It’s just been the nausea and the increased urination, but nothing else like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or are you currently taking any medications?",
+    "patient_turn": "Um, my past medical history is pretty unremarkable, honestly. I don’t have any chronic conditions or medications, except I occasionally use ginger for nausea. That’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation and any daily habits, like smoking or drinking?",
+    "patient_turn": "Uh, I live with one roommate, and I don’t smoke or use any illicit drugs. I rarely drink alcohol because it usually gives me headaches, so, um, I try to avoid it. I’m just trying to stay healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of medical conditions that you think might be important?",
+    "patient_turn": "Well, um, the only thing in my family history is my dad has hypertension. Other than that, there’s not really anything significant that I can think of.",
+    "annotation": "Correct"
+  }
+]

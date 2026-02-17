@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I’ve been having this really intense, sharp pain just below my right big toe for about six hours now. It’s, like, an 8 out of 10 in severity, and it gets worse when I move it or if my shoe touches it. I’m kinda worried because it’s really limiting my movement.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "Uh, it started about six hours ago. I mean, there wasn’t any trauma or anything that I can think of, it just… suddenly happened.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "Yeah, it’s, um, localized to the medial side just below my right big toe. It’s pretty sharp and intense there, and, honestly, it’s hard to ignore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain spread to any other areas, or is it just in your toe?",
+    "patient_turn": "Well, it’s mostly just in my toe, you know, the big one on the right foot. But I was thinking about how I went hiking last month, and it was really tough on my feet. I think I might have twisted it a little, but it’s hard to say. Also, my shoes are kind of old, and I’ve been meaning to buy new ones, but then I got busy with work and, oh, my son just started soccer practice, which has been a whole other thing to manage. So, yeah, just the toe, but there’s a lot going on, I guess!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Um, it’s definitely sharp, like really intense. I’d say it feels more like a stabbing pain, especially when I try to move my toe or if anything touches it. It’s, uh, pretty uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, it definitely gets worse with movement, like when I try to flex or extend my toe. And, um, wearing shoes makes it a lot worse too. I can walk, but I have this antalgic gait, you know, trying to avoid putting pressure on it. Honestly, it’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other parts of your foot or leg?",
+    "patient_turn": "No, not really. It’s just in that one spot below my right big toe. I haven’t felt any pain spreading to other parts of my foot or leg, thankfully. It’s just, um, really focused there, which is kind of a relief, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions?",
+    "patient_turn": "Yeah, I have hypertension and diabetes, which I manage with ramipril and insulin. I’ve been keeping up with my medications, and, um, I was recently hospitalized for kidney stones, but that was a little while ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been hospitalized for any issues recently?",
+    "patient_turn": "Yes, I was hospitalized recently for kidney stones. They treated me with lithotripsy, and, um, that was a bit of a rough experience. But I thought I was doing okay since then, until this toe pain started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of arthritis or gout in your relatives?",
+    "patient_turn": "Um, yeah, there is a family history of arthritis and gout. My family has dealt with those issues, along with hypertension and diabetes too. So, I guess I’m kinda worried that this toe pain might be related to that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your living situation like, and how much alcohol do you typically consume?",
+    "patient_turn": "I live with my son, and, um, I don’t smoke or use recreational drugs. I do have a regular alcohol intake, though—about two glasses of wine and one beer daily. I know it might not be the best, but it’s just part of my routine, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does your typical diet consist of, especially regarding meat and seafood?",
+    "patient_turn": "My diet is, um, pretty high in red meat, honestly. I don’t eat much seafood at all, which I know isn’t great. I’ve been meaning to make some changes, but it’s just been hard to get around to it with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or redness around your toe?",
+    "patient_turn": "Yeah, I have noticed some swelling and redness around my right big toe. It’s, um, warm to the touch too, and there’s this noticeable bump. It’s definitely concerning, especially with the pain I’m feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What treatments or changes have you tried to relieve the pain in your toe?",
+    "patient_turn": "I haven’t really tried anything specific yet, um, besides just resting it and trying to avoid putting pressure on it. I guess I’m just waiting to see what you recommend. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  }
+]

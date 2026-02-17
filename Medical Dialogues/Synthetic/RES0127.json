@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really struggling with, like, sneezing and a runny nose. It’s been going on for several years, but it gets worse in the spring and, uh, when I vacuum, I guess. I’m kinda worried because it’s affecting my daily life, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms starting?",
+    "patient_turn": "Honestly, I can’t remember exactly when it started, but I think it’s been a few years now. It just sort of gradually got worse, especially with the sneezing and runny nose. Um, I guess it really became noticeable in the springtime.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the severity of your symptoms changed over time?",
+    "patient_turn": "Well, um, they’ve definitely gotten worse, especially during spring. I mean, I used to just have a runny nose, but now I also have, like, itchy eyes and a sore throat in the mornings. And, uh, I’ve noticed I get more tired when my symptoms flare up, which is kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the most discomfort or symptoms?",
+    "patient_turn": "Um, I mostly feel it in my nose, like, with the congestion and runny nose. But I also get this itchy feeling in my eyes, and sometimes my throat feels sore in the mornings. It’s just, like, all connected, I guess, and it’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like for you?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get my car washed soon. It’s been a while, and I really should do that before the weather gets bad. ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the most discomfort or pain?",
+    "patient_turn": "You know, I really need to finish that book I started last month. It’s about a detective, and it’s pretty interesting.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like for you?",
+    "patient_turn": "It's... um, kind of just…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any medical conditions or had any hospitalizations in the past?",
+    "patient_turn": "Um, no, I haven't been diagnosed with any medical conditions or had any hospitalizations. This is really the first time I’m dealing with something like this, you know? It’s just been, like, a lot to handle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "Uh, no, I don’t have any known drug allergies. I haven’t really taken any regular medications, except I tried Reactine once, but I’m not currently taking anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled recently, and I haven’t been around anyone who was sick either. The only thing I’ve been exposed to is, like, dust, especially when I vacuum. So, yeah, that’s pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any fumes or animals lately?",
+    "patient_turn": "Uh, no, I haven’t been around any fumes or animals lately. It’s mostly just dust that seems to trigger my symptoms, especially when I vacuum. I guess that’s what I’m really dealing with right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you tried any treatments or medications for your symptoms?",
+    "patient_turn": "Yeah, um, I tried Reactine, which is an antihistamine, and it helped a bit, but I’m not taking anything right now. I guess I just haven’t found something that really works for me, you know? It’s been frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much weight have you lost, and what do you think caused it?",
+    "patient_turn": "Um, I’ve lost about four pounds over the past few months, but I think it’s mostly because I’ve been dieting and exercising more. It’s not really related to my symptoms, I don’t think, but I’m kinda worried about everything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have similar allergic symptoms?",
+    "patient_turn": "Yeah, um, my mom and my younger brother have similar allergic symptoms. They haven’t been formally diagnosed, but they definitely deal with, like, sneezing and stuff too. It’s kind of a family thing, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and my younger brother. It’s, um, pretty busy sometimes, especially with everyone home, but we manage. I mostly do my schoolwork virtually, so I’m around them a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of taste or smell recently?",
+    "patient_turn": "Um, I haven’t really lost my sense of taste, but I’ve had some difficulty smelling things because of the nasal congestion. It’s, like, frustrating because I love cooking and, you know, being able to smell the food.",
+    "annotation": "Correct"
+  }
+]

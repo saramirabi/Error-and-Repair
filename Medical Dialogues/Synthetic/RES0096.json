@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this, like, worsening shortness of breath for about a month now. I can barely walk a block without feeling really out of breath, and, um, it’s just getting worse compared to a couple of months ago when I could walk several kilometers. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath? Does it stay in your chest, or does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in my chest, I guess. It feels tight, and I just can’t seem to get enough air. Sometimes it feels like it’s, uh, sort of spreading a bit, but it’s mainly just that heavy feeling in my chest. It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you? Is it a tightness, heaviness, or something else?",
+    "patient_turn": "Well, I was just thinking about how I need to get my lawn mowed soon. ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath starting to get worse?",
+    "patient_turn": "Oh, um, I think it was about a month ago? It just sort of crept up on me, and now it feels like I can’t do much without getting really out of breath. It’s honestly pretty concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath most?",
+    "patient_turn": "Uh, it’s mostly in my chest, I think. It feels tight and heavy, and, um, sometimes it just feels like I can’t get enough air in. It’s really uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Um, it feels like a tightness in my chest, you know? Like, I’m struggling to take a deep breath, and it’s just... really exhausting. I guess it’s kind of scary, too, because it’s getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath starting to get worse?",
+    "patient_turn": "Uh, I think it was maybe about a month ago? Or possibly a little longer, I'm not entirely sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How far can you walk now before you start feeling short of breath?",
+    "patient_turn": "Um, I can only walk about one block now before I start feeling really short of breath. It’s, like, a huge difference from a couple of months ago when I could walk several kilometers without any issues. It’s honestly pretty frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "Uh, it’s mostly in my chest, I guess. It feels tight and heavy, and sometimes it’s just hard to catch my breath. It’s really uncomfortable, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Well, it feels like a tightness in my chest, and, um, it’s like I can’t get enough air in. It’s really exhausting, and I feel, you know, kind of panicky sometimes when it happens. It’s just not a good feeling at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath starting to get worse?",
+    "patient_turn": "Oh, I’ve never really had problems with shortness of breath before, but now it’s just become really hard to walk around. I mean, I used to be fine with walking several kilometers, but I don’t remember when that changed.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath the most?",
+    "patient_turn": "Um, it’s mostly in my chest, I think. It feels tight and heavy there, and, uh, sometimes it’s just hard to take a deep breath. It’s really uncomfortable and, honestly, a bit scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Well, it feels like a tightness in my chest, and, um, I just can’t seem to get enough air. It’s really exhausting, and I feel, you know, kind of anxious about it because it’s getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath starting to change?",
+    "patient_turn": "Uh, I think it started changing about a month ago? It just kind of crept up on me, and now it feels like I can’t do much without getting really out of breath. It’s honestly pretty concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any lung conditions, like COPD, in the past?",
+    "patient_turn": "Yeah, I have COPD. I’ve had it for a while now, and, um, it’s been tough. I’ve had multiple hospitalizations for exacerbations in the past year, and it feels like it’s just getting worse lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high blood pressure?",
+    "patient_turn": "Um, yeah, I have hypertension. I’ve been managing it for a while now, but, you know, with everything else going on, I’m just a bit worried about how it all fits together.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of high cholesterol?",
+    "patient_turn": "Yeah, I do have a history of high cholesterol. I take Lipitor for it, but, um, I’m not really sure how much it helps with everything else I’m dealing with right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had that chronic cough?",
+    "patient_turn": "I’ve had this chronic cough for, um, about five to ten years, I think? It’s been there for a while, but lately, it’s been getting worse and more frequent, which is, you know, really concerning. Sometimes it’s even productive with white sputum, and I’ve noticed it’s been pink-tinged a couple of times, which is, um, pretty scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your cough producing white sputum sometimes?",
+    "patient_turn": "Yeah, it does produce white sputum sometimes. Um, and it’s been getting more frequent lately, which is, you know, kind of worrying. I’ve also noticed it’s been pink-tinged a couple of times, which really freaks me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your sputum when you cough?",
+    "patient_turn": "Yeah, I’ve noticed, um, small amounts of blood in my sputum a couple of times. It’s really concerning, to be honest. I mean, I’ve had this cough for years, but seeing blood is just... really scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have trouble breathing at night or when lying down?",
+    "patient_turn": "No, I don’t really have trouble breathing at night or when I’m lying down. I just use one pillow, and that seems to be okay for me. It’s mostly during the day when I’m active that I struggle with shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel short of breath when lying down?",
+    "patient_turn": "Um, no, I don’t really feel short of breath when I’m lying down. I just use one pillow, and that seems to help. It’s more when I’m up and trying to do things that I really struggle with my breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or ankles?",
+    "patient_turn": "No, I haven’t noticed any swelling in my legs or ankles. I mean, I’m using a cane to get around, but, um, I haven’t had any issues with swelling. It’s mostly just the shortness of breath and the cough that are really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest pain at all?",
+    "patient_turn": "No, I haven’t had any chest pain. I mean, I’ve been feeling short of breath and all, but no pain. It’s mostly just the tightness and heaviness in my chest that’s concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or a whistling sound when you breathe?",
+    "patient_turn": "No, I haven’t noticed any wheezing or whistling sounds when I breathe. It’s mostly just the shortness of breath and that chronic cough that’s been bothering me. I’m really just worried about how everything is getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or lightheaded at any time recently?",
+    "patient_turn": "Um, no, I haven’t felt dizzy or lightheaded recently. It’s mostly just the shortness of breath and the cough that are really concerning me. I’m kinda worried about all of it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea or vomiting lately?",
+    "patient_turn": "No, I haven’t had any nausea or vomiting lately. It’s really just the shortness of breath and that chronic cough that are, um, bothering me. I’m honestly just feeling pretty anxious about everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel habits recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my bowel habits. I mean, everything seems normal there, but, um, it’s really just the breathing issues and the cough that are my main concerns right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urine, like color or frequency?",
+    "patient_turn": "No, I haven’t noticed any changes in my urine, like color or frequency. It’s just, um, the shortness of breath and that chronic cough that are really worrying me right now. I’m just feeling a bit overwhelmed with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or pain in your eyes or ears recently?",
+    "patient_turn": "No, I haven’t had any headaches or pain in my eyes or ears recently. It’s really just the shortness of breath and that cough that are, um, bothering me. I’m honestly feeling pretty anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or night sweats lately?",
+    "patient_turn": "Well, I had a fever of 38°C about two weeks ago, but I haven’t had any fevers since then. I haven’t noticed any night sweats either. It’s mostly just the breathing issues and the cough that are really concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any skin rashes or muscle aches recently?",
+    "patient_turn": "No, I haven’t noticed any skin rashes or muscle aches recently. It’s really just the shortness of breath and that chronic cough that are, um, bothering me a lot. I’m kinda worried about everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I’ve lost about 20 pounds over the past three to four months, and it’s been unintentional. I still have a good appetite, but, um, I’m kinda worried about that weight loss along with everything else. It just feels like a lot to handle right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use your inhalers now?",
+    "patient_turn": "Um, I’ve been using my inhalers irregularly lately. Honestly, they haven’t really been effective for me over the past two months, which is, you know, really frustrating. I’m just trying to manage the shortness of breath and cough, but it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day?",
+    "patient_turn": "I currently smoke about two cigarettes a day, but I’ve been trying to cut back. I used to smoke a pack and a half, so, um, I guess it’s a bit of progress, but I’m still trying to quit completely.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol rarely, to be honest. It’s not something I do often, so, um, I guess it’s not really a concern for me right now. My focus is more on the breathing issues and everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife, and my son helps us out with groceries and things like that. I’m, um, still functionally independent, but I do use a cane to get around. It’s nice to have their support, especially with everything I’m dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any mobility aids, like a cane or walker?",
+    "patient_turn": "Yeah, I use a cane to get around. It helps me a lot, especially since I’ve been feeling more short of breath lately. I’m still functionally independent, but, um, the cane makes it easier for me to move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel you can manage your daily activities on your own?",
+    "patient_turn": "Um, mostly, yes, I can manage my daily activities on my own, but it’s getting tougher with the shortness of breath. I do use a cane, and my son helps with groceries, but, you know, I’m still trying to stay independent as much as I can. It’s just a bit challenging right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about any family history of lung or heart disease?",
+    "patient_turn": "Yeah, my family history is a bit concerning. My father died of lung cancer at age 65, and my mother had a heart attack at age 50. No other cancers were reported, but, um, it definitely makes me a bit worried about my own health, especially with everything I’m experiencing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I mean, I take Lipitor for my cholesterol, and that’s been fine for me. But, um, with everything else going on, I’m just feeling a bit anxious about my health overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking besides Lipitor?",
+    "patient_turn": "Um, I’m not taking any other medications besides Lipitor. I’ve been using inhalers for my COPD, but I haven’t been using them regularly lately because they haven’t been effective. It’s just been really tough managing everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "No, I haven’t had any surgeries in the past. I mean, I’ve had my share of hospitalizations for my COPD, but no surgeries at all. It’s just been, um, a lot to deal with lately.",
+    "annotation": "Correct"
+  }
+]

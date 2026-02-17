@@ -1,0 +1,162 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this sore throat I’ve had since last night. I also started feeling feverish this morning, and I’ve been really tired and achy. Honestly, I’m just concerned because I had some exposure to my granddaughter who’s been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I noticed it, um, last night. It just kind of came on suddenly, and it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the sore throat changed since it started?",
+    "patient_turn": "Oh, it really hasn't changed much at all. I mean, I think it started a couple of days ago, but now that I think about it, it might have just been a little scratchy. But I don't usually get sore throats; I mean, maybe I do sometimes, but not really.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "Um, it’s mostly like, in the back of my throat, you know? It feels kind of raw and uncomfortable when I swallow. It’s not super sharp, but definitely annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your ears or neck?",
+    "patient_turn": "Uh, not really, no. I mean, it’s mostly just in my throat. I haven’t felt any pain in my ears or neck, just, um, the throat pain and the general achiness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a dull pain, you know? It’s not super sharp, but it’s definitely uncomfortable, especially when I swallow. It just feels kind of raw, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the sore throat?",
+    "patient_turn": "I've noticed ...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat?",
+    "patient_turn": "I’d say it’s more of a dull pain, you know? It’s not really sharp, but it feels kind of raw and uncomfortable, especially when I swallow. It’s just, um, annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your sore throat?",
+    "patient_turn": "Yeah, um, I’ve been feeling really tired and achy, and I think I have a bit of a fever too. Oh, and I’ve also lost my sense of taste, which is really strange. Plus, there’s some nasal congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your sore throat?",
+    "patient_turn": "You know, I was just thinking about how I need to clean out my closet. It's been a bit messy lately, and I found some old clothes that I probably won’t wear again.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did your sore throat start?",
+    "patient_turn": "Oh, um, it started last night. I just woke up with it, and it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or wheezing along with your sore throat?",
+    "patient_turn": "No, um, I haven’t had any cough or wheezing at all. It’s really just the sore throat, some fatigue, and muscle aches. I’m kinda worried about it, but no cough or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling short of breath at all?",
+    "patient_turn": "No, um, I’m not feeling short of breath. It’s really just the sore throat and some fatigue. I mean, I’m a bit worried, but breathing seems fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain at all?",
+    "patient_turn": "No, I haven’t had any chest pain. It’s mostly just the sore throat, fatigue, and muscle aches. I’m honestly just a bit anxious about everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fluttering or racing in your heart?",
+    "patient_turn": "Um, no, I haven’t noticed anything like that. It’s really just the sore throat and feeling tired and achy. I’m not sure if that’s related, but I’m kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or lightheaded at any point?",
+    "patient_turn": "No, I haven’t felt dizzy or lightheaded. It’s mostly just the sore throat and, um, feeling really tired and achy. I’m just, you know, a bit anxious about everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or vomited at all?",
+    "patient_turn": "No, I haven’t felt nauseous or vomited. It’s really just the sore throat and some fatigue. I mean, I’m kinda worried about it, but no nausea or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain recently?",
+    "patient_turn": "No, I haven’t had any abdominal pain. It’s just the sore throat and feeling tired and achy. I’m honestly just a bit anxious about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes in your urination, like pain or increased frequency?",
+    "patient_turn": "No, I haven’t had any changes in my urination at all. It’s really just the sore throat and some fatigue. I’m, um, just feeling a bit worried about everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches recently?",
+    "patient_turn": "No, I haven’t had any headaches. It’s mostly just the sore throat and feeling tired and achy. I mean, I do get migraines sometimes, but nothing like that right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any redness in your eyes or a runny nose?",
+    "patient_turn": "No, I haven’t noticed any redness in my eyes, and I don’t have a runny nose either. It’s really just the sore throat, fatigue, and muscle aches. I’m kinda worried about it, but those symptoms aren’t there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been lately?",
+    "patient_turn": "Um, my appetite has been normal, actually. I’ve been eating fine, just, you know, feeling a bit off with the sore throat and everything. I’m honestly a bit worried about it, but I can still eat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your constipation changed at all recently?",
+    "patient_turn": "No, not really. I mean, I have chronic constipation, but it hasn’t changed recently. It’s just something I deal with, you know? The focus right now is more on this sore throat and the other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you still experience migraines, or have they changed in frequency or intensity?",
+    "patient_turn": "Um, I still get migraines occasionally, but I haven’t noticed any changes in frequency or intensity lately. It’s just, you know, something I deal with from time to time. Right now, I’m more focused on this sore throat and feeling tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day?",
+    "patient_turn": "I smoke about two to three cigarettes a day. I know it’s not great, but it’s just something I’ve been doing for a while. I’m kinda worried about my health with everything going on, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink with dinner each night?",
+    "patient_turn": "I usually have, um, a glass of alcohol with dinner each night. It’s just a routine for me, but I’m starting to think about how it all adds up, especially with how I’m feeling right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. It’s really just the occasional alcohol and, um, smoking. I’m not sure if that’s related to how I’m feeling, but I’m kinda worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my son, daughter, and grandson. It’s a full house, you know? I’ve also had some recent exposure to my granddaughter, who goes to daycare and has been sick, which is making me a bit more anxious about my symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. The only exposure I’ve had is to my granddaughter, who’s been sick. I’m just, um, really worried about my symptoms and what they could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone else who has been sick recently?",
+    "patient_turn": "The only person I’ve been in contact with is my granddaughter, who goes to daycare and has a runny nose. I’m kinda worried because she’s been sick, and now I’m feeling this way. Other than that, I haven’t been around anyone else who’s been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any other family history of health conditions besides cataracts and diabetes?",
+    "patient_turn": "Um, not that I know of. My family history is mostly notable for early-onset cataracts and diabetes in my mother, sister, and brother. I’m not sure about any other specific health conditions, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active, and do you use any form of contraception?",
+    "patient_turn": "I’m, um, currently sexually active, but we didn’t really discuss contraception. I guess it’s just something that hasn’t come up. I’m more focused on how I’m feeling right now with this sore throat and everything.",
+    "annotation": "Correct"
+  }
+]

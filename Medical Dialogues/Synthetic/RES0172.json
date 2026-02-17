@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a dry cough for the past couple of days, and it started to get worse before it stabilized. I also have a fever around 38.1–38.2°C and a headache that feels like a band squeezing my head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "It mostly feels like a dry irritation in my throat, but it doesn't hurt too much. It's just annoying, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry, wet, or something else?",
+    "patient_turn": "It's definitely a dry cough. It doesn't produce any mucus or anything like that. Just a persistent tickle in my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "I first noticed the cough about two days ago. It started off worse and then kind of stabilized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "Oh, um, I think the cough started maybe two days ago? I was just sitting on the couch watching TV, you know, binge-watching that new series everyone’s talking about. And then suddenly I felt this tickle in my throat, which was weird because I hadn’t been sick in ages. And about the fever, it was like, well, I noticed I felt a bit warm after I came back from that family gathering, but I wasn’t really keeping track of the temperature or anything like that.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or does it produce any mucus?",
+    "patient_turn": "It's a dry cough, so it doesn't produce any mucus at all. Just a persistent tickle in my throat that's really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed the cough about two days ago. It started off worse and then kind of stabilized after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more tired or fatigued than usual lately?",
+    "patient_turn": "Yes, I've been feeling more fatigued than usual. I just haven't had the energy to do much, which is unusual for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat, and does it hurt when you swallow?",
+    "patient_turn": "I do have a mildly painful sore throat, but it doesn't hurt when I swallow. It's just a bit uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a runny or stuffy nose recently?",
+    "patient_turn": "No, I haven't had a runny or stuffy nose at all. Just the cough and sore throat, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble breathing or feeling short of breath?",
+    "patient_turn": "No, I haven't had any trouble breathing or feeling short of breath. It's just the cough and other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain during this time?",
+    "patient_turn": "No, I haven't experienced any chest pain at all. Just the cough, fever, and headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or faint at any point recently?",
+    "patient_turn": "No, I haven't felt dizzy or faint at all. Just the other symptoms like the cough and headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rash or changes in your nails recently?",
+    "patient_turn": "No, I haven't noticed any rash or changes in my nails. Just the cough, fever, and headache are my main concerns right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain or diarrhea recently?",
+    "patient_turn": "No, I haven't had any abdominal pain or diarrhea. My symptoms are really just the cough, fever, and headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urination, like pain or increased frequency?",
+    "patient_turn": "No, I haven't noticed any changes in my urination at all. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of smell recently?",
+    "patient_turn": "Yes, I have noticed a change in my sense of smell, but I haven't lost my taste. It's just a bit different, and I can't quite put my finger on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "My past medical history is pretty unremarkable, except for a remote ACL knee surgery. I haven't had any hospitalizations or chronic conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don't have any known allergies to medications or other substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of medical conditions I should be aware of?",
+    "patient_turn": "Yes, there is a family history of breast cancer in my aunt and hypertension in my father. Other than that, nothing significant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently smoke or have you ever smoked in the past?",
+    "patient_turn": "No, I don't smoke and have never smoked in the past. I do use marijuana occasionally at social events, but not recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use recreational marijuana?",
+    "patient_turn": "I use recreational marijuana occasionally at social events, but I haven't used it recently. It's not something I do regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you typically have?",
+    "patient_turn": "I drink alcohol infrequently, and I haven't had any in recent months. When I do drink, it's usually just a small amount, like a glass of wine or a beer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work, and how has your work situation been lately?",
+    "patient_turn": "I work in a tech company, mostly remote. It's been pretty steady lately, but I've been feeling a bit off with these symptoms, so it's been hard to focus.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick at any recent gatherings?",
+    "patient_turn": "No, I haven't been around anyone who was sick at any recent gatherings. I just attended an outdoor family gathering, and there were no known sick contacts there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the local area recently?",
+    "patient_turn": "No, I haven't traveled outside the local area recently. I've just been staying around here.",
+    "annotation": "Correct"
+  }
+]

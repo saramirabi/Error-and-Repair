@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m kinda worried because I’ve been having these upper respiratory symptoms for about a week now. It started with a runny nose, but then it got worse with nasal congestion and, like, facial pressure and pain, especially around my cheeks and jaw. I just want to know if I need medication or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your face?",
+    "patient_turn": "Uh, I think the facial pain started about five days ago. It’s been pretty significant, mostly around my cheeks and, um, my jaw, and even my front teeth. It’s really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located? Does it spread to any other areas?",
+    "patient_turn": "Yeah, so the pain is mainly over my cheeks and jaw, and it feels like it’s kinda focused there. I don’t really feel it spreading to other areas, but it’s just, um, really uncomfortable, especially when I wake up. I guess it’s mostly localized, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Well, I think lying down makes it worse, but also, when I sit up, it’s kind of okay sometimes. Oh, and I remember my neighbor was mowing the lawn at night, which was super annoying, and I didn't sleep well because of that. Also, I’ve been drinking a lot of water lately, which I heard is good for health, but it’s hard to tell if it helps with the pain.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and I don’t feel nauseous either. It’s mostly just the congestion and facial pain, you know? I did have some brief chills, but no fever or anything like that. I’m just really focused on this pressure and the nasal stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, drinking, or exercise?",
+    "patient_turn": "Sure, um, I quit smoking about two years ago, so that’s good. I drink red wine occasionally, but not a lot, just, you know, here and there. I use recreational cannabis once or twice a month, but I don’t really do much exercise lately, to be honest. I work at a grocery store, so I’m on my feet a lot, but I guess that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Oh, well, I have dyslipidemia, but I take a statin for that. And, you know, I used to smoke, but that was two years ago, and I quit. I drink red wine occasionally, like maybe once a week, but I also think about how I used to go jogging every morning, which was nice, but I don’t really do that anymore. Also, my cat had surgery last year, and that was pretty stressful for me.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms like breathlessness, dizziness, or nausea recently?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and I don’t feel nauseous at all. It’s really just the congestion, facial pressure, and, uh, the loss of smell that’s been bothering me. I’m kinda worried about that, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the facial pressure and pain?",
+    "patient_turn": "I first noticed the facial pressure and pain about five days ago. It started getting worse after my nasal congestion got really bad, and, um, it’s just been really uncomfortable since then. I didn’t have this kind of pain before that, so it’s been a bit concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the pain in your face?",
+    "patient_turn": "Yeah, so the pain is mostly in my cheeks and jaw area, and it feels like it’s concentrated there. Sometimes it even feels like it’s affecting my front teeth a bit, but, um, it’s not really spreading anywhere else. It’s just really uncomfortable, especially when I wake up in the morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Um, I think the pain is kind of, like, pressure, maybe? But it’s hard to say exactly, you know? It feels a bit different sometimes, but I’m not really sure how to explain it.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse?",
+    "patient_turn": "Well, um, lying down definitely makes it worse, especially at night when I’m trying to sleep. Sitting up seems to help a bit, but it’s still there, you know? I’ve been drinking a lot of water, thinking that might help, but I’m not totally sure if it does.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell recently?",
+    "patient_turn": "Yeah, actually, I’ve noticed a loss of smell over the last three days. It’s kinda concerning, to be honest, because I didn’t have that before. My sense of taste seems fine, though, so that’s a bit of a relief, but the smell thing is really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any nasal obstruction, particularly at night?",
+    "patient_turn": "Yes, definitely. I’ve been having a lot of nasal obstruction, especially at night. It’s really hard to breathe, and I find myself waking up because of it. Sometimes it’s like one nostril is blocked, then the other, and it’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you notice that one nostril gets blocked, then the other?",
+    "patient_turn": "Yeah, exactly! It’s like one nostril gets blocked, and then, um, the other one does too. It keeps switching, and it’s really annoying, especially at night when I’m trying to sleep. I just can’t seem to get comfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your sleep often disturbed because of the congestion?",
+    "patient_turn": "Um, yeah, my sleep is definitely disturbed because of the congestion. I keep waking up at night, and it’s really hard to get a good rest. I’m kinda worried because I feel tired during the day, and it’s just, you know, frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other medical problems in the past?",
+    "patient_turn": "Well, I have dyslipidemia, but that's pretty much it. I mean, I don’t have any other major medical issues, and I haven’t been hospitalized or had any surgeries. I did have a similar episode like this two years ago, but it resolved on its own without any treatment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart disease?",
+    "patient_turn": "Um, no, there’s no family history of lung or heart disease or cancer that I know of. I think my family has been pretty healthy overall, so that’s a relief, I guess. It’s just me dealing with this right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced similar symptoms to this episode before?",
+    "patient_turn": "Yeah, actually, I had a similar episode about two years ago. It was pretty much the same kind of symptoms, but it resolved on its own without any treatment, so I was hoping this would do the same. But, um, this time it feels a bit worse, and I’m just kinda worried about it.",
+    "annotation": "Correct"
+  }
+]

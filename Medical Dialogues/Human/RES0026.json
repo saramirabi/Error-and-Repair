@@ -1,0 +1,172 @@
+[
+  {
+    "doctor_turn": "I was wondering if we could start with you telling us what brought you in?",
+    "patient_turn": "Sure, I've had this terrible headache for the past four days. Doesn't seem to be getting any better, and I feel hot like I have a fever. I've been coughing a lot so I am I'm worried I have COVID, so I'm here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did when did that exactly started?",
+    "patient_turn": "Uh the headache started, OK so the coughing started four days ago. The headache started shortly after so I would say later on during that day and then the fever I've had for, fever I think I've had for the past two days. I haven't actually taken my temperature though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough gotten better, worse, or stayed the same?",
+    "patient_turn": "The cough has stayed the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "are you bringing up any phlegm or sputum with the cough?",
+    "patient_turn": "Um, it's not really phlegm, but sometimes I cough up, like bits of like. You know little bits that look like blood or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're seeing some like red when when you're coughing up?",
+    "patient_turn": "Mmmm",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "how much of this are you seeing like, is it like a teaspoon amount or or more?",
+    "patient_turn": "Oh, it's it's very little. It's like maybe a little bit bigger than like the tip of a pencil.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "are you seeing this on like kind of tissues afterwards sort of thing?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "any triggers for the cough you can think of?",
+    "patient_turn": "No, it just seems to be there all day. Um, doesn't really get better with me trying to rest or not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is the cough there at night time too?",
+    "patient_turn": "Yes, it is definitely there at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is it interfering with sleep?",
+    "patient_turn": "Ah yes, I haven't been sleeping well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "have you had any difficulties with breathing?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "how about any wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "did you experience a like worst headache of your life, or a Thunder clap sensation?",
+    "patient_turn": "No, it's it's not that bad, but it just seems to be there all day long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "have you had headaches like this before?",
+    "patient_turn": "No, I've never gotten headaches in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is the headache associated with any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is the headache worse in the morning when you first wake up?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "does it have to get worse if you lie flat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "has this headache been getting worse, staying the same, getting better?",
+    "patient_turn": "It's it's about the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "you haven't checked the temperature yet, you said, but you felt hot?",
+    "patient_turn": "Yes, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "any other symptoms that you've been experiencing?",
+    "patient_turn": "Not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is there anything in regards to your past health that you see a physician regularly for?",
+    "patient_turn": "Um No. Ah actually I I think at one point, um, I was worked up for something called familial hypercholesterolemia because it ran in the family. But I think those results were normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "do you take a statin medication then?",
+    "patient_turn": "Yeah I take a low dose statin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "when was your last lipid panel checked?",
+    "patient_turn": "I think it was two years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "do you remember if the LDL was normal at that time?",
+    "patient_turn": "Ah yes it was normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "any other medical conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries before?",
+    "patient_turn": "C-section.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many children do you have?",
+    "patient_turn": "Ah just the one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "were there any complications with the c-section?",
+    "patient_turn": "Um no no complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "could you just tell me a little bit about your living situation right now?",
+    "patient_turn": "I live with my husband and my one son.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "is anybody in the home been sick recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "have you traveled anywhere recently?",
+    "patient_turn": "We went up to we just went to um like a, we went on a hiking trail that was outside the city recently and there were a lot of people there and and we weren't wearing masks, but we, it seemed like we were keeping a good distance between each other so that that would be my only concern.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Were people pretty close to each other on the paths when walking by on the hike?",
+    "patient_turn": "Ahh not like the whole time, but there would be times when you know people just kind of brushed by you to try to get ahead of you or something like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "do you have any neck stiffness?",
+    "patient_turn": "No, not that I noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was there anything that you wanted to tell me that I I maybe forgot?",
+    "patient_turn": "No, I think you covered it all. I'm just wondering do you? Do you think it's COVID or something else?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had this like sore throat as well over the last several days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so did the rhino start first or the nasal obstruction?",
+    "patient_turn": "Yeah, they they kind of started it around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when was that?",
+    "patient_turn": "About four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Four days ago. And then when did the sore throat start?",
+    "patient_turn": "Uh, yeah, that started about two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Two days ago, OK. And and the, uh discharge is it is it clear? Or are you seeing colors?",
+    "patient_turn": "It's pretty clear and watery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you're not seeing anything yellow, green or bloody?",
+    "patient_turn": "No, not nothing like that. I haven't seen any yellow, green or or bloody.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and then your sore throat. Is it making it hard for you to swallow solids and fluids?",
+    "patient_turn": "No pain with swallowing, just can kind of feel it there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, any coughing?",
+    "patient_turn": "Yeah, actually I started to have a bit of a cough. Uh, just this past day it's it's just started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it a dry cough or is it a wet cough?",
+    "patient_turn": "It's dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's dry, OK. So you're not bringing up any sputum or blood?",
+    "patient_turn": "No sputum or or blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK good. And and then any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No wheezing, OK. Any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, um, any fainting spells or dizziness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And then any changes in your vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your smaller taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any weight loss?",
+    "patient_turn": "No, it's been stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about fevers?",
+    "patient_turn": "No, I don't think I've had a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Uh, chills or night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Uhm, any rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Uhm, and then any changes in your bowel movements?",
+    "patient_turn": "No, I haven't had any diarrhea or, or constipation. Nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And then how about abdominal pain?",
+    "patient_turn": "No abdominal pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your urine?",
+    "patient_turn": "No, no pain with urination.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about uhm gassiness or bloating?",
+    "patient_turn": "No, I haven't felt anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, headaches?",
+    "patient_turn": "Yeah, I have had a bit of a headache. I felt kind of like a a pressure of, well, I felt kind of like a pressure in my face and a headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm pressure in your face and a headache, OK. And do you normally get these?",
+    "patient_turn": "Wait, no, I think I get headaches when I'm sick or I don't don't sleep well. And I mean I, I have been feeling pretty fatigued the last few days and, uh, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah. Is it the worst headache you've ever had?",
+    "patient_turn": "No, there, it's pretty mild, it's just kind of annoying 'cause it's still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. Uhm, alright. And then any muscle aches or joint pains?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, good. And are you otherwise healthy or do you have any longstanding medical conditions?",
+    "patient_turn": "I'm healthy, I haven't had any any conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. Have you been hospitalized for anything? Have you ever needed surgeries?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. And are you on any medications?",
+    "patient_turn": "No medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, that's good, and then I'm are your immunizations up to date?",
+    "patient_turn": "They are, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any of your family, history of lung or heart conditions?",
+    "patient_turn": "No. No. Everyone in the family is healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you smoke?",
+    "patient_turn": "Nope, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about recreational drugs?",
+    "patient_turn": "No. Well, I I use like I'll have a joint every once in awhile, like socially with friends, but uh, that's I mean, maybe a couple of times per month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, how about alcohol? Do you drink?",
+    "patient_turn": "Yeah, I'll have uhm, like I don't know, a few beers on the weekend maybe so I don't know, maybe like four or five drinks per week.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK. And then have you been in contact with anyone sick recently?",
+    "patient_turn": "No, I am. I don't, I don't think so. I live, uh, in a student house, though, with that like four other people.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, I see.",
+    "patient_turn": "Yeah, just finishing up some school here in town.",
+    "annotation": "irrelevant"
+  },
+  {
+    "doctor_turn": "OK, and had they been sick at all or had similar symptoms?",
+    "patient_turn": "I think one of the guys last week had I had a little bit of a cough. And I don't know that yeah, said he wasn't wasn't feeling well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and have you traveled anywhere recently?",
+    "patient_turn": "No, been been just at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Alright, no travel. And where do you live right now?",
+    "patient_turn": "So I, I just live in a student house with a.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Oh yeah, sorry, you said that.",
+    "patient_turn": "Oh, no problem.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I guess I'm trying to get at. Uh, are there any old carpets you know reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse?",
+    "patient_turn": "It's mostly like hardwood or like kind of ceramic flooring so there aren't many carpets and things like that, so I guess no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK, alright and those were kind of all the questions that I had. Did you have anything to add or anything you wanted to discuss today?",
+    "patient_turn": "No, I was just I. wondering what might be going on. It's been a few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure uhm so it sounds like you may have a viral infection, and because your symptoms overlap with those of Covid, we will do a Covid swab on you just to rule that out. Uhm, but from the sounds of what your symptoms are, it, it is most likely to be a common cold, in which case you can just manage it with a lot of hydration, nutrition, good sleep. But if your symptoms get worse or they're not going away after a couple of weeks, or you're having neurological deficits like weakness or seizures, you should get help from the ER. Does that sound OK?",
+    "patient_turn": "Yeah, for sure I haven't had any any symptoms like that, so so far, so that's good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah for sure. Alright, take care.",
+    "patient_turn": "Take care, thank you.",
+    "annotation": "Correct"
+  }
+]

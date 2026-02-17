@@ -1,0 +1,157 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three days now, and I also have a fever, like, it was 38°C. I’m kinda worried because I’ve been feeling achy and a bit fatigued too… but the cough has gotten a little better, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and fever?",
+    "patient_turn": "I first noticed the cough, um, about three days ago, and the fever sort of came on around the same time. It’s just been, you know, a bit concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Uh, it’s mostly just a dry cough, so it doesn’t really feel like it’s, um, localized anywhere specific. It’s just kind of annoying, you know? I guess it feels worse when I try to talk or, um, take deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it persistent, or does it come and go?",
+    "patient_turn": "Uh, I think it’s pretty persistent, but sometimes it kind of fades a bit, you know? It’s just hard to say exactly when it’s worse.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I noticed it starting about three days ago, um, like I said. It just kind of came out of nowhere, and I’ve been trying to manage it since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your cough since it first started?",
+    "patient_turn": "Yeah, um, I think it’s slightly improved since it first started, but it’s still there, you know? It’s just not as intense as it was at the beginning, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it a tickle, a tightness, or something else?",
+    "patient_turn": "Well, it feels kind of dry, like there's a tickle in my throat, which is annoying, and I remember last week I had a really scratchy throat too, but that went away. Oh, and my neighbor's dog barks all night, so maybe that’s contributing to the irritation? It’s just really hard to pinpoint sometimes.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it?",
+    "patient_turn": "Um, it feels…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or blood when you cough?",
+    "patient_turn": "No, um, I haven’t noticed any mucus or blood at all. It’s just been a dry cough, you know? So that’s one thing I’m kinda relieved about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any shortness of breath while coughing or at rest?",
+    "patient_turn": "Um, no, I haven’t felt any shortness of breath, thankfully. It’s just the cough that’s bothering me, but I can breathe okay otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain at all?",
+    "patient_turn": "No, I haven’t had any chest pain. It’s just the cough and, um, some mild wheezing, but nothing that feels like pain, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats while you sleep?",
+    "patient_turn": "No, I haven’t noticed any night sweats. I mean, I’ve been feeling a bit achy and fatigued, but no sweating at night or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any sore throat or nasal congestion recently?",
+    "patient_turn": "No, I haven’t had any sore throat or nasal congestion. It’s just the cough and, um, the fever, but no other upper respiratory symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea, vomiting, or abdominal pain lately?",
+    "patient_turn": "No, I haven’t had any nausea, vomiting, or abdominal pain at all. It’s just been the cough and the fever, really. I’m glad it’s not anything more serious, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your urination, like pain or increased frequency?",
+    "patient_turn": "No, I haven’t noticed any changes in my urination, like pain or increased frequency. Everything seems normal there, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your skin, like rashes or discoloration?",
+    "patient_turn": "No, I haven’t noticed any changes in my skin, like rashes or discoloration. It’s just been the cough and fever, you know? Nothing else really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do your fibromyalgia and schizophrenia affect you on a daily basis?",
+    "patient_turn": "Well, um, with fibromyalgia, I deal with a lot of achiness and fatigue, which can be pretty exhausting, you know? And for my schizophrenia, I’ve been stable since my hospitalization two years ago, but I still have to manage it with medication, like quetiapine. It’s just a lot to juggle sometimes, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your fibromyalgia and schizophrenia?",
+    "patient_turn": "I’m taking quetiapine for my schizophrenia, and I occasionally use Advil for the joint pain from fibromyalgia. I don’t have any medication allergies, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’m, um, pretty lucky in that regard, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last psychiatric hospitalization?",
+    "patient_turn": "My last psychiatric hospitalization was about two years ago. Since then, I’ve been stable, which is a relief, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your mental health been since your last hospitalization?",
+    "patient_turn": "Um, it’s been stable since my last hospitalization, thankfully. I’ve been managing things pretty well, but, you know, it can still be a bit challenging at times.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and who you live with?",
+    "patient_turn": "I live with my husband, and, um, he was recently ill with a sore throat but he recovered without any intervention. It’s just the two of us, and I don’t currently work, so I’m mostly at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What illness did your husband have recently?",
+    "patient_turn": "He had a sore throat, but he recovered without any intervention, so that’s good. I’m just glad he’s feeling better now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking?",
+    "patient_turn": "I’ve been smoking for, um, about 30 years now, like 2-3 cigarettes a day. I’m trying to reduce it, but it’s been tough, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently trying to quit smoking or reduce the amount you smoke?",
+    "patient_turn": "Yeah, I’m trying to reduce the amount I smoke. It’s been a bit challenging, honestly, but I really want to cut back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently working, or are you not working at the moment?",
+    "patient_turn": "I’m not currently working. I’ve just been at home, dealing with my health issues and, um, managing everything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I rarely drink alcohol, to be honest. I haven’t had any in the past year, so it’s not really a part of my routine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease?",
+    "patient_turn": "No, there’s no family history of cardiac or pulmonary disease that I know of. So, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current and up to date?",
+    "patient_turn": "Yes, my immunizations are reportedly up to date. I’ve made sure to keep everything current, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of any specific exposures. My husband was sick with a sore throat, but he’s better now, so I’m not sure if that’s related.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you have your COVID-19 test done?",
+    "patient_turn": "I had my COVID-19 test done recently, um, because of the symptoms I was having. I’m not exactly sure when, but it was, you know, right after I started feeling unwell.",
+    "annotation": "Correct"
+  }
+]

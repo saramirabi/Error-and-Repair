@@ -1,0 +1,152 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to see you, Dr. Lee. I’ve been having this worsening cough, and, uh, I’ve got new shortness of breath and some chest pressure. It’s been pretty uncomfortable, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pressure and shortness of breath?",
+    "patient_turn": "Well, it started, um, less than a day ago. I mean, the cough has been around for a while, but this chest pressure and shortness of breath just came on suddenly, and it’s been constant since then. It’s kinda worrying me…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pressure is located? Does it spread to any other areas?",
+    "patient_turn": "Um, it’s mostly in the center of my chest, I think. It doesn’t really spread anywhere else, but it feels pretty tight, you know? It’s there all the time, even when I’m just sitting still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pressure feel like? Is it sharp, dull, or more like a tightness?",
+    "patient_turn": "..., I guess.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pressure?",
+    "patient_turn": "Oh, um, I noticed it just yesterday, actually. It just sort of came on suddenly, and it hasn’t really gone away since then. It’s been pretty uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the chest pressure ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, not really. It’s just, um, right in the center of my chest. I haven’t felt it spreading to my arms or neck or anything like that. Just this tight feeling, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the chest pressure feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it feels more like a tightness, I think. Not really sharp or dull, just, you know, like a constant pressure. It’s kinda hard to explain, but it’s definitely uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pressure feel better or worse for you?",
+    "patient_turn": "Well, um, I haven’t really found anything that makes it feel better, to be honest. It’s there all the time, and, uh, it seems to get worse when I’m breathing or, you know, trying to do anything. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pressure?",
+    "patient_turn": "I first noticed it, um, yesterday. It just sort of came on suddenly, and I’ve been feeling it ever since. It’s really been bothering me…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pressure is located?",
+    "patient_turn": "Um, I think it’s kind of in the middle, but I’m not really sure exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does the chest pressure feel like anything specific, like sharp, dull, or more like a tightness?",
+    "patient_turn": "It feels more like a tightness, I guess. It’s not sharp or dull, just this constant pressure that’s really uncomfortable. It’s hard to ignore, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the chest pressure feel worse?",
+    "patient_turn": "Um, pretty much anything that requires me to move around, like, you know, walking or even just breathing deeply. It just feels worse when I try to do anything, and it’s really tiring. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, wheezing, or feeling dizzy?",
+    "patient_turn": "No, I haven't noticed anything like that. Well, maybe a little shortness of breath, but I don't usually have that.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you tell me when the chest pressure started?",
+    "patient_turn": "Oh, um, it started just yesterday. It came on suddenly, and I’ve been feeling it ever since. It’s really been bothering me a lot…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pressure? Does it stay in one spot or spread anywhere else?",
+    "patient_turn": "I feel it mostly in the center of my chest. It, um, stays in that spot and doesn’t really spread anywhere else. It’s just this constant tightness that’s hard to ignore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What color is your sputum now?",
+    "patient_turn": "Um, it’s changed to a greenish-yellow color. It’s definitely more severe than before, and I’m kinda worried about that, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you experience any chills or fever last night?",
+    "patient_turn": "Yeah, I had chills last night, but I’m not really sure about a fever. I don’t think I have one right now, but, um, it was definitely a bit unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently, even locally?",
+    "patient_turn": "Um, no, not really. I’ve just been around the house, you know, nothing beyond a local visit. I haven’t gone anywhere far.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any COPD exacerbations in the past?",
+    "patient_turn": "Yeah, I had one last year that required hospitalization and oxygen. It was pretty serious, and, um, I’m worried this might be another one. I haven’t had any recent exacerbations until now, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you using any home oxygen right now?",
+    "patient_turn": "No, I’m not on home oxygen right now. I, um, used to need it after that hospitalization, but I haven’t needed it since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently using to manage your COPD?",
+    "patient_turn": "I’m using daily Spiriva and a rescue inhaler, but I only tried the rescue inhaler once last night, and it didn’t really help much. I also take some other medications for my other health issues, like hypertension and diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you typically use your rescue inhaler?",
+    "patient_turn": "Um, I don’t use it that often, usually just when I really need it. But lately, I’ve been feeling like I might need it more often, especially with this worsening cough and shortness of breath. It’s just been a bit concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms like breathlessness, dizziness, or palpitations?",
+    "patient_turn": "Um, I’ve definitely noticed breathlessness, but I haven’t felt dizzy or had any palpitations. It’s mostly just the shortness of breath and that tightness in my chest that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions have you been diagnosed with in the past?",
+    "patient_turn": "I’ve been diagnosed with COPD, hypertension, type 2 diabetes, and chronic kidney disease. It’s a lot to manage, and, um, I’m just trying to keep everything under control, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yeah, I had a uterine prolapse repair a while back, but there were no complications from that. It was, um, a pretty straightforward procedure, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you live, and have you been exposed to any dust, fumes, or chemicals?",
+    "patient_turn": "I live with my husband in a house outside the city. I, um, haven’t been exposed to any dust, fumes, or asbestos that I know of. It’s mostly just a quiet area, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how much do you smoke daily?",
+    "patient_turn": "I’ve been smoking since my teens, so, um, that’s quite a while now. I smoke about half to one pack a day, which I know isn’t great, but it’s just been a hard habit to break.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs or drink alcohol?",
+    "patient_turn": "No, I don’t use any recreational drugs, and I rarely drink alcohol. I just, um, focus on managing my health as best as I can, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many children do you have?",
+    "patient_turn": "I have five children. They keep me busy, um, but they’re all grown up now. It’s nice to have them around sometimes, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent worsening of your COPD symptoms?",
+    "patient_turn": "Yeah, this is definitely the worst I’ve felt in a while. I mean, I had that one exacerbation last year, but other than that, I haven’t had any recent issues until now. This cough and shortness of breath are really concerning me.",
+    "annotation": "Correct"
+  }
+]

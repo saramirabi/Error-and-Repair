@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this lower back pain for about a month now. It started off as just a mild ache, but it’s gotten a lot worse, and now it’s, like, sharp and burning, radiating down my right leg… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Sure, um, the pain is mostly in my lower back and it radiates down into my right leg. It’s, like, a sharp, burning pain, and I also feel some mild tingling, but no numbness, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or positions make the pain worse for you?",
+    "patient_turn": "Well, um, physical activity definitely makes it worse, and standing for too long is, like, really tough. Certain positions, like when I’m hunched over, also make it hurt more… but I do get some relief when I lie flat on my back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain, and how has it changed since then?",
+    "patient_turn": "Oh, I first noticed it just a few days ago, but I think it’s been going on for a while, you know? It started off as this really intense pain, but now it’s more of a mild ache, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain, and how has it changed since then?",
+    "patient_turn": "I first noticed the pain about a month ago. It started as a mild ache, but, um, over the past week, it’s really gotten worse. Now it’s more of a constant sharp pain, and it’s just really hard to manage.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "The pain is mostly in my lower back, but sometimes it feels like it goes down my leg. I think that started maybe a week ago? And it’s kind of sharp at times, especially when I bend over. Oh, and speaking of bending, I also remember that my neighbor was playing really loud music last weekend, and I had to keep the windows shut, which was annoying. It’s just been a lot lately, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, lying flat on my back definitely helps a bit, which is nice. But, like, physical activity and standing for too long make it worse, and certain positions, like when I’m hunched over, really aggravate it. It’s just frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t noticed anything like that. It’s really just the back pain and the tingling in my leg… no breathlessness or dizziness or nausea, thankfully. Just, you know, the pain and discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed for you over the past week?",
+    "patient_turn": "Oh, it’s definitely gotten worse over the past week. It started off as just a mild ache, but now it’s more constant and sharp, like, really hard to ignore. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any difficulty walking or noticed a change in your gait?",
+    "patient_turn": "Yeah, I have. I’ve been having some difficulty walking, and I’ve noticed I’m, like, limping a bit, favoring my left leg. It’s just, um, really uncomfortable, and I’m not used to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in bowel or bladder control recently?",
+    "patient_turn": "No, um, I haven’t had any issues with that. I don’t have any bowel or bladder incontinence or retention, thankfully. It’s really just the back pain and the tingling in my leg that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any problems with urination or bowel movements lately?",
+    "patient_turn": "No, I haven’t had any problems with that at all. I mean, everything’s been normal in that regard… it’s really just the back pain and the tingling in my leg that’s concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever, chills, or night sweats recently?",
+    "patient_turn": "Um, no, I haven’t noticed any fever, chills, or night sweats. It’s really just the pain in my back and the tingling in my leg that’s been bothering me… nothing else, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt unusually tired or noticed any changes in your skin lately?",
+    "patient_turn": "No, I haven’t felt unusually tired or noticed any changes in my skin. It’s really just the back pain and the tingling in my leg that’s been, um, really hard to deal with. I’m just trying to manage it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any pain in your joints or other muscles?",
+    "patient_turn": "No, I haven’t had any pain in my joints or other muscles, just the back pain and the tingling in my leg. It’s, um, really focused on that area, and I’m just trying to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your weight recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my weight. It’s really just the back pain and the tingling in my leg that’s been the main issue for me… nothing else has changed, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weakness in your legs or elsewhere?",
+    "patient_turn": "No, I haven’t experienced any weakness in my legs or anywhere else, thankfully. It’s just the pain and the tingling in my leg that’s been bothering me… I’m really hoping to get some answers soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent injuries or trauma to your back or legs?",
+    "patient_turn": "Um, no recent injuries or trauma, but I did have a lower back injury about 6 or 7 years ago. It was treated conservatively, and I thought I was fine since then… but now this pain is really concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "No, I don’t have any past medical conditions or surgeries to mention. My medical history is pretty unremarkable, and I haven’t had any hospitalizations or anything like that. Just, um, this back pain now, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m currently taking calcium, vitamin D, and multivitamins. Um, nothing else really… just trying to manage my health, you know? But with this back pain, it’s been tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and what you do for work?",
+    "patient_turn": "Sure, um, I live with my husband in an apartment, and I work from home running a daycare. I stopped working on the assembly line about three years ago, so it’s been a bit of a change, you know? But now with this back pain, it’s been really challenging to keep up with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of autoimmune, cardiac, or pulmonary diseases?",
+    "patient_turn": "No, there’s no family history of autoimmune, cardiac, or pulmonary diseases that I know of. My family history is pretty clear in that regard, so, um, I’m not sure why I’m dealing with this back pain now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did the doctor find during the physical examination of your back?",
+    "patient_turn": "The doctor found tenderness in my lower back, and there was sharp pain when they palpated the area. They also noticed that the pain and tingling got worse when they raised my leg, but there was no swelling, redness, or warmth. It was, um, pretty uncomfortable, to be honest.",
+    "annotation": "Correct"
+  }
+]

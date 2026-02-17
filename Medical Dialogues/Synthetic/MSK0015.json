@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my daughter. She’s been limping for the past two days and can’t put any weight on her right leg. It’s been really painful for her, and she’s missing school… I just don’t know what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the limp and the pain in her leg?",
+    "patient_turn": "Uh, it started about two days ago. She just suddenly couldn’t walk properly, and the pain seems to be around her right hip. I mean, she hasn’t had any injuries or anything, so it’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me exactly where the pain is located?",
+    "patient_turn": "It’s, um, around the knee, I think. But actually, it’s more in the ankle area, not the hip.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for her? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, she says it’s really painful, like a sharp pain when she tries to move it. It’s hard to see her like this, you know? She’s just been so uncomfortable and upset.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "A... ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for her?",
+    "patient_turn": "Well, um, it definitely gets worse when she tries to put weight on it or walk. But, I think resting helps a little, you know? She’s been mostly sitting or lying down to avoid the pain, and it’s just really tough for her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any injuries or trauma to her leg recently?",
+    "patient_turn": "No, um, she hasn’t had any injuries or trauma that I know of. It just kind of started out of nowhere, which is really confusing and worrying for me. I just don’t understand what could be causing this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any chills, headaches, or cough recently?",
+    "patient_turn": "Uh, no, she hasn’t had any chills or headaches. She did have a bit of a cough and felt warm about a week ago, but no fever or anything like that. It’s just been this leg pain that’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any past medical conditions or health issues we should know about?",
+    "patient_turn": "Um, her only past medical issue is developmental dysplasia of the hip, which was diagnosed at birth. She had a splint for a couple of months, but after that, she was fine and walked normally. So, this pain is really unexpected for us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is she currently taking any medications or does she have any allergies?",
+    "patient_turn": "No, she’s not taking any medications, and, um, she doesn’t have any known allergies either. It’s just been really stressful with this sudden pain and not knowing what’s wrong.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like heart or joint problems?",
+    "patient_turn": "Uh, no, there’s no family history of heart or joint problems that I know of. My husband and I are both pretty healthy, and, um, it’s just really surprising that she’s having these issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or deformity in her leg?",
+    "patient_turn": "No, um, there’s no visible swelling or deformity that I can see. It just seems like she’s in a lot of pain when she tries to move it, but everything looks normal on the outside, which is really confusing.",
+    "annotation": "Correct"
+  }
+]

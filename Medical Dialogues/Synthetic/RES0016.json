@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this, like, really bad breathlessness for about two years now, and it’s just getting worse. I also have this dry cough that won’t go away, and it’s kinda hard to catch my breath sometimes, especially when I’m, you know, doing stuff like walking or gardening. I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the breathlessness and if it spreads anywhere?",
+    "patient_turn": "Um, it’s mostly just in my chest, I guess? I feel like I can’t get enough air, and sometimes it feels like, uh, I’m just struggling to take a full breath. It doesn’t really spread anywhere else, though. It’s just… really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of your breathlessness? Is it sharp, tight, or something else?",
+    "patient_turn": "Well, it’s not really sharp or anything, but it feels tight, you know? Like, um, there’s this pressure, and I just feel like I can’t get enough air in. It’s really, uh, unsettling, especially when I’m active. I’d rate it, like, an 8 out of 10 during heavy activity.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make your breathlessness worse?",
+    "patient_turn": "…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the breathlessness get worse with any specific activities or situations?",
+    "patient_turn": "Yeah, definitely. It gets worse when I’m, um, doing things like walking or gardening. I mean, even just a little bit of exertion makes it feel a lot harder to breathe. It’s kinda scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness starting?",
+    "patient_turn": "Oh, you know, it’s funny. I was just thinking about how I need to get my car washed soon because it’s really dirty.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats or chills recently?",
+    "patient_turn": "Yeah, I have. I’ve been having these, um, intermittent chills and night sweats a few times a week for the past couple of months. It’s, like, really strange and adds to my worries, you know? I didn’t think much of it at first, but now it’s just… it feels a bit concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I have. I’ve lost about, um, 3 kilograms without really trying, and it’s, like, kinda unsettling. I thought maybe it was just because I’ve been feeling so fatigued and not really active, but now I’m starting to worry that it might be something more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you often feel fatigued, and what do you think is causing it?",
+    "patient_turn": "Yeah, I do feel fatigued a lot, um, but I kinda attributed it to aging, you know? I mean, I’m not as active as I used to be, and with all this breathlessness and everything, it’s just really draining. But, honestly, I’m starting to think it might be more than just getting older.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or have you had any surgeries?",
+    "patient_turn": "Um, I have well-controlled hypertension that I’ve been treating with ramipril for over 10 years, but, uh, that’s pretty much it. I haven’t had any surgeries or anything significant in the past. Just the hypertension and, you know, benign prostatic enlargement.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions do your family members have that you think are important?",
+    "patient_turn": "Well, my father had type 2 diabetes, multiple strokes, and he had a heart attack at 56, which is, um, really concerning. He also passed away from bowel cancer in his 70s. My mother is still alive, but she has type 2 diabetes, hypertension, hypothyroidism, and depression. So, you know, there’s a lot of health issues in my family that I worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and daily routine?",
+    "patient_turn": "Um, I live alone in an apartment, and, honestly, I haven’t been working lately because my symptoms really limit my ability to leave the house. My daily routine has changed a lot; I mostly just stay at home and try to rest, but it’s, like, really hard to do much of anything with this breathlessness and fatigue. I feel kinda isolated, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest X-rays or lung function tests for your breathing issues?",
+    "patient_turn": "No, I haven’t had any chest X-rays or pulmonary function tests yet. I guess I just thought it was something that would pass, but now I’m realizing I really need to get it checked out. It’s been going on for too long, and I’m starting to feel really anxious about it.",
+    "annotation": "Correct"
+  }
+]

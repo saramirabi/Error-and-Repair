@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having some issues for the past few days. It started with nasal congestion, and then I got this yellow nasal discharge… and, uh, I’ve lost my sense of smell, which is kinda worrying. Plus, my face feels really pressured, like a headache, and it’s been getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms starting?",
+    "patient_turn": "So, it’s been about three days since the nasal congestion started, and then, um, the yellow discharge and loss of smell followed, I think, a day or two after that. It’s just been getting progressively worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where you feel the pressure or pain in your face?",
+    "patient_turn": "Yeah, um, it’s mostly around my forehead and cheeks, like, right here… and sometimes it feels like it’s behind my eyes too. It’s just this constant pressure, and it’s really uncomfortable, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the facial pressure feel like? Is it sharp, dull, or more like a heavy sensation?",
+    "patient_turn": "Uh, it feels kind of heavy, I think? But sometimes it’s, like, sharp too? I’m not really sure how to explain it, honestly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice this facial pressure?",
+    "patient_turn": "I think the facial pressure started about two days ago, um, after the nasal congestion got worse. It just sort of came on, and it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the facial pressure changed at all since it first started?",
+    "patient_turn": "Yeah, um, it’s definitely gotten worse since it first started. At first, it was just a little annoying, but now it’s, like, really uncomfortable and makes it hard to sleep sometimes. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pressure in your face?",
+    "patient_turn": "So, um, I feel it mostly in my forehead and cheeks, like, right around my nose too. It’s just this overall heaviness, and sometimes it feels like it’s pushing down, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pressure feel like—sharp, dull, or more like a heavy sensation?",
+    "patient_turn": "... .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has the facial pressure changed in intensity since it first started?",
+    "patient_turn": "Yeah, it definitely has. Um, it started off as just a mild annoyance, but now it’s, like, really intense and, uh, it’s hard to ignore. I’m kinda worried it might be getting worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pressure feel like—sharp, dull, or something else?",
+    "patient_turn": "It feels more like a heavy sensation, I think? But there are moments when it can be sharp too, especially if I move my head a certain way. It’s just really uncomfortable overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like difficulty breathing, dizziness, or feeling your heart racing?",
+    "patient_turn": "…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or cough recently?",
+    "patient_turn": "No, I haven’t had any fever or chills, and, um, I don’t have a cough either. It’s mostly just the nasal congestion and facial pressure that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your sleep been affected by the facial pressure and congestion?",
+    "patient_turn": "Well, my sleep has been kinda disturbed, to be honest. It’s hard to get comfortable with the facial pressure, and I keep waking up because of it. I’m just feeling really tired from not getting enough rest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus drainage down your throat?",
+    "patient_turn": "Yeah, I have noticed mucus drainage down my throat, um, but I don’t have bad breath or anything like that. It’s just, like, really annoying and adds to the discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What treatments have you tried to relieve your symptoms so far?",
+    "patient_turn": "I’ve tried using nasal sprays and decongestants, um, and I’ve also done nasal rinses, but honestly, none of them have really helped. My symptoms just keep getting worse, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your appetite changed at all during this time?",
+    "patient_turn": "No, my appetite has been pretty much the same, thankfully. I’m still eating normally, but, um, it’s just the other symptoms that are really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any significant past medical conditions or surgeries besides your appendectomy?",
+    "patient_turn": "No, I don’t have any significant past medical conditions, just the appendectomy when I was 12. Um, I do have seasonal allergies, but that’s about it. No history of asthma or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of asthma or other allergies besides seasonal ones?",
+    "patient_turn": "No, I don’t have a history of asthma, and, um, aside from my seasonal allergies, I don’t have any other allergies that I know of. My family does have a history of asthma, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications do you take regularly, if any?",
+    "patient_turn": "I don’t take any regular medications, um, just multivitamins. I occasionally use recreational marijuana, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick that I’ve been in contact with. It’s just been this sinus issue that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you exposed to any fumes, dust, or pets in your home or work environment?",
+    "patient_turn": "No, I don’t have any exposure to fumes or dust, and, um, I don’t have any pets either. It’s just me, my husband, and our young child at home.",
+    "annotation": "Correct"
+  }
+]

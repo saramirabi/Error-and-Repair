@@ -1,0 +1,297 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "I'm here because um I've been having some pain in my left knee for the past two months and it's not getting better. It feels stiff and um I just haven't been able to uh, you know, use it as well, as well as I was using it before um and it's just limited some of my daily activities.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and where, uh so it's, the pain is in your left knee. Where are you feeling this pain specifically? Is it at the front of the knee, the sides, or or the the back? Could you point to it?",
+    "patient_turn": "It feels like it's mostly on the front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Like deep within that um kneecap.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you said the pain started two months ago?",
+    "patient_turn": "Yes, well, it's always been a little like tender. Um but now it's more painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And so, so has it been getting worse?",
+    "patient_turn": "I would say so, slowly getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh and when you get uh pain in the left knee, how long does it typically last for?",
+    "patient_turn": "It usually hurts while I'm doing, while I'm moving it, or just after, but if I if I rest, the pain eventually goes away. Um but when I first wake up in the morning, that joint feels stiff. And then when I start using it, using it more, it's less stiff, but it becomes painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you have some stiffness in the morning?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long does it last for? Like 30 minutes, 60 minutes or or longer?",
+    "patient_turn": "The stiffness or pain?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Yeah, the the stiffness.",
+    "patient_turn": "Uh the stiffness goes away in like yeah 15 to 30 minutes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you describe the pain, um in terms of its character?",
+    "patient_turn": "It feels, it feels uh, I guess most of the time it's like it's like a dull kind of pain, but it can be sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there anything that makes the pain worse?",
+    "patient_turn": "Just with a lot of activity it gets worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you feel it radiate anywhere else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you describe the severity of your pain on a scale of 10 being the worst pain you've ever felt, and 1 being kind of very minimal pain.",
+    "patient_turn": "Uhm, I would give it maybe uh 7.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any injuries to your knee before?",
+    "patient_turn": "No, not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Um and have you been having any uh any weight loss recently?",
+    "patient_turn": "Uh no, weight gain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Weight gain, OK. How much weight have you gained over the last uh several months?",
+    "patient_turn": "Over the past six months, I'd say I've gained about 20 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had changes in your diet and or exercise?",
+    "patient_turn": "Um I guess I've been eating a little bit more, um but no changes in exercise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um have you been having any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any night sweats?",
+    "patient_turn": "Uh, no night sweats.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you had any changes to your vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any changes to your uh sense of smell or sense of taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a runny nose or or a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough or or any shortness of breath?",
+    "patient_turn": "Uh no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any uh wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any chest pain or heart palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright have you had any lightheadedness or dizziness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any confusion or memory loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any changes in appetite, like a loss of appetite?",
+    "patient_turn": "Uh no, I, if anything, had a gain in appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, uh have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. Um and how about any urinary problems?",
+    "patient_turn": "Uh no urinary problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um any changes to your bowel habits, like diarrhea or blood in the stool?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any rashes or skin changes or changes to your hair or nails?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any other joint pains? Or have you or do you have any joint swelling?",
+    "patient_turn": "Uh I have some joint um swelling. It's it's not very visible, but it's it appears slightly more swollen than my left, sorry, than my right knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So just a little bit of swelling in your left knee, but no other joints?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and have you been diagnosed with any medical conditions before?",
+    "patient_turn": "Um I have um diabetes, high blood pressure and high cholesterol. And I'm overweight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you take any medications for any of those conditions?",
+    "patient_turn": "I'm on insulin for diabetes. Um I'm on Ramipril for high blood pressure and I'm also on a statin for the cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and uh, have you had any surgeries in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and um are your immunizations up to date?",
+    "patient_turn": "I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, uh, and could you tell me a little bit about your living situation currently, like like who you're living with and whereabouts?",
+    "patient_turn": "Um I live with my husband in a house downtown.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and are you working currently?",
+    "patient_turn": "No, I retired early.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um do you drink alcohol?",
+    "patient_turn": "Um I'll have a glass of wine every night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so about 7 drinks per week?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um, do you smoke cigarettes?",
+    "patient_turn": "Uh no, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, how about the use of any recreational drugs like cannabis or uh or anything else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. Um and is there any, uh, like musculoskeletal or like autoimmune conditions that run in the family?",
+    "patient_turn": "Uhm no musculoskeletal issues uh that, I know diabetes runs in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um alright, so that was everything I wanted to ask on history. So next I just wanted to do a physical exam, and just looking at the left knee, are you seeing any um swelling or redness uh on the knee?",
+    "patient_turn": "Um it appears slightly more swollen than my right knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but are you seeing any redness?",
+    "patient_turn": "No redness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are there any temperature changes? Like does the knee feel hot or or warm?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you um press along the uh joint line, do you feel any pain?",
+    "patient_turn": "Uhm yeah, it feels a little tender.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about pain over any of the muscles, like the thigh muscles or the hamstrings or the calf muscles?",
+    "patient_turn": "No, those are fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about any pain over the patella or kneecap?",
+    "patient_turn": "That that's a little bit more painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you able to bend your knee uh like like flex it, straighten it?",
+    "patient_turn": "Uh I can do that, it's just painful when I do that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and uh and then how about walking, are you um, do you have an antalgic gait or or or a limp?",
+    "patient_turn": "Uhm no, no, well, I guess I'm I'm putting more weight on my right knee so it might appear to some people that I do have a slight limp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any issues with moving your hip or your ankle?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so I think that was everything I wanted to ask and check today. Did did you have any questions?",
+    "patient_turn": "Um yeah, so um how do you, how can I treat my knee?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly, so it it sounds like um this could be most likely osteoarthritis um of the left knee, which uh is something that would be best treated with uh trying to stay as active as you can, but but also pacing your activities as well, so that you're not um doing so much that the next day you're in significant amount of pain, but it's important to remember that um activity will help um with keeping your knee mobile, but also um actually help with reducing pain as well, and then also uh you could use Tylenol um as a medication for it. I wouldn't recommend ibuprofen or NSAIDs on a long term basis, although you could take those if you're having like an acute flare up of your pain. Um and then also like topical agents such as um like Voltaren or something like that you could put on your knee and um if it's really bad and it keeps um continuing on, we can consider something like a steroid injection as well.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "For some relief. But yeah, so first we'll just try some conservative methods like physiotherapy, pain management, uh and then go from there. How does that sound?",
+    "patient_turn": "That sounds pretty good. Thank you.",
+    "annotation": "Correct"
+  }
+]

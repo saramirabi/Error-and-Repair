@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I hurt my right shoulder during football practice about two hours ago. I felt like someone fell on me while I was on the ground, and it really, really hurt—like a sharp, stabbing pain, you know? It’s a 10 out of 10, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start after the injury?",
+    "patient_turn": "Um, it started right away, like, as soon as I felt that impact. I mean, it was immediate, and the pain was just... really intense. I haven't been able to move my arm at all since then because it hurts so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me where the pain is located?",
+    "patient_turn": "Yeah, um, it’s mostly around my right clavicle and shoulder area. There’s, like, a visible lump there, and it’s bruised and swollen too. It’s really tender to touch, and, um, I can feel the sagging of my shoulder, which is kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "... really .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in one spot or spread anywhere else?",
+    "patient_turn": "The pain is, um, mostly right around my right clavicle and shoulder area. It’s pretty localized there, but it’s really intense. I haven’t felt any pain anywhere else, so, um, I think it’s just in that spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, like, really sharp and stabbing. I mean, it’s a 10 out of 10, so it’s just... really hard to deal with. I can’t really describe it any other way, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, at football practice, and I was on the ground when someone fell on me. I didn’t see it coming, and then, bam, the pain hit me right away. It was just... really sudden and intense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start?",
+    "patient_turn": "Uh, I think it was, like, maybe two hours ago? But I'm not totally sure about the time, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any sagging or drooping of your shoulder since the injury?",
+    "patient_turn": "Yeah, I have. Um, my shoulder definitely looks like it’s sagging, which is kinda worrying. I can see it’s not sitting right, and it just feels really off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any previous injuries or dislocations to your shoulder?",
+    "patient_turn": "No, I haven’t. This is, um, the first time anything like this has happened to me. I’ve never had any injuries or dislocations in that area before, so this is all pretty new and, um, scary for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical conditions or surgeries. This is really the first major issue I’ve had, and I’m kinda worried about it, to be honest. I just take allergy medication sometimes for seasonal stuff, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What allergy medication do you take when needed?",
+    "patient_turn": "Uh, I’m not totally sure of the name, but it’s just something for seasonal allergies. I take it when I need it, you know, like during allergy season. But, um, I don’t have any known drug allergies or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of medical conditions I should be aware of?",
+    "patient_turn": "No, um, there’s no family history of medical conditions that I know of. It’s just me and my immediate family, and, um, everyone seems pretty healthy. So, yeah, nothing like that to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you enjoy doing in your free time or after school?",
+    "patient_turn": "Well, um, I’m a high school student, so I spend a lot of time with my friends and, you know, hanging out. I also work part-time at a grocery store, which keeps me busy. I like playing sports, especially football, but, um, I guess that’s on hold for now with my shoulder injury.",
+    "annotation": "Correct"
+  }
+]

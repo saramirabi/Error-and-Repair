@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a persistent dry cough for about six months now, and I've also noticed I'm getting short of breath more easily. Plus, I've lost quite a bit of weight without trying—around 20 to 30 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the chest pain is located and if it spreads anywhere else?",
+    "patient_turn": "The chest pain is a dull, constant ache on my right side. It doesn't really spread anywhere else, and it doesn't seem to get worse with deep breaths or when I move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like to you?",
+    "patient_turn": "It feels like a dull ache, kind of constant, but it's not sharp or stabbing. It's just there, and it doesn't really change with activity or position.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Nothing really seems to make it better or worse. It stays the same regardless of what I'm doing, whether I'm resting or moving around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your cough? When did it start, and how often do you cough?",
+    "patient_turn": "... .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I first noticed the chest pain about six months ago, around the same time I started having the cough and shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "I've been smoking for about 60 years, and I currently smoke one pack a day. I used to smoke two packs a day, but I've cut back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood or mucus when you cough?",
+    "patient_turn": "No, I haven't noticed any blood or mucus when I cough. It's just a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers, fatigue, or wheezing recently?",
+    "patient_turn": "No, I haven't experienced any fevers, fatigue, or wheezing. It's mostly just the cough, shortness of breath, and the chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What other medical conditions do you have, and what medications are you currently taking?",
+    "patient_turn": "I have atrial fibrillation and hypertension, which I manage with a beta blocker and other antihypertensive medication. I also have benign prostatic hypertrophy, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any lung conditions, like COPD?",
+    "patient_turn": "No, I haven't been diagnosed with COPD. It was previously ruled out by pulmonary function testing about 5 to 10 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung cancer?",
+    "patient_turn": "Yes, I have multiple relatives with a history of lung cancer, and they were all smokers. It's definitely concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your living situation like, and do you have any habits like smoking or drinking?",
+    "patient_turn": "I live with my wife in a townhouse. I smoke about a pack a day, and I usually have one to two beers daily. I don't use recreational drugs, and we don't have any pets.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yes, I'm up to date with my immunizations.",
+    "annotation": "Correct"
+  }
+]

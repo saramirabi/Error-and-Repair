@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my daughter. She’s been holding her right elbow awkwardly for about a day now, and she won’t fully extend it. It seems to hurt her a lot… I mean, she was playing at the park when her dad was swinging her by the arms, and then this started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice her holding her elbow like that?",
+    "patient_turn": "I first noticed it, um, yesterday. She was playing, and then all of a sudden, she just started holding it in this weird, slightly bent position. It’s like she doesn’t want to move it at all, and it really worries me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started?",
+    "patient_turn": "Not really, um, it seems to be the same since it started. She’s still in a lot of pain when I try to move her elbow, and she just… you know, refuses to stretch it out. I’m kinda worried it might be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me exactly where she feels the pain in her elbow?",
+    "patient_turn": "Um, yeah, she points to the area around her elbow, like right here, but it’s not swollen or anything. It just seems really tender when I touch it, and she cries if I try to move it. It’s just so hard to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for her? Is it sharp, dull, or something else?",
+    "patient_turn": "... kind of hurts.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has she been able to move her arm at all since this started?",
+    "patient_turn": "Uh, I think it was maybe yesterday? It's all a bit fuzzy, but I noticed she wasn’t using it much.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for her? Is it sharp, dull, or something else?",
+    "patient_turn": "I think it’s sharp pain, honestly. She cries when I touch her elbow, and it seems to really hurt her if I try to move it. It’s just so hard to see her in pain like this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she mentioned feeling any numbness or tingling in her arm?",
+    "patient_turn": "Um, no, she hasn’t mentioned anything like that. It’s mostly just the pain in her elbow, and she seems really uncomfortable. I’m kinda worried that it might be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had a fever or any other symptoms like coughing or vomiting?",
+    "patient_turn": "No, she hasn’t had a fever or any other symptoms like coughing or vomiting. It’s just the elbow pain, and that’s what’s really concerning me. She seems fine otherwise, but this pain is just… it’s really upsetting to see.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any previous medical issues or surgeries we should know about?",
+    "patient_turn": "Um, no, she hasn’t had any previous medical issues or surgeries. She’s been pretty healthy, actually. This is the first time I’m really worried about something like this, and it’s just… it’s really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is she currently taking any medications or does she have any allergies?",
+    "patient_turn": "No, she’s not taking any medications, and she doesn’t have any allergies that I know of. It’s just this elbow pain that came out of nowhere, and I’m really worried about her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health conditions we should be aware of?",
+    "patient_turn": "Um, no, there’s no family history of any health conditions that I know of. It’s just been a normal family life, and this is the first time something like this has happened. I’m really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was her pregnancy and birth normal, with no complications?",
+    "patient_turn": "Yeah, her pregnancy and birth were normal, um, no complications at all. She was born full term, and everything seemed fine. It just feels so sudden to have this issue with her elbow now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been exposed to any illnesses or tobacco smoke recently?",
+    "patient_turn": "No, she hasn’t been exposed to any illnesses or tobacco smoke. She doesn’t go to daycare or anything like that, so I think she’s been pretty safe. It’s just this elbow pain that’s really worrying me.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a worsening cough and I've been more short of breath than usual over the past week. My cough has changed too; it's more frequent and now producing yellow sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the changes in your cough and shortness of breath?",
+    "patient_turn": "I started noticing the changes in my cough about a week ago, and the shortness of breath has been getting worse over the last few days. It's definitely more noticeable when I'm active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the discomfort in your chest when you cough?",
+    "patient_turn": "The chest discomfort is mild and mostly feels like a tightness when I'm coughing. It’s not really painful, just uncomfortable during those fits.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like—sharp, dull, or more like pressure?",
+    "patient_turn": "It feels more like a dull pressure, nothing sharp or intense. Just enough to notice when I'm coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the discomfort, like shortness of breath or dizziness?",
+    "patient_turn": "Well, I mean, sometimes there’s a little shortness of breath, but it’s mostly when I’m doing stuff, like walking up the stairs or, you know, carrying groceries. And I think I might have felt a bit dizzy once or twice, but that could have been from, like, not eating enough or something. Oh, and I remember last week I had this weird tickle in my throat, which was kind of annoying.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yes, I've had some shortness of breath, especially with exertion, but no dizziness or nausea. Just the cough and that mild chest discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "I currently smoke about half a pack of cigarettes a day, which I've cut down from two packs. I drink alcohol occasionally, just a few times a month. As for exercise, I try to stay active, but I find I'm getting more short of breath lately, so I haven't been able to do as much as I used to.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications regularly?",
+    "patient_turn": "Yes, I have a history of COPD and hypercholesterolemia, which I manage with atorvastatin. I also use a Ventolin inhaler and Spiriva regularly for my COPD. I had hypertension in the past, but I stopped taking the diuretic without medical advice.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing your chronic cough?",
+    "patient_turn": "I've had this chronic cough for about 10 years now. It’s been a part of my life for a while, but it has definitely worsened recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What color was your sputum before it changed to yellow?",
+    "patient_turn": "Before it changed to yellow, my sputum was mostly clear to white. It was pretty consistent like that for a long time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever noticed any blood in your sputum when you cough?",
+    "patient_turn": "No, I haven't noticed any blood in my sputum at all. It's just been clear to white and now yellow, but no hemoptysis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience shortness of breath when you're resting or lying down?",
+    "patient_turn": "No, I don’t experience shortness of breath when I'm resting, lying down, or during sleep. It only happens when I'm active or exerting myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble breathing at night or when lying flat?",
+    "patient_turn": "No, I haven't had any trouble breathing at night or when lying flat. I sleep fine; the shortness of breath only comes up when I'm active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any chills or fever recently?",
+    "patient_turn": "I’ve had some occasional chills, but I haven’t measured a fever. It’s just been mild and nothing too concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain that isn't related to your coughing?",
+    "patient_turn": "No, I haven’t experienced any chest pain that isn’t related to my coughing. It’s just that mild discomfort when I cough, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any palpitations or experienced any pain in your calves?",
+    "patient_turn": "No, I haven't felt any palpitations or experienced any pain in my calves. Everything seems fine in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or faint at any time recently?",
+    "patient_turn": "I haven’t really felt dizzy or faint recently. Just a bit of shortness of breath and that mild chest discomfort when I cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite or weight recently?",
+    "patient_turn": "No, I haven't noticed any changes in my appetite or weight. Everything seems pretty normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung cancer?",
+    "patient_turn": "Yes, my father had a history of lung cancer, and he was a heavy smoker. That’s something that’s always been on my mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any triggers in your home environment that might affect your breathing?",
+    "patient_turn": "No, I haven’t noticed any triggers in my home environment. I live in a relatively new apartment, and there aren't any known irritants around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick. Everything has been pretty normal on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your vaccinations up to date, including for COVID-19?",
+    "patient_turn": "Yes, my vaccinations are up to date, including the COVID-19, pneumococcal, and shingles vaccines. I make sure to keep on top of those.",
+    "annotation": "Correct"
+  }
+]

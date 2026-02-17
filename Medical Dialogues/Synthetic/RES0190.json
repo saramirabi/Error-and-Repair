@@ -1,0 +1,157 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've had a sore throat for about four days now, and it's been getting worse. I also developed a fever and chills over the last couple of days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the sore throat start, and how has it changed since then?",
+    "patient_turn": "The sore throat started about four days ago. It started off mild but has gotten worse, especially when I try to swallow solids. It hurts a bit, but I can still drink liquids without much pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain in your throat, and does it spread to any other areas?",
+    "patient_turn": "The pain is mostly at the back of my throat, and I can see some redness and swelling there. It doesn't really spread to other areas, but I do have some swelling in my neck with lumps that I can feel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "The pain feels more like a dull ache, especially when I swallow solids. It's not sharp, but it's definitely uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Drinking liquids seems to help a bit, but eating solids definitely makes the pain worse. I've been trying to avoid anything too solid to make it easier on my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain in your throat feel sharp, dull, or like something else?",
+    "patient_turn": "... kind of .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Did you have a runny nose or cough two weeks ago?",
+    "patient_turn": "Yes, I had a runny nose and cough about two weeks ago, but that has since resolved.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your voice recently?",
+    "patient_turn": "No, I haven't had any changes in my voice. It's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any night sweats or unusual sweating recently?",
+    "patient_turn": "No, I haven't had any night sweats or unusual sweating. Just the fever and chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches in the past few days?",
+    "patient_turn": "No, I haven't had any headaches in the past few days. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any redness or irritation in your eyes recently?",
+    "patient_turn": "No, I haven't noticed any redness or irritation in my eyes. Everything seems fine there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any ear pain lately?",
+    "patient_turn": "No, I haven't had any ear pain lately. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any cough right now?",
+    "patient_turn": "No, I’m not experiencing any cough right now. That cleared up a couple of weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or phlegm when you cough?",
+    "patient_turn": "No, I haven't noticed any mucus or phlegm because I’m not coughing at all right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood recently?",
+    "patient_turn": "No, I haven't coughed up any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any wheezing or trouble breathing?",
+    "patient_turn": "No, I haven't experienced any wheezing or trouble breathing. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain at all?",
+    "patient_turn": "No, I haven't felt any chest pain at all. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy at any point during this illness?",
+    "patient_turn": "No, I haven't felt dizzy at any point during this illness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any palpitations or a racing heart recently?",
+    "patient_turn": "No, I haven't experienced any palpitations or a racing heart.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any stomach pain, nausea, or changes in your appetite?",
+    "patient_turn": "No, I haven't had any stomach pain, nausea, or changes in my appetite. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain or urgency when you urinate?",
+    "patient_turn": "No, I haven't noticed any pain or urgency when I urinate.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any rashes or changes in your skin recently?",
+    "patient_turn": "No, I haven't had any rashes or changes in my skin recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any joint pain or muscle aches lately?",
+    "patient_turn": "No, I haven't experienced any joint pain or muscle aches lately. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt confused or disoriented at any time recently?",
+    "patient_turn": "No, I haven't felt confused or disoriented at any time recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt unusually tired or fatigued lately?",
+    "patient_turn": "No, I haven't felt unusually tired or fatigued. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt generally unwell or experienced any malaise?",
+    "patient_turn": "No, I haven't felt generally unwell or experienced any malaise. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any sexual activity recently?",
+    "patient_turn": "No, I haven't had any sexual activity recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe at home?",
+    "patient_turn": "Yes, I feel safe at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung diseases?",
+    "patient_turn": "No, there's no family history of heart or lung diseases.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of cancer?",
+    "patient_turn": "No, there's no family history of cancer either.",
+    "annotation": "Correct"
+  }
+]

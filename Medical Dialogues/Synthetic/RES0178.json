@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My son has had a dry cough and a runny nose for the past couple of days. Last night, he started running a fever and seemed really uncomfortable with chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and runny nose?",
+    "patient_turn": "I first noticed the cough and runny nose about two days ago. It seemed to come on pretty suddenly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it started?",
+    "patient_turn": "The cough has stayed dry since it started. It hasn't really changed much, but it seems to bother him more at times.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from?",
+    "patient_turn": "It seems like it's coming from his throat, but he doesn't have any chest pain or wheezing. Just a dry cough and a bit of a sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it persistent or does it come and go?",
+    "patient_turn": "The cough is pretty persistent. It doesn't really go away completely; it just seems to be there most of the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "Um, I think I noticed the cough maybe two days ago, but I also remember that my neighbor's dog was barking a lot, which kind of distracted me. And then, just yesterday, I was trying to help my little brother with his toy, and I ended up sneezing a lot, so I’m not sure if that made it worse or if it was just the cough.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "The cough first started about two days ago. It seemed to come on pretty suddenly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your son have any past medical or surgical history we should know about?",
+    "patient_turn": "No, he doesn't have any past medical or surgical history. He's been healthy and up to date on all his immunizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your son have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "No, he doesn't have any known allergies to medications, foods, or anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your son up to date on all his immunizations?",
+    "patient_turn": "Yes, he is up to date on all his immunizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your son met all his developmental milestones on time?",
+    "patient_turn": "Yes, he has met all his developmental milestones appropriately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was his birth uncomplicated, or were there any issues during delivery?",
+    "patient_turn": "His birth was a bit complicated since it was a non-emergency cesarean section after prolonged labor, but there were no complications afterward.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like heart disease or diabetes?",
+    "patient_turn": "The only family history we have is hypertension and hypercholesterolemia in his grandfather. Other than that, there's nothing significant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who does your son live with at home?",
+    "patient_turn": "He lives at home with both of his parents and two younger siblings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any exposure to tobacco smoke or environmental irritants like mold or dust at home?",
+    "patient_turn": "No, there’s no exposure to tobacco smoke or environmental irritants like mold or dust at home. We try to keep the environment clean for the kids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he traveled anywhere recently?",
+    "patient_turn": "No, he hasn't traveled anywhere recently. We've just been staying at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been around anyone who was sick recently?",
+    "patient_turn": "No, he hasn't been around anyone who was sick recently. We haven't had any known contact with sick individuals.",
+    "annotation": "Correct"
+  }
+]

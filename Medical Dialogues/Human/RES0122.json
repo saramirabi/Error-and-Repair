@@ -1,0 +1,202 @@
+[
+  {
+    "doctor_turn": "What brings you in today?",
+    "patient_turn": "Uh, yeah, so I, I just came in because I've been having, for the last, I would say 2 weeks, just a lot of congestion in my nose and then I've also been feeling a lot of pressure in my head as well as just, around my jaws and my face overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and um, you said it started two weeks ago. Has it gotten better or worse, or been the same since then?",
+    "patient_turn": "Um, I'd say it's pretty much been the same, except like the pressure's getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you find that the pressure is worse when you're bending down, or um, yeah, when you're like squatting or sitting down?",
+    "patient_turn": "Um, when I'm sitting down, I don't think so, but like sometimes I do feel like, for example, when I'm lying on one side, it gets really bad on that one side and I have to kind of switch over to the other side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, alright. And uh, when did your headaches start?",
+    "patient_turn": "Um it's, I guess it's not so much as a headache as just kind of um, just pain in and around the cheeks and just going up to my head. And it started about, I would say around 2 weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and do you have a stuffy nose?",
+    "patient_turn": "Yeah, I definitely have a stuffy nose and it started, um, it sometimes gets like, like a runny nose as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, okay and what's the discharge like?",
+    "patient_turn": "Uh it's usually clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you have a cough?",
+    "patient_turn": "No, no coughs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and do you have any difficulties breathing?",
+    "patient_turn": "Um, no, not that I've noticed. Sometimes when it gets really stuffy, I, uh, have to breathe through my mouth.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, I see. Do you have any difficulty swallowing?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain or any heart, um, palpitations?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any pain in your belly?",
+    "patient_turn": "Uh nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your bowel movement?",
+    "patient_turn": "Nope?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Any urinary symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any muscle aches?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any fevers or chills?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight, changes in your weight recently?",
+    "patient_turn": "No, no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any uh, night sweats?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, alright so, have you had any contact with anyone who could have been sick in the past two weeks or before that?",
+    "patient_turn": "No, no, I'm very like careful. Um, I barely go out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Good, that's very good. Um are you, have you traveled anywhere outside the province?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay and um, do you currently work?",
+    "patient_turn": "I work from home right now, um, I'm an accountant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay and do you live with anyone else, or do you live alone?",
+    "patient_turn": "Uh, so I live with my family. I live with my husband and um two daughters.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have any of them been sick recently?",
+    "patient_turn": "No, they've been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, good. Um, and do you smoke?",
+    "patient_turn": "No, not at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke marijuana or consume any recreational drugs?",
+    "patient_turn": "Probably the last time was in college, um for marijuana.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Um, what about alcohol?",
+    "patient_turn": "Alcohol, I'll probably have a glass of red wine a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, okay. And um, have you, do you have any, um I guess carpets or, or um curtains or any sort of animals around, anything that might cause any kind of environmental allergies?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um alright. And do you have any medical conditions that you've been diagnosed with?",
+    "patient_turn": "No, I've been completely healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any hospitalizations or surgeries?",
+    "patient_turn": "I did have a, um, c-section with both my, both my children.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Any complications after?",
+    "patient_turn": "No complications after. They were both healthy, I, I didn't have to stay in the hospital.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Great, great. Um and any allergies uh to medications, foods or environmental allergies?",
+    "patient_turn": "Nope, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medications, including over the counter herbal medications?",
+    "patient_turn": "I have uh, I do take uh, Tylenol cold in bed sometimes, to relieve some of the pain and pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That's good, that's good. Is there anything else that makes the the pressure and the pain better?",
+    "patient_turn": "Um, I have done those like, kind of those steam um, therapies. That sometimes helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay good, good, good. Um, any uh, anything that makes the, that makes it worse? I know that lying on one side, you said, makes things worse for you. Anything else that's made the pressure worse?",
+    "patient_turn": "Um, no, I would say that's, that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any changes in your sense of smell?",
+    "patient_turn": "Yeah, definitely. Uh when I get really stuff, stuffy, like I don't really smell anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What about sense of taste?",
+    "patient_turn": "Um taste, I guess, like with the smell gone sometimes like the taste feels weird too, but like not, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, okay. Um, and any family history of any medical conditions?",
+    "patient_turn": "Um my, my father did have a heart attack in his uh, I think it was late 50s, but he's well and alive right now, so he's fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Good. Alright, well that's all the questions I had for you given the symptoms that you've shared with me, it sounds like you might have something called um, rhinosinusitis, uh which is basically inflammation of the sinuses and of the uh, of the nasal cavity or the area inside your nose, and uh, often it's just treated with conservative management, so just continue to take um, Tylenol if that seems to help you, and do the steam therapy. It will take time to get better, um, but if you feel that it's um, it's not getting better in the next week or so, give us a call again and we can maybe see if it's a bacterial infection and see if um, if antibiotics might be needed but oftentimes it's usually a viral infection, and antibiotics are not needed, and sort of just resting and taking care of yourself, um, and trying to manage the symptoms that way can help. Um, but also check your temperature here to see if you have any fevers and uh, go from there. We'll also, I guess, we'll also do a COVID swab because your symptoms do overlap with some of those symptoms. Um, and we'd recommend that you quarantine until at least uh swabs, swab results are out and then public health will let you know what to do.",
+    "patient_turn": "Okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any questions for me?",
+    "patient_turn": "Uh no, that's all. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

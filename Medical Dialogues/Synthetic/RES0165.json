@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a sore throat for the last couple of days, and then I started developing a dry cough about a day and a half ago. I've also got a runny nose, and I've been feeling a bit achy and fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it started?",
+    "patient_turn": "The cough started as a dry cough about a day and a half ago. It's been pretty intermittent and random in timing, but it seems to have slightly worsened since it began.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain or discomfort in your throat?",
+    "patient_turn": "The pain in my throat feels more like a general soreness, mostly around the back. It's not sharp or localized, just uncomfortable when I swallow or talk.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the soreness in your throat?",
+    "patient_turn": "Oh, I think it started a few days ago, but I’m not really sure. Actually, I don’t have a sore throat at all, just a bit of a cough.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed the cough about a day and a half ago. It started after my sore throat began.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you find yourself coughing throughout the day?",
+    "patient_turn": "It's pretty random, so I don't have a specific count, but I would say I cough a few times throughout the day. It’s not constant, just here and there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the cough, like a runny nose or muscle aches?",
+    "patient_turn": "Yes, I've noticed a runny nose and some mild muscle aches along with the cough. I've also been feeling a bit fatigued, but no fever or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "I don’t have any past medical or surgical history to mention. I’ve been pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications or supplements right now?",
+    "patient_turn": "No, I’m not taking any medications or supplements at the moment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known drug or environmental allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any significant health issues?",
+    "patient_turn": "The only significant health issue in my family is my mom has hypertension. Other than that, nothing really stands out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick recently?",
+    "patient_turn": "Yes, I’ve had possible exposure to sick individuals at work since I work as a hospital custodian. I try to practice social distancing, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone, or do you have anyone else at home with you?",
+    "patient_turn": "I live alone in my apartment. It's pretty quiet, just me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently smoke or use any tobacco products?",
+    "patient_turn": "No, I don’t smoke or use any tobacco products.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I drink moderately, usually about one glass of wine a day. So, that would be around seven glasses a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test done yet?",
+    "patient_turn": "No, I haven't had a COVID-19 test done yet.",
+    "annotation": "Correct"
+  }
+]

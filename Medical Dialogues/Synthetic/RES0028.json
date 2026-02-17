@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this chest pain I’ve been having. It started about six hours ago, and it’s like this stabbing, tight feeling on the left side. It kinda hurts a lot, like a 6 out of 10, I guess? It got worse when I breathe in, and it’s a bit better when I sit up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start?",
+    "patient_turn": "It started, um, abruptly when I woke up and got out of bed this morning. I didn’t have any pain before that, so it was really sudden and kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s mostly on the left side of my chest, but, um, I’ve also noticed some pain in my left calf. I think it might be related to, like, swelling I had after a long flight recently. But the chest pain is definitely the worst part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, tight, or something else?",
+    "patient_turn": "It’s, um, definitely sharp and tight, like a stabbing sensation. It’s really uncomfortable, and it gets worse when I take a deep breath. Honestly, it’s been hard to ignore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "Well, I was just getting out of bed, you know, and I think I might have been stretching a little, but honestly, I can't remember exactly. Also, I had this weird dream about a cat flying, which was strange. But then, suddenly, I felt this stabbing pain in my chest. Oh, and I had just finished binge-watching a whole season of a show the night before, so maybe that was part of it too?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath along with the chest pain?",
+    "patient_turn": "Yeah, I have. I’ve been feeling, um, short of breath, especially when the pain gets really bad. It’s like I can’t take a deep breath without it hurting more, and that’s kinda freaking me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your cough recently?",
+    "patient_turn": "Yeah, I’ve had this dry cough that’s been getting worse over the past week. It’s not, um, producing any mucus or anything, but it’s definitely annoying and adds to the whole situation. I’m just really worried about everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chills or fever in the past few days?",
+    "patient_turn": "Yeah, I’ve had chills for several days now, but no fever, um, that I know of. It’s just been really uncomfortable, and I’m not sure what’s causing it. I’m kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel dizzy when the chest pain gets worse?",
+    "patient_turn": "Yes, I do. When the pain gets really intense, I feel kinda dizzy, like I might faint or something. It’s really unsettling, and I’m not sure what to make of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long were you in Italy during your recent trip?",
+    "patient_turn": "I was in Italy for three weeks, um, and I just got back last night. It was a great trip, but now I’m really worried about all these symptoms I’m having.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any cold symptoms before your trip to Italy?",
+    "patient_turn": "Yeah, I had an upper respiratory infection about two weeks ago. It was, um, mostly a runny nose, sore throat, and headache, but that’s all cleared up now. I didn’t have any symptoms like this before my trip.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any trauma recently or felt nauseous at any point?",
+    "patient_turn": "No, I haven’t had any trauma or anything like that, and I haven’t felt nauseous either. It’s just been this chest pain and the other symptoms, which is really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been hospitalized or had any surgeries in the past few months?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries in the past few months. I’m otherwise healthy, so this sudden pain is really, um, surprising and worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any chronic health conditions or ongoing medical issues?",
+    "patient_turn": "No, I don’t have any chronic health conditions or ongoing medical issues. I’ve been pretty healthy overall, which is why this chest pain is, um, really concerning for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’ve been taking combined oral contraceptive pills for about two years and a multivitamin, but, um, that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What type of birth control pills are you currently taking?",
+    "patient_turn": "I’m taking combined oral contraceptive pills, um, but I’m not totally sure of the brand name or anything. I’ve just been on them for about two years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yes, my family history is, um, pretty significant for heart disease. My mother died of a myocardial infarction at age 43, and my grandmother also had a heart attack in her 50s. So, I’m kinda worried about that, especially with my symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, and what does your diet typically look like?",
+    "patient_turn": "Yeah, I smoke, um, about two packs of cigarettes a day since I was 12. My diet isn’t great either; it’s mostly high in fast and fried foods. I know I should probably make some changes, but it’s hard, you know?",
+    "annotation": "Correct"
+  }
+]

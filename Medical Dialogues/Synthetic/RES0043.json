@@ -1,0 +1,132 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my child. They’ve had this dry cough for about three days now, and it just seems to be getting worse. There’s also been some fatigue and a low-grade fever, so, you know, I thought it was best to get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "It started on Wednesday evening after school. Um, it was pretty dry at first, but now it’s just, like, persistent and really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Not really, um, it’s still dry and non-productive. There’s no sputum or anything like that, but it just feels like it’s getting worse, you know? I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "... throat.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it painful or just irritating?",
+    "patient_turn": "It’s mostly just irritating, I think. It doesn’t seem painful, but it’s, um, persistent and really bothersome. It’s just hard to see my child struggling with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest?",
+    "patient_turn": "Um, I think it’s more in the throat than the chest, really. It’s just, like, this constant irritation there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickling sensation, or more of a scratchy feeling?",
+    "patient_turn": "Well, it’s kind of scratchy, I guess. And, you know, when I was picking up groceries last week, I noticed that the air was really dry, which might have made it worse. Also, my neighbor’s dog barks a lot, and that can be kind of annoying, so I wonder if that’s contributing to it too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has your child coughed up any sputum or blood?",
+    "patient_turn": "No, um, there hasn’t been any sputum or blood at all. It’s just a dry cough, which is why I’m feeling so anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any wheezing or trouble breathing?",
+    "patient_turn": "No, not at all. There’s been no wheezing or shortness of breath, which is a relief, but the cough and everything else still have me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child mentioned any chest pain or felt their heart racing?",
+    "patient_turn": "No, um, they haven’t mentioned any chest pain or heart racing. It’s just the cough and the fever, but I’m still really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced a sore throat or had any trouble swallowing?",
+    "patient_turn": "No, they haven’t had a sore throat or any trouble swallowing. It’s just the cough and some fatigue, but, um, I’m really worried about how long this is lasting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any changes in their vision or hearing recently?",
+    "patient_turn": "No, um, there haven’t been any changes in vision or hearing. It’s mostly just the cough, fatigue, and that low-grade fever. I’m just really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any chills, night sweats, or developed a rash?",
+    "patient_turn": "No, they haven’t had any chills, night sweats, or a rash. It’s just the cough and the fever, but I’m honestly worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any stomach issues or changes in urination recently?",
+    "patient_turn": "No, um, there haven’t been any stomach issues or changes in urination. It’s just the cough and the fever, and I’m really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any dizziness or confusion at all?",
+    "patient_turn": "No, they haven’t had any dizziness or confusion. It’s just the cough and fatigue, but, um, I’m still really worried about how they’re feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any significant medical issues or conditions in the past?",
+    "patient_turn": "No, their past medical history is pretty unremarkable, except for a previous arm fracture. They’ve been healthy overall, which is why this cough is so concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child fully immunized?",
+    "patient_turn": "Yes, um, they’re fully immunized. That’s why I’m kinda worried about this cough and the possibility of COVID-19, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies?",
+    "patient_turn": "No, they don’t have any known allergies. It’s just this cough and the fever that’s really got me anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your child's development been? Are they meeting their milestones?",
+    "patient_turn": "Yeah, um, their development has been normal, and they’ve met all their milestones. That’s why this cough feels so out of the blue, you know? It’s just really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease. It’s just, um, really concerning that my child is dealing with this cough and fever right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who does your child live with at home?",
+    "patient_turn": "They live with both parents and a younger sister. Everyone else is healthy, so it’s just really worrying to see my child feeling this way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any environmental hazards in your home, like mold or smoke?",
+    "patient_turn": "No, um, there aren’t any environmental hazards in our home. It’s just a regular home, so I’m not sure why this is happening. It’s really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been around anyone who was sick recently?",
+    "patient_turn": "Not really, um, there haven’t been any known sick contacts outside of school. It just feels so sudden, and I’m really worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled anywhere recently?",
+    "patient_turn": "No, they haven’t traveled anywhere recently. It’s just this cough and fever that came out of nowhere, and I’m honestly feeling pretty anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you worried that your child might have COVID-19?",
+    "patient_turn": "Yeah, I’m really worried about that. I mean, with the cough and fever, it just feels like a possibility, so we did get tested and are isolating until we get the results. It’s just so stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific advice did you receive about isolating your child during this time?",
+    "patient_turn": "The doctor advised us to isolate for 14 days pending the test results and to monitor for any worsening symptoms, like a high fever or neurological signs. It’s just a lot to take in, and I’m really anxious about it all.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about two days now, and it’s getting worse. I also have some shortness of breath, especially when I try to do anything, and I’ve been feeling feverish with chills and night sweats… it’s kinda exhausting, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough and shortness of breath first start?",
+    "patient_turn": "So, the cough started about two days ago, and, um, the shortness of breath has been getting worse since then. I think it really kicked in about the same time, but it’s definitely more noticeable now… like, I can’t do much without feeling really winded.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located and if it spreads anywhere else?",
+    "patient_turn": "Uh, the chest pain is, like, right in the center, and it’s sharp, but it only lasts for less than a minute when I take a deep breath. It doesn’t really spread anywhere else, but it’s uncomfortable, you know? I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like when it occurs?",
+    "patient_turn": "Well, it’s sharp and, um, kind of intense, but it goes away pretty quickly, you know? It just happens when I take a deep breath, and it’s, like, a little alarming, honestly. I’m not totally sure what to make of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Well, the chest pain is worse when I take a deep breath, which is kind of strange because I thought maybe it was just because I was sitting in an awkward position. Also, I’ve been thinking about how I need to get a new chair for my desk at home because it’s really uncomfortable, and I spend a lot of time there. Sometimes, when I lie down, it feels a bit different, but I’m not sure if that’s related or just me being tired.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "Um, I think I first noticed the chest pain about the same time as the cough, so, like, two days ago. It just sort of came on suddenly, and I didn’t really think much of it at first, but now it’s, um, a bit concerning with everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the chest pain is located?",
+    "patient_turn": "Yeah, it’s, um, right in the center of my chest, like, just behind the breastbone. It’s not on one side or the other, just right in the middle, you know? It’s really uncomfortable, especially when I breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "...just here.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, um, when it happens, but it only lasts for a short time, like less than a minute. It’s really, uh, uncomfortable, and I guess it catches me off guard, you know? I’m just trying to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "So, it definitely gets worse when I take a deep breath, and, um, I’ve noticed that it’s not really better with anything I’ve tried, like, you know, just sitting still or changing positions. I guess I’m just trying to avoid deep breaths, but that’s not really a solution, is it?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yeah, I’ve definitely been feeling short of breath, especially when I try to do anything, like walking around my apartment. I’ve also had some mild dizziness here and there, but it’s mostly just the shortness of breath that’s really bothering me. Oh, and I’ve been feeling kinda nauseous too, but it’s not, like, super bad or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the chest pain started and how it has changed since then?",
+    "patient_turn": "Uh, I think it started maybe a couple of days ago? It’s kind of been on and off since then, but I’m not really sure how to explain it. Sometimes it feels more intense, but I can't quite pinpoint why.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain, and does it spread to any other areas?",
+    "patient_turn": "It’s, um, right in the center of my chest, just behind the breastbone. It doesn’t really spread anywhere else, though… it’s just localized there, which is, um, a bit concerning. I wish I knew what was causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s sharp, definitely, and it’s, um, pretty intense when it happens, but it doesn’t last long—just under a minute. It’s really uncomfortable, and I guess it makes me feel a bit anxious, you know? I’m just trying to figure out what’s going on with all these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the chest pain better or worse for you?",
+    "patient_turn": "Well, it definitely gets worse when I take a deep breath, which is, um, really frustrating. I’ve tried just sitting still or changing positions, but that doesn’t seem to help much. I guess I’m just trying to avoid deep breaths, but that’s not really a long-term solution, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or night sweats recently?",
+    "patient_turn": "Yeah, I’ve been feeling feverish, and I’ve had chills and night sweats for about, um, a day and a half now. It’s really uncomfortable, and I’m kinda worried because it just feels like everything is piling up. I’ve been feeling so tired too, and it’s hard to shake off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your shortness of breath get worse when you do any physical activity?",
+    "patient_turn": "Yes, definitely. I mean, even just walking around my apartment makes it worse, and I feel really winded. It’s, um, kind of alarming because I used to be more active, and now I feel like I can’t do much without getting out of breath. It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your appetite recently?",
+    "patient_turn": "Yeah, I’ve noticed that my appetite has decreased a bit. I just haven’t felt like eating much, and, um, it’s been a few days now. I don’t think I’ve lost any weight, but I just don’t have the same interest in food, you know? It’s kinda concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more tired than usual or experiencing any muscle aches?",
+    "patient_turn": "Yeah, I’ve been feeling really tired for the past three days, and, um, I’ve also had some dull muscle aches. It’s just, like, everything feels heavier, and I’m not sure if it’s all related, but it’s really wearing me down. I guess I’m just trying to push through it, but it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any medications or treatments for your symptoms?",
+    "patient_turn": "Yeah, I’ve tried taking acetaminophen and some cough suppressants, but, um, they didn’t really help with my symptoms at all. I was hoping they would make me feel better, but honestly, I’m still feeling pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What past medical conditions or surgeries have you had?",
+    "patient_turn": "Um, I have osteoporosis, and I take calcium, vitamin D, and alendronate for that. I also had a hip fracture two years ago, but I recovered well from that. Oh, and I had a pulmonary embolism after gallbladder surgery a while back, but I completed the anticoagulation treatment for that. Other than that, I’ve had some minor surgeries like wisdom teeth extraction and cholecystectomy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone, or do you have someone to support you at home?",
+    "patient_turn": "I live independently in my apartment in London, but I do have some occasional home care support every two weeks. My family lives nearby, so they can help out if I need it, but, um, I usually manage on my own. It’s just been a bit tougher lately with how I’m feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a history of lung disease in your family?",
+    "patient_turn": "Yeah, there is. My family history includes lung cancer, asthma, and COPD, which, um, makes me a bit anxious, to be honest. I just hope I’m not heading down that path, especially with all these symptoms I’m experiencing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many alcoholic drinks do you typically have in a week?",
+    "patient_turn": "I usually have about three glasses of wine per week, um, just occasionally. It’s not a lot, but I guess I’ve been thinking about it more lately with everything going on. I’m just trying to take care of myself, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick either. I’ve just been at home, mostly, so I’m not really sure where all these symptoms are coming from. It’s kinda frustrating.",
+    "annotation": "Correct"
+  }
+]

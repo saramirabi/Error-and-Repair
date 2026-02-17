@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve got this really sore throat that started last night. It’s been getting worse, and it kinda burns when I swallow. I’m, uh, also feeling really tired and had some chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the sore throat start?",
+    "patient_turn": "It started, um, last night, I think. I noticed it getting worse as the evening went on, and now it’s pretty painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat? Does it spread anywhere else?",
+    "patient_turn": "It’s mostly in the back of my throat, like, really localized there. I don’t feel it spreading anywhere else, just, um, a lot of pain when I try to swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, burning, or something else?",
+    "patient_turn": "It’s more of a burning sensation, honestly. Like, it really stings when I swallow, and it’s just, um, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, it feels worse when I swallow, which is kind of tough because I've mostly been eating ice cream to soothe it. Also, I was trying to drink some warm tea, but I think I just ended up burning myself a bit. Oh, and I remember that I had a really bad cold a while ago, but I don't think this is related, right?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, I think the pain is kind of, like, burning? But I'm not totally sure. It seems like it might get a little worse when I swallow, but I guess it could just be me overthinking it.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Are you having trouble swallowing both liquids and solids?",
+    "patient_turn": "Yeah, I’m having trouble with both, honestly. It really hurts to swallow anything, even liquids. I’ve mostly been eating ice cream because it’s, um, the only thing that feels okay going down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your voice changed since the pain started?",
+    "patient_turn": "My voice has gotten pretty hoarse and raspy, um, and I’ve even lost some of it. It’s hard to talk without it hurting, so I’m trying not to say too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any cough or runny nose along with your throat pain?",
+    "patient_turn": "No, I haven’t noticed any cough or runny nose. It’s just the sore throat and, um, some mild abdominal soreness. I had a cold a couple of weeks ago, but this feels different.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe the abdominal soreness you're feeling?",
+    "patient_turn": "It’s just a mild, generalized soreness, um, nothing too intense. It started this morning, but it’s not really my main concern right now. I’m more focused on the throat pain, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the throat pain affected what you’re able to eat or drink?",
+    "patient_turn": "It’s made it really hard to eat or drink anything, honestly. I’ve mostly been sticking to ice cream because it’s, um, cold and feels a bit soothing. I’m just not able to eat much else because it hurts too much to swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have a fever when you arrived here?",
+    "patient_turn": "Yeah, I did have a fever when I got here. I’ve been feeling chills and really fatigued since the throat pain started, so, um, I guess that makes sense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble breathing or feeling short of breath?",
+    "patient_turn": "No, I haven’t had any trouble breathing or feeling short of breath. It’s just the throat pain and, um, the fatigue that’s been bothering me. No respiratory issues at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, I had a cold about two weeks ago, but it was just a runny nose, nothing like this throat pain.",
+    "patient_turn": "Right, exactly. The cold was just a runny nose, and I didn’t have any throat issues back then. This feels, um, really different and much worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your girlfriend had a sore throat or any illness recently?",
+    "patient_turn": "Yeah, she had a mild sore throat recently, but I haven’t seen her in several days. I’m not sure if that’s related to what I’m feeling, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any known exposure to COVID-19 recently?",
+    "patient_turn": "No, I haven’t had any known exposure to COVID-19. I’ve just been, um, staying home and attending my classes online, so I don’t think that’s a factor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "No, I don’t have any past medical or surgical history. I’m otherwise healthy, um, just dealing with this sore throat right now. No respiratory conditions or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I’m not taking any medications or supplements right now. I don’t have any allergies except for, um, mild seasonal rhinitis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides seasonal rhinitis?",
+    "patient_turn": "No, it’s just the mild seasonal rhinitis. I don’t have any other allergies that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke, and I don’t use any recreational drugs. I just, um, drink alcohol socially on weekends, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on the weekends?",
+    "patient_turn": "I usually drink socially on the weekends, um, maybe a couple of times, but I don’t really keep track. It’s just, you know, with friends sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with?",
+    "patient_turn": "I live with a roommate, um, but we mostly keep to ourselves. It’s just been me dealing with this sore throat lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you attend your classes? Are they online or in person?",
+    "patient_turn": "I attend all my classes online. It’s been, um, pretty convenient, but I guess it’s also been a bit isolating, especially now that I’m feeling this way.",
+    "annotation": "Correct"
+  }
+]

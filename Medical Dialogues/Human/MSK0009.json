@@ -1,0 +1,282 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "So I've just been having this pain in my knee since I um just fell, uh, just three days ago slipping on the stairs. Since then I've been having a lot of pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see uh so did this pain start right after like falling on the stairs?",
+    "patient_turn": "Yeah, yeah, I've been having the pain since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And that was three days ago.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Three days ago, OK. And you're feeling the pain in your in your right knee?",
+    "patient_turn": "Yeah, in my right knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And what would you say the character of the pain is, or how would you describe the pain?",
+    "patient_turn": "It's kind of like a dull aching pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has the pain been getting um, any better or any worse?",
+    "patient_turn": "Uhm, it's kind of getting worse actually just in my right knee as well as my whole right calf as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Uh. What is the intensity of the pain on a scale of 1 to 10, 10 being the worst pain you've ever felt?",
+    "patient_turn": "Probably around 6.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um. And. Did your knee hurt before this at all, or did you have any trauma to the leg before?",
+    "patient_turn": "No, no before 3 days ago before my slip I was fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you feeling the pain anywhere else besides your right knee?",
+    "patient_turn": "In my calf I'm getting a lot of pain as well. In my right calf.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has there been anything that's made the pain worse?",
+    "patient_turn": "Yeah, if I am If I'm walking or if I'm moving that leg and putting weight on it, it's definitely worse, so it's definitely like better if I just stay seated and stay resting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is there anything she said resting that helps, is there anything else that's helped?",
+    "patient_turn": "I did take some Advil which did help for a few hours, but then it just kind of went back to the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm. And. Yeah, have you had any other, uh, like associated symptoms with the right knee and calf pain?",
+    "patient_turn": "Yes, I also think there's some swelling in my right calf as well. Since yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, there's some swelling there.",
+    "patient_turn": "Mmm",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed if your calf was red or if there was a rash over it?",
+    "patient_turn": "I don't see any rashes or redness, but it definitely does seem swollen and then it hurts as well when I move it or press it.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, uh, OK, and when you fell did you injure any other parts of your body like your your hands or wrists?",
+    "patient_turn": "Um just a few scratches on my hands, but nothing too bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about your head? Did you lose consciousness or or hit your head?",
+    "patient_turn": "No, no, I didn't hit my head at all. I caught myself before then and no, I didn't lose any consciousness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, have you had any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough?",
+    "patient_turn": "No cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you have you had any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any dizziness or or lightheadedness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any heart palpitations or feeling like your heart is racing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And. Have you had any like infectious symptoms, such as like. Like a runny nose or sore throat?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any nausea or vomiting.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any changes to your bowel movements like diarrhea or or constipation?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so have you had any urinary problems?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so have you had any recent weight changes?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, And. Um, have you have you noticed any any rashes anywhere else over your whole body?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright have you noticed any muscle weakness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any numbness to the skin?",
+    "patient_turn": "Not that I've noted, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you had any tingling?",
+    "patient_turn": "No. OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And. Um. So in the past, have you been diagnosed with any medical conditions?",
+    "patient_turn": "I do have some high cholesterol and high blood pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, and do you take any medications?",
+    "patient_turn": "Yeah, so cholesterol. I'm taking a like a Crestor medication and then for high blood pressure I'm taking a Ramipril.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any hospitalizations or surgeries before?",
+    "patient_turn": "Um. Just a. No, I I don't, um just besides a c-section for one of my children. I don't have any other surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. Have you had any thrombosis before, or a blood clot in the past?",
+    "patient_turn": "No, I've never had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, have you been so you. You've had the birth of your you pregnant at other times in the past?",
+    "patient_turn": "Um No, that was that was it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so have you had a miscarriage before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies to medications?",
+    "patient_turn": "No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and. Uhm, could you tell me a little bit about your, uhm, living situation currently like who you're living with and whereabouts you're living?",
+    "patient_turn": "Yeah, I live with my husband and our daughter. And it's just in a small townhouse, just in the city.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you working currently?",
+    "patient_turn": "I I do work from home, I'm actually just an accounting clerk, but I most of my work is from home right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any exposures to anybody who's been sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Um nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh. And over the last couple of days with that with the leg pain, do you feel as though you've been like immobilized?",
+    "patient_turn": "Yeah, I've been trying to just like stay rested, just stay seated otherwise it hurts a lot, especially after my fall so. I've tried to stay immobilized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK for the last couple of days. OK, uh, and uh, do you drink alcohol?",
+    "patient_turn": "Just socially, sometimes when I'm with friends or relatives like a glass of wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use recreational drugs like marijuana or or other things such like cocaine?",
+    "patient_turn": "No, I've never tried that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke cigarettes?",
+    "patient_turn": "Uhm, No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I'm OK so. Oh, and uh in the family are there any history of heart or lung conditions?",
+    "patient_turn": "Um so I don't know about heart or lung conditions, but uh my Mother had a stroke in her late 60s and my Father is pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has there been any blood clots in the family before?",
+    "patient_turn": "I'm not sure about blood clots, but my mother had a stroke that's, is that kind of like a blood clot?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It could be, a stroke could have had many different types of causes for it, and one of them could be 'cause caused by blood clot. But I wouldn't be able to say for sure.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just because, yeah, there are so many different types or reasons for for having a stroke.",
+    "patient_turn": "I see OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So yeah, so you mentioned your leg has some swelling, um do you feel as though there's any any like temperature change to your calf like is it hot?",
+    "patient_turn": "Uhm, I think I I don't know if it's maybe a little bit warm, but definitely swollen.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and do you feel, is there any pain to palpation? Like if you touch your calf or something like that is there pain?",
+    "patient_turn": "Yeah if I touch my right calf it's painful and then if I press down on it's really painful and then just on the outside of my right knee if I touch or press down it really hurts as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And if you move your foot so it yeah, if you dorsiflex your ankle. Or bending your your toe up towards your nose, do you end up getting any calf pain? Doing the Homan test.",
+    "patient_turn": "Yeah, yeah I'll try that. And yeah, I think it definitely hurts. When I when I move my or point my toes towards my nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, so I think that was everything that I wanted to ask today on history. Was there anything else that that maybe I missed?",
+    "patient_turn": "No, I think that's all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah alright so with the. I fall 2 days ago. Things that I'm thinking about right now would be possibly a muscle strain, so this could be a gastrocnemius strain to the calf muscle itself, from from the fall which could have pain when you touch it, there could be some swelling and said it would be aggravated by movements. Also could be like injuries to some of that, the ligaments there as well. And however, with this the swelling immobilization for the last two days, as well as the pain kind of being a bit progressive that with swelling and a positive Homan in test and your temperature is a little bit elevated today not quite a fever, but feverish. It does increase the suspicion for deep vein thrombosis and so I think the most likely thing right now is actually a DVT or deep vein thrombosis. And so we will order some diagnostic studies, get an ultrasound of your right calf as well as an X Ray of the right knee to to start OK.",
+    "patient_turn": "OK sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

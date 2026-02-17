@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a dry cough for the last couple of days, and it's been getting worse. I've also developed a fever, shortness of breath, muscle aches, and some abdominal discomfort with nausea. It's been pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and fever?",
+    "patient_turn": "I first noticed the cough about two days ago, and the fever started around the same time. It’s been around 38.5°C.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it started?",
+    "patient_turn": "The cough started off dry, but it has been getting progressively worse. It feels more persistent now, and I’m finding it harder to catch my breath, especially with any little bit of exertion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the discomfort or pain in your chest, if at all?",
+    "patient_turn": "I don’t have any chest pain, just the cough and shortness of breath. It’s mostly the discomfort in my abdomen that’s bothering me, along with the nausea.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort in your abdomen feel like?",
+    "patient_turn": "The abdominal discomfort feels kind of diffuse and achy. It’s not sharp, but it’s uncomfortable enough that I’ve lost my appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills along with the cough?",
+    "patient_turn": "Uh, yeah, I think I might have had a fever, but I’m not really sure about chills. It’s kind of hard to remember exactly when it started, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like fever or body aches?",
+    "patient_turn": "Yes, I have a fever that’s been around 38.5°C, and I’ve been experiencing generalized muscle aches as well. It’s all been pretty uncomfortable together with the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any mucus or phlegm when you cough?",
+    "patient_turn": "No, I haven’t had any mucus or phlegm with the cough. It’s been completely dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood at all?",
+    "patient_turn": "No, I haven’t coughed up any blood at all. It’s just been a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any nasal congestion or runny nose?",
+    "patient_turn": "No, I haven't had any nasal congestion or a runny nose. It's just the cough and other symptoms I've mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your vision or hearing recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my vision or hearing. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss recently?",
+    "patient_turn": "No, I haven’t experienced any weight loss. My appetite has decreased a bit because of the nausea, but I haven’t lost any weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes or skin changes on your body?",
+    "patient_turn": "No, I haven’t noticed any rashes or skin changes on my body. Everything seems normal there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any diarrhea recently?",
+    "patient_turn": "No, I haven’t experienced any diarrhea. It’s just the cough, fever, muscle aches, and abdominal discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or lightheaded at any time recently?",
+    "patient_turn": "No, I haven’t felt dizzy or lightheaded at all. Just the other symptoms I mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fainting spells or felt like you might faint?",
+    "patient_turn": "No, I haven’t had any fainting spells or felt like I might faint. I’ve just been dealing with the cough and other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any problems with your memory recently?",
+    "patient_turn": "No, I haven’t noticed any problems with my memory. Everything seems fine in that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt confused at any time recently?",
+    "patient_turn": "No, I haven’t felt confused at all. I’ve been clear-headed, just dealing with the cough and other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or other substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung diseases?",
+    "patient_turn": "No, there’s no family history of heart or lung diseases. My family has been pretty healthy in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been at home and work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust, chemicals, or other irritants at home or work?",
+    "patient_turn": "I work in a factory, so there might be some exposure to dust or chemicals, but I’m not sure about specifics. At home, it’s been recently renovated, but I don’t know of any specific irritants.",
+    "annotation": "Correct"
+  }
+]

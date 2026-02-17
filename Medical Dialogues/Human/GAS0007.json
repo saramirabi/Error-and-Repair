@@ -1,0 +1,167 @@
+[
+  {
+    "doctor_turn": "So I understand you have been experiencing some abdominal pain?",
+    "patient_turn": "Yeah yeah stomach hurt, started hurting more last couple of days, maybe 3 days ago I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so for three days ago, for the last three days you said it's been hurting more. Did you have pain before that?",
+    "patient_turn": "It felt weird, like crampy. I just, I just thought I was constipated, 'cause I've been haven't been able to be able to go to the bathroom as well. I just thought I was kind of bloated a bit, but yeah, about about that time, started to feel a little bit more painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me kind of where you're feeling the pain the most?",
+    "patient_turn": "Yeah, kinda like near my right hip like lower where my stomach is that kind of right and below my belly button. Sometimes a little bit on the top just below my belly button, but mainly just in that right lower side yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you ever had pain like this in the past?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And for the last three days, has it been pretty constant? Has it been on and off?",
+    "patient_turn": "I feel it's been getting worse to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything that you can think of this made it feel better?",
+    "patient_turn": "Honestly, just resting flat makes it feel a little bit better, but nothing much, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there anything that makes it worse?",
+    "patient_turn": "Touching it. Also I puked the the other day and that made it definitely feel worse, just that whole contraction in my body was nasty.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, was it just the one time?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, you had the nausea associated with the pain?",
+    "patient_turn": "Mhm, mhm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, did the pain stay in that same spot or does it move anywhere else?",
+    "patient_turn": "It has pretty much stayed in that one spot, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fevers lately?",
+    "patient_turn": "Felt a bit hot the other day, didn't take a temperature though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and what specifically prompted you to come in today to the emergency department?",
+    "patient_turn": "I thought it was just going to get better when it first started. Maybe just a bit of gas, but here we are kind of Thursday now and it's still pretty bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been in contact with anyone that's been sick lately?",
+    "patient_turn": "Not off the top of my head, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you traveled anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And I forgot to ask, did you notice any changes to your bowel habits?",
+    "patient_turn": "Yeah, yeah. Before it was fairly regular, about once a day. Five days ago, I started getting constipated, it backed up and pretty much the picture I think last time I went to the bathroom was two days ago I think, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I'm just gonna ask you some questions about your overall health. You have any chronic conditions that you see your family doctor for, or any other doctor?",
+    "patient_turn": "I got diabetes, type 2.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has that generally has that been well controlled for you lately?",
+    "patient_turn": "Most part, doctor checks my sugars. I'm not too regular on them myself, but last time he changed medications was a couple years back and I've just been on the same ones ever since.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medication are you currently taking?",
+    "patient_turn": "Metformin? Metformin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you ever had any surgeries in the past?",
+    "patient_turn": "No, I had my teeth pulled as a kid, but no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, still have your appendix?",
+    "patient_turn": "Yeah, yeah, I never had that problem as a kid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you have any allergies?",
+    "patient_turn": "No, sometimes get a little bit congested during the fall, but that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of gastrointestinal problems?",
+    "patient_turn": "Gas, like no. I think my grandma died of breast cancer fairly early, but no, not not that not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and just in terms of your lifestyle, do you live here in town?",
+    "patient_turn": "Yeah yeah, I live here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Living alone or with family?",
+    "patient_turn": "No, no, I got family. Me, the wife, got two kids, one of them is college bound now but yeah.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Nice, and what do you do for work? Or are you retired?",
+    "patient_turn": "I'm still working, I am a production overseer, production manager over at Fairbanks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, you're a big boss.",
+    "patient_turn": "It took awhile to get here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I'm sure it was very hard work. In general, do you drink alcohol?",
+    "patient_turn": "Oh yeah, like, well, plan on drinking on the two four but not regular, special occasions mainly. Hot days, sometimes I'll have a beer or two.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure, and do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever smoked in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you cannabis?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other substances?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there anything else you wanted to bring up today that I didn't ask you about or any other questions that you have?",
+    "patient_turn": "No, just hoping to get an answer to whatever is going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well at this point I will do a quick physical exam. We may want to have blood work done, maybe some other tests based on what we find out from there and then we can kind of let you know after that, what the next steps will be. So I'm just going to take this and go over it with the physician that I'm working with and will get back to you shortly. Thanks for chatting with me.",
+    "patient_turn": "Thanks doc.",
+    "annotation": "Correct"
+  }
+]

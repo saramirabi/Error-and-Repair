@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a really bad cough for the past 4-5 days. It's productive with green sputum, and I've also been feeling short of breath and a bit feverish at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "Not really, it’s been pretty consistent. It’s still severe and productive with green sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain, and does it spread to any other areas?",
+    "patient_turn": "The chest pain is mild and pleuritic, mostly when I take a deep breath. It doesn't really spread to other areas; it’s just localized in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the chest pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "It feels more like a sharp pain when I breathe in deeply. It’s not constant, just when I take a deep breath or cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "Uh, I think it was, like, a couple of days ago? Or maybe it was just one day, hard to remember exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "I first noticed the pain a couple of days ago, around the same time the cough started getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers, especially at night, in the past few days?",
+    "patient_turn": "Yes, I've had intermittent fevers over the past couple of nights. They come and go, but they’ve been pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more fatigued or weak than usual lately?",
+    "patient_turn": "Yes, I’ve definitely been feeling more fatigued and weak than usual. It’s been hard to keep up with things around the farm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or a sore throat recently?",
+    "patient_turn": "No, I haven’t noticed any wheezing or a sore throat. Just the cough and shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of lung conditions, like COPD or asthma?",
+    "patient_turn": "No, I don’t have any history of lung conditions like COPD or asthma. My past medical history is pretty straightforward aside from my gastroesophageal reflux disease.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I only have seasonal allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you sure if you’ve received your pneumococcal vaccine?",
+    "patient_turn": "I’m not really sure if I’ve received the pneumococcal vaccine. I know I’m up to date on other immunizations, like Shingrix, but I can’t recall about that one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and who you live with?",
+    "patient_turn": "I live on a farm with my husband. It’s a pretty quiet place, and there aren’t any known respiratory irritants in our home environment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I only drink alcohol occasionally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol only occasionally, maybe just a glass of wine or a beer now and then. It's not a regular thing for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any known respiratory irritants in your home environment?",
+    "patient_turn": "No, there aren’t any known respiratory irritants in my home environment. It’s pretty clean and quiet here on the farm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been lately?",
+    "patient_turn": "My appetite has been reduced lately, mostly because I’ve been feeling so fatigued. I haven’t been eating as much as I usually do.",
+    "annotation": "Correct"
+  }
+]

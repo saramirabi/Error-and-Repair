@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this cough for like, uh, three or four days now. It’s getting worse, especially at night, and it’s really, um, interfering with my sleep. I also have a fever that’s been pretty high, like, up to 39°C, and I’m just kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Um, I think it started about three or four days ago. It was, like, a little annoying at first, but then it just got worse, you know? And now it’s really hard to sleep because of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough, and does it ever spread anywhere else?",
+    "patient_turn": "Um, I think the cough started a few days ago, maybe like three or four days, but I'm not really sure. It kind of feels like it’s just in my chest, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or do you feel any tightness?",
+    "patient_turn": "Uh, it’s mostly dry, I think. I don’t really feel any tightness or anything like that, but it’s just, um, really annoying and makes it hard to breathe sometimes, especially at night. It’s just, you know, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the cough better or worse for you?",
+    "patient_turn": "Well, um, it definitely gets worse at night, like I said. I think when I lie down, it just feels, uh, more intense. And, um, I haven’t really found anything that makes it better, honestly. I just try to, like, drink water or something, but it doesn’t help much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like a sore throat or feeling tired?",
+    "patient_turn": "Yeah, I’ve definitely noticed a sore throat, especially in the morning. It’s, um, worse when I wake up, probably from the post-nasal drip or something. And I’ve been feeling really tired too, like, I just don’t have the energy to do much. It’s kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the cough?",
+    "patient_turn": "Uh, I think it’s been about three or four days now. It started off, like, not too bad, but then it just got worse pretty quickly, you know? I’m just really worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough, and does it ever hurt your chest or throat?",
+    "patient_turn": "Uh, I think it’s mostly in my throat, or maybe my chest, but I’m not really sure. It doesn’t really hurt, though, just kind of bothersome, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you ever bring up anything with it?",
+    "patient_turn": "Um, it’s mostly dry, I think. I haven’t brought up anything with it, like, no sputum or anything. It’s just, you know, really annoying and makes me feel uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "Um, I think it’s more in my throat, but I can feel it in my chest a bit too. It’s just, like, this annoying tickle or irritation, you know? It’s hard to explain, but it’s definitely not comfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you feel any mucus?",
+    "patient_turn": "Um, I think it’s kind of dry? But, like, I’m not totally sure if there's mucus or not. It's just, you know, kind of annoying.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I first noticed it about three or four days ago. It was, like, a little cough at first, but then it just got worse really quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, um, it started off kinda mild, but then it got worse pretty fast, you know? Now it’s really bothering me, especially at night, and it’s making it hard to sleep. I’m just, um, really worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "Um, I mostly feel it in my throat, but I can also feel it a bit in my chest. It’s just this annoying tickle, I guess? It’s hard to describe, but it’s definitely uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any mucus or blood?",
+    "patient_turn": "Uh, no, I haven’t coughed up any mucus or blood. It’s mostly just a dry cough, you know? So, um, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any trouble breathing or wheezing?",
+    "patient_turn": "Um, no, I’m not having any trouble breathing or wheezing. It’s just the cough that’s bothering me, really. I’m kinda worried about everything else, though, like the fever and how tired I feel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any stomach pain or problems with urination?",
+    "patient_turn": "Uh, no, I haven’t noticed any stomach pain or problems with urination. It’s mostly just the cough, fever, and feeling really tired. I’m just, um, focused on those symptoms right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your skin or any heart-related symptoms, like palpitations?",
+    "patient_turn": "Um, no, I haven’t noticed any changes in my skin or any heart-related symptoms like palpitations. It’s really just the cough and the fever that are worrying me right now. I’m kinda anxious about it all, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share more about your cystic fibrosis diagnosis and any treatments you've had?",
+    "patient_turn": "Uh, yeah, I was diagnosed with cystic fibrosis when I was four. I don’t take regular medications right now, but I see a respirologist for follow-ups. I’ve had, like, one hospitalization every couple of years, but, um, no surgeries or anything like that. It’s just, you know, something I’ve been dealing with for a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides the sulfa drug?",
+    "patient_turn": "Um, no, I only have the sulfa drug allergy that causes a rash. I’m not aware of any other allergies, but, you know, I’m not totally sure about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations all up to date?",
+    "patient_turn": "Yeah, um, my immunizations are all up to date. My mom makes sure of that, you know? It’s just one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have lung or heart problems?",
+    "patient_turn": "Uh, no, there’s no history of lung or heart problems in my family. Both my parents are carriers of the CF gene, but, um, that’s about it. So, I guess that’s a relief, at least.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What’s your home environment like? Do you have any pets or recent changes at home?",
+    "patient_turn": "Um, my home environment is pretty stable. My mom is the primary caregiver, and there’s no smoking or alcohol in the house. We don’t have any pets either. There haven’t been any recent changes, so, um, everything’s pretty normal, I guess.",
+    "annotation": "Correct"
+  }
+]

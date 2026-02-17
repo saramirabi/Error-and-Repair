@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I fell while playing soccer yesterday, and now I have this really sharp pain in my right hip and groin. It started right after the fall, and it hurts a lot, like, an 8 out of 10, I guess? It’s hard to stand or move without it hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, it’s definitely sharp, like, really intense. I mean, it feels worse when I try to move or put weight on it, so, um, it’s hard to walk without limping. Honestly, it’s pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was, um, playing soccer, just running around and then I fell onto the grass. It wasn’t a big fall or anything, but, like, I landed on my hip, and that’s when the pain hit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain after the fall?",
+    "patient_turn": "Oh, it was, um, right after the fall, but I didn’t really notice it until a few hours later. I mean, I just thought I was fine at first.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, um, it hasn’t really gotten any better, to be honest. It’s still really sharp and, like, it hurts just as much as it did at first. I’m kinda worried because I can’t really move my leg properly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in one spot or move around?",
+    "patient_turn": "... hip and... groin.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you have any previous medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical or surgical history. I’ve been pretty healthy, actually. I’m just, like, worried about this pain now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications regularly?",
+    "patient_turn": "No, I’m not taking any regular medications. I haven’t needed anything, you know? Just, um, dealing with this pain now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or anything else?",
+    "patient_turn": "Uh, no, I don’t have any known allergies. I’ve never had any issues with medications or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, I’m up to date on all my immunizations. My parents make sure of that, so, um, I don’t have to worry about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your birth and early development normal, with no complications?",
+    "patient_turn": "Yeah, um, everything was normal with my birth and early development. There weren’t any complications, and I hit all my growth milestones on time. So, um, that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any musculoskeletal conditions?",
+    "patient_turn": "No, um, there’s no family history of musculoskeletal or rheumatologic conditions. I think everyone’s been pretty healthy, so, um, that’s not something I’m worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with both my parents and my sibling. It’s, um, a pretty normal home life, I guess. I feel safe there, so that’s good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use tobacco, alcohol, or any recreational drugs?",
+    "patient_turn": "No, I don’t use any tobacco, alcohol, or recreational drugs. I’m not really into that stuff, you know? Just focusing on, um, feeling better from this pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe at home and school?",
+    "patient_turn": "Yeah, I feel safe at home and at school. There’s, um, no bullying or anything like that, so I guess that’s a relief. Just, you know, worried about this pain right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced any bullying at school or anywhere else?",
+    "patient_turn": "No, um, I haven’t experienced any bullying at school or anywhere else. I’ve been pretty lucky that way, I guess. Just, uh, dealing with this pain is my main concern right now.",
+    "annotation": "Correct"
+  }
+]

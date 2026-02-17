@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a clear runny nose and nasal congestion for about five days now. I don't have any facial pain or other serious symptoms, but I thought it was best to get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the runny nose and congestion?",
+    "patient_turn": "I first noticed the runny nose and congestion about five days ago. It just started out of nowhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the congestion or runny nose changed at all since it started?",
+    "patient_turn": "Not really, it's pretty much stayed the same. Just a clear runny nose and congestion, no other changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain during this time?",
+    "patient_turn": "No, I haven't had any chest pain at all. Just the nasal congestion and a mild headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like when you experience it?",
+    "patient_turn": "I don’t know. I haven’t experienced any chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your symptoms changed since they first started?",
+    "patient_turn": "Uh, I think the symptoms started maybe about five days ago or something like that? But, I'm not totally sure if it's been exactly that long.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled anywhere recently. I've just been at home in my apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick recently?",
+    "patient_turn": "No, I don't know of anyone who has been sick recently. I've mostly been keeping to myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell?",
+    "patient_turn": "No, I haven't noticed any changes in my sense of smell. It's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any eye symptoms, like redness or irritation?",
+    "patient_turn": "No, I haven't experienced any eye symptoms like redness or irritation. Just the nasal congestion and runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any soreness or discomfort in your throat?",
+    "patient_turn": "No, I haven't had any soreness or discomfort in my throat. It's been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing or difficulty breathing?",
+    "patient_turn": "No, I haven't noticed any wheezing or difficulty breathing. My breathing feels normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any racing heartbeats or palpitations recently?",
+    "patient_turn": "No, I haven't experienced any racing heartbeats or palpitations. My heart feels normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a fever or felt unusually hot recently?",
+    "patient_turn": "No, I haven't had a fever or felt unusually hot. I've been feeling pretty normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chills or shivering lately?",
+    "patient_turn": "No, I haven't felt any chills or shivering lately. Just the nasal congestion and runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats recently?",
+    "patient_turn": "No, I haven't experienced any night sweats. I've been sleeping fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "No, I haven't noticed any weight loss. My appetite has been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any rashes or skin changes lately?",
+    "patient_turn": "No, I haven't seen any rashes or skin changes. Everything looks normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any muscle aches or body pain recently?",
+    "patient_turn": "No, I haven't experienced any muscle aches or body pain. Just the mild headache and nasal congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "My past medical history is unremarkable, except for an appendectomy I had when I was a child. Other than that, I'm pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications on a regular basis?",
+    "patient_turn": "No, I'm not taking any regular medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications, foods, or anything else?",
+    "patient_turn": "No, I don't have any allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use cannabis?",
+    "patient_turn": "I use cannabis occasionally, about once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I typically drink about one bottle of wine per week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes or use any recreational drugs?",
+    "patient_turn": "No, I don't smoke cigarettes or use any recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease?",
+    "patient_turn": "No, there's no family history of heart or lung disease. However, there is a family history of colon cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any other family history of cancer besides colon cancer?",
+    "patient_turn": "I don’t know. I only know about the family history of colon cancer.",
+    "annotation": "Correct"
+  }
+]

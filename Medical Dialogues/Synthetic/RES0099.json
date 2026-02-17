@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this, like, really bad headache for the past two days. It’s, uh, continuous and feels like pressure in my forehead. I also have muscle aches and I’ve been feeling really tired… and I started coughing too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "It started, um, about two days ago. I think it was the morning after I started feeling, like, feverish and had chills. It’s just been, you know, pretty constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your headache? Does it stay in one spot or spread anywhere?",
+    "patient_turn": "Uh, it’s kind of in the front, I think? But it might, like, spread a little bit, maybe? I'm not totally sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "It feels more like pressure, honestly. It’s not sharp or anything, just this constant, um, heavy feeling in my forehead. It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start, and has it changed since then?",
+    "patient_turn": "So, it started about two days ago, and, um, it hasn’t really changed much. It’s still that same pressure feeling, you know? Just hasn’t gone away, which is kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the headache located? Is it just in the front, or does it spread anywhere else?",
+    "patient_turn": "It’s mostly in the front, like, my forehead area, but sometimes I feel it a bit, um, around my temples too. It’s not really spreading anywhere else, just kind of, you know, concentrated there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "It’s definitely more like pressure, um, rather than sharp or dull. It’s just this constant, heavy feeling that doesn’t really go away, and it’s, like, really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the headache better or worse for you?",
+    "patient_turn": "Well, it gets worse when I’m lying down, but I also think it’s better when I’m up and moving around. I’ve never really had headaches like this before, though.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Does the headache ever spread to other areas, like your temples or the back of your head?",
+    "patient_turn": "Um, not really to the back of my head, but I do feel it a bit around my temples sometimes. It’s mostly just that pressure in the front, but, you know, it can be a little distracting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the headache ever spread to other areas, like your neck or shoulders?",
+    "patient_turn": "Well, the headache is mostly in the front, but sometimes it feels like it might spread a bit to my temples. Also, I’ve been feeling kind of achy all over, like my upper back and arms. Oh, and just yesterday, I was trying to help my son with his homework, and that was a bit stressful, so maybe that didn’t help either.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any cough or other breathing issues along with the headache?",
+    "patient_turn": "Yeah, I’ve had a dry cough that started the morning after the headache began. It’s, um, gotten worse since then, but I don’t have any breathing issues, like shortness of breath or anything. Just the cough and the headache, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or are you taking any medications?",
+    "patient_turn": "Um, yeah, I have type 2 diabetes, but it’s managed with metformin, and my blood sugar has been stable. I don’t take any other medications, and I’ve never had any surgeries or hospitalizations. So, um, that’s pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any known medication allergies. I’ve never had any issues with medications before, so, um, I think I’m good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any significant medical conditions?",
+    "patient_turn": "Well, my son was recently diagnosed with asthma, and that’s, um, from my side of the family. Other than that, I don’t think there are any major conditions in my family. It’s just, you know, a bit concerning with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and if you've had any recent exposures to illness?",
+    "patient_turn": "Sure, I live with my spouse and son. Um, I haven’t traveled recently or had any known sick contacts at home or work. But, you know, I’m kinda worried about COVID-19 since I’ve been feeling unwell and there’s been a lot of exposure at my job.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick recently?",
+    "patient_turn": "Um, not that I know of. I haven’t had any known sick contacts at home or work, but, you know, with everything going on, I’m just a bit anxious about it. I really hope it’s not anything serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling concerned about COVID-19, and have you had a test for it yet?",
+    "patient_turn": "Yeah, I’m honestly pretty concerned about COVID-19, especially with how I’ve been feeling. I agreed to get tested, so I’m just waiting for the results now. It’s, um, really stressful, you know?",
+    "annotation": "Correct"
+  }
+]

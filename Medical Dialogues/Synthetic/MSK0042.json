@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this lump I found below my right knee. It’s, like, a hard mass, and I first noticed it about two weeks ago. It doesn’t hurt much, but, you know, my family and I are kinda concerned it might be something serious, like cancer or, um, malignancy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the lump?",
+    "patient_turn": "I noticed it about two weeks ago, I think. It just sort of appeared, and at first, I didn’t think much of it, but now, um, it’s really been on my mind a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the lump changed in size or shape since you first noticed it?",
+    "patient_turn": "Um, I don’t think it’s really changed much in size or shape. It’s still about 2 to 3 cm, and it feels pretty firm. Honestly, I’m just worried it might be getting worse or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the lump cause you any pain or discomfort, especially when you touch it?",
+    "patient_turn": "... below the.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has the size of the lump changed since you first noticed it?",
+    "patient_turn": "Um, I don’t think it has changed in size. It still feels about the same, like 2 to 3 cm. I’m just, you know, anxious about it not going away or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the lump feel when you touch it?",
+    "patient_turn": "It feels, um, pretty firm when I touch it. It’s not really painful, just a bit uncomfortable if I press on it too hard. Honestly, I’m just worried about what it could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the lump?",
+    "patient_turn": "I first noticed it about two weeks ago. It just kind of appeared out of nowhere, and I didn’t think much of it at first, but now I’m really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the lump feel like when you touch it?",
+    "patient_turn": "Oh, you know, I was thinking about my upcoming exams. They really stress me out sometimes, especially with all the studying I have to do.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you seen any swelling or redness around the lump?",
+    "patient_turn": "No, I haven’t seen any swelling or redness around it. It’s just, um, a hard lump, and the skin looks normal. Honestly, that’s part of what’s making me worried, I guess, because it doesn’t seem to be getting better or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any injuries or fevers in the past few weeks?",
+    "patient_turn": "No, I haven’t had any injuries or fevers at all. I mean, I’ve been feeling fine otherwise, just, um, this lump is really bothering me. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or surgeries?",
+    "patient_turn": "No, I don’t have any past medical problems or surgeries. I’ve been pretty healthy overall, which is why this lump is, um, really concerning for me. It feels so out of the blue, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "No, I’m not taking any medications, and I don’t have any allergies. I’m, um, up to date on my immunizations too. It’s just this lump that’s really got me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How is your home and school life? Do you feel safe and supported there?",
+    "patient_turn": "Yeah, my home and school life are, um, pretty good. I live with my parents and my older brother, and I feel safe at home. School is fine too; I don’t have any issues like bullying or anything. But, you know, with this lump, I’m just feeling a bit more anxious than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of diabetes or anxiety?",
+    "patient_turn": "Yeah, my dad has diabetes, and my mom has some anxiety. My uncle also had melanoma, but, um, there’s no family history of bone or soft tissue tumors. I guess that’s why I’m really worried about this lump, you know?",
+    "annotation": "Correct"
+  }
+]

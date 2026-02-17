@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my son has been really sick for the past few days. He started with some abdominal pain, and then he began vomiting and having diarrhea. It’s been pretty rough, honestly. He also has a fever that started yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the abdominal pain?",
+    "patient_turn": "Uh, it was about three days ago. He just kept complaining about his tummy hurting, and then it got worse, I guess. It’s been hard to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the abdominal pain changed at all since it first started?",
+    "patient_turn": "Um, not really, I think. It’s been pretty consistent, just this diffuse pain in his mid-abdomen. He doesn’t seem to have any specific spot that hurts more, but it’s definitely been bothering him a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly he feels the pain in his abdomen?",
+    "patient_turn": "Oh, you know, I was actually thinking about what to make for dinner later. I hope we have enough pasta left.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for him? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’m not totally sure how to describe it. I think it’s more of a dull pain, but he just keeps saying it hurts. It’s hard to tell exactly what he’s feeling, you know? He’s just really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he mentioned if anything makes the pain better or worse?",
+    "patient_turn": "Uh, not really. He hasn’t said much about what helps or makes it worse. He just seems to be in pain and, um, kind of irritable. It’s been tough to get him to talk about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he experienced any other symptoms, like feeling breathless, dizzy, or nauseous?",
+    "patient_turn": "Well, he’s definitely been feeling nauseous, um, with all the vomiting. And he’s been really lethargic and sleepy since the fever started. But, uh, no dizziness or breathlessness that I know of. Just really tired and not himself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about his daily habits, like his diet, exercise, or any recent changes at home?",
+    "patient_turn": "Um, I think his diet has been pretty normal. He hasn’t had anything unusual to eat lately, and he usually eats well. As for exercise, he’s been pretty active, but, you know, he hasn’t been able to do much of that since he got sick. There haven’t been any big changes at home either, so… I’m not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any past medical problems or is he taking any medications regularly?",
+    "patient_turn": "No, um, he’s been healthy before this. No past medical issues or surgeries, and he’s not on any regular medications. I mean, he’s up to date with his immunizations too, so… it’s just really concerning to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he experienced any worrying symptoms, like fainting, sudden breathlessness, or extreme fatigue?",
+    "patient_turn": "Uh, no, not really those kinds of symptoms. Just the lethargy and increased sleepiness since the fever started. But no fainting or breathlessness, thank goodness. I’m just kinda worried about how he’s feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been feeling unwell, and when did the abdominal pain first start?",
+    "patient_turn": "Uh, I think it's been, like, maybe three days? Or maybe it started a little before that? I’m not entirely sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How many times has he vomited in total?",
+    "patient_turn": "Um, I think he’s vomited about six times in total. It started with food, but then it was just this yellowish stuff, you know? It’s been really concerning to see him go through that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the diarrhea? Is it watery, and has there been any blood?",
+    "patient_turn": "Yeah, it’s been really watery, like, um, six to seven times just yesterday. Thankfully, there hasn’t been any blood in it, but it’s still really worrying to see him like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did the vomit look like initially and later on?",
+    "patient_turn": "Uh, at first, it had food in it, but then later it was just this yellowish material. I don’t think there was any bile or blood, but it was still really alarming to see him throw up so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has there been any blood in the diarrhea?",
+    "patient_turn": "No, um, thankfully there hasn’t been any blood in the diarrhea. It’s just been watery, but I’m still really worried about how often he’s going.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was he irritable before the fever began?",
+    "patient_turn": "Yeah, he was a bit irritable before the fever started, but it seems like it got worse once the fever kicked in. Now he’s just really lethargic and not himself at all, which is, um, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he experienced any chills along with the fever?",
+    "patient_turn": "Yeah, he has had chills with the fever. It’s been tough to see him like this, and I just feel really worried about how he’s feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any headaches or a cough during this time?",
+    "patient_turn": "Um, no, he hasn’t mentioned any headaches or a cough. It’s mostly just the abdominal pain, vomiting, diarrhea, and the fever. I’m really hoping it’s nothing too serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone else in the house been feeling unwell recently?",
+    "patient_turn": "No, um, nobody else in the house has been feeling unwell. It’s just him, and it’s really strange because, you know, we haven’t had any recent illnesses or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home or anyone who smokes?",
+    "patient_turn": "No, we don’t have any pets, and nobody smokes in the house. It’s just been a normal environment, so I’m not really sure what’s causing all this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like asthma or other illnesses?",
+    "patient_turn": "Um, not really, no significant family history of health issues. Just one of his siblings is being evaluated for possible asthma, but other than that, nothing major. It’s all just so confusing right now.",
+    "annotation": "Correct"
+  }
+]

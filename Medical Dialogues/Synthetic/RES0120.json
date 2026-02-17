@@ -1,0 +1,177 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having some pretty bad shortness of breath for the last four days. It started off, you know, kinda mild, but then it got worse. I also have these chills and, um, sharp chest pain that feels worse when I take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the shortness of breath and chest pain first start?",
+    "patient_turn": "So, the shortness of breath started about four days ago, and, um, the chest pain came on a bit later, like, I think it was around the same time as the chills, which was three days ago. It’s been really uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the chest pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, the chest pain is right in the central part of my chest. It’s sharp and pleuritic, but it doesn’t really spread anywhere else, you know? It just hurts more when I take a deep breath or, um, when I move certain ways.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, like, um, a stabbing kind of pain. It really gets worse with deep breaths, but it feels a bit better when I sit forward or, um, when I breathe out. It’s just, honestly, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the chest pain first started?",
+    "patient_turn": "Um... I was just , I think.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I first noticed it, um, about three days ago, I think. It kind of came on after the shortness of breath started getting worse. It just, you know, sort of hit me out of nowhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it’s, um, gotten more intense since it first started. At first, it was just a little annoying, but now it’s really sharp and, um, it hurts a lot more when I breathe deeply. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located?",
+    "patient_turn": "It's... in the area.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the pain spread to any other areas, like your arms, back, or neck?",
+    "patient_turn": "No, um, it doesn’t really spread anywhere else. It’s just localized to the central part of my chest. I haven’t felt it in my arms, back, or neck, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s sharp, definitely sharp. Like, um, a stabbing pain that really gets worse with deep breaths. It’s pretty uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, it gets worse when I take a deep breath or, like, when I move certain ways. But it feels a bit better when I sit forward or, um, when I breathe out. So, yeah, it’s a bit of a relief when I do that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I first noticed the chest pain about three days ago, um, after the shortness of breath started getting worse. It just kind of came on suddenly, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "So, the pain is mostly in the center of my chest, but it’s kind of hard to explain because sometimes it feels like it moves a bit, you know? Also, I’ve been thinking about getting a new couch because the old one is really uncomfortable, especially when I sit for too long. My husband says I should just get a nice recliner instead.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s sharp, definitely sharp. Like, um, a stabbing pain that really gets worse when I take a deep breath. It’s honestly pretty concerning and uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, it gets worse when I take a deep breath or move around too much. But it feels a bit better when I sit forward or, like, when I breathe out. So, I’ve been trying to find positions that help ease it a little.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or fever recently?",
+    "patient_turn": "No, I haven’t had a cough or fever, um, at least not that I’ve measured. I’ve just had this mild, persistent runny nose for about a week, but that’s it. I’m kinda worried that it might be something more serious, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats or changes in your sleeping patterns?",
+    "patient_turn": "No, I haven’t had any night sweats or, um, changes in my sleeping patterns. I’ve been sleeping okay, but, you know, the shortness of breath and chest pain have been really distracting. It’s just hard to relax with all of this going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or faint at any time recently?",
+    "patient_turn": "No, I haven’t felt dizzy or faint at all. Um, I’m just really focused on the shortness of breath and the chest pain, you know? It’s been a bit overwhelming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or ankles?",
+    "patient_turn": "No, I haven’t noticed any swelling in my legs or ankles. It’s just been the shortness of breath and the chest pain that’s really bothering me. I’m, um, really hoping to figure out what’s going on soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any palpitations or a racing heart lately?",
+    "patient_turn": "No, I haven’t had any palpitations or a racing heart. It’s mostly just the shortness of breath and the chest pain that’s been, um, really concerning for me. I just want to get to the bottom of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel short of breath at night?",
+    "patient_turn": "No, I haven’t felt short of breath at night. It’s mostly during the day, um, and it’s been getting worse over the last few days. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the chest pain happen when you’re active or exert yourself?",
+    "patient_turn": "No, I haven’t had chest pain with exertion or, um, when I’m active. It’s more like it just happens when I’m sitting or, you know, just breathing normally. It’s really strange and concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had the runny nose?",
+    "patient_turn": "I’ve had the runny nose for about seven days now. It’s mild and persistent, but, um, it’s not really bothering me as much as the shortness of breath and chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What past medical conditions have you been diagnosed with?",
+    "patient_turn": "I’ve been diagnosed with diabetes for about ten years, and I also have hypertension and hypercholesterolemia. I manage those with insulin, ramipril, and rosuvastatin. It’s just a lot to keep track of, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m currently taking insulin for my diabetes, ramipril for my hypertension, and rosuvastatin for my cholesterol. Um, I don’t have any medication allergies, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yes, I had an uncomplicated cholecystectomy about 12 years ago. Um, that went fine, but I haven’t had any other surgeries since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease or lung problems?",
+    "patient_turn": "No, there’s no family history of heart disease, lung problems, or cancer that I know of. It’s just, um, me dealing with my own health issues, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work or how do you spend your days?",
+    "patient_turn": "I’m retired now, so I spend my days at home. I live with my husband, who’s, um, asymptomatic, thankfully. I try to keep busy, but with this shortness of breath and chest pain, it’s been hard to do much lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you quit smoking, and how much did you smoke before that?",
+    "patient_turn": "I quit smoking about 20 years ago after smoking for, um, 25 years at one pack per day. It was a long time ago, but I still think about it sometimes, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve just been, um, focused on managing my health and, you know, dealing with everything that’s been going on lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol occasionally, but, um, I don’t really keep track of how much. It’s just a glass of wine here and there, you know? Nothing too excessive.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust, mold, or other irritants recently?",
+    "patient_turn": "No, I haven’t been around any dust, mold, or, um, other irritants. I don’t have any pets either, so I’m not sure what could be causing all this. It’s just really puzzling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of taste or smell recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my sense of taste or smell. I, um, still feel like everything is normal in that regard, thankfully. It’s just the shortness of breath and chest pain that’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been hospitalized or had any medical procedures recently?",
+    "patient_turn": "No, I haven’t been hospitalized or had any medical procedures recently. I’ve just been, um, dealing with my usual health issues and now this new stuff with the shortness of breath and chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was coughing or unwell recently?",
+    "patient_turn": "Yeah, I had some recent exposure to individuals coughing in a grocery store, but, um, we were all wearing masks. I’m not sure if that has anything to do with how I’m feeling, but it’s been on my mind.",
+    "annotation": "Correct"
+  }
+]

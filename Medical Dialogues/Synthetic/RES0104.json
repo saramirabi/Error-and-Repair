@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been feeling pretty unwell. I’ve had this cough for the last couple of days, and it’s, um, getting worse. It’s producing this rust-colored sputum, and I’m kinda worried because I’m also feeling really short of breath, even when I’m just sitting down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst or if it spreads anywhere?",
+    "patient_turn": "Um, it mostly feels like it’s coming from my chest, I guess? It doesn’t really spread anywhere else, but it’s just, like, really uncomfortable. I feel this tightness, and it’s hard to catch my breath sometimes, especially when I move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or productive?",
+    "patient_turn": "Um, I think it’s, like, productive? But sometimes it’s hard to tell, you know? It feels kind of… I’m not really sure how to describe it, maybe just a bit uncomfortable?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What makes the cough better or worse for you?",
+    "patient_turn": "Well, um, it definitely gets worse when I move around or exert myself, like even just walking a little bit. I haven’t really found anything that makes it better, to be honest. I just feel, um, kind of stuck with it, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the cough, like shortness of breath or fever?",
+    "patient_turn": "Yeah, I’ve definitely noticed shortness of breath, and, um, I’ve had a fever too—my temperature was about 38.2°C. I’ve also been feeling really fatigued and, like, my appetite isn’t great. It’s just been a lot to deal with, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the cough and shortness of breath?",
+    "patient_turn": "Um, I’ve had the cough for about two days now, and the shortness of breath started around the same time. It feels like it’s gotten worse pretty quickly, which is, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels the strongest?",
+    "patient_turn": "It feels strongest in my chest, I think. It’s like there’s this tightness there, and, um, it’s just really uncomfortable. I don’t feel it spreading anywhere else, but it’s definitely, like, right in that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or productive?",
+    "patient_turn": "Um, it’s definitely productive. I’ve been coughing up this rust-colored sputum, which is, like, really alarming to me. It feels kind of, um, heavy and uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "Oh, I don’t really have a cough, actually. I mean, I might have a little tickle in my throat sometimes, but it’s not really a cough, just maybe a bit of a nuisance, you know?",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What other symptoms are you experiencing along with the cough?",
+    "patient_turn": "Well, besides the cough, I’ve been feeling really short of breath, and, um, I’ve had a fever, like I mentioned, around 38.2°C. I’m also really fatigued and my appetite has been poor. It’s just been a lot to handle, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or productive?",
+    "patient_turn": "Um, it’s definitely productive. I’ve been coughing up this rust-colored sputum, which is, like, really concerning. It feels heavy and, uh, just uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, and has it changed since it started?",
+    "patient_turn": "I first noticed the cough about two days ago, and, um, it’s definitely gotten worse since then. It started off maybe a little annoying, but now it’s, like, really persistent and I’m coughing up that rust-colored sputum, which is, uh, pretty alarming for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Uh, I think it’s mostly in my chest, but I’m not really sure, you know? It’s just kind of… there, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or productive?",
+    "patient_turn": "Um, it’s definitely productive. I’m coughing up this rust-colored sputum, which is, like, really concerning. It feels heavy and uncomfortable, and I just wish it would go away, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any previous medical conditions, like a stroke or diabetes?",
+    "patient_turn": "Yeah, um, I had a stroke about six years ago, and I also have type 2 diabetes. It’s been a lot to manage, you know? I’m just really worried about how this cough and shortness of breath might be affecting everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with GERD or any other gastrointestinal issues?",
+    "patient_turn": "Yes, I have GERD, um, which I’ve been managing for a while now. It’s just another thing to deal with, you know? But right now, I’m really focused on this cough and shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent cold or respiratory illness before this cough started?",
+    "patient_turn": "Yeah, I had a mild upper respiratory illness a few weeks ago, just a runny nose and sore throat, but it resolved on its own. I thought I was better, but then this cough started, and it’s just been really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "Um, I’ve been smoking for about 45 years, and I smoke, like, half a pack a day. I’ve thought about quitting, but I haven’t really tried yet. It’s just, um, hard to think about giving it up, especially now with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter or supplements?",
+    "patient_turn": "I’m taking metformin, empagliflozin, insulin, aspirin, a multivitamin, and vitamin D. I also get botulinum toxin injections for my hand spasticity from the stroke. I don’t have any allergies to medications, so, um, that’s what I’m on right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yeah, my dad had a myocardial infarction in his 80s, so there’s some heart issues in the family. I guess that’s something I’m kinda worried about too, especially with my own health concerns right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around anyone who was sick?",
+    "patient_turn": "Um, I haven’t traveled recently, but I did have some possible exposure to my granddaughter’s cold a few weeks ago. Other than that, I haven’t been around anyone who was sick, so I’m not really sure what’s going on with me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or environmental substances?",
+    "patient_turn": "No, I don’t have any allergies to medications or environmental substances. I’ve been pretty lucky in that regard, I guess. But right now, I’m just really focused on feeling better with this cough and shortness of breath.",
+    "annotation": "Correct"
+  }
+]

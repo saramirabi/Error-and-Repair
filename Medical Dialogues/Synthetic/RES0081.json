@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my son has been wheezing a lot and, uh, he’s having trouble breathing. It started about two days ago, and he’s been really irritable and not eating well. I’m kinda worried it might be a bad asthma attack like he had last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the wheezing and difficulty breathing?",
+    "patient_turn": "I first noticed it, um, about two days ago. He was outside in the cold and windy weather, and then it just got worse. He’s been wheezing a lot more than usual since then, and it’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the wheezing and difficulty breathing feels the worst?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to organize my son's toys at home.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the wheezing sound like to you? Is it a high-pitched whistle or something else?",
+    "patient_turn": "Um, it’s definitely a high-pitched whistle, like, you know, when he breathes out. It’s really noticeable, and it just sounds worse than usual. Honestly, it’s pretty scary to hear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been experiencing the wheezing and difficulty breathing?",
+    "patient_turn": "It’s been, um, about two days now. It started suddenly after he was outside, and it hasn’t really gotten any better since then. I’m just really worried about him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any recent colds or illnesses before this wheezing started?",
+    "patient_turn": "No, um, he hasn’t had any colds or anything like that recently. He was fine before this wheezing started, so it just feels really sudden and, um, concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the sound of the wheezing? Is it high-pitched, low-pitched, or something else?",
+    "patient_turn": "It's... um, ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has he had any other symptoms along with the wheezing, like difficulty breathing or coughing?",
+    "patient_turn": "Well, he’s definitely been wheezing, and there’s also this cough that just doesn't seem to go away, but it’s not like he has a cold or anything. Last week, we went to the park, and it was really windy, which I think might have triggered some of it. Oh, and he hasn’t been eating much, like I made his favorite pasta but he barely touched it, and then he was cranky about going to bed. It’s been tough!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has he ever been hospitalized for asthma or had a severe asthma attack before?",
+    "patient_turn": "Um, no, he hasn’t been hospitalized for asthma, but he did have a pretty bad attack last year that really scared me. I’m just worried this might be similar, you know? It’s hard to see him struggling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he mentioned any chest pain or nausea during this time?",
+    "patient_turn": "No, he hasn’t mentioned any chest pain or nausea. It’s mostly just the wheezing and difficulty breathing, along with, um, irritability and not eating well. I’m really anxious about how he’s feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does he use his inhalers, and has he been using them as prescribed?",
+    "patient_turn": "Um, he uses a daily steroid inhaler, the orange one, and then he has a blue reliever inhaler for when he needs it. He’s been using the blue one a lot more these past two days, but, uh, I don’t think he’s been using a spacer with it. I’m kinda worried that might not be helping him as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart issues?",
+    "patient_turn": "No, there’s no family history of lung or heart issues that I know of. It’s just been him with the asthma, and, um, I’m really hoping it’s not something more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was his birth and development normal, without any complications?",
+    "patient_turn": "Yeah, his birth and development were normal, no complications or anything like that. He’s always been a healthy kid, so this sudden wheezing is really, um, concerning for me.",
+    "annotation": "Correct"
+  }
+]

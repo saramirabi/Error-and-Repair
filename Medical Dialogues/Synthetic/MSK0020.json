@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this, uh, achy stiffness and pain in my hips and knees for about two months now. It’s been getting worse, especially in the mornings and, um, after I do any activities, like gardening. I’m kinda worried because it’s limiting what I can do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your hips and knees?",
+    "patient_turn": "I first noticed it about, um, two months ago. It started off kinda mild, but it’s, uh, progressively gotten worse since then. I mean, it’s really uncomfortable, especially in the mornings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is located?",
+    "patient_turn": "Yeah, it’s mostly in my hips and knees, you know? It feels like deep joint discomfort, but, um, it doesn’t really radiate anywhere else. Just, uh, right in those areas.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Uh, it’s... kind of gotten",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, the pain is kind of achy and deep, I think? It feels worse in the morning, you know, like when I get out of bed, but then it eases a bit during the day. Also, I’ve been trying to do more gardening lately, which might not help, and I remember last week my neighbor had a barbecue that was really smoky, so that was kind of distracting too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What activities or movements make the pain worse for you?",
+    "patient_turn": "Um, mostly activities like gardening or, you know, just being active in general. It really gets worse in the afternoon after I’ve been moving around. I mean, I can still do daily tasks, but, uh, anything that involves bending or using my hips and knees more definitely makes it hurt more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high blood pressure?",
+    "patient_turn": "Yeah, I have a history of hypertension. I’ve been managing it for a while now, um, but I’m just, you know, a bit worried about this pain on top of everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications for your diabetes?",
+    "patient_turn": "Yes, I’m taking metformin for my type 2 diabetes. I’ve been managing it with that, but, um, I’m just a bit anxious about how everything is affecting my health overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medication for your high cholesterol?",
+    "patient_turn": "Yeah, I’m taking atorvastatin for my high cholesterol. I’ve been on it for a while, um, and I’m just trying to keep everything in check, you know? But this pain is really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Well, my father had a myocardial infarction in his seventies, but, um, that’s about it. There’s no family history of musculoskeletal or autoimmune diseases that I know of. I’m just, you know, trying to stay healthy myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke in the past, and if so, for how long?",
+    "patient_turn": "Yeah, I smoked for about 40 years, um, a pack a day. But I quit a while ago, and I don’t smoke anymore. I’m really trying to take better care of my health now, but this pain is, uh, really stressing me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use recreational drugs. I, um, quit all that a while ago. I’m just focusing on my health, but this pain is really making things tough for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever or unexpected weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any fever or, um, unexpected weight loss. I mean, I feel pretty much the same otherwise, but this pain is just really, uh, concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did your doctor say during your last physical exam?",
+    "patient_turn": "Um, I’m not totally sure about all the details, but I know I was up to date on my immunizations. My doctor didn’t mention anything major, but, you know, I’ve been focusing on managing my hypertension, diabetes, and cholesterol. This pain is just, uh, really bothering me lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your health conditions?",
+    "patient_turn": "I’m currently taking metformin for my type 2 diabetes and atorvastatin for my high cholesterol. I also manage my hypertension, but, um, I don’t remember the exact medication for that right now. I’m just trying to keep everything under control, you know?",
+    "annotation": "Correct"
+  }
+]

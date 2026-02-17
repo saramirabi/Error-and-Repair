@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. Um, I’ve been having this dry cough for about a week now, and it’s gotten worse. I, uh, noticed some blood when I coughed today, which really freaked me out. I’m kinda worried it might be something serious, like tuberculosis, especially since I just got back from a mission trip to the Philippines.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about six or seven days ago… it was just a dry cough at first, but then, um, it got worse pretty quickly. And now, with the hemoptysis today, I’m really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels like it’s coming from?",
+    "patient_turn": "Uh, I think the cough is kind of coming from my chest, maybe? I mean, it feels like it’s deep down. It's been really weird because I was just in the Philippines for a mission trip, and now I’m worried about getting sick. Oh, and I also saw some really interesting places there, like beautiful beaches and markets, but now I’m just concerned about this cough.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as dry, tickling, or something else?",
+    "patient_turn": "It’s definitely dry… um, like, really dry and irritating. It doesn’t bring up any phlegm or anything, which is, you know, kind of concerning. I just feel like it’s not normal, especially with the blood today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, um, I think I mentioned it earlier, but it started about six or seven days ago. It was just a dry cough at first, but it’s gotten worse since then. I’m really worried about what it could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if the cough gets worse at any specific times, like during the day or at night?",
+    "patient_turn": "Um, I haven't really paid attention to specific times, but it feels like it’s pretty constant, you know? I mean, it doesn’t seem to get better or worse at night or during the day, but I guess I’m just focused on how it’s been getting worse overall. It’s just really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough is coming from?",
+    "patient_turn": "I think it’s coming from my chest, um, like deep down, you know? It feels kind of heavy, and that makes it even more concerning for me. I just keep thinking about my trip to the Philippines and if I might have picked up something there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you feel any tightness or pressure?",
+    "patient_turn": "Oh, I just remembered, I really need to clean my apartment. It's been a while since I dusted everything, and I think my cat might be allergic to it.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think I mentioned it before, but it started about six or seven days ago. It was just a dry cough at first, but then it got worse, and now with the blood, I’m really worried about it. I just can’t shake the feeling that something’s not right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in intensity or frequency since it first started?",
+    "patient_turn": "Yeah, it definitely has changed. Um, it started off pretty mild, but now it feels like it’s gotten a lot worse, like more intense and more frequent. I’m just really anxious about it, especially since I saw blood today. It’s been a rough week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough coming from?",
+    "patient_turn": "I feel like it’s coming from my chest, you know? It’s kind of deep down, and it feels heavy sometimes. I just keep thinking about how I was in the Philippines and if I might have caught something there. It’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens?",
+    "patient_turn": "Um, it feels really dry and, like, scratchy, I guess? It’s not productive at all, which is, you know, kind of frustrating. I just keep coughing, and it’s really uncomfortable, especially with the blood today. I’m honestly pretty scared about what it could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Well, I think I first noticed the cough about six or seven days ago, but honestly, I’m not totally sure. It might have been around the time I got back from the Philippines, which was two weeks ago. I remember being really busy with the mission work and visiting some hospitals there, and it was kind of overwhelming, but now I’m just trying to figure out what’s going on with this cough. And last week, I also had some chills, which was weird.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it started?",
+    "patient_turn": "Yeah, it definitely has changed. Um, it started off pretty mild, but now it’s gotten a lot worse, like more intense and more frequent. I’m really worried about it, especially with the blood I saw today. It’s just been a really stressful week for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your chest?",
+    "patient_turn": "I feel like the cough is coming from my chest, um, like deep down. It’s kind of heavy and uncomfortable, and I guess it makes me feel anxious. I just keep thinking about my trip to the Philippines and if I might have picked up something there. It’s really weighing on my mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "Yeah, actually, I have. I’ve lost about 15 pounds over the last few months, and it’s been unintentional, which is, you know, kind of concerning. I didn’t really think much of it at first, but now with the cough and everything, I’m starting to worry that it might be related. It’s just been a lot to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or shortness of breath along with your cough?",
+    "patient_turn": "Um, no, I haven’t had any fever or shortness of breath, which is, I guess, a little bit of a relief? But I did have some chills over the past week, and that’s been kind of weird. I just feel like, with the cough and the weight loss, something’s definitely not right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "Uh, no, I’m not taking any medications or supplements right now. My past medical history is pretty unremarkable, so I haven’t really needed anything. I guess that’s why this cough and everything is so surprising to me. I just didn’t expect to be dealing with this after my trip.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else. I’m, um, fully immunized, including the flu shot this year. It’s just really frustrating because I feel fine otherwise, except for this cough and the weight loss. I just want to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or cancer in your relatives?",
+    "patient_turn": "No, there’s no family history of lung disease or cancer that I know of. Um, my family has been pretty healthy overall, so that’s why I’m feeling even more anxious about my symptoms. I just can’t help but worry about what this could mean for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use tobacco, alcohol, or any recreational drugs?",
+    "patient_turn": "No, I don’t use tobacco, alcohol, or any recreational drugs. I live alone in a clean apartment, and I try to take care of myself. It’s just really frustrating to be dealing with this cough and everything after coming back from my trip. I thought I’d be fine, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your living situation and any potential exposures?",
+    "patient_turn": "Um, I live alone in a clean apartment, and I don’t have any known environmental exposures. I haven’t had any recent sick contacts, except for, you know, during my mission work in the Philippines, where I visited some hospitals. I guess that’s what’s making me worry more about this cough and the possibility of tuberculosis. It just feels like everything is piling up.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi. Uh, I've just had this cough for the past week and I was worried I might have Covid so I just wanted to um I just wanted to be checked.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure, so you mentioned you, it started a week ago.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has it been persistent or does it come and go?",
+    "patient_turn": "Um it's just been there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Been there. OK.",
+    "patient_turn": "Yeah, I just get this itchy sort of uh like scratchy sensation in my throat. And then I just cough and um that makes it better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, uhm what, how would you describe your cough like is it barky? Is it harsh? Is it muffled?",
+    "patient_turn": "Uhm no, I don't I don't think it's barky or harsh.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does anything make it better or worse like you know, like the cold air, laying down, at particular time of day?",
+    "patient_turn": "Not really, I haven't uh, nothing's really helped. Um I also tried a cough syrup, um it didn't, it helped for a couple hours, but then it was back again. The cough was back again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever experienced anything like this in the past?",
+    "patient_turn": "Uh well, I I said yeah when I get a cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mhmm, OK.",
+    "patient_turn": "Once a year maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Once a year? OK. Um do you experience any shortness of breath with this cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Is it a dry cough or do you bring up any phlegm?",
+    "patient_turn": "No, it's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh any blood that you've seen?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And do you feel wheezy?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, um feeling like your heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your limbs?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Do you ever feel like your nose is stuffy or runny?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any changes in your vision or hearing?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um loss of smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fevers?",
+    "patient_turn": "I checked no, no, I don't have a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Issues uh, any changes in your bowel movements?",
+    "patient_turn": "Um uh no, I've just been constipated from time to time, but that's nothing, that's not new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, constipation. And I'm sorry when did your constipation start?",
+    "patient_turn": "Oh it's a problem for years. I don't eat enough fibre.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, OK. Any changes in your urine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any nausea or vomiting?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any joint pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, numbness or tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Are you otherwise healthy? Do you have any longstanding medical conditions?",
+    "patient_turn": "I have diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how long have you had diabetes?",
+    "patient_turn": "It's about, it's been uh seven years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any hospitalizations or surgeries in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and um how about medications? Are you on any?",
+    "patient_turn": "Uh yeah, I've been taking uh metformin for the past uh, for the past five years, when, five or six years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Um and uh my family Doc started me on uh ramipril about two weeks ago, he told me that uh now that I'm 50, I need to I need to be on this pill as well, so now I have to take 2 pills instead of one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah because I think it's it's good for my heart or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. So you started that two weeks ago, OK. Are you up to date with all your immunizations?",
+    "patient_turn": "Uh yeah, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "Uhm penicillin, I just get uh I get a rash. I got a rash when I was a child, I haven't had it since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Any family history of lung or heart conditions?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Do you smoke?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, how about, uh, marijuana or other recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, um alcohol?",
+    "patient_turn": "Uh yeah, I drink on the weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, what do you drink and how much do you drink?",
+    "patient_turn": "I'll have maybe two or three uh bottles of beer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK sure, and um have you been in contact with any sick people recently?",
+    "patient_turn": "No, no, I've just been staying at home. I'm just scared of covid, but I'm I'm still worried I might have somehow gotten it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. Uhm, any travel recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And where do you live right now?",
+    "patient_turn": "I live in a house with my wife and my two kids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh are they healthy?",
+    "patient_turn": "Yeah, they're all healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any old carpet, dust, mold, or asbestos in your home?",
+    "patient_turn": "Um not that I'm aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. OK, well it seems like um those are all the questions that I had for you today. Did you have any questions of your own?",
+    "patient_turn": "No, I just want to get tested for Covid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so we will definitely do a Covid swab on you because you have a cough, um and those results should come back to you in about 24 to 48 hours, and so you'll know more then. But because your symptoms do overlap with that of Covid, we still recommend isolating for 14 days. But the other thing I want to mention is that you don't have any other symptoms of infection besides your cough, and it seems like the cough started a week ago and you started this new medication ramipril two weeks ago, and so ramipril is a type of ACE inhibitor and one of its side effects is that in some people it can cause coughing. So, I am going to review your medications and if your family Doc also agrees, we may try uh another um blood pressure medication for you instead of ramipril.",
+    "patient_turn": "Sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um so we'll try and change that medication and see if your coughing stops. How does that sound?",
+    "patient_turn": "Sounds great.",
+    "annotation": "Correct"
+  }
+]

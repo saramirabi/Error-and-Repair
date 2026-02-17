@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "What brings you all in today?",
+    "patient_turn": "Hi. So I just brought in my son he's 5. Essentially, when he, so today is Friday when he got home from school on Wednesday, he seemed fine, but he I don’t know that night he started to have a bit of like a cough. It just seemed like a little dry cough, but obviously I just wanted to keep him home, keep him safe and not like spread anything if he was sick. So he stayed at home on Thursday and he was like having a bit of a cough. Then yesterday it seemed to get a little bit worse and he was really tired, uh sorry. Today, today is Friday. He was like his cough is like getting a bit worse and I've been taking his temp the whole time and it got like a little high today, what was it? My thermometer says it was high. I'm just like trying to remember it was it was. It was like over 100 though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK.",
+    "patient_turn": "Uh, 101 or something or maybe 100.1 if. But anyways it was so I I just thought I should probably bring him in 'cause I was really worried about him and you know so he could have maybe got covid and like at school or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah for sure. Um OK, so just to clarify, he's had this cough and fever for the past five five days.",
+    "patient_turn": "Mhm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, OK so let's focus on the cough.",
+    "patient_turn": "It’s Friday. Its been more like like 3 days. Wednesday is when he came home, and then um he. And then today is Friday. So yeah, sorry.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Today is Friday OK. And um. OK, yeah sure uh so. Is this cough a productive cough, or is it kind of a dry cough?",
+    "patient_turn": "Uh I think it's dry. I haven't noticed him like spitting up anything. Yeah he yeah, its just like little cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. He is he. He's not bringing up any sputum or blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK good. OK, and does he sound wheezy at all to you?",
+    "patient_turn": "No, no, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about short of breath?",
+    "patient_turn": "Um I don't think so like he usually he's a really active kid and he has. He hasn't been running a lot outside in the past couple of days, so maybe he maybe he could have been having a harder time breathing. But also I think he's just been tired in general.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, yeah. OK, Uhm. Is his coughing getting worse with certain times of the day? Like is it worse at night, in the morning?",
+    "patient_turn": "Mm I think it kinda just there the whole day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and it does it, how does it sound? Does this sound like a barky cough? Does it sound? Uhm? Like harsh, what is what would you say the quality of it, of the sound of the cough is?",
+    "patient_turn": "Uh, I, just sounds kind of dry. It's not like super loud.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and has he ever experienced anything like this in the past?",
+    "patient_turn": "Um like he's had colds before, but I haven't like. I haven't like you this time he kind of had the fever, which is different than you know, having a regular cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are his symptoms getting worse?",
+    "patient_turn": "I think so 'cause yeah, the first day he just seemed like a little dry and then yesterday is coughing and today he actually has a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he complaining of anything like chest pain? Or feeling like his heart's racing?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Does he have a sore throat?",
+    "patient_turn": "Mm I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he having any issues swallowing food or fluids?",
+    "patient_turn": "I don't know if he's having trouble swallowing, but he doesn't seem to have a big appetite right now.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and is he, does he have a blocked nose or runny nose?",
+    "patient_turn": "Maybe a bit of like a look at runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does he have any issues with smell or taste?",
+    "patient_turn": "He, this morning he really seemed like he wasn't like into his breakfast and I wonder if he's losing his sense of taste a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about vision or hearing?",
+    "patient_turn": "I think those are fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is he complaining of any chills or night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in his hair, nails or skin like rashes?",
+    "patient_turn": "No, I haven't noticed anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in his bowel movements. Pardon?",
+    "patient_turn": "Um sorry no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no diarrhea, no constipation, no blood in the stool?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in his urine?",
+    "patient_turn": "I haven’t really been looking, but I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any dizziness or fainting spells?",
+    "patient_turn": "No, just like fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any confusion or memory loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is he and is he an otherwise healthy child?",
+    "patient_turn": "Yeah, actually he hasn't decided to like a vaccine that he hasn't had to go to the doctor like ever like. I mean, he broke his arm once, but that was it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so no past illnesses and I guess no hospitalizations or surgeries except for the broken arm.",
+    "patient_turn": "Exactly, like nothing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and were things normal with your pregnancy with him?",
+    "patient_turn": "Yeah totally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. And then how about as a newborn, any complications after birth?",
+    "patient_turn": "No, no, like everything is things really good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then did he hit all his milestones up till now?",
+    "patient_turn": "Yeah totally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any, does he have any allergies?",
+    "patient_turn": "Um. No, no, I don't think so. I mean like he hasn't really taken a lot of medicine, so it's hard to say, but like nothing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he up to date with all his immunizations?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah OK. And. In terms of family history, are there any lung conditions or heart conditions?",
+    "patient_turn": "Uh no everyone is really healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. And are there and who does he live with and where does he live?",
+    "patient_turn": "Um he lives with just me and my husband, and he has a little sister, like this in town here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, is she healthy?",
+    "patient_turn": "Yeah, I think she, yeah she's healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um? Any concerns for old carpets, mold, asbestos or any environmental issues like that in the home that you're in?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Has he been around any sick contacts recently?",
+    "patient_turn": "Not, not like outside of school. I like we know for sure, not outside of school, um but he goes to school right now so. Kinda hard to say.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "But they haven't. They haven't like contacted us about anything.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "OK, sure. And has he traveled anywhere recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. OK, well those are all the questions I had for you today. Were, was there anything that I missed that you wanted to chat about today?",
+    "patient_turn": "I don't think so. Um, like I, I realized that I can often times like you don't really do much for kids when you know when it's just like a virus or something. But we do, I guess need to have a covid test to go back to the school, even if you know either way 'cause they want us to be able to say. It's like the other kids have had an exposure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah for",
+    "patient_turn": "yeah, like. Sorry, go ahead,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No go ahead.",
+    "patient_turn": "I’m just basically wanted to see if it was bad. I mean he doesn't receive your so scared. That's kind of what makes him in like it's gonna be a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, yeah, OK, so first thing is, first we need to do a covid swab just to make sure that he either has it or it doesn't have it and those results will come back in 24 to 48 hours. Um we do suggest because his symptoms are allowed with symptoms of covid that he isolate for 14 days and that includes from his his younger sister possible. And then if the swab comes back negative, there is a chance for false negatives. But also it could be another viral illness that's going around nowadays, and if his symptoms get worse, so if he has a really high temperature, if he has any neurological symptoms, like seizures or. If he's feeling weak, dizzy if he has any fainting spells, please do take him to the ER and. And so for now I'll just wait for those covid swaps to come back. How does that sound?",
+    "patient_turn": "Yeah, sounds good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK great yeah, yeah no worries and. I I should have mentioned if it was just the cough or if he was just short of breath or something like that and he didn't have the fever, we would add other things like asthma to the list of things he could be worked up for, but um right now it sounds like it sounds like an infection.",
+    "patient_turn": "OK yeah, that's good to know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, sounds great. Have a good day.",
+    "patient_turn": "You too thanks.",
+    "annotation": "Correct"
+  }
+]

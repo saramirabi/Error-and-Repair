@@ -1,0 +1,242 @@
+[
+  {
+    "doctor_turn": "So what brings you in the clinic today?",
+    "patient_turn": "Hey, uh I just had this cough that's been like really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how long have you had that for?",
+    "patient_turn": "Uh like in the past few days, it's been really like gross and I've been coughing up this like gunk, but I've had it for, I've honestly had a cough for like three months, it's just like sometimes it's like there, and sometimes it kind of goes away. It feels like it keeps coming back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any chest pain?",
+    "patient_turn": "Um no, like it kinda hurts when I cough now but not not like on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any fevers at home? Or fevers at all in the last couple days?",
+    "patient_turn": "Uh I've been feeling like hot at night in the past couple days, uh but like I didn't actually take my temp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any night sweats? You wake up, the sheets are soaked?",
+    "patient_turn": "Uh no, not that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nothing like that, OK, have you noticed any unexplained weight loss over the last little while?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So so you go on the scale, you lost a few pounds, but you haven't been trying to basically.",
+    "patient_turn": "No, like I, I don't really weigh myself, but I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you haven't been noticing clothes have been fitting loose or anything like that?",
+    "patient_turn": "No, no, like I wish but no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, got it. Now let's talk about what you're bringing up with your cough. What colour is it?",
+    "patient_turn": "It's really gross. It's kind of like greenish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Greenish, OK, and also any red or any blood with it?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And doesn't smell at all, smell funky?",
+    "patient_turn": "I haven't noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you've just been bringing this stuff up for the last couple of days, when specifically? Two days ago, three days ago?",
+    "patient_turn": "Like maybe maybe three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three days ago, and you said before that you kind of had this dry cough before. Uh when did you first notice that? Three months ago, you said?",
+    "patient_turn": "Yeah, I was uh, I do like um, it like sounds silly but I do like a pole dancing class just for exercise and I was like at my class and I kind of just started to like feel like I was like a little coughy and like I don't think there's anything special, that was just like when I noticed it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anyone at the class sick at that time?",
+    "patient_turn": "I don't think so, like it's a really long time ago, I don't really remember.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, got it. Anyone sick near you or around you in the last couple of weeks?",
+    "patient_turn": "No, no, not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and regarding other, any, we already talked about chest pain, uh you've been able to eat food alright?",
+    "patient_turn": "Uh yeah, like uh yeah it's like pretty normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So no nausea, no vomiting?",
+    "patient_turn": "Uh no, none of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You don't have a stiff neck at all, do you?",
+    "patient_turn": "No, no I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but how about other parts of your body? Any pain? Tenderness anywhere?",
+    "patient_turn": "I don't think so, no. Like I'm I'm a little tired now, um like the cough is like maybe for like a month, it's been kind of waking me up a little bit so my my sleep hasn't been great, but I don't think it's like I have like pain. I'm just like tired.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK so the cough does wake you up at night?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it wake you up every night?",
+    "patient_turn": "Yeah, like pretty well, for like the last, not like all three months, but probably the last month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright. I'm just gonna move on, talk a little bit about you and the past. Uh so any issues that you've seen a doctor for before?",
+    "patient_turn": "Uh just like eczema.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you take anything for that?",
+    "patient_turn": "Just like moisturizing creams, um like my family doctor back home said like, a couple times when it was really bad she would give me one like to go get at like shoppers, but right now it's not bad so I just have just like a regular cream.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, ever been hospitalized before?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so aside from the eczema, it sounds like you're pretty healthy eh?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you have any allergies?",
+    "patient_turn": "Uh I think maybe um maybe cats because, I I don't have one, but sometimes I've noticed stuff, but I've never like it's never really been too big of an issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you've never taken any medications or got stung by a bee and had any trouble breathing or even a certain food?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nothing like that, OK, are you taking any medications right now?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you just go to Western?",
+    "patient_turn": "Mhmm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you live uh near campus with anyone?",
+    "patient_turn": "Uh I have like a roommate, yeah we, I live in an apartment with a roommate.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have they been sick at all in the last little while?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and last little while, have you done any traveling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you haven't been outside the country or any exotic locales in the last little while?",
+    "patient_turn": "No, like I'm planning to on March break, but I haven't gone anywhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, got it, so you live in town uh with your roommate and you're currently a full time student?",
+    "patient_turn": "Mhmm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and just regards to anything, do you smoke?",
+    "patient_turn": "No, like I don't um I don't smoke cigarettes like I sometimes sometimes smoke marijuana, but usually um usually it's like the vape.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how often we say you do that a week?",
+    "patient_turn": "Oh, like, maybe like once every like 2 weeks or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, any other substances slash drugs?",
+    "patient_turn": "No, like alcohol sometimes, like.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so no cocaine, no heroin?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you ever um injected drugs into your body?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, got it. Just coming back to alcohol, uh how often would you say you drink?",
+    "patient_turn": "Maybe like one one night like on the weekend.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK and what do you drink, how much do you drink?",
+    "patient_turn": "I don't know, maybe like 5 or 6 beers. I guess it just depends on the night.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Got it, got it, and other questions, when was your last menstrual period?",
+    "patient_turn": "Maybe like 2 weeks ago?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Two weeks ago, OK. Are you sexually active?",
+    "patient_turn": "Uh yeah, just with my boyfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so do you two use contraception, birth control?",
+    "patient_turn": "Yeah, we use uh like condoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any chance you could be pregnant right now? That was a strange question to ask if you're sexually active, but any unprotected sex in the last two weeks?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, alright, and we're just kind of going over things,so it sounds like you've had this cough or a cough for a little while but it's only become bad in the last three days. You're waking up at night and you're kind of bringing up this foul or not this foul but this kind of greenish sputum, but it's, no blood in it, and otherwise you don't have any constitutional symptoms so I will go review your story with the doctors. Anything else you'd like to bring up with them before I go?",
+    "patient_turn": "I don't think so, I just like I like I hope I just can feel better 'cause I've been missing like my exercise stuff 'cause I feel like it's just like coughing and it makes it hard to like do well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Got it, got it. We'll see what we can do. OK, thank you very much.",
+    "patient_turn": "OK, thanks.",
+    "annotation": "Correct"
+  }
+]

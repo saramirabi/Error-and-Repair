@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "It's nice to meet you. What's your name?",
+    "patient_turn": "It's nice to meet you as well. My name is Jenn and I'm here with my son Joey here, who he's had a sore throat now for the last couple of days.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, how old is he, Joey?",
+    "patient_turn": "Uh, he is 3 years old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "He's three years old, OK. And you said for the past couple days, so about 2-3 days?",
+    "patient_turn": "Yeah, probably yeah about 3 days ago he he didn't go to school for the last two days because, or I mean daycare I should say because the pains but was bugging him so bad.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, yeah um. So how long has he been going to daycare for?",
+    "patient_turn": "He started this year, so, um, he's been going for about six months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK? Is he having issues swallowing food? Does it hurt when he swallows food?",
+    "patient_turn": "Yeah, he's, uh, he's definitely the last couple of days hasn't been eating as much like solid food. He's drinking cold liquids okay but yeah, he hasn't been eating as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "He says it's hard to. He does say it hurts to swallow as well.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and does does he ever clutch to his neck like his neck hurts?",
+    "patient_turn": "No, he hasn't said anything like that. I mean nothing about his neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, have you taken his temperature at all?",
+    "patient_turn": "Yeah we did and it's uh, it's pretty high actually, it was like 39.4.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK wow, yeah that's pretty high. Have you noticed any swollen areas on his neck?",
+    "patient_turn": "No, not I haven't noticed anything on his neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any rashes that you've noticed?",
+    "patient_turn": "No rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And has he been having chills or night sweats?",
+    "patient_turn": "Um, nothing like that that we've noticed, no shaking or or sweaty bed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about like a stuffy nose or runny nose?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and coughing?",
+    "patient_turn": "No cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, and how about is he complaining of any body aches?",
+    "patient_turn": "No, it's mostly just been is his throat his throat that he's complaining about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about headaches?",
+    "patient_turn": "Uh, He hasn't mentioned anything with his head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he been around anyone who's been sick? Maybe at his daycare?",
+    "patient_turn": "I, I mean, his sister has had had some colds. She's also in his daycare. So I mean, maybe her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how old is she?",
+    "patient_turn": "Um she's 2.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "She's two. OK, so she's younger.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any nausea or vomiting?",
+    "patient_turn": "Ah no vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about um, diarrhea, constipation?",
+    "patient_turn": "Haven't noticed anything like that, his his bowel movements have been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about urinating, has that been normal?",
+    "patient_turn": "His usual amount is as, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And OK, any issues with his eyes? Any like pus or bleeding or redness?",
+    "patient_turn": "No, his eyes of have looked normal to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about his ears?",
+    "patient_turn": "Those have also been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any sores on his mouth or inside?",
+    "patient_turn": "Um no, it does kinda look like there. It's pretty red in the back of his throat when I was able to look, but yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he ever experienced any of these symptoms before?",
+    "patient_turn": "Um, he's had sore throats before, but I think this one is a bit more severe. He hasn't complained this bad before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Um has he tried anything for it? Have you given him any over the counter medications?",
+    "patient_turn": "Yeah, we we did use some Tylenol and it brought the fever down so that was part of the reason why we we didn't come in 'cause he's had sore throats before but the fever bounced back and and the pain seems to have continued so we came in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, OK. And is he otherwise healthy? Does he have any medical conditions?",
+    "patient_turn": "Uh, yeah, he's otherwise healthy no medical conditions, um hasn't been, had a reason to see a doctor before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And then just how was pregnancy with him? Was it normal? Any complications?",
+    "patient_turn": "Um yeah there, so had um gestational diabetes, but it was treated, it was treated with diet. Um and blood sugars have been fine now, but no complications to the pregnancy from that regard as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any alcohol or recreational drugs used during the pregnancy?",
+    "patient_turn": "No, nothing like that. No. No smoking either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good um and how far along were you when when you delivered him?",
+    "patient_turn": "Um it was a vaginal delivery just after 38 weeks. OK so he was full term.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you said vaginal delivery? Did they have to induce you at all?",
+    "patient_turn": "Um no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and was he a normal birth weight?",
+    "patient_turn": "Yeah he was. Yeah, I think he was like just over 3 kilograms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good and was he healthy after birth? Did he have any breathing issues? Jaundice? Anything like that?",
+    "patient_turn": "Um, no breathing issues or or jaundice. He came home with us right away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK and then after that point to now has he been normal in terms of his weight, height, head circumference?",
+    "patient_turn": "Yeah yeah. He's been growing normally and eating well up up to this point.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and I should ask um has he been hitting all his milestones like, is he doing the things that his peers are doing?",
+    "patient_turn": "Yeah, I would say he's keeping up with his his peers in daycare and no concerns with his development.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. Is he on any medications?",
+    "patient_turn": "No medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK, and is he up to date with all his immunizations?",
+    "patient_turn": "He is yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any allergies?",
+    "patient_turn": "Not that we're aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of lung conditions?",
+    "patient_turn": "Um no, no family history of any lung conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And So who does, who does he live with at home?",
+    "patient_turn": "So he lives with my myself, and his father and then sister. So there's just the four of us at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what's the relationship like between all of you? Any domestic issues? Or are things OK?",
+    "patient_turn": "Oh, things are are great at home. It's a really supportive environment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good and does anyone smoke at home?",
+    "patient_turn": "No one smokes at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Um, any carpets at home? Old carpets?",
+    "patient_turn": "I think there's there's a few area rugs around, but most of the carpets are gone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK Um alright, so it sounds like, um grom what you're telling me, he ohh sorry, I should have asked you this earlier. Has he had any issues breathing?",
+    "patient_turn": "Um no problems breathing, but his voice does sound a bit, a little bit off. A bit Husky.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A bit Husky, OK. Um alright and nothing like a seizure like a febrile seizure, right?",
+    "patient_turn": "No, I haven't seen any like limb jerking or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any questions or anything that I missed that you wanted to discuss today?",
+    "patient_turn": "Um, no. We were thinking that it could be, uh, maybe strep throat. So um, yeah, thank you.",
+    "annotation": "Correct"
+  }
+]

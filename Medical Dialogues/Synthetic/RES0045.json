@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I’ve been having this really bad cough for about four days now. It’s, like, a harsh, dry cough that just won’t go away, and it’s interrupting my sleep… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "It started about four days ago, and it’s just gotten worse since then. I mean, it’s happening several times an hour, and it’s really exhausting… I can’t seem to catch my breath after coughing, which is, um, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest, or does it feel like it spreads anywhere else?",
+    "patient_turn": "Um, it’s mostly just in my throat, I think? It feels harsh and dry, but I don’t really feel any pain in my chest or anything like that. It’s just, like, really uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as sharp, dull, or something else?",
+    "patient_turn": "Uh, it's kind of… I think maybe harsh? But I’m not really sure if it’s sharp or dull, it just feels, you know, like it’s there a lot.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the cough better or worse?",
+    "patient_turn": "Well, um, I haven’t really found anything that makes it better, to be honest. It just seems to get worse, especially at night when I’m trying to sleep. I guess, like, talking or doing anything active makes it worse too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like shortness of breath or feeling dizzy?",
+    "patient_turn": "Yeah, I’ve been feeling short of breath, especially after I cough. It’s, um, hard to catch my breath sometimes, and I’ve felt a bit feverish and sweaty too. But no dizziness or anything like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "It’s been about four days now. It started out, um, not too bad, but it’s just gotten progressively worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Well, I was thinking about how I need to pick up some groceries later, maybe some milk and bread.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it harsh, dry, or something else?",
+    "patient_turn": "Oh, um, it’s definitely harsh and mostly dry. It feels really uncomfortable, like it’s just, you know, persistent and doesn’t let up. It’s hard to describe, but it’s just… really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell or taste recently?",
+    "patient_turn": "Yeah, actually, I’ve noticed a reduced sense of smell and, um, a bit of a loss of taste over the past couple of days. It’s really strange and, honestly, kind of concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more tired than usual or noticed any muscle aches?",
+    "patient_turn": "Yeah, I’ve been feeling more tired than usual, and I’ve had some mild muscle aches for the past couple of days. It’s just, um, adding to how I feel overall, you know? I’m kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach issues, like nausea, vomiting, or diarrhea?",
+    "patient_turn": "No, I haven’t had any stomach issues at all. It’s just been the cough, the fatigue, and the muscle aches, but no nausea or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries before?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries before. I’ve been, um, pretty healthy overall, so this is all a bit surprising to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications regularly, and do you have any allergies besides cats?",
+    "patient_turn": "I’m not taking any regular medications, just a multivitamin. And, um, besides my allergy to cats, I don’t have any other allergies that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart conditions?",
+    "patient_turn": "No, there’s no history of lung or heart conditions in my family. It’s just, um, pretty normal health stuff, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and have you had any recent contact with sick individuals?",
+    "patient_turn": "I live with my wife and three kids. Um, I haven’t had any known contact with sick individuals recently, but I do meet clients for work, so I guess there’s some exposure there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "No, I don’t smoke or drink alcohol regularly. I do use recreational marijuana occasionally, about once a week, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been, um, at home with my family and going to work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Not that I know of. I mean, I haven’t had any known sick contacts, but I do meet clients for work, so, um, I guess it’s possible I could have been exposed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling concerned about COVID-19, and have you had a test for it?",
+    "patient_turn": "Yeah, I’m honestly pretty concerned about COVID-19, especially with all these symptoms I’ve been having. I haven’t had a test yet, but I know you’re planning to do a PCR test for me, right?",
+    "annotation": "Correct"
+  }
+]

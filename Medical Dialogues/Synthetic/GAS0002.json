@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. Um, I’ve been having this really severe, sharp pain in my right upper abdomen for about three days now. It started after meals, but it got a lot worse in the last few hours before I came in. It’s like an 8 out of 10 in pain… honestly, it’s pretty intense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start, and how has it changed since then?",
+    "patient_turn": "So, it started about three days ago, um, like 30 to 60 minutes after I ate. At first, it was just kind of annoying, but then, you know, it really ramped up in the last few hours. Now it’s just constant and really sharp… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s mostly right here in the upper right part of my abdomen. Um, it doesn’t really spread anywhere else, it’s just… right there. It’s been pretty persistent, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's, um, pretty dull, I guess. I mean, it’s sharp sometimes but mostly just uncomfortable. But I’ve never felt anything like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, I haven’t really found anything that makes it better, to be honest. It just seems to get worse, especially after I eat. I’ve tried, like, sitting up or lying down, but nothing really helps. It’s just… really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath, dizzy, or nauseous?",
+    "patient_turn": "Yeah, I’ve definitely felt nauseous over the past few days, but I haven’t vomited or anything. Um, I’m not feeling short of breath or dizzy, just… the nausea and the pain, you know? It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me when the pain first started?",
+    "patient_turn": "Sure, um, the pain first started about three days ago. It was after I ate, like, 30 to 60 minutes later. It was manageable at first, but then it just got worse, especially today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "So, the pain is mainly in my right upper abdomen, um, right here. It doesn’t really spread anywhere else, it’s just localized. It’s been pretty consistent, and I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "I was just, um, eating a meal when it first started. It was about 30 to 60 minutes after I finished eating, and then the pain just kind of hit me. I didn’t think much of it at first, but it’s gotten a lot worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, um, it started off as just a mild annoyance, but then it got really sharp and intense, especially in the last few hours. It’s been pretty constant now, and I can’t seem to find any relief. Honestly, it’s really concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located? Does it stay in one spot or move around?",
+    "patient_turn": "...  side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like to you?",
+    "patient_turn": "Um, it feels really sharp, like a stabbing pain, you know? Sometimes there's a dull ache that comes with it, but mostly it’s just really intense. I’m not used to this kind of pain, and it’s honestly pretty scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "The pain first started about three days ago, um, after I had a meal. It was kind of mild at first, but it’s just gotten worse since then, especially today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or nature since it first started?",
+    "patient_turn": "Yeah, it definitely has. It started off mild, but then it became really sharp and intense, especially in the last few hours. It’s been pretty consistent now, and I’m honestly worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced similar pain episodes before this one?",
+    "patient_turn": "Um, yeah, I had a similar episode a few years ago, but it resolved on its own without any medical help. I didn’t think much of it at the time, but this feels a lot worse, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been since the pain started?",
+    "patient_turn": "Well, my appetite was normal until today, but now, um, it’s definitely decreased because of the pain. I just don’t feel like eating at all, which is unusual for me. It’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or ongoing health issues?",
+    "patient_turn": "Not really, um, I don’t have any chronic conditions or anything like that. The only thing is I’ve been advised to lose weight, but that’s about it. I don’t take any regular medications, just some occasional antacids for heartburn.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Um, the only surgeries I’ve had are related to childbirth, but nothing else. So, no other surgeries or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of health issues, like heart problems or diabetes?",
+    "patient_turn": "Yeah, my mom had gallstones, and my dad had a stroke in his 60s. Other than that, I’m not really sure about other health issues in the family. It’s just those two that stand out to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any challenges at home or work that might be affecting your health?",
+    "patient_turn": "Um, no, not really. I live with a supportive partner and two kids, and work as a bank consultant. Everything seems pretty normal at home and work, so I don’t think that’s affecting my health. It’s just this pain that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I usually have, um, one to two glasses of wine each night, so I guess that adds up to about, like, 7 to 14 glasses a week? But I don’t have any concerns about dependence or anything like that. It’s just a way to unwind, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs at all. Um, I’ve never really been into that kind of stuff, so it’s not an issue for me.",
+    "annotation": "Correct"
+  }
+]

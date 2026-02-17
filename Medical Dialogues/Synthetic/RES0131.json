@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three to four days now, and it’s getting worse. I also feel really tired and achy all over, and I’ve had this mild headache for a couple of days too. It’s kinda concerning, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start, and how has it changed since then?",
+    "patient_turn": "So, the cough started about three or four days ago, and, um, it’s just gotten progressively worse. At first, it was just a little annoying, but now it’s, like, really persistent and I’ve had some pretty severe coughing fits. It’s, uh, pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest, and does it spread anywhere else?",
+    "patient_turn": "Um, I don’t really feel it in my chest, to be honest. It’s mostly just this dry cough, and I don’t have any chest pain or wheezing or anything like that. It’s just, like, really annoying and makes me feel a bit short of breath after I cough a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "Oh, it's been, like, just a couple of days, maybe a week or so. I mean, I think I might have had it for longer, but I'm not really sure.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in the cough since it started?",
+    "patient_turn": "Yeah, um, it’s definitely gotten worse since it first started. At first, it was just a little annoying, but now it’s, like, really persistent and I’m having those coughing fits more often. It’s just, uh, really exhausting, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, wet, or something else?",
+    "patient_turn": "Hmm, it's definitely a wet cough, I think, but maybe it's dry too? Honestly, I can't really tell right now.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the cough—does it come and go, or is it constant?",
+    "patient_turn": "It’s mostly constant, honestly. I mean, it doesn’t really go away, but sometimes it gets worse, especially when I’m trying to talk or, um, when I’m lying down. It’s just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, I think it started about three or four days ago, and at first, it was just a little annoying. Then, I was binge-watching this new series on Netflix, and I kept coughing through all the episodes, which was kind of frustrating. My roommate even asked if I was okay because I was coughing so much. It's been getting worse, I guess, and I’ve been feeling more tired too, especially after those long study sessions for my master's degree.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels the strongest?",
+    "patient_turn": "Um, it feels the strongest in my throat, like it’s really scratchy and dry there. I don’t feel it in my chest at all, so it’s mostly just this irritation in my throat that’s, uh, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature at all during this time?",
+    "patient_turn": "No, I haven’t checked my temperature, but I, um, haven’t felt feverish or anything. I’m kinda worried about COVID-19, though, so I’ll be getting tested soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of smell or taste recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my smell or taste. Everything seems normal there, so, um, that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any palpitations or dizziness during this time?",
+    "patient_turn": "No, I haven’t felt any palpitations or dizziness. It’s mostly just the cough, body aches, and fatigue that are bothering me. I’m, um, really just worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of asthma or allergies?",
+    "patient_turn": "Yeah, I have a history of asthma and some allergies, mostly to cats. I manage my asthma with Ventolin sometimes, but I haven’t had any issues with it lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yes, I’ve had a tonsillectomy and I also had my wisdom teeth removed. But, um, that was a while ago, and I haven’t had any other surgeries since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of strokes or other heart-related issues?",
+    "patient_turn": "Well, my grandfather had a stroke related to smoking and alcohol use, but that’s about it. There’s not really any other heart-related issues in my family that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I do drink alcohol occasionally, but it’s not, like, a regular thing for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date on your immunizations, including the flu shot?",
+    "patient_turn": "Yeah, I’m up to date on my immunizations, including my annual flu shots. I always try to keep that stuff current, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any symptoms that make you worried about COVID-19?",
+    "patient_turn": "Um, yeah, I’m kinda worried about COVID-19 because of the cough and everything. I’m going to get tested soon, just to be safe, and I’ve been advised to self-isolate until I know for sure. It’s just, like, really stressful right now.",
+    "annotation": "Correct"
+  }
+]

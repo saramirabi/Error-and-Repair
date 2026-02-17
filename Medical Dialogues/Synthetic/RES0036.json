@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this shortness of breath for like six days now, and it’s been getting worse. I also have this cough that produces, um, rusty-colored sputum, and it really hurts when I cough… like a sharp pain in my chest, about a 7 out of 10. I'm kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the chest pain is located? Does it spread anywhere else?",
+    "patient_turn": "Um, the chest pain is mostly in the center, I think… like right in the middle of my chest. It doesn’t really spread anywhere else, but it definitely gets worse when I cough. It’s just, um, really sharp and uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Uh, coughing definitely makes it worse, like I said. And, um, taking deep breaths can be uncomfortable too. I haven’t really found anything that makes it better, honestly… it just seems to be there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "Uh, I... it's just there sometimes.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's mostly sharp, but I think it’s more of a dull ache now.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I first noticed the chest pain about six days ago, um, when the shortness of breath started. It just kind of came on suddenly, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest pain or shortness of breath like this before?",
+    "patient_turn": "No, I haven’t had anything like this before. This is the first time I’m experiencing chest pain and shortness of breath like this, and, um, it’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Um, no, I haven’t traveled anywhere recently. I’ve just been, you know, working and staying at home. No trips or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently have a runny nose or any nasal congestion?",
+    "patient_turn": "No, I don’t have a runny nose right now. I had one a few days ago, but it’s not an issue anymore. Just the cough and shortness of breath now, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling any pressure in your chest right now?",
+    "patient_turn": "Um, no, I wouldn’t say I feel pressure in my chest right now. It’s mostly just that sharp pain when I cough and the shortness of breath. But no pressure, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness, palpitations, or nausea recently?",
+    "patient_turn": "No, I haven’t had any dizziness, palpitations, or nausea. It’s mostly just the shortness of breath and that sharp chest pain when I cough. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Uh, no, I don’t have any past medical conditions or surgeries. My medical history is pretty unremarkable, I guess. No allergies or current medications either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies or are you currently taking any medications?",
+    "patient_turn": "No, I don’t have any allergies, and I’m not taking any medications right now. Just, um, dealing with this cough and shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke and drink alcohol on a regular basis?",
+    "patient_turn": "I smoke about 10 cigarettes a day, um, I’ve been doing that since I was 20. And I drink, like, five alcoholic drinks a week, I guess. It’s not great, I know, but that’s just how it is right now.",
+    "annotation": "Correct"
+  }
+]

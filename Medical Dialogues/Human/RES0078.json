@@ -1,0 +1,252 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "I've been having difficulties breathing over these last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did it start?",
+    "patient_turn": "It started about, like, three or four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and since then, has it gotten any better or worse?",
+    "patient_turn": "It has, maybe gotten a little bit worse, but not, maybe, a little worse.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "And are there certain times when you feel that you're more short of breath than other times? Anything in particular that you're doing that makes it worse?",
+    "patient_turn": "Uhm, not really, it's kind of, I just feel like, it's just more difficult to breathe, uh, most of the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And, has this happened to you before?",
+    "patient_turn": "Uhm, not like, no, nothing like this has happened before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have a history of any lung problems?",
+    "patient_turn": "No, I don't, I've been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So no COPD, no asthma, nothing like that, right?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're just having difficulties breathing for the past three-four days. Do you have any, uh, do you have a cough?",
+    "patient_turn": "I did have a, uh, yeah, I've had a cough as well, over these last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has it been a dry cough or wet cough?",
+    "patient_turn": "I've been bringing up, some, like, uh, whitish sputum. It's like, yeah, whitish or clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you haven't seen blood anytime right? In your sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has the cough gotten any worse overtime?",
+    "patient_turn": "Uh, it's been about the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you had fevers or chills?",
+    "patient_turn": "I have felt hot but no chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. What about, any redness in your eyes or any congestion in your nose?",
+    "patient_turn": "Uh, I haven't noticed anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a sore throat?",
+    "patient_turn": "Uh, it's felt a little itchy I guess but no pain with swallowing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you have any chest pain or chest pressure?",
+    "patient_turn": "Yeah, when I like, uh, take a deep breath or after after I cough I've been having some chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "To give it a number from one to ten, what would you say in terms of how severe it is with ten being the worst pain ever.",
+    "patient_turn": "I would say, maybe six. It feels pretty sharp when it happens and it goes away after a few minutes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where exactly is it, is the pain?",
+    "patient_turn": "Uh yeah, I kind of feel it, Yeah, just over on the right side of the sternum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, and does it radiate anywhere? Does it go anywhere other than that one location?",
+    "patient_turn": "No, I feel it just in the one spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and has that pain gotten worse overtime?",
+    "patient_turn": "No, that pain started, I guess like two days ago. More recent than the cough or shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, I see, OK. And so you said that coughing makes it worse and sometimes breathing in. So is it just normal breathing or when you're doing like, deep breathing?",
+    "patient_turn": "Deep breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Deep breathing hurts? OK. Alright, and you've never experienced this before, right?",
+    "patient_turn": "No, I haven't had a pain like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, when you sort of touch that area over your chest, does touching it make it worse?",
+    "patient_turn": "Uhm, no, I haven't noticed that, touching it doesn't make it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, alright, have you had a headache?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. What about fatigue or muscle aches?",
+    "patient_turn": "I've been fatigued. No muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any pain in your belly?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your, uh, any changes when you pee?",
+    "patient_turn": "Uh, nothing there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK. Any rash that you've noticed on your skin?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your sense of taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your sense of smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. So sounds like for the past three-four days you've had difficulties breathing and a cough with this whitish sputum, whitish or clear sputum. You've also been feeling a little bit feverish. Have you checked your temperature?",
+    "patient_turn": "No, I haven't. I don't have a thermometer at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, no problem and your throat's been a little bit itchy and then two days ago you also started having this pain in your chest. Is there any other symptom that I have not mentioned that you have been experiencing over the past couple of days?",
+    "patient_turn": "No, that's everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. And you mentioned that you don't have a history of asthma or COPD. Do you have any other medical conditions?",
+    "patient_turn": "I have high blood pressure. And I take Amlodipine, for that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK any other over the counter medications or any other medication that you're on?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies?",
+    "patient_turn": "No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where do you currently live?",
+    "patient_turn": "In a townhouse just outside of the city here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, do you live alone?",
+    "patient_turn": "No, I live with my wife and daughter.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have your wife and daughter been sick recently or have either of you had contact with someone who's been sick?",
+    "patient_turn": "I've been working from home, uhm, but my daughter has recently started going back to high school and she's had a runny nose recently and a sore throat, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And what about your wife?",
+    "patient_turn": "She's been fine. Yeah, she's been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. Other than your daughter, have you been in contact with anyone else who might have, who might be sick or might have symptoms similar to what your daughter has?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, and do you, have you traveled anywhere recently?",
+    "patient_turn": "No, I've been just, uh, working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ever smoked in the past?",
+    "patient_turn": "No, I've never smoked before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Marijuana?",
+    "patient_turn": "I mean, I'll have a joint sometimes with friends at a party or something, but that's maybe once a month?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure, and any street drugs?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "I have a beer a couple of times per week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and you told me about your medical history, but do you have, have you ever had any surgeries or any hospitalizations in the past?",
+    "patient_turn": "Uh, I've had a hernia repair, about seven years ago. I haven't had any issues since.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, OK, uhm, and are there any medical conditions that run in your family?",
+    "patient_turn": "Uhm, my grand-father had a heart attack, in his seventies. And, I think my dad has high blood pressure as well, but, I think that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, well, so, I think that's all that I wanted to know. I can see that you haven't been feeling well over the past couple of days and I'll go back to my attending and we will come back and chat with you little bit more and do a physical exam and go from there.",
+    "patient_turn": "Sounds good, thank you.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "I I've had this, uh pain in the right buttock area, it's been really intense, and more recently I'm feeling it like radiate just down my right leg as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and sorry when did you say it started?",
+    "patient_turn": "So um it's been going on uh for, well, it's it's gotten really intense in the last uh like 2 days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and before that, did you have any pain at all or was it just like sudden?",
+    "patient_turn": "Yeah, I do have a bit of pain uh down in my uh in in my buttock area. Um but um it's just gotten really uh, it's gotten more painful over these last couple of days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and is it a persistent kind of pain? Or does it come and go?",
+    "patient_turn": "Um it's uh persistent, it's it it does get worse though, depending on what what I'm doing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, what uh when does it get worse?",
+    "patient_turn": "Um well it it gets it gets worse with walking, with sitting, um really any like any kinds of movements, like if I just gotta kind of stay still and that's the only thing that really helps it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you tried anything for it?",
+    "patient_turn": "Uh yeah, I'm just taking some pain medic medications over the counter for these last couple of days um like Advil and Tylenol, but that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and does, is it helping?",
+    "patient_turn": "It does, I mean, uh not really, it hasn't really helped much.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK. Um alright, and if you were to describe the quality of the pain, would you say it's sharp, dull, achy, throbby?",
+    "patient_turn": "Uh it um, kind of like a sharp pain in the in the buttock and um it it um it's kind of like burning uh down the leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, so a radicular kind of pain then. Um OK, and if you were to rate the severity of your pain 1 to 10, 10 being the worst pain you've ever felt, what would you rate it?",
+    "patient_turn": "8.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And does this pain radiate elsewhere, I know you said it starts on your buttocks, kind of goes down your legs, does it go up your back or down into the other leg at all?",
+    "patient_turn": "No, I feel it just uh just in the buttock and down the leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh have you ever experienced this kind of pain before?",
+    "patient_turn": "Uhm I have, yeah um I'm a a truck driver, and so I do a lot of uh a lot of sitting and I've had kind of sciatic pain um in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever had any like trauma or anything that could have triggered this initially um in the past?",
+    "patient_turn": "No, I don't think so, I don't, I haven't really done much, just kind of work and um ueah, I haven't had any trauma to the back or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you experiencing any sort of weakness with your legs?",
+    "patient_turn": "Uh no no weakness, just um well, yeah, maybe I guess, maybe a little bit of uh, leg weakness, I've had I've had a little bit of difficulty walking, been limping.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Oh I see, OK. OK, and just in your right leg, right?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary or um stool incontinence?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any sexual dysfunction?",
+    "patient_turn": "No, I haven't had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um any numbness or tingling?",
+    "patient_turn": "Yeah, I've I've had some numbness and tingling down the the right leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about in the groin area?",
+    "patient_turn": "No, it's just kind of down the back of my leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um alright, and otherwise do you have any other symptoms?",
+    "patient_turn": "No, it's just been just been, uh, this pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. Um and I'll just kind of go through some questions with you. Do you have any joint pains or muscle aches elsewhere?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No weight loss?",
+    "patient_turn": "No weight loss.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fevers or chills?",
+    "patient_turn": "No fevers or chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh rashes?",
+    "patient_turn": "No rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes to your vision, hearing, smell, or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um are you coughing, having shortness of breath, or wheezing?",
+    "patient_turn": "No, I haven't been any, having any symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any chest pain, palpitations, uh or dizziness or fainting spells?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your bowel movements?",
+    "patient_turn": "No diarrhea or constipation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And no bleeding in the stool?",
+    "patient_turn": "No blood in the stool.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And then how about nausea or vomiting?",
+    "patient_turn": "No, I haven't had any nausea or vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, changes to your urine?",
+    "patient_turn": "Uh no, no changes to the urine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you otherwise healthy? Do you have any longstanding medical conditions?",
+    "patient_turn": "I do have um high blood pressure and uh high cholesterol and I take medications for those, I take amlodipine and um a statin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any other medical conditions, are are you on any other medications besides those?",
+    "patient_turn": "Just a multivitamin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you up to date with all your immunizations?",
+    "patient_turn": "I am, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "Uh no, I don't believe so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, uh family history of um musculoskeletal or neurological issues?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh autoimmune conditions?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Cancers?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And do you smoke?",
+    "patient_turn": "Um yeah, I smoke uh about um half a pack of cigarettes per day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, for how long have you been doing that?",
+    "patient_turn": "Uh for uh yeah, about 40 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "40 years, OK, have you ever thought of quitting?",
+    "patient_turn": "I have, yeah, I've cut down over the years, um I used to smoke more, it's just the culture with uh, I don't know everybody's driving a truck and smoking.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, yeah, that's hard. If you ever need any resources, we have some that we can refer you to.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, no worries. And do you um consume marijuana?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about other recreational drugs?",
+    "patient_turn": "Uh nope, nothing like that before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you drink alcohol?",
+    "patient_turn": "Um yeah, I'll have a beer or two on the weekend, so maybe a couple of drinks per week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and how about um do uh, sick contacts, have you been in touch with any recently?",
+    "patient_turn": "No, I haven't been around anybody who's been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um any travel recently?",
+    "patient_turn": "Uh just for the drop offs that I that I make um driving, I do have to make some pretty um long hauls uh back and forth um, the, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and where do you currently live?",
+    "patient_turn": "So I live in a house with my um with my wife uh yeah and son.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright and, OK so now I'm just going to move on to the physical exam part of this um and I'm going to ask you to do a few things, OK? So, well just by looking at your legs, or if you have a mirror um and you can look at your right buttock area, um do you see any swelling or redness?",
+    "patient_turn": "Um no, I don't see anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And does it feel hot?",
+    "patient_turn": "No, it doesn't feel hot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you see any skin changes?",
+    "patient_turn": "No skin changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um any atrophy or deformity in the area?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, um has your gait changed, like does it, are you limping, hobbling, anything like that?",
+    "patient_turn": "Um yeah, I feel like I've been limping a little bit, uh yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you putting more um pressure on the left foot then?",
+    "patient_turn": "I am, yeah, yeah, I guess there's like an antalgic gait.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, and then um if you press down on your hipbone, do you feel any pain there? On your right hip bone.",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about when you press down on your buttocks itself?",
+    "patient_turn": "Um yeah, there is uh a little bit of tenderness um over the buttock area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about the back of your legs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about the front um of your legs, thighs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Alright, um and then I'm gonna just get you to do a few movements um with me as well. Would you uh OK, so are you sitting down right now?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Would you mind standing up from a sitting position?",
+    "patient_turn": "Yeah, for sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does that hurt?",
+    "patient_turn": "It uh yeah, that that that causes pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so that causes, so um hip hip extension uh that causes some pain, um and as well as knee extension, so would you mind um kicking your right leg up in front of you all the way up as far as you can go?",
+    "patient_turn": "Mhmm, oh yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does that hurt?",
+    "patient_turn": "It does, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so right hip flexion um also causes pain, and then would you mind uh folding your knees backwards um and just sort of flexing it? Does that hurt?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no pain at knee flexion. And how about when you point your feet um and toes up towards the ceiling?",
+    "patient_turn": "Uhm yeah I I do get some pain with my um, yeah when that's all straightened out, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so some pain on um planter flexion of the right foot. And how about if you um point your feet and toes towards the ground?",
+    "patient_turn": "No pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um alright and how about when you uh kick your legs uh to the side and upwards?",
+    "patient_turn": "Oh uh no pain with abduction.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so no pain on right hip abduction, and then how about when you bring it back down?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and no pain on hip adduction. OK, well those are all the questions that I have for you. Do you have any questions for myself?",
+    "patient_turn": "Uh just wondering about possibly like what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, um so it sounds um right now like you may have some sort of uh sacral nerve radiculopathy um or or like a lower lumbar, lumbar um radiculopathy, um basically uh that's known as sciatica, uh where your nerve roots can be compressed, causing some of these symptoms. Um and to diagnose these things, usually it's just done by history and physical exam um but if after we try out some management things, it doesn't go away or you're having some red flags, including um numbness in the groin area, bowel or bladder incontinence, then we can look at some um imaging for the for the spine, including MRI. Um and so in terms of management of this, um we can try a couple couple of like conservative approaches first, so that includes taking NSAIDs uh for the pain um and then like activity modification. So if you're sitting down um all the time, um perhaps like taking little breaks, uh stretching out your legs, doing some physio as well um during those breaks can help um, and as well, I'm going to give you a referral for physical therapy and they'll do some exercises with you and um slowly increase those exercises. Um and if those still don't work, we can try um steroids, steroid injections, um as well, we talked about the imaging if it doesn't go away in about 6 to 8 weeks. Does that sound OK?",
+    "patient_turn": "Yeah, that sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

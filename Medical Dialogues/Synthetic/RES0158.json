@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m a nurse, and I’ve had this new dry cough for about four days now. It’s, uh, been kind of accompanied by headaches and muscle aches, and I’m feeling a bit feverish too, I guess. I’m honestly kinda worried it might be COVID-19 since I’ve been exposed at work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "I first noticed the cough about four days ago. It just kind of started out of nowhere, you know? And then, um, the headaches and muscle aches started around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Well, the cough started about four days ago, I think. And it’s been pretty dry, you know? I mean, it’s not like I’ve had a cold or anything. Oh, and my daughter has been watching this new show on TV that I think is really cute, but I can’t remember the name right now. Anyway, the cough is still dry and hasn't really changed much.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "Oh, you know, I really need to get some new shoes. The ones I have are getting old, and I saw some really nice ones online.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Um, I…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "I, um, I don’t really feel it in my chest, to be honest. It’s more like a tickle in my throat, I guess? It’s not painful or anything, just kind of annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell or taste?",
+    "patient_turn": "Yeah, um, I’ve noticed a loss of smell and taste developing over the last two days. It’s honestly really strange and, um, a bit concerning, you know? I didn’t expect that to happen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your appetite recently?",
+    "patient_turn": "Yeah, I have. My appetite has definitely decreased over the past few days. I just, um, haven’t felt like eating much, you know? It’s kind of frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any significant past medical conditions or surgeries?",
+    "patient_turn": "Not really, um, I don’t have any significant past medical history. The only thing I had was a knee arthroscopy when I was a teenager, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I just take a multivitamin and a greens supplement, but, um, that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung cancer or other respiratory illnesses?",
+    "patient_turn": "Yeah, my grandfather had lung cancer related to smoking, so that’s, um, something I’m aware of. But other than that, I’m not sure about any other respiratory illnesses in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How are your wife and daughter feeling?",
+    "patient_turn": "Um, they’re both doing well, thankfully. They haven’t shown any symptoms or anything, which is a relief. I’m just, uh, worried about possibly bringing something home to them, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use cannabis?",
+    "patient_turn": "I use cannabis about once a week, um, socially, I guess? It’s not a daily thing for me, just on the weekends mostly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink on the weekends?",
+    "patient_turn": "I usually drink socially on the weekends, but, um, I’m not really sure how much exactly. It’s, like, a few drinks, I guess? Just enough to relax and have a good time with friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test since your symptoms started?",
+    "patient_turn": "No, I haven’t had a COVID-19 test yet, but, um, I’m planning to get one soon. I’m really anxious about it, honestly, especially with my symptoms and my exposure at work.",
+    "annotation": "Correct"
+  }
+]

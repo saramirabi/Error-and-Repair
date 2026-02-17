@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "So can you tell me a little bit about what brought you in here today?",
+    "patient_turn": "Yeah, I've noticed I've had this pretty bad cough for like the last couple of days. A little bit worried. Wanna talk to someone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so started two days ago.",
+    "patient_turn": "No about what day is it today? Today is Wednesday. It started on Sunday, Sunday. I noticed it getting really bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it got really bad. Then it was it was it still present but not as bad before that?",
+    "patient_turn": "Yeah I think I had like a bit of like a raspy cough on like Friday but Sunday it was when I started getting nervous about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so almost a week, it sounds like. And what exactly changed on Sunday that you made it worse in your opinion?",
+    "patient_turn": "So Sunday I started bringing I noticed like little spots of red kind of the the gunk I was bringing up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "And I kind of ignored it, but the next day they were still there. I started getting fever just in I felt off, you know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, so that you first notice that on Sunday, were you bringing up sputum before that and it just didn't have these spots or did it, did that part just start on Sunday?",
+    "patient_turn": "Sputum is kind of like the gunk up and bring it up? Yeah, it was. It's like this yellow custard, it’s got like well spots are red on it on Sunday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and before that did you have like the yellow custard without red? Or it all started at once all kind of started?",
+    "patient_turn": "It all started at once to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sorry, I know these are tricky questions, and you said that you've had some fevers. Can you tell me a little bit about that? When did that start?",
+    "patient_turn": "So that started, the Monday really is when I first started. I never took my temperature. I just felt hot. You know that's been going on pretty much until today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did you ever feel like you were really shaky?",
+    "patient_turn": "Yeah, I've been getting the chills, especially last two days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So over this time you've had this cough, have you felt like you've had difficulty breathing?",
+    "patient_turn": "Not really, I feel a little bit winded doing things. I used to do like I take the stairs up to my apartment, but I have just happened really trying to exert myself that's been taking it easy so I haven't really noticed being out of breath.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, so probably if you were to get up and do a lot of physical activity you would feel worse.",
+    "patient_turn": "Yeah, I could, probably I can still take the two stairs up to my apartment, but after that I started to feel pretty crummy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is there anything else that you can think of that makes it feel worse?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anything helped it to feel better at all?",
+    "patient_turn": "Bringing up gunk makes it feel better for a little while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you kind of just clear it up and that feels a little bit better?",
+    "patient_turn": "Yeah, I haven't taken some Tylenol at home and that helps a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you felt a sore throat at the same time?",
+    "patient_turn": "After an awful lot of coughing, yeah, it starts to feel a little raw.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a runny nose?",
+    "patient_turn": "Yeah, bit of 1 back in the day, maybe a week ago, but that kind of gone away by now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chest pain?",
+    "patient_turn": "Yeah. Yeah I got pain kinda on the right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you ever have you ever had anything like this before?",
+    "patient_turn": "No never. Actually Doc, you're saying something that makes it feel worse? Taking a deep breath makes it feel pretty bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. I'm just going to circle back to this chest pain. You said you feel it on the right side. Is it always there or is it just when you take a deep breath or is it kind of on and off?",
+    "patient_turn": "It's kind of always there. It gets a little bit worse with coughing and when I take a pretty big deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK, but if you were just laying down, not coughing, is that pain there?",
+    "patient_turn": "Yeah yeah, specially notice over the last day,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Kind of dull.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any weight loss recently?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "K. Have you traveled anywhere recently?",
+    "patient_turn": "Went to Sarnia. About a week back for work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, were you in contact with anyone that that was sick?",
+    "patient_turn": "Nope, just been keeping to myself mostly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so in terms of your own medical history, do you have any chronic conditions that you see your family doctor for regularly?",
+    "patient_turn": "Yeah, he’s given me a pill for a cholesterol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you know the names of any medications that you take?",
+    "patient_turn": "Lipitor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is that the only one?",
+    "patient_turn": "Yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you ever had any surgeries?",
+    "patient_turn": "Uh, my wisdom teeth out as a as a kid. 15 or so I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you have any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I’m just going to ask you a few questions about your lifestyle and like do you live here in town?",
+    "patient_turn": "Yeah, I live here in town, got a girlfriend living in apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, you live with your girlfriend,",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets?",
+    "patient_turn": "Cat, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you do anything for work or are you retired?",
+    "patient_turn": "Yeah, I still work a consultant for the chemical plant, so West. Mainly in Sarnia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So have you had a lot of exposure to chemicals throughout your career?",
+    "patient_turn": "Now they've always been pretty good for keeping us safe. I'm on the engineering side of things, so I don't really work too much in the plant directly. You know,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Here, well, do you drink alcohol?",
+    "patient_turn": "Once in a blue moon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much would you say that you smoke?",
+    "patient_turn": "Got a pack a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Long is that been going on for?",
+    "patient_turn": "Geez, must have picked it up when I was 15.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you use any other substances?",
+    "patient_turn": "Like drugs?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Yeah, cannabis or any other recreational drugs.",
+    "patient_turn": "Smoke the odd joint from time to time, but haven't in years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of any respiratory illnesses?",
+    "patient_turn": "Respiratory illness, like lungs?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, exactly.",
+    "patient_turn": "Think my grandpa died of lung cancer, actually he was a pretty big smoker too though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, well thank you for sharing all of that with me, so I'm going to go over this with the physician I’m working with and we should be back shortly together to talk to you about the next steps.",
+    "patient_turn": "Thank you kindly.",
+    "annotation": "Correct"
+  }
+]

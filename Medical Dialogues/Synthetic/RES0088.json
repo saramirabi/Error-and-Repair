@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this hoarseness in my voice for the past couple of days, and it’s getting worse. I also have a sore throat that kinda hurts when I talk… and I think it might hurt a bit when I swallow too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the hoarseness and sore throat?",
+    "patient_turn": "Uh, I think it started about two or three days ago. Before that, I had this dry cough for a few days, but that’s mostly gone now. It’s just the hoarseness and sore throat that are bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is in your throat? Does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in the throat area, like right here… I guess it doesn’t really spread anywhere else, but it kinda hurts when I talk, you know? I’m not totally sure about the swallowing pain, but it feels a bit uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain when you talk? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s... not really sure.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, talking definitely makes it worse, and I think drinking some warm liquids helps a bit, but it’s still pretty uncomfortable. I’m kinda worried it might not go away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like difficulty breathing or feeling dizzy?",
+    "patient_turn": "No, um, I haven’t had any trouble breathing or feeling dizzy. I mean, I’ve been a bit more tired than usual, but my sleep and appetite are normal. So, I guess it’s mostly just the throat stuff that’s bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your daily habits, like if you smoke or drink alcohol?",
+    "patient_turn": "Oh, um, I don’t smoke or drink alcohol. I live at home with my parents and a younger sibling, and nobody in the house is sick right now. So, I guess that’s good… I just have these symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications regularly?",
+    "patient_turn": "I don’t take…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling breathless, dizzy, or having a fast heartbeat?",
+    "patient_turn": "Um, no, I haven’t noticed any of that. Just the hoarseness and sore throat, really. I mean, I feel a bit more tired, but nothing like breathlessness or a fast heartbeat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been feeling hoarse and having a sore throat?",
+    "patient_turn": "Uh, it’s been about two to three days now. It started getting worse after that dry cough I had for a few days, but, um, I didn’t have any other symptoms like fever or anything. Just the throat issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat, and does it spread anywhere else?",
+    "patient_turn": "I mostly feel the pain in the throat area, like right here… um, it doesn’t really spread anywhere else, I think. It’s just uncomfortable when I talk, and I’m not totally sure about the swallowing part, but it feels a bit off too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when you talk? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I really need to pick up some milk after this.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, talking definitely makes it worse, and I think drinking warm liquids helps a little bit. But, you know, it’s still pretty uncomfortable overall. I’m just kinda worried it won’t go away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like difficulty breathing or feeling dizzy?",
+    "patient_turn": "No, um, I haven’t had any difficulty breathing or feeling dizzy. It’s really just the hoarseness and sore throat that are bothering me. I mean, I’ve been a bit more tired, but nothing too serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like if you smoke or drink alcohol?",
+    "patient_turn": "Oh, um, I don’t smoke or drink alcohol. I live at home with my parents and a younger sibling, and nobody in the house is sick right now. So, I guess that’s good… I just have these throat issues, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced throat problems like this before?",
+    "patient_turn": "Um, no, I haven’t had anything like this before. This is the first time I’m dealing with hoarseness and a sore throat like this. It’s kinda worrying, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "Uh, no, I don’t have any known drug allergies. I do have seasonal allergies, but nothing serious, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seasonal allergies do you have?",
+    "patient_turn": "Um, I usually have allergies to pollen, you know, like when spring comes around. It makes me sneeze and stuff, but it’s not too bad. I don’t think it’s related to what I’m feeling now, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust, fumes, or pets lately?",
+    "patient_turn": "No, um, I haven’t been around any dust, fumes, or pets. I’ve just been at home, and nobody in my house is sick right now. So, I’m not really sure what’s causing all this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "Uh, no, I haven’t traveled anywhere recently. I’ve just been at home, so I don’t think that’s a factor in what’s going on with my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel or urinary habits recently?",
+    "patient_turn": "No, um, I haven’t noticed any changes in my bowel or urinary habits. Everything seems normal there, it’s just really the hoarseness and sore throat that are bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weight loss or changes in your taste or smell recently?",
+    "patient_turn": "No, um, I haven’t had any weight loss or changes in my taste or smell. My appetite is normal, it’s just this throat issue that’s really concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of colon cancer?",
+    "patient_turn": "Um, yeah, my paternal uncle was diagnosed with colon cancer at age 45. That’s the only thing in my family history that I know of, but, you know, I’m not really sure how it relates to what I’m feeling now.",
+    "annotation": "Correct"
+  }
+]

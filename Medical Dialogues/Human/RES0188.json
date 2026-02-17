@@ -1,0 +1,197 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi, I was just really worried. My son just yesterday night I noticed that he was making these grunting noises and I did notice that he was a bit warm yesterday as well, and today I, he just hasn't been himself, just very, very irritable, crying a lot. Yeah, I just got bit worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. What started first?",
+    "patient_turn": "I would say the there was a little bit of coughing earlier, like yesterday. But then later on during the night, it kind of turned into this grunting noise, and he's kind of like his chest is moving a lot more when he's taking a breath in and all that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm did you measure his temperature at home?",
+    "patient_turn": "Yeah, so I think it was 38.5 degrees Celsius.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you do that orally or rectal or under armpit?",
+    "patient_turn": "I did it under the armpit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, uhm so you mentioned that he's had a fever, he's been grunting and he just seems a little bit more fussy. Is that right?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is he coughing at all?",
+    "patient_turn": "He was yesterday but not really now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and was it a dry cough?",
+    "patient_turn": "I think so. I mean, not-nothing really came out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. So no blood, no sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did he seem wheezy?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. So there's no wheezing with the grunting?",
+    "patient_turn": "Maybe a little bit like that, just a little bit of a noise, but it's mostly the grunting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has he had any weight loss?",
+    "patient_turn": "No, not that I really, we haven't really weighed him now since his last appointment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Does he seem excessively tired or fatigued?",
+    "patient_turn": "Uhm, moreso today I would say he's like earlier, he was very fussy, but now he seems a bit more tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any rashes that you've noticed?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Uhm any changes in his vision or hearing?",
+    "patient_turn": "Uh, no, not that I can tell.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. So he's responding to like sounds and he's still looking at you and things like that?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed a runny nose or stuffy nose?",
+    "patient_turn": "Uhm, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And he said he hasn't had any like fainting spells?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And how many wet diapers is he producing in a day now?",
+    "patient_turn": "Probably 5 or 6.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "5 or 6 OK. Has that changed from before?",
+    "patient_turn": "No, it's pretty much the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uhm any changes to his bowel movements?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. How about his urine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. OK. And then you said he was fussy, is he still eating and drinking OK?",
+    "patient_turn": "Uh no, today he's not really taking anything in, like very fussy, very hard to feed him today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is he crying a lot?",
+    "patient_turn": "Earlier today was crying a lot, but now has calm down and just I guess tired himself out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. Alright, and is he an otherwise healthy child?",
+    "patient_turn": "Yeah he was, he was premature by three weeks so, Other than that like I remember when he was born they did have earlier some issues with his oxygen not being high enough and they had to like keeping, keep us in the hospital for a bit longer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "But yeah, after that, like there haven't really been too many concerns.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, so he's hitting all the developmental milestones like in terms of motor movements, ah speech, behaviour, all of that?",
+    "patient_turn": "Yeah, no issues there so far.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about medications? Is he on any?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No medications, OK. And is up to date with all his immunizations?",
+    "patient_turn": "Yeah, oh he had all his immunizations so far.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about allergies? Does he have any?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any family history of lung or heart conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does anyone at home smoke?",
+    "patient_turn": "No, no one smokes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has he been in contact with anyone sick recently?",
+    "patient_turn": "Uh, no, not that I know of. Uhm his older sister does go to school though, but I don't know if she might have carried something home.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, how old is she?",
+    "patient_turn": "She's six years old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Six, OK. And is she healthy or is she having similar symptoms?",
+    "patient_turn": "No, she's healthy. No, no symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any travel recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And who does he live with at home?",
+    "patient_turn": "Uh, so his older sister, me and his mother.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any reasons to believe like you have old carpets, dust, mold, asbestos, pets, anything like that that could worsen his symptoms?",
+    "patient_turn": "Uh, no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so I think those are all the questions that I had for you. Did you have any questions or any concerns? Anything that I missed that you wanted to add?",
+    "patient_turn": "No, I think that was all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm so for him we'll do a Covid swab just to rule that out because some of his symptoms do overlap with that. But it it's really sounding like a picture of like community acquired pneumonia, so we'll do a couple of things for him. Uhm, we can get his temperature, get his oxygen oxygen saturation right away we'll get a chest x-ray. We'll do some blood work as well and uhm, he might need to be admitted depending on uhm, the oxygen, oxygen saturation and the fact that he's grunting. So if he's admitted will give him some extra oxygen and keep monitoring him and keep him hydrated. Uhm we'll also give him some antibiotics if, if it turns out he has pneumonia. Yeah, does that sound OK?",
+    "patient_turn": "That sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

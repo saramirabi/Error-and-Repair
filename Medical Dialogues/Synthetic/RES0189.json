@@ -1,0 +1,162 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having worsening shortness of breath for the past two weeks, along with a cough that's producing yellow sputum. I've also been feeling a bit chilly at times, like I might have a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and cough?",
+    "patient_turn": "I first noticed the shortness of breath and cough about two weeks ago. It started getting worse, especially when I try to walk around the apartment or climb stairs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath and if it spreads anywhere else?",
+    "patient_turn": "The shortness of breath feels like it's right in my chest, and it doesn't really spread anywhere else. It mostly happens when I'm active, but I don't feel it when I'm just sitting or resting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like, and how often do you experience it?",
+    "patient_turn": "The cough feels pretty persistent, and it happens quite a bit throughout the day. It's mostly productive, and I notice the yellow sputum when I cough. It's definitely more frequent than usual lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes your shortness of breath or cough better or worse?",
+    "patient_turn": "I haven't really noticed anything specific that makes it better or worse. It just seems to get worse with any activity, like walking or climbing stairs. Resting helps a bit, but I still feel short of breath even with minimal movement.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities make your shortness of breath worse?",
+    "patient_turn": "Well, I mean, it mostly happens when I’m just sitting around, not really doing much at all. But I also feel it when I walk, but I don’t really walk that much, you know?",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Do you have a history of any lung conditions, like COPD?",
+    "patient_turn": "Yes, I was diagnosed with COPD about 10 years ago. It's been a part of my health for a while now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of high blood pressure or hypertension?",
+    "patient_turn": "Yes, I have a history of hypertension as well. It's something I've been managing for a while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of high cholesterol?",
+    "patient_turn": "Yes, I also have a history of hypercholesterolemia. I've been keeping an eye on it along with my other health issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever experience shortness of breath when you're resting?",
+    "patient_turn": "No, I don't experience shortness of breath when I'm resting. It only happens when I'm active, like walking or climbing stairs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel short of breath when lying down?",
+    "patient_turn": "No, I don't feel short of breath when lying down. It's mainly when I'm up and moving around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or ankles?",
+    "patient_turn": "No, I haven't noticed any swelling in my legs or ankles. It's just the shortness of breath and cough that I'm dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever coughed up any blood or noticed any blood in your sputum?",
+    "patient_turn": "No, I haven't coughed up any blood or noticed any blood in my sputum. It's just yellow sputum when I cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience any chest pain beyond mild discomfort when you cough?",
+    "patient_turn": "I only feel mild aching discomfort associated with coughing, but nothing beyond that. No significant chest pain otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you notice any wheezing when you have episodes of breathlessness?",
+    "patient_turn": "I only notice wheezing during those episodes of breathlessness. It doesn't happen all the time, just when I'm having trouble catching my breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any night sweats lately?",
+    "patient_turn": "No, I haven't had any night sweats lately. Just the shortness of breath and cough are my main issues right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "No, I haven't noticed any weight loss recently. My weight has been pretty stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or changes in your vision recently?",
+    "patient_turn": "No, I haven't experienced any headaches or changes in my vision. It's really just the breathing and cough that are bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cold symptoms, like a runny nose or sore throat, recently?",
+    "patient_turn": "No, I haven't had any cold symptoms like a runny nose or sore throat. It's mainly the shortness of breath and cough that I'm dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any skin rashes or joint pain lately?",
+    "patient_turn": "No, I haven't noticed any skin rashes or joint pain lately. It's just the breathing issues and cough that are concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fainting or feelings of your heart racing?",
+    "patient_turn": "No, I haven't experienced any fainting or feelings of my heart racing. My main concerns are the shortness of breath and cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel more tired than usual, aside from your breathing issues?",
+    "patient_turn": "Not really. I feel tired, but it's mostly related to the shortness of breath and cough. Otherwise, I haven't noticed significant fatigue beyond that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What inhalers are you currently using?",
+    "patient_turn": "I'm using Ventolin as needed and Spiriva regularly. They help me manage my COPD symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many years have you been smoking?",
+    "patient_turn": "I've been smoking half a pack of cigarettes daily for about 45 years now, even with my COPD diagnosis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol occasionally, but it's not something I do regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don't use any recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone in my apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What surgeries have you had in the past?",
+    "patient_turn": "I've had an appendectomy and hip surgery in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to any medications?",
+    "patient_turn": "Yes, I'm allergic to sulfa drugs, which cause hives.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yes, my father and grandfather both had heart attacks in their 60s, but there's no history of lung disease or lung cancer in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your vaccinations current?",
+    "patient_turn": "Yes, my vaccinations are reportedly up to date.",
+    "annotation": "Correct"
+  }
+]

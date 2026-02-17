@@ -1,0 +1,252 @@
+[
+  {
+    "doctor_turn": "How can I help you today?",
+    "patient_turn": "Um yeah, so I'm here because I've had this fever, this cough, and now my head hurts. That's been going on for about the past four days and I just want to make sure um it's nothing too serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature?",
+    "patient_turn": "No, I haven't actually measured it, I just feel hot and feel chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but we can take your vitals here um and uh you you said that you've had a cough for the past four days, dry cough or wet cough?",
+    "patient_turn": "Um it's been pretty dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any uh no blood or any um sputum um coming up right?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and has the the cough gotten worse or better or the same, has it been the same since the past four days?",
+    "patient_turn": "Um it's it's actually getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there anything that makes it better or worse?",
+    "patient_turn": "Uh no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh have you tried anything for your cough?",
+    "patient_turn": "I've tried like decongest like cough suppressants but it doesn't seem to have helped.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and then tell me about your headache. That started four days ago as well?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And uh where exactly is it?",
+    "patient_turn": "So it's like just on the front part of my head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And does it feel like uh, what does it feel like? Is it like a throbbing sensation? A band like sensation? Um is it sharp, is it dull?",
+    "patient_turn": "Uh it feels pretty throbbing right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it both sides or on the uh left or right?",
+    "patient_turn": "Uh it's it seems like it's both sides.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "If you had to give it a number from 1 to 10 with 10 being the most severe pain ever, what number would you give it?",
+    "patient_turn": "Uh I would give it about like a seven.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh wow, OK. And how's it changed over the past four days?",
+    "patient_turn": "Uh, it's just gotten a little bit worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um is it uh is it, what was I gonna say, is it constant or does it come and go?",
+    "patient_turn": "Um It seems pretty it seems pretty constant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken anything for it?",
+    "patient_turn": "I tried like some Tylenol for it and it seems to help a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it, is there a certain time of the day when it's worse? Before going to bed, at the end of the day, waking up, anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a similar headache in the past?",
+    "patient_turn": "Uh yeah, I guess I have, a little bit in the past, but that was also when I was like sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure, um does it wake you up in the middle of the night?",
+    "patient_turn": "Uh no, it hasn't woken me up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um I guess other than the headache, I'll ask you about, and the cough and fever, I'll ask you if you've had any other symptoms. So have you had any confusion?",
+    "patient_turn": "Uh no, no confusion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your vision or your hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um any um redness in your eyes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any loss of taste or loss of smell?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um any runny nose or stuffy nose?",
+    "patient_turn": "Uh nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any chest pain or difficulties breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any palpitations? Do you feel like your heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any belly pain?",
+    "patient_turn": "No belly pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any aches or pains in your body?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh any rashes that you've noticed?",
+    "patient_turn": "No, no rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any discolouration of your fingers or toes?",
+    "patient_turn": "Uh I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright um and do you have any medical conditions?",
+    "patient_turn": "No, I think I'm healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright and have you had any hospitalizations or surgeries?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um what about medications? Are you taking any? Over the counter or otherwise?",
+    "patient_turn": "Uh I take some multivitamins, that's it though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of lung or heart problems uh or anything else, or cancers?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you currently live alone or do you live with someone else or with other people?",
+    "patient_turn": "I live with um my husband and our our daughter.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any, have you traveled anywhere?",
+    "patient_turn": "No, not recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you uh, what do you mean by recently?",
+    "patient_turn": "Uh like I have traveled in the past two years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's fine, that's fine. Have you had any contact with anyone who might be sick? Either you or your husband or your daughter?",
+    "patient_turn": "Uh no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you gone out of the home at all?",
+    "patient_turn": "Uh just to do like essential things like groceries and the bank and things like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you wear a mask and maintain social distancing?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um alright, uh do you drink alcohol?",
+    "patient_turn": "I drink like once once in a while, have a glass of wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how, I guess how often would you say?",
+    "patient_turn": "Uh once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke?",
+    "patient_turn": "Um no, not anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh how much did you smoke in the past?",
+    "patient_turn": "I I'd have like half a pack, um but I only smoked between like the age of 20 to like 25.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you smoke marijuana or have any edibles with marijuana in it?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um alright well uh, and you said that you don't have a family history of any problem?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah OK, alright, I think that's all the questions I had for you. So uh looks like you've had a fever, cough, and a um and a headache that's gotten worse in the past four days and your headache's pretty bad, a seven out of ten. Um and uh it could be that you have uh some sort of an infection, uh including um, with Covid being one of the possibilities, and so um continue to take Tylenol and and um monitor your uh fever. If it continues to get worse, or you um notice that your symptoms are just not getting better, um you should come back, you should uh, we'll also do a Covid, we'll also send in a request for a Covid swab. Um and uh we'll ask you to quarantine for the for the next 14 days and try to stay away from your husband and daughter as well, if you can at home. Um and uh I guess a couple of other questions that I wanted to ask and I should have asked earlier, do you have any um any stiffness in your neck or any difficulties moving your neck?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK alright, and um do you have any questions?",
+    "patient_turn": "Uh No, that's it. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

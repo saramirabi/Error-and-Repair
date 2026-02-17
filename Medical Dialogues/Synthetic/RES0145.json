@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this really bad sore throat for about four days now, and I also have this dry cough that started last week. It’s just been getting worse, and I’m kinda worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat and cough?",
+    "patient_turn": "I think the sore throat started about four days ago, but the cough, um, I guess that began last week. It was kinda mild at first, but now it’s just really persistent and annoying…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain in your throat feel sharp, dull, or like something else?",
+    "patient_turn": "Um, I’d say it feels more like a dull ache, but sometimes it can be sharp, especially when I swallow. It’s just, like, really irritating, you know? I’m not totally sure how to describe it…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse?",
+    "patient_turn": "Um, I think it, like, maybe gets a bit worse when I swallow? But I'm not really sure, it’s kind of hard to tell. I mean, sometimes I just drink tea, which might help a little, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where the sore throat feels the worst?",
+    "patient_turn": "Well, the sore throat is, um, mostly in the back, I think? But also, like, I’ve been feeling achy and tired, which is probably from not sleeping well lately. Oh, and I had this really weird dream about flying last night, which was kind of cool but also made me feel more tired. And I’ve got this dry cough that started last week, but it’s hard to keep track of everything, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain in your throat is located?",
+    "patient_turn": "Oh, I just remembered that I need to pick up some groceries after this appointment. I really hope they have those snacks I like. But, um, the pain in my throat is, like, somewhere back there? I think?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Did you experience any itchy eyes, sneezing, or a runny nose before your throat pain started?",
+    "patient_turn": "Yeah, I did have some itchy eyes, sneezing, and a runny nose at first, but that all went away. It was, like, a week ago or so, and now it’s just this sore throat and cough that are really bothering me. I’m not sure what’s going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of asthma or other allergies besides your peanut allergy?",
+    "patient_turn": "Um, no, I don’t have a history of asthma or any other allergies besides my peanut allergy. I carry an EpiPen for that, but I haven’t needed to use it recently. I’m just, like, really hoping this throat thing isn’t anything serious…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics recently, aside from the treatment for your tonsillitis?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently, um, other than the one I had for my tonsillitis about six months ago. I’m not really sure what’s going on with this sore throat, to be honest…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your living situation like, and what do you usually do during the day?",
+    "patient_turn": "I live with my parents and my older sister, and, um, I go to school in person. I don’t really do much else besides that, like, I don’t smoke or drink or anything. I’m just kinda focused on school, but right now, I’m just feeling really tired and not up to it…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung problems or other significant medical conditions?",
+    "patient_turn": "Um, no, there’s no family history of lung problems or any other significant medical conditions that I know of. It’s just, like, my peanut allergy and my past tonsillitis issues. I’m kinda worried about what’s going on with me right now, though…",
+    "annotation": "Correct"
+  }
+]

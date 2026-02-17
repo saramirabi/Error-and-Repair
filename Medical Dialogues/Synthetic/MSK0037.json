@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having some trouble with my right hand. It’s been, like, two months now, and I’m having a hard time extending my 4th and 5th fingers. There are also these nodules at the bases of those fingers, and it’s kinda uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the difficulty with your fingers?",
+    "patient_turn": "I first noticed it, um, about two months ago. It just started getting harder to extend those fingers, and, uh, it’s been getting worse since then. I mean, it’s really frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the discomfort is in your fingers?",
+    "patient_turn": "Sure, um, the discomfort is mostly at the bases of my 4th and 5th fingers, where those nodules are. It feels like an aching sensation, especially when I try to extend them. It’s not super painful, but it’s definitely annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the discomfort ever spread to other areas, or is it just localized to those fingers?",
+    "patient_turn": "No, it’s really just localized to those fingers. I haven’t felt any pain or discomfort anywhere else, um, no numbness or tingling either. It’s just these two fingers that are giving me trouble.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the discomfort in your fingers?",
+    "patient_turn": "Um, I think it started a couple of months ago, but I’m not really sure of the exact date. The discomfort is kind of… it’s hard to explain, maybe just a little achy?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does the discomfort in your fingers ever spread to other areas, or is it just localized?",
+    "patient_turn": "Oh, I just remembered that I need to get my car serviced soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What do the nodules at the bases of your fingers feel like?",
+    "patient_turn": "Um, the nodules feel, like, firm but not super painful. When I press on them, there’s some mild discomfort, but it’s not really tender or anything. It’s just, uh, concerning to me, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any injuries or surgeries on your hands?",
+    "patient_turn": "No, I haven’t had any injuries or surgeries on my hands, um, just that ACL repair when I was 18. So, yeah, nothing with my hands before this. It’s kinda frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides hypercholesterolemia?",
+    "patient_turn": "No, um, hypercholesterolemia is the only thing I have. I manage it with a statin, but other than that, I don’t have any other medical conditions. I’m just, uh, really focused on this hand issue right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol? If yes, how much do you consume?",
+    "patient_turn": "Yeah, I smoke, um, about a pack of cigarettes a day for the past ten years. And I drink alcohol moderately, like, 1 to 3 drinks daily. I know it’s not great, but, um, it’s just part of my routine, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of hand conditions or autoimmune diseases?",
+    "patient_turn": "No, there’s no family history of hand conditions or autoimmune diseases, um, including Dupuytren’s contracture. It’s just, uh, me dealing with this issue right now, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past two days, I've noticed that he's been just tugging at his ear more as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you said the runny nose started two days ago?",
+    "patient_turn": "Yeah, yeah he had a cough yeah cough and runny nose started about yeah 2-3 days ago",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, the runny nose, what color is the discharge?",
+    "patient_turn": "Pretty clear and watery",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and the coughing is it dry, or is it bringing up any phlegm?",
+    "patient_turn": "It's been dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's been dry OK. And does it sound harsh?",
+    "patient_turn": "Not really,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No?",
+    "patient_turn": "I don't know. It sounds kinda like a typical cough.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, has he lost his sense of taste or smell?",
+    "patient_turn": "He's been a bit more irritable and not eating as much but I'm not sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, how about changes in his vision or hearing?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any fevers?",
+    "patient_turn": "Uhm, I don't think so. But he, we haven't checked and he's been, yeah, as I said, kinda, a little bit irritable.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, any weight loss recently?",
+    "patient_turn": "Uhm no, he's been gaining weight. Actually, sorry, I think it. Yeah, he has had a fever. The fever. Yeah the fever started like yesterday.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Oh OK, did you take his temperature?",
+    "patient_turn": "Yeah, my my wife just texted me and told me that she checked it, checked it and said it was over 38.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK. Yeah, we'll definitely take a temperature here as well just to make sure. Has he had any rashes?",
+    "patient_turn": "No,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No rashes OK. And how about shortness of breath or wheezing?",
+    "patient_turn": "No, I haven't heard that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And then have you actually taken a look into his ears?",
+    "patient_turn": "No, I haven't. He has just been tugging at the right one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he itching it at all?",
+    "patient_turn": "Uh yeah, I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any discharge? Oh sorry go ahead",
+    "patient_turn": "Sorry I'm just gonna say yeah he's been kind of fussy and pointing at it and no discharge from the ear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No discharge, OK. Does it look swollen?",
+    "patient_turn": "No, the outside of the ear looks normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and how have his bowel movements been?",
+    "patient_turn": "That's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Normal. Any changes in his urine?",
+    "patient_turn": "No, it's been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea or vomiting?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "uhm headaches?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any confusion or memory loss?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK, is he an otherwise healthy child?",
+    "patient_turn": "Yeah, he he is. I mean he, uhm about six months ago he had uhm croup I think but he recovered quickly from that and he didn't need to be hospitalized or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and his mother's pregnancy with him, was it complicated in any way?",
+    "patient_turn": "She had gestational diabetes, but it was diet controlled and she's healthy now from that perspective.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, that's good. Uhm and then was he born at term?",
+    "patient_turn": "He was yeah he was born over like 38 weeks I think",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, good and was it a C-section or a vaginal delivery?",
+    "patient_turn": "Uhh vaginal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any complications during the delivery?",
+    "patient_turn": "Uhh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, how about uhm after birth? Was he hospitalized for any reason?",
+    "patient_turn": "No, he wasn't. He was able to go home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. Uhm and has he been developing normally in terms of his motor movements, like behavior wise, social wise, like is he on par with his peers in terms of milestones?",
+    "patient_turn": "Yeah he is. Yeah, everything's been normal that way and he's been growing well too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. growing while gaining weight well, OK, is he on any medications?",
+    "patient_turn": "No, he's not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Is he up to date with all his immunizations?",
+    "patient_turn": "He is, yeah, we've been following along with with that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does he have any allergies?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, Ok. Any family history of lung or heart conditions?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK. Does anyone at home smoke?",
+    "patient_turn": "Uhm I do but not like in the house or anything like that, usually just well, it will always be either outside or when I'm at work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK OK, any old carpet, dust, mold, asbestos, anything like that in your home?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK. Who does he live with?",
+    "patient_turn": "So yeah, he lives with me. It's just me and my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any pets at home?",
+    "patient_turn": "We have a a dog.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has he been in contact with anyone sick recently?",
+    "patient_turn": "Uh. Not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is he in like daycare?",
+    "patient_turn": "No, no my wife's been, been looking looking after him at home. She's the primary caregiver, well while I'm at work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any trouble recently?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Well, those are all the questions that I had for you today. Did you have any questions of your own?",
+    "patient_turn": "Uhh no, just was wondering what what might be going on?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure, so right now it sounds like a viral picture. It sounds like he has a cold and possibly an ear infection. I'd have to take a look into his ear to be able to tell more uhm because some of his symptoms overlap with those of covid we'll probably do a swab and you should hear back in about 24 to 48 hours. Uhm and so after I take a look into his ears, we can do one of a couple of things, so if his tympanic membrane looks like it's been perforated, or if there's pus in there, then we'll prescribe him a 10 day course of antibiotics, and if I see like middle ear effusion or his tympanic membranes bulging, and he seems really sick like he has a high fever, what she does, I will again prescribe him 10 days of antibiotics. And if he has a middle ear effusion or a bulging tympanic membrane, just one of those two, and he doesn't seem to be too sick, we can reassess him in 24 to 48 hours. Uhm An antibiotic that we usually prescribe is amoxicillin. Uhh how does that sound?",
+    "patient_turn": "That sounds really good. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no worries. Take care.",
+    "patient_turn": "No worries, thank you.",
+    "annotation": "Correct"
+  }
+]

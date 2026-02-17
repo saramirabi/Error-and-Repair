@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My daughter has been having ear pain for the last three days, and she’s also had a fever of about 38.8°C. She’s been really uncomfortable and has missed school because of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the ear pain?",
+    "patient_turn": "I first noticed her pulling at her ear and crying about three days ago. It seemed to start suddenly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started?",
+    "patient_turn": "It seems to be pretty consistent. She’s still complaining about it, and it’s been bothering her a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for her? Is it sharp, dull, or something else?",
+    "patient_turn": "I’m not exactly sure how she would describe it, but she seems really uncomfortable and cries when she touches it. It seems pretty intense for her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "No, it seems to be about the same since it started. She’s still in pain and hasn’t really had any relief.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anything made the ear pain feel better or worse for her?",
+    "patient_turn": "I haven’t noticed anything that makes it better or worse. She just seems to be in pain all the time, and nothing I’ve tried has helped.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located in her ear?",
+    "patient_turn": "Um, I think it’s kind of like, in the right ear, but I’m not totally sure, maybe a bit deeper inside too? It’s really hard to say exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has she had any discharge from her ear?",
+    "patient_turn": "No, there hasn’t been any discharge from her ear at all. It’s just the pain and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had a cough or runny nose at any point?",
+    "patient_turn": "No, she hasn’t had a cough or runny nose at all. Just the ear pain and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been feeling unusually tired or missed school recently?",
+    "patient_turn": "Yes, she’s been really tired and has missed school for the last three days because of the pain and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any changes in her sleep or appetite during this time?",
+    "patient_turn": "No, she hasn’t had any changes in her sleep or appetite. She’s just been tired and in pain, but she’s still eating and sleeping normally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any ear infections in the past?",
+    "patient_turn": "Yes, she has a history of recurrent ear infections since she was two years old. The last one was when she was seven, and she was treated with antibiotics then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was her last ear infection before this episode?",
+    "patient_turn": "Her last ear infection was when she was seven years old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was she treated with antibiotics for her last ear infection at age seven?",
+    "patient_turn": "Yes, she was treated with antibiotics for her last ear infection at age seven.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she seen an ENT specialist for her ear problems before?",
+    "patient_turn": "Yes, she saw an ENT specialist when she was four years old, but she hasn’t needed ear tubes or anything like that since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any chronic medical conditions?",
+    "patient_turn": "No, she doesn’t have any chronic medical conditions. She just takes multivitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific multivitamins does she take?",
+    "patient_turn": "I don’t know. I just know she takes multivitamins, but I’m not sure which specific ones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "No, she doesn’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was her birth a normal vaginal delivery without any complications?",
+    "patient_turn": "Yes, her birth was a normal vaginal delivery without any complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have her developmental milestones been normal for her age?",
+    "patient_turn": "Yes, her developmental milestones have been normal for her age.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of ear problems or infections?",
+    "patient_turn": "No, there’s no family history of ear problems or infections.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "She lives at home with me, her father, and her younger sibling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she traveled recently or been around anyone who is sick?",
+    "patient_turn": "No, she hasn’t traveled recently, and she hasn’t been around anyone who is sick.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I hurt my wrist last night. I, uh, tripped over a curb while walking and fell onto my outstretched hand. Now it really hurts, especially at the base of my thumb.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start, and how has it changed since then?",
+    "patient_turn": "The pain started right after I fell, around, um, 10 PM last night. It’s been pretty sharp and stabbing, you know? At rest, it’s about a 3 out of 10, but it goes up to, like, 9 out of 10 when I try to move my wrist or thumb. It’s really limiting what I can do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your wrist, and does it spread anywhere else?",
+    "patient_turn": "I feel the pain mostly at the base of my thumb on the dorsal side of my wrist. It’s really localized there, um, but it doesn’t radiate anywhere else, you know? I don’t have any pain in my other fingers or thumb joints, just that spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Oh, you know, I really need to remember to pick up some cat food later.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "A... ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or bruising around your wrist?",
+    "patient_turn": "Yeah, I’ve definitely noticed some swelling and bruising around my wrist. It’s, um, pretty noticeable, especially at the base of my thumb where it hurts the most. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any warmth or redness around your wrist injury?",
+    "patient_turn": "Um, no, I haven’t noticed any warmth or redness around my wrist. It’s mostly just swollen and bruised, but no warmth at all. So, that’s a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your thumb movement limited due to the pain you're experiencing?",
+    "patient_turn": "Yeah, definitely. My thumb movement is really limited because of the pain. I can’t move it much at all without it hurting a lot, so it’s been hard to do anything with my hand. I’m kinda worried about how this might affect my job, too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any numbness or tingling in your hand or fingers?",
+    "patient_turn": "No, I haven’t experienced any numbness or tingling in my hand or fingers. It’s just the pain at the base of my thumb, but, um, no other symptoms like that. So, I guess that’s a good thing?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or had a fever since your injury?",
+    "patient_turn": "No, I haven’t felt dizzy or had a fever at all since the injury. I feel pretty much okay otherwise, just, um, dealing with this wrist pain. So, that’s something, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any gastrointestinal symptoms or changes in your vision or hearing?",
+    "patient_turn": "No, I haven’t noticed any gastrointestinal symptoms or changes in my vision or hearing. It’s really just the wrist pain that’s bothering me. I’m, um, glad it’s not anything else, but this pain is still pretty tough to handle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of asthma or take any medications regularly?",
+    "patient_turn": "Yeah, I have a history of well-controlled asthma, and I manage it with a daily orange inhaler. I also take a multivitamin and vitamin D. Other than that, I don’t take any other medications regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific vitamins or supplements do you take regularly?",
+    "patient_turn": "I take a multivitamin and vitamin D regularly. Um, I think that’s about it for supplements. I try to keep it simple, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any previous injuries or fractures to your hand or wrist?",
+    "patient_turn": "No, I haven’t had any previous injuries or fractures to my hand or wrist. This is the first time I’ve hurt it like this, and, um, it’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What surgeries have you had in the past?",
+    "patient_turn": "I’ve had a tonsillectomy and wisdom teeth removal, both without any complications. I also had a cesarean section. So, um, nothing related to my hand or wrist, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my family history does include cardiovascular disease. My uncle and grandfather both died of heart attacks in their 60s. It’s, um, something I think about sometimes, but I’m mostly focused on my wrist right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone, and how often do you drink alcohol?",
+    "patient_turn": "Yeah, I live alone in an apartment. I, um, usually drink two to three glasses of wine daily. I guess it’s just part of my routine, but I’m kinda worried about how this injury might affect things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you think this wrist injury will impact your work at the restaurant?",
+    "patient_turn": "I’m really worried that this wrist injury is going to impact my work a lot. I mean, I need my hands for, um, serving and preparing food, and if I can’t move my wrist or thumb, it’s going to be really hard to do my job. I just hope it heals quickly.",
+    "annotation": "Correct"
+  }
+]

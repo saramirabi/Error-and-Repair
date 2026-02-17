@@ -1,0 +1,212 @@
+[
+  {
+    "doctor_turn": "To start, could you tell me a little bit about what brought you in today?",
+    "patient_turn": "Really I just don't I I don't feel quite right like I've had this pain in my chest for five days now and I've been just feeling kind of out of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, um where are you feeling this pain?",
+    "patient_turn": "Um, it's it's kind of um. On the left side of my chest and it's just like a tiny. It's like a lingering sharp pain. I don't really feel it anywhere else. It's just kind of there all the time right now. I I've never had anything like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're not feeling the pain radiate any to any other locations. You're just feeling it sort of in the one spot on the left side?",
+    "patient_turn": "Yeah, yeah, exactly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and since this pain started 5 days ago, has it gotten any better, any worse, or stayed the same?",
+    "patient_turn": "Like when I when it started I was just I was just like sitting on my couch. Um and now it's harder if I'm, it's worse if I'm walking around, like if I walk just down the street to get the mail. But otherwise it's kind of kind of just there, like I took some Tylenol and Advil, and they maybe take the edge off a little bit, but it's always there. And it's worse when I, when I take a deep breath then I really feel it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it's worse. Is the pain worse when you're walking as well? Like out to get the mail?",
+    "patient_turn": "It's I don't the the pain is, but I I'm not I can't catch my breath when I'm doing that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how far could you usually walk, or um?",
+    "patient_turn": "Oh yeah, usually walk before I go for long walks like every day, like probably like 5 kilometers or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so prior to this happening you were feeling well?",
+    "patient_turn": "Yeah, totally. I've not ever had any problems with my heart or lungs or anything. I thought it was maybe just like a chest infection. But I I don't know anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you've had that, the difficulties breathing and the pain. And have you had any other symptoms?",
+    "patient_turn": "Mmm I think it's just those those, the two things that I said.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so have you been experiencing any fevers or chills?",
+    "patient_turn": "No. Nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um, how is your energy been? Have you experienced any like significant fatigue?",
+    "patient_turn": "Um. Not. Well, I mean, I've been doing less stuff because it's harder to breathe like I'm getting kind of like I can't catch my breath. So I guess maybe maybe a little bit like fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK, but feeling fine energy-wise prior to the two 5 days ago?",
+    "patient_turn": "Yeah, totally.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, uh and, have you been having any night sweats?",
+    "patient_turn": "Uh, no, no I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any unusual headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you felt as though your heart is racing or beating out of your chest at all?",
+    "patient_turn": "No, no, it's just that like sharp that sharp pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any episodes of lightheadedness or feeling like you, you might might faint?",
+    "patient_turn": "No, no, just the difficulty breathing that scares to me, but it hasn't been like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a cough?",
+    "patient_turn": "No, no, that's the thing, that it seems weird, right?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um sometimes things can be associated with a cough so we'll absolutely look into what the causes of your symptoms are today. But you haven't brought up any any blood or any sputum?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any wheezing with your with your breath?",
+    "patient_turn": "I don't know. I don't think so.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Alright, and how about any abdominal pain?",
+    "patient_turn": "No, I mean the pain is like, yeah, it's in my chest. Yeah, that's not in my it's not in my belly at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any urinary problems?",
+    "patient_turn": "No, I mean so I had. I had a I had a hysterectomy. Weeks ago, maybe like maybe like a month ago now, um? So after that it was, you know, feeling a little. Like I was kind of not drinking as much and that so I wasn't peeing as much then, but I think it's normal now.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK um. And how have you recovered since the hysterectomy? Were you like bedbound for quite awhile afterwards or were you up an active?",
+    "patient_turn": "Really, it was not really long that I may be a few days, I wasn't. I wasn't walking as much, but I thought it was like back to my normal self.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well that's good. I'm glad that you recovered from that surgery quickly. And what was the surgery for?",
+    "patient_turn": "Uh, I uh. I mean I, I'm done having kids and I, uh, I had. I was just having really heavy periods still so, uh, and you know a lot of pain there, so hat's why I had hysterectomy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and have you had any bowel problems?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any skin changes or or rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any joint pains or or leg pains or muscle pains?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, so in regards to past health, any previous medical diagnosis?",
+    "patient_turn": "Uh, no. Just like I had the hysterectomy but I I don't like take any medications I don't have like high blood pressure or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so no prescription medications or over the counter medications you take regularly like supplements or?",
+    "patient_turn": "No, just just to those like the Advil and the Tylenol I was taking for the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any other surgeries besides the hysterectomy?",
+    "patient_turn": "Uh, like I have my wisdom teeth out when I was like a teenager. That's it though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, then, how about any allergies?",
+    "patient_turn": "None.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are your immunizations up to date?",
+    "patient_turn": "I think so, um. Yeah, yeah I don't. Yeah, I don't think, I didn't get anything that was supposed to.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well, that's good. And, uh, has anybody in your family experienced anything like this before?",
+    "patient_turn": "My mom had a heart attack when she was like in her 70s. Uh. Other than that, I don't. I don't know. I don't think so.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, any, um, cancers in the family or or bleeding disorders or coagulations disorders?",
+    "patient_turn": "Um, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so I haven't heard of anybody in the family having like a blood clot, or or a thrombosis anywhere?",
+    "patient_turn": "I think my mom's like cousin, but not no one like not like my parents or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, so the next few questions I just wanted to ask about your personal and kind of lifestyle habits a little bit. But first, could you tell me about your living situation?",
+    "patient_turn": "Uh, yeah I live. Um, like I said like I'm done having kids but I have 2 two kids. They're teenagers. I live um, with them and my husband and, uh. We live not far from here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what do you do for work?",
+    "patient_turn": "Um, Im an accountant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Um maybe a glass of wine on like the weekends but? Not other than no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and do you smoke cigarettes?",
+    "patient_turn": "I do, I'm trying to stop. I smoke maybe like. I don't know like 5 per day or something at this point.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, but it sounds like you've been working on cutting down which is great. Um and have you used any other recreational drugs?",
+    "patient_turn": "Um, no, no. I mean, when I was like younger I sometimes like would use marijuana, but I haven't really recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been any been on any like long trips recently?",
+    "patient_turn": "No I wish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Fair enough, vacation would be great. Um, OK so. But that was all the questions that I wanted to ask on on history, were going to run some investigations. I am concerned that you might have a pulmonary embolism, and so we're going to do some lab work and imaging to investigate that.",
+    "patient_turn": "OK I yeah. Is that scary? Is that bad?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It can vary from being mild to severe, and so that's what we want to get. Some of the imaging and lab work to see well to first confirm if that's what you actually have, and if so, offer the right treatment.",
+    "patient_turn": "OK thanks doctor.",
+    "annotation": "Correct"
+  }
+]

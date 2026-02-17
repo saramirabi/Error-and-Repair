@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has been, like, having a runny nose and nasal congestion for about 3-4 days now. It’s gotten worse, and they’ve been sneezing a lot and have this dry cough that’s been going on for, um, 2-3 days. I’m kinda worried, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the runny nose and congestion starting?",
+    "patient_turn": "Uh, I first noticed it about 3 or 4 days ago. It just sort of started out of nowhere, and then, um, it got worse pretty quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Um, yeah, the cough has been pretty dry since it started, and it’s, like, been constant. I don’t think it’s gotten any better, and I’m just, you know, a bit anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the runny nose and congestion feel the worst?",
+    "patient_turn": "Um, I think it feels kind of bad all over, but maybe more in the front? I’m not really sure, to be honest.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens?",
+    "patient_turn": "Uh, it feels dry, you know? Like, there’s no phlegm or anything, just this annoying tickle that makes them cough. It’s, um, kind of persistent, and I can tell it’s bothering them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has the cough been bothering your child?",
+    "patient_turn": "The cough has been bothering them for about, um, 2 to 3 days now. It started after the runny nose and congestion, and it just hasn’t really let up. I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any other symptoms along with the cough?",
+    "patient_turn": "Yeah, um, they’ve been a bit fatigued and, like, more irritable than usual. There’s also some facial flushing, but, um, no fever or anything like that, which is good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough seems to be coming from?",
+    "patient_turn": "Um, it seems to be coming from, like, the throat area? I think it’s just this dry tickle that makes them cough, but I’m not totally sure. It’s just really bothering them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or does it produce any mucus?",
+    "patient_turn": "Oh, the cough started just a couple of days ago, but it’s actually been there for a week. It’s mostly dry, but sometimes there’s mucus, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the nasal pressure?",
+    "patient_turn": "Um, I think the nasal pressure is mostly felt in the front, like around the nose and forehead area? It’s not painful, just, you know, kind of uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath or dizzy?",
+    "patient_turn": "Well, there’s some pressure around the nose, I guess, and it’s a bit tight. But, you know, I also realized that I haven't been sleeping well because my neighbor's dog barks a lot at night, which might be part of it. And the other day, I got really dizzy when I stood up too fast, but I think that was just because I hadn’t eaten breakfast yet.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How long have you been feeling this nasal pressure?",
+    "patient_turn": "Um, I think the nasal pressure started around the same time as the runny nose, so about 3 or 4 days ago. It’s just been, like, constant since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me what the nasal pressure feels like?",
+    "patient_turn": "Uh, it feels kind of, um, tight and stuffy, you know? Like there’s just a lot of pressure in the front of the face, but it’s not really painful, just uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if anything makes the nasal pressure better or worse?",
+    "patient_turn": "Um, I’m not really sure if anything helps it, to be honest. It just seems to stay the same, you know? I guess maybe when they blow their nose, it feels a little better for a moment, but then it comes back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any cough that brings up mucus or phlegm?",
+    "patient_turn": "Uh, no, not really. The cough has mostly been dry, and I don’t think there’s been any mucus or phlegm. It’s just, like, this annoying tickle that keeps making them cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any dust, pets, or strong smells that might bother your child?",
+    "patient_turn": "Um, no, I haven’t noticed any dust or strong smells that could be bothering them. We don’t have any pets, and, you know, I try to keep the house pretty clean. I’m just not sure what’s causing all this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any other medical problems in the past?",
+    "patient_turn": "Uh, not really, just a childhood urinary tract infection, but that was a while ago. Other than that, their health has been pretty good, you know? No major issues or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child currently taking any medications or have any known allergies?",
+    "patient_turn": "No, um, they’re not taking any medications right now, and I don’t think they have any known allergies. It’s just been this cold-like thing that’s been going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in the family have a history of lung or heart problems?",
+    "patient_turn": "Well, um, there’s not really a history of lung or heart problems, except for my partner having hypercholesterolemia. But, you know, that’s not really the same. So, I guess it’s just us, and I’m kinda worried about my child.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled anywhere recently?",
+    "patient_turn": "No, um, they haven’t traveled anywhere recently. They’ve just been going to school and, you know, staying at home mostly. So, I’m not sure where they could have picked this up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been around anyone who tested positive for COVID-19 recently?",
+    "patient_turn": "Um, no, they haven’t been around anyone who tested positive for COVID-19. I think they’re just, you know, dealing with this cold-like thing. It’s just been a bit stressful for us.",
+    "annotation": "Correct"
+  }
+]

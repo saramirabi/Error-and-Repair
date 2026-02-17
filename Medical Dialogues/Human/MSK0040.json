@@ -1,0 +1,297 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "So I've had this ankle pain for the past day, and and it doesn't seem to be getting better. My right ankle looks swollen and it's bruised and is pretty painful so I just wanted to come here to check, check it out, see if I need any thing done to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, absolutely, uh OK. So you said that this started yesterday. Was there any like trauma to the ankle or leg or did you have a fall or or some sort of injury?",
+    "patient_turn": "Yeah so I play rugby and I might have, so I fell during a tackle motion type thing and I fell on that leg and my leg, my foot kind of in, pointed inwards as I fell an I kind of fell on um on my ankle kind of just above, above my lateral side of the foot, so where that bony prominence is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see and and your foot kind of it turned inwards when you fell?",
+    "patient_turn": "Yes, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and was there pain immediately after the this incident?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, were you able to like walk off the field at all, or did you need to be carried? Or were you able to walk at any point after?",
+    "patient_turn": "Um so I can walk um, but. It is very painful and I'm putting a lot of weight on my left foot so it's almost like I'm hopping on my left foot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and is the pain. Actually, so where is the pain specifically located on your foot or ankle?",
+    "patient_turn": "So it's um specifically, it's on the like lateral malleolus area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how would you describe the pain in terms of its character or quality, like is it sharp burning, stinging?",
+    "patient_turn": "It feels sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you feel the pain radiating anywhere else?",
+    "patient_turn": "Oh no, it's pretty much in that area just in the ankle area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has there been anything you've tried to make the pain better?",
+    "patient_turn": "I've tried some ibuprofen and some ice that seems to help temporarily, but it doesn't help with like like it's not permanent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. Has there been anything that's made it worse?",
+    "patient_turn": "Um just putting weight or like trying to bear any weight on that ankle has made it worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what would you say the severity of the pain is on a scale of 10 to one, with 10 being the worst pain you've ever felt.",
+    "patient_turn": "I would say it's like a 7 or 8.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you ever had a pain like this before to the ankle or ever injured your foot before?",
+    "patient_turn": "No, nothing like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any any headaches?",
+    "patient_turn": "Uh no headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Had any fevers or chills?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any unexpected weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any sensory changes like changes your vision, hearing or even your sense of smell or sense of taste?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any neurological symptoms such as like numbness or tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, now have you noticed any sensory loss over your leg or ankle?",
+    "patient_turn": "No, no, no no sensory loss.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any muscle weakness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. and, and have you had any infectious symptoms, like having like a runny nose or feeling congested or maybe even a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had a cough?",
+    "patient_turn": "No cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any chest pain or feeling like your heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any dizziness or lightheadedness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any loss of appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you any diarrhea, constipation, or or blood in the stool?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any changes to urinary patterns?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any changes to your energy recently?",
+    "patient_turn": "No, no changes to my energy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and in the past, have you been diagnosed with any medical conditions or any reason to see a doctor regularly?",
+    "patient_turn": "Uh no I've been pretty healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so do you take any medications regularly, either over the counter or prescribed?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, then do you have any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are your immunizations up to date?",
+    "patient_turn": "I think so. I gave them the most recent ones I've received in high school.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK that's good and have you had any surgeries before or any reasons for hospitalizations?",
+    "patient_turn": "Um no I've never, yeah I've never been hospitalized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh and. Alright, could you tell me a little bit about your living situation right now, like who you're living with and whereabouts?",
+    "patient_turn": "I live with both my parents as well as two of my siblings. They are younger. We live in a house downtown.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and are you currently in school?",
+    "patient_turn": "I am. I'm in grade 11.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, awesome and then how's that been going so far?",
+    "patient_turn": "Going pretty well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been around anybody who's been sick recently?",
+    "patient_turn": "No, no one's been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about have you traveling anywhere?",
+    "patient_turn": "No, we haven't been doing any of that so since COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and and I know sometimes people at like in high school and certainly in your age group may experience with things like smoking. Smoking tobacco or cigarettes, drinking alcohol or using marijuana. Have you used any of those, those substances?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and are you currently sexually active?",
+    "patient_turn": "Um I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and could you tell me about your partners or or partner?",
+    "patient_turn": "Um yeah, she's been my girlfriend for the past two years. And we use protection.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great. And any concerns for any sexually transmitted infection at this time?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in the family, has there been any history of musculoskeletal or neurological problems?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any autoimmune conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so I next wanted to move to the physical exam component and ask you to have a look at your ankles. And are you seeing any swelling or redness or discolouration?",
+    "patient_turn": "So I there's a. Like there's a bruise about 4 centimeters wide and it appear swollen, but just by right ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just your right ankle, OK. And is there any temperature changes like warmth when you touch it?",
+    "patient_turn": "Uh slightly warm yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are you seeing any muscle atrophy or deformities of the of the ankle or foot.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and, uh if you press on areas of your of your ankle and foot, do you feel pain at the lateral malleolus or the medial malleolus?",
+    "patient_turn": "Uh, there's a lot of pain on the lateral malleolus.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and do you feel pain if you press on the top of your foot like a?",
+    "patient_turn": "Um on the, no no pain at the top of my foot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about on the like outside or lateral aspect of your foot you'll feel a kind of, it's a bony prominence that that sticks out at the base of the 5th or you're kind of last metatarsals is there any pain there?",
+    "patient_turn": "No, no pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about any pains on that like medial side of your foot?",
+    "patient_turn": "On the medial side, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then when it comes to moving the foot, are you able to point your toes on your foot up towards your face?",
+    "patient_turn": "Up towards my face that's hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so dorsiflexion is limited. And how about pushing your foot down like you're pressing on the gas pedal?",
+    "patient_turn": "I can do that, but it's still painful just to move the ankle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so planter flexion is is painful as well. And then any issues with moving your toes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then you mentioned that with walking you're having a limp currently?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so we have an antalgic gates with an inability to bear weight as well. OK, so the that was everything that I wanted to ask and check today and based on these features it is starting like it could be either an ankle fracture or an ankle sprain. But because of the pin-point tenderness or that you're finding on the lateral side as well as some of the the inability to bear weight as you're describing it'll be important to get an X-Ray to make sure that there's not a fracture. Um and yeah, and if there is then it will be important to have some sort of air boot or casting so that to make sure that we're offloading the area for the bones to heal, but we'll see what the X-Ray shows.",
+    "patient_turn": "OK, that sounds great, thank you.",
+    "annotation": "Correct"
+  }
+]

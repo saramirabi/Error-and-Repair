@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I had knee replacement surgery about a week ago, and, uh, for the past two days, my right calf has been swelling and tender. I also started coughing up some blood this morning, like, blood-streaked sputum, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the swelling and tenderness in your calf?",
+    "patient_turn": "I noticed it, um, about two days ago. It just kinda started swelling up and felt really tender, like, even when I’m just sitting still. It’s been, uh, pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is in your calf? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, it’s mostly in the lower part of my right calf, like, right where I can feel the tenderness. It doesn’t really spread anywhere else, though… it’s just, um, localized there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Uh, I think it’s maybe worse when I’m just sitting around, but I'm not really sure. Sometimes it feels a bit better if I move it, but, you know, it’s hard to tell exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like shortness of breath, dizziness, or feeling faint?",
+    "patient_turn": "Yeah, um, I’ve had some mild shortness of breath since this morning, and it feels like I need to take deeper breaths. But, uh, no dizziness or feeling faint, thankfully. Just, you know, a bit anxious about everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me when the swelling and tenderness in your calf started?",
+    "patient_turn": "Uh, yeah, it started about two days ago. I just noticed it getting swollen and tender, and, um, it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, the pain is kind of a dull ache, I guess? And, um, I’ve been trying to keep my leg elevated, which seems to help a bit. But just yesterday, I went to the grocery store, and I think walking around there made it feel worse, especially since I was carrying bags. Oh, and I also noticed that my neighbor was playing really loud music, so I had trouble concentrating on anything else, but I’m not sure if that relates.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or feeling faint?",
+    "patient_turn": "… but…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with deep vein thrombosis or pulmonary embolism before?",
+    "patient_turn": "No, um, I’ve never been diagnosed with deep vein thrombosis or pulmonary embolism before. This is all pretty new to me, and, honestly, it’s making me a bit anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever, chills, or night sweats recently?",
+    "patient_turn": "Uh, no, I haven’t had any fever, chills, or night sweats. It’s just been the swelling in my calf and the shortness of breath, you know? No other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I’ve been, um, pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of blood clots or heart problems?",
+    "patient_turn": "Um, no, there’s no family history of blood clots or heart problems that I know of. It’s just, you know, my own health issues, but nothing like that in the family.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I’ve been having this, um, sharp, stabbing pain on my right side, like, in my chest for the past couple of days. It gets worse when I take a deep breath, and, um, I’ve also been feeling short of breath, like, really shallow breathing. It kinda got a lot worse yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, it’s mostly on the right side of my chest, like, right here… but it doesn’t really spread anywhere else, you know? It’s just this sharp pain that, um, gets worse with deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, the pain is kind of sharp, you know? Like a stabbing feeling, but also it feels tight sometimes. Oh, and I was watching a really intense movie last night, and I think that might have made me tense up a bit. Plus, I had some spicy food earlier this week, and that usually gives me a bit of discomfort, too. And then there's the fact that I stayed up late studying for exams, which could also be a factor, I guess.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, taking a deep breath definitely makes it worse, like I said. But, uh, sitting still and trying to relax helps a little bit, I think. I’ve been trying to, you know, breathe slowly and not move around too much, but it’s still pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yeah, I’ve definitely been feeling short of breath, like, a lot. It’s more of a rapid, shallow breathing, you know? I haven’t had any dizziness or nausea, though, so that’s good, I guess. Just this dry cough that started today, but it’s not, um, producing anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "The pain is definitely sharp, like a stabbing feeling, you know? It’s really uncomfortable, and sometimes it feels tight, too. I’m just, um, really worried about it, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "Oh, I just remembered that I need to pick up a gift for my friend's birthday this weekend.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "You know, I was thinking about how I really need to clean my room; it's such a mess right now.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you had any recent injuries or trauma to your chest?",
+    "patient_turn": "No, I haven’t had any injuries or trauma to my chest, um, at all. I mean, I’ve just been, you know, studying and hanging out with friends, so nothing like that. It just kinda came out of nowhere, which is, um, really confusing for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills in the last few days?",
+    "patient_turn": "No, I haven’t had any fever or chills at all. Um, I’ve been feeling pretty normal otherwise, except for this chest pain and the shortness of breath. It’s just, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced chest pain like this before?",
+    "patient_turn": "No, I haven’t had anything like this before. This is, um, the first time I’m dealing with something like this, and it’s honestly pretty scary. I’m just really not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical conditions or surgeries. I’ve been pretty healthy up until now, you know? So this whole thing is, like, really unexpected for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications regularly or occasionally?",
+    "patient_turn": "No, I’m not taking any medications, like, regularly or even occasionally. I haven’t needed anything, you know? So this is all kinda new and, um, a bit worrying for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "No, I don’t have any known allergies to medications, foods, or anything else. I mean, I’ve never had any issues with that, so, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any vaping products?",
+    "patient_turn": "No, I don’t smoke or use any vaping products. I, um, do use cannabis occasionally, like about once every two weeks, but that’s it. I’m just trying to stay healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I usually drink, um, on the weekends, like, a couple of beers. It’s not a lot, you know? Just, um, social drinking with friends, but I don’t do it during the week or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active, and do you use protection?",
+    "patient_turn": "Yeah, I’m currently sexually active, and I always use condoms, so, um, I feel pretty safe about that. I have a single partner, and we’ve both been careful, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or any lung problems?",
+    "patient_turn": "Yeah, my sister has asthma, but that’s, um, the only thing in my family related to lung problems. There’s no history of lung diseases or anything like that, so I’m not really sure why I’m having these issues now.",
+    "annotation": "Correct"
+  }
+]

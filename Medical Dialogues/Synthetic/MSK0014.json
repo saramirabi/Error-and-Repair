@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this, like, really bad pain in my right knee for the past five days. It’s, uh, swollen, red, and warm, and the pain is, like, stabbing and gets worse when I move it. I’m kinda worried because it’s not getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I, um, I first noticed it about five days ago. It just started getting worse, you know? I mean, I have osteoarthritis, so I’m used to some pain, but this feels different—like, really intense and, um, it’s not just the usual stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located in your knee? Does it spread anywhere else?",
+    "patient_turn": "Uh, it’s mostly in the front and, like, the sides of my knee. I don’t think it spreads anywhere else, it’s just, um, right there. It’s just really painful when I try to move it, but, you know, no other joints are bothering me besides the usual osteoarthritis pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I’ve been meaning to check my garden. The tomatoes are getting ripe, and I really need to pick them soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, it definitely gets worse with movement, like, even just trying to walk or bend it. I’ve been taking over-the-counter painkillers, but they don’t really help much. Honestly, I’m just, like, trying to keep it still, but it’s hard to find a comfortable position.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Uh, no, I haven’t had any of those symptoms, really. It’s just the knee pain, you know? I mean, I feel a bit anxious about it, but no fever or chills or anything like that. Just the knee, and it’s, um, really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Well, um, I used to smoke for, like, 30 years, but I quit, thank goodness. Now, I don’t smoke at all. I drink, um, three to four beers a night, I guess? And I’m retired because of my heart issues, so I don’t really exercise much anymore. I try to stay active, but, you know, with the knee pain and everything, it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Yeah, I have a history of, um, osteoarthritis in both my knees and hips, and I’ve had heart issues, like a myocardial infarction and heart failure. For medications, I take furosemide, ramipril, aspirin, and, um, some over-the-counter painkillers. Oh, and I have a penicillin allergy, but I’m not totally sure how I react to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's... ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you had any recent steroid injections in your knee?",
+    "patient_turn": "Yeah, I actually had a steroid injection in that knee about a week ago. I was hoping it would help, but, um, it seems like the pain got worse instead. I’m not really sure what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Um, yeah, actually. My father and my brother both had heart disease. It’s, like, a bit concerning for me, especially with my own heart issues. I guess it runs in the family, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What surgeries have you had in the past?",
+    "patient_turn": "I’ve had a couple of surgeries, um, I had an appendectomy a while back, and then I had a coronary stent placed because of my heart issues. That’s about it, I think. Nothing else major, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you exercise or stay active during the week?",
+    "patient_turn": "Uh, to be honest, I don’t exercise much anymore. I used to be more active, but with my heart issues and now this knee pain, it’s really tough. I try to do some light activities, but, you know, it’s hard to stay active when I’m in pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me your current weight or how you feel about your weight?",
+    "patient_turn": "Um, I’m not exactly sure of my weight right now, but I know I’m, like, considered obese. I’ve been trying to manage it, but it’s tough, especially with my knee and heart issues. Honestly, I feel a bit frustrated about it, you know?",
+    "annotation": "Correct"
+  }
+]

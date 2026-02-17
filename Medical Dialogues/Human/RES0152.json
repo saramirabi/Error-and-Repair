@@ -1,0 +1,202 @@
+[
+  {
+    "doctor_turn": "How how may I help you?",
+    "patient_turn": "Hi uh nice to meet you. I've just uh been experiencing um a cough for the last few weeks and uh I also recently started noticing that I'm coughing up some blood as well, like it's mixed into like sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright, so you said a few weeks for the cough. Is this more than three weeks, more than four weeks, or a few months?",
+    "patient_turn": "I would say it's almost I would say almost like three weeks now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, when the cough started uh were you bringing up, um were you bringing up sputum or phlegm at that time?",
+    "patient_turn": "Uh yeah, initially it was just like um kind of white too, sometimes yellowish phlegm, but now over the last week I've been also noticing um some blood in it as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much blood have you been bringing up? Um just trying to think in maybe uh teaspoon sizes if you can.",
+    "patient_turn": "Uh yeah, I would say maybe half a half a teaspoon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, um have you been having any shortness of breath?",
+    "patient_turn": "um no, I don't think so. But kind of like I do feel some discomfort in my chest like I just associated it with the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, have you had any uh any chest pain?",
+    "patient_turn": "Uh, no. It's more of just the discomfort with the coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um have you had any changes to your breathing like like wheezing?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. Um and have you had any infectious or viral type symptoms like itchy eyes, or runny runny nose, sore throat?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um how has your energy been? Any any fatigue?",
+    "patient_turn": "Um it's kind of been a bit low over the last few weeks, just I feel more tired. Um yeah I had to miss a few days of work as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, alright. Um have you had any fevers or chills?",
+    "patient_turn": "Uh definitely I feel like I have had some chills over the last week. Um I haven't had a chance to measure my temperature though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you felt feverish? Or have you felt hot at any point?",
+    "patient_turn": "Um, yeah I would say like a few times this week, I've also felt like hot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any um like night sweats?",
+    "patient_turn": "Uhm now that you mention it like I I would say two two days out of the last week I've had night sweats where my sheets were kind of just drenched when I, and then I woke up noticing that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And how about your um your weight? Have you had any changes to your weight over the last several months?",
+    "patient_turn": "Yeah, I think I've lost maybe 10 pounds in the last couple months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that sounds like some, uh, some weight lost significant weight loss, have you been trying to lose weight?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and have you felt as though um like your heart's racing or beating really fast?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any uh like fainting or dizziness?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um and how about any nausea or vomiting?",
+    "patient_turn": "No, no, no nausea or vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary problems like pain or or going often?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh have you noticed any rashes anywhere?",
+    "patient_turn": "No, no rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any muscle aches or joint pains?",
+    "patient_turn": "Um no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "No. Um I've been fairly healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good, and have you had any surgeries or any reasons to be hospitalized before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any medications or any over the counter, supplements?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any allergies that you're aware of?",
+    "patient_turn": "Not that I know, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um are your immunizations up to date?",
+    "patient_turn": "Um immunizations are all up to date, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and currently um can you tell me a little bit about who you're living with and uh where you're living?",
+    "patient_turn": "Yeah, currently I'm living uh just in um it's kind of like a a home with just a, I don't really know the people too well, just kind of like a home where um a bunch of guys are just living and working separately. I just actually recently moved here from um The Philippines six months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. Um do you interact with many of the people in the house and and has anybody else been sick?",
+    "patient_turn": "Uhm I don't know if anyone else has been sick, I haven't really noticed that. I don't really see them too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and six months ago prior to um yeah coming from the Philippines, was anybody sick there or did you hear of anybody that you spent time with having um tuberculosis?",
+    "patient_turn": "Um yeah, there's been, not anyone that I know of, but there's definitely like even where I worked and things like that, there's definitely people who have had tuberculosis in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. Um and, uh do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And uh how about smoking cannabis or using any products?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you use any recreational drugs?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and are you currently sexually active?",
+    "patient_turn": "Uh currently, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so no concerns for a sexually transmitted infection at this time?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and um have you traveled anywhere recently?",
+    "patient_turn": "Um not recently, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but uh, and anybody in the family um have uh heart or lung conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and any cancer that run in the family?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so, uh I think that's everything I wanted to ask on on history today, so it sounds like you've been having this cough um that's been going on for just over three weeks now and starting with some um whitish clear sputum and more recently even started to be coughing up some blood as well. And you've also been really um fatigued and have had some malaise over the last several weeks. Um and any other symptoms or, oh and also yeah, you've had some night sweats, chills, and uh been feeling feverish as well, so we'll certainly check your temperature today too. OK, so anything I missed?",
+    "patient_turn": "Uh, no. I think that that sounds great. Thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so we'll get the um testing started for uh for the investigations. And yeah, if uh at any point symptoms get worse, we'll reevaluate.",
+    "patient_turn": "Yeah, sounds good. Thank you so much.",
+    "annotation": "Correct"
+  }
+]

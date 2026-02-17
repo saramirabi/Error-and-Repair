@@ -1,0 +1,277 @@
+[
+  {
+    "doctor_turn": "How can I help you today?",
+    "patient_turn": "Hi, I'm, I'm the mom of the patient and I just wanted to talk to you about the, just about Thomas here. He's just been not, he's just not been feeling well. He's had this cough for the past three or four days. And he's also had this stuffy nose, and this, this watery discharge. Yeah, he's just not feeling good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see and so the, the cough you said started three or four days ago. Has the cough gotten any better or any, stayed the same or gotten worse?",
+    "patient_turn": "Gotten a bit worse, I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he bringing up any sputum?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So has there been any blood?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has the cough interfered with sleep?",
+    "patient_turn": "Yeah, his cough is usually worse, uhm, at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you say that he's also had a runny nose. What does the discharge look like?",
+    "patient_turn": "It's just, uh, it's watery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And this started three or four days ago as well?",
+    "patient_turn": "A little, a little after the, uhm, yeah actually, around the same time, around the same time, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has he had any, uhm, like difficulties breathing, like saying that he feels one of the, like the nostrils obstructed?",
+    "patient_turn": "Hmmm, he hasn't, well, he's just been breathing with his mouth open, so that's what he does at night as well. He also has this nasal voice right now, probably because it's, it's, you know, he has this stuffy nose. But he hasn't really complained about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, has he had any pain, like facial pain?",
+    "patient_turn": "Uhm, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any changes to smell or loss of smell?",
+    "patient_turn": "Yeah, I don't think he can smell much right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, did those, did that start a few days ago as well?",
+    "patient_turn": "Yeah, yeah, since he's been complaining of his stuffy nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he had any headaches?",
+    "patient_turn": "No, but he has had a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How, did you check it?",
+    "patient_turn": "Yeah, I did, I did. It was uh, 39 last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, it's certainly a fever. Uhm, has he had any chills or night sweats?",
+    "patient_turn": "Yeah, he's, but he's been feeling pretty chilly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah, he's wearing a couple, a couple of layers at home, still feels chilly, and yeah, he has alot of chills and definitely has a fever.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Alright, and has the fever been there the whole whole time, if you're aware or has that kind of come and gone?",
+    "patient_turn": "Uhm, you know what, I actually just checked yesterday so I don't know.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Alright, has he had a sore throat?",
+    "patient_turn": "Yeah, it's usually worse in the morning. I think it's more of a, I guess the post nasal drip you know with the, with a runny nose. It's just, It's pretty bad in the morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has he had any red eyes or, or eye discharge or eye pain?",
+    "patient_turn": "No no no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he had any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any lightheadedness, dizziness or fainting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does he mention anything about feeling as though his heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and has he had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or Constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any urinary problems like pain or, or frequency?",
+    "patient_turn": "No, nothing like that. He hasn't complained of anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any skin changes or rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about any muscle aches or joint pains?",
+    "patient_turn": "Yeah, yeah he definitely has that. He's complaining a lot about muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how has his energy been? Has he been fatigued?",
+    "patient_turn": "Oh yeah. He hasn't gone out to play. He hasn't done anything, he's just been lying in bed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and over the last several months has he had any weight loss?",
+    "patient_turn": "No. He's been gaining weight actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no that's good. Certainly yeah, at the age of 11 should be still gaining weight, so that's good. And has he been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Yeah, he was diagnosed with uh, cystic fibrosis when he was a, he was a child, four years old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, uh, is he on, uh, like any medications for that?",
+    "patient_turn": "He's on, he was on an antibiotic until the age of five. Uh, that he had to take on regular basis, but he is, he's not really on any medications right now. I know that there are a couple of new ones that are out there, but those are very expensive.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has he had any exacerbations or hospitalizations?",
+    "patient_turn": "uh, yeah, he's he's had about, uh, one hospitalization every two years?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and is he followed by a respirologist, currently?",
+    "patient_turn": "Yes, yes, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm and has there been, like an increase in the sputum production or like worsening shortness of breath over these last few days?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has he had any surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any allergies to medications?",
+    "patient_turn": "Uhm, Sulfa drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And the reaction is?",
+    "patient_turn": "Uhm, he just gets a rash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is it, are immunizations up to date?",
+    "patient_turn": "Oh yeah, yeah, we're very careful about that given his diagnosis. He's got all the, all the vaccines.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That's great, that's really important for sure, uhm, and so I just wanted to ask about life at home a little bit. So who's in the house and who's the primary caregiver for him?",
+    "patient_turn": "I'm the primary caregiver, its just, uh, me, him and my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, is he, uh, what grade is he in right now?",
+    "patient_turn": "He's in grade six?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how is school going?",
+    "patient_turn": "Schools going well, it's just the, yeah, the hospitalizations can sometimes be disruptive, but it's going well. He's, he's getting B's in his class. He's doing well, he's got a good group of friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Excellent and have you had any concerns about about development or, or his growth?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so meeting all milestones and?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in regards to, uhm, birth history, were there any complications throughout pregnancy or, or at birth?",
+    "patient_turn": "Uhm, no, nothing at birth or during pregnancy, but he did start having lots of respiratory infections, which is when the pediatrician did that test. I forget the name, for the test and then they were, uhm, the, uhm, he was found to have, CF.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and does anybody in the home smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or drink alcohol?",
+    "patient_turn": "no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and are there any pets in the home?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has he been around anybody who's been sick?",
+    "patient_turn": "I don't, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, uh, have you guys traveled anywhere?",
+    "patient_turn": "No, just been at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and has anybody in the, else in the family have cystic fibrosis?",
+    "patient_turn": "No, no, no, no one else does. But we got tested and we were both found, my, my husband and I were found out have the gene for it. We were carriers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, I see. And any, any heart conditions or, or other lung conditions that run in the family?",
+    "patient_turn": "No, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And were there any other symptoms that, or anything else that you wanted to tell me that maybe I forgot to ask about?",
+    "patient_turn": "Uhm, no, I was just, uh, I'm just worried about him, uhm about his fever specifically, it's been high and I know that usually when he has these hospitalizations, he presents pretty similarly. So just wondering if he would need to be hospitalized again and if he needs antibiotics.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure it's, it's been uhm, so it's been three or four days, but with a fever this high and his symptoms, with uh, having obstruction, discharge, uhm, changes to smell or loss of smell it does sound like it could be bacterial and so I think it would be reasonable to possibly to start antibiotics in this case, but we'll go through, through a physical exam, check some vitals and go from there.",
+    "patient_turn": "Ok, Ok, sounds good, thank you.",
+    "annotation": "Correct"
+  }
+]

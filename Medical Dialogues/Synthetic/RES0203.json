@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a mild dry cough for the past two days, and I've noticed a partial loss of smell and taste. It's been a bit strange because I can still detect strong odors and very salty foods, but normal tastes like banana just aren't there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and the changes in your smell and taste?",
+    "patient_turn": "I first noticed the cough and the changes in my smell and taste about two days ago. It all started around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it started?",
+    "patient_turn": "No, the cough has been pretty consistent since it started. It's still mild and dry, nothing too severe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the cough in your chest?",
+    "patient_turn": "I don't really feel it in my chest; it's more of a tickle in my throat. It doesn't feel heavy or painful at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it?",
+    "patient_turn": "It feels like a mild tickle that makes me want to cough, but it's not painful or bothersome. Just kind of annoying, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the cough and changes in smell and taste?",
+    "patient_turn": "Well, I think it started about two days ago, but I’ve also been really busy with school, you know, online classes and everything, so it’s hard to keep track of time sometimes. And, oh, I remember last week I tried a new recipe that had a lot of spices, but I couldn’t really taste the flavors as much. It was a bit disappointing, honestly.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry or does it produce any mucus?",
+    "patient_turn": "It's definitely a dry cough. There's no mucus or anything like that—just a tickle that makes me cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough most, or if it spreads anywhere?",
+    "patient_turn": "I mostly feel it in my throat. It doesn't really spread anywhere else; it's just that tickle that makes me cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "No, I don't have any past medical or surgical history. I'm generally healthy and haven't had any major issues before this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I'm not taking any medications or supplements. I don't have any allergies either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications, foods, or anything else?",
+    "patient_turn": "No, I don't have any allergies to medications, foods, or anything else. I'm pretty lucky that way!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of respiratory or cardiac conditions?",
+    "patient_turn": "No, there's no history of respiratory or cardiac conditions in my family. Everyone's generally healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and my younger sibling. It's been nice having them around, especially with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any tobacco products?",
+    "patient_turn": "No, I don't smoke or use any tobacco products. I try to stay healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I drink alcohol infrequently, just occasionally with friends or family. It's not something I do regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you used marijuana or cannabis products recently?",
+    "patient_turn": "I’ve used marijuana edibles occasionally, but I haven't used any recently. Just trying to keep things simple right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently attending school in person or online?",
+    "patient_turn": "I'm currently attending school online. It's been a bit different, but I'm getting used to it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your vaccinations current?",
+    "patient_turn": "Yes, all my vaccinations are up to date. I make sure to keep on top of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe your typical diet and exercise routine?",
+    "patient_turn": "I generally have a healthy diet, with a good mix of fruits, vegetables, and proteins. I try to stay active with regular exercise, like going for runs or doing workouts at home. It helps me feel good!",
+    "annotation": "Correct"
+  }
+]

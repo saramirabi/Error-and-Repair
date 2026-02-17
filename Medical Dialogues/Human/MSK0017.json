@@ -1,0 +1,317 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi, yeah, so I've had this uh back pain that's been going on now for the last uh two weeks, it's just kind of right in the lower back and it just hasn't gone away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um last two weeks you said, is it getting worse?",
+    "patient_turn": "Uh no, it's not really getting any worse, uh it's just been uh limiting my abilities at work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, OK, and what do you do for work?",
+    "patient_turn": "So I work um at a butcher shop.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah, and we're like always like carrying heavy things and yeah, it's a lot a lot of like lifting and standing.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK. Did anything trigger this back pain two weeks ago? Did you have some sort of injury or trauma to the area?",
+    "patient_turn": "No, I can't think of anything uh like specific that happened, but there was one night where um like after work, I was sitting down after dinner and um I got pretty stiff that night. It was pretty sore and kind of ever since then, it's been been sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, um and is this a persistent kind of back pain or does it come and go?",
+    "patient_turn": "It's um, I can kind of always feel it, but it certainly gets worse if I am moving. So if I'm just kind of sitting at rest, I don't really, yeah, I don't really feel it that much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and if you were to describe the quality of this pain, um would you say it's sharp, throbbing, achy, crampy?",
+    "patient_turn": "I'd say I get kind of uh, it's a sharp pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sharp pain, OK. Um does anything make it better or worse?",
+    "patient_turn": "Um better would just be uh resting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Um kind of just lying down, or um yeah, just just trying to uh rest. But um making it worse, yeah, if I'm uh like really any movement um if I'm like bending forward or um kind of like leaning to the side, I start to get um get some pain in the lower back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. And then 1 to 10, 10 being the worst pain you've ever felt, how bad or uh how severe would you rate it?",
+    "patient_turn": "I would say 7.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A 7, OK. And have you ever had pain like this in the past?",
+    "patient_turn": "Uh yeah, I've I've hurt my lower back before like many years ago. Um but it's been OK since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh did you get any sort of treatment or management for that pain um back in the day?",
+    "patient_turn": "At that time it was just rest and like did some stretching and I took some um anti inflammatories and it went away after a couple of months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Um and are you having any sort of like numbness or tingling, anywhere on your body?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, how about any muscle weakness?",
+    "patient_turn": "Uh no muscle weakness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Are you still able to walk and do things that you normally would do in a day?",
+    "patient_turn": "Uh yeah, I'm able to walk still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um any dizziness or fainting spells?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any pain elsewhere on your body?",
+    "patient_turn": "No, just just the lower back, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Headaches?",
+    "patient_turn": "Uh nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, weight loss?",
+    "patient_turn": "No, I haven't had any weight loss.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Fevers or chills?",
+    "patient_turn": "Nope, no fevers or chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um rashes?",
+    "patient_turn": "Uh no rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your vision, hearing, taste or smell?",
+    "patient_turn": "No changes like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any coughing, shortness of breath or wheeziness?",
+    "patient_turn": "Um nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um chest pain or heart palpitations?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Issues or changes in your bowel movements?",
+    "patient_turn": "Uh no changes to bowel movements, no diarrhea and no incontinence or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and then uh nausea or vomiting?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about um changes to your appetite?",
+    "patient_turn": "Um nope, I've been eating uh, I've been eating well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes in your voiding?",
+    "patient_turn": "Uh nope, I haven't had any changes to urination.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and then are you otherwise healthy or do you have any longstanding medical conditions?",
+    "patient_turn": "Uh I I've had a few sports injuries when I was younger, uh like to my my knee, but that's it, I've been healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and um those injuries, are they all healed?",
+    "patient_turn": "Uh sometimes I'll get um like a little achiness in my knee from from doing like too much activity, but I know when those, when that happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you on any medications?",
+    "patient_turn": "No, I I don't uh take any medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you up to date with all your immunizations?",
+    "patient_turn": "I am, yep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um do you have any allergies?",
+    "patient_turn": "Uh, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of um muscular or skeletal issues?",
+    "patient_turn": "Um no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about um heart or lung diseases?",
+    "patient_turn": "Uh, no, no heart or lung diseases.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm how about autoimmune conditions?",
+    "patient_turn": "Um nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Cancers?",
+    "patient_turn": "Uh no cancers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and do you smoke?",
+    "patient_turn": "Um no, I don't smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and do you consume marijuana?",
+    "patient_turn": "Uh sometimes, I'll have like uh edibles, little candy, sometimes at nighttime they they help me uh relax and sleep, but I don't use that very often.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how often do you use them?",
+    "patient_turn": "I would say maybe uh once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Once a week, OK. Alright um and then, what else did I wanna ask you? Um do you, do you take any recreational drugs?",
+    "patient_turn": "No, and I haven't used any before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about alcohol, do you consume alcohol?",
+    "patient_turn": "Yeah I'll have a couple of beers on the weekend, so maybe like two or three.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm and who and where do you live right, who with and where do you live right now?",
+    "patient_turn": "Yeah, I live with my wife and our um and our son who's in high school. We live in a in a house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Um alright, and any concerns for STI's at all?",
+    "patient_turn": "Oh no, I've been with my wife now for a long time and we've been monogamous so no concerns for uh sexually transmitted infection right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about um sick contacts, have you been in contact with anyone sick recently?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any travel recently?",
+    "patient_turn": "Uh no, I haven't traveled anywhere.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um and well, let's move on to the physical exam part of this interview. Um so I'm going to get you to stand up from a sitting position. Does that hurt your back?",
+    "patient_turn": "Um yeah it does. I I do feel a little bit of a a twinge there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where about specifically?",
+    "patient_turn": "Kind of just, yeah, on the lower uh lower right side like more on the, more on the right side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "More on the right side, OK. Now, if you have a mirror with you, or if you have someone there with you who can um speak to this, does your right side appear more red, swollen, or hot compared to your left side of the lower back?",
+    "patient_turn": "Uh no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, and does it seem like it's more atrophied or do you see any deformities or skin changes in that area?",
+    "patient_turn": "Uh nope, no deformities or skin changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um alright and I'm gonna get you to um bend down all the way and touch your toes if you can.",
+    "patient_turn": "Um yeah I I can get part part way down.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You can get partway down, does it hurt?",
+    "patient_turn": "Um a little bit, I can feel it pulling and stretching, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um alright, and then I'm gonna get you to uh like laterally flex to your right side. So kind of like you're doing an exercise um and you're just like bending towards that side.",
+    "patient_turn": "Yeah, that hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That hurts, OK, how about the other side, the left side?",
+    "patient_turn": "Yeah that hurts too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and now I wanna get you to uh bring your knees up towards the ceiling. Does that hurt? One at a time, like your right right knee and your left knee.",
+    "patient_turn": "Uh, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, how about when you um flex your knees backwards?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And kind of point your knees towards the ground.",
+    "patient_turn": "No, no pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no pain on knee extension or flexion. Um how about when you point your toes to the ceiling?",
+    "patient_turn": "Uh no pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so no pain on plantar flexion, how about when you point your uh toes to the ground?",
+    "patient_turn": "No pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no pain on dorsiflexion, and then sorry I forgot to ask you earlier, do you have any sort of numbness in the groin area?",
+    "patient_turn": "No, no numbness in the groin area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no numbness in the groin area, no weakness, no um changes in your bowel or bladder habits, including no incontinence, so uh no red flags?",
+    "patient_turn": "Yeah, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good um and, OK so those are all the questions that I had for you. Did you have any questions for myself?",
+    "patient_turn": "Uh, no I was just uh yeah, kind of wondering do I do I need any X Rays or like what what's going on?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so um what it sounds like right now is that you have something called mechanical back pain. It's pretty common and um it can be anything from your spinal joints to the discs to the vertebrate or soft tissue or muscle. Um and a lot of these can be caused by um hard activity at work, um like carrying heavy things um and then carrying them in like an improper position or something like that. Um and we diagnose that on history and physical exam, um but if after we try some management and treatment plans, it doesn't go away and it persists for more than eight weeks, we do recommend imaging, including an MRI. So uh in terms of management for right now, um modified activity at work, um some short term bed rest, uh very short term though um and bed rest is only really recommended if you have severe back pain and muscle spasms, um and you definitely shouldn't be doing that for more than like 24 to 48 hours, and physical activity can help, um so referral to physical therapy or physiotherapy um can help in rehab and they'll give you some exercises that you can try at home to kind of um strengthen those muscles. And then ice and heating packs um temporarily can help, uh medications like NSAIDs can help as well with the inflammation. Um so we'll try these things out and then we'll continue to follow up. Um yeah, did you have any questions or does that sound like an OK plan?",
+    "patient_turn": "Uh that sounds like a good plan.",
+    "annotation": "Correct"
+  }
+]

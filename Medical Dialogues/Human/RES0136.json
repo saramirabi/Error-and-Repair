@@ -1,0 +1,277 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "I just started having, um, difficulty with breathing um, starting yesterday. And I also developed this cough um, yesterday morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so did, did the cough come first or the breathing, difficulty breathing?",
+    "patient_turn": "Kind of around the same time when I woke up in the morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And did it wake you up from sleep at all? Like did you wake up trying to catch a breath or anything?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so it happened after you had woken up and gotten out of bed. And um, so, can you describe your cough a little bit? Is it wet or is it dry?",
+    "patient_turn": "Um, it's just um, it's just a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, you're not bringing up any sputum or any other material?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And uh, are you coughing up any blood by any chance?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "For the shortness of breath, can you describe it a little bit? Is it, are you having trouble taking deep breaths, or are you breathing faster? Can you describe it?",
+    "patient_turn": "Yeah, I just feel like um, I'm getting out of breath really easily, just like um, walking even, walking to the kitchen from my bedroom, I'm getting short of breath and it, it just started yesterday morning, it's so odd.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and have you had anything like this happen before to you?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Were you doing anything before it started? Like were you doing any, any activities or any, are were you doing any exertions at all?",
+    "patient_turn": "No, I was just uh, I, I slept in, I slept in a bit more than usual, um, and I was feeling quite um, drowsy. My, my doc increased my pain meds and I took the first dose um, yesterday night, um, I actually took an extra pill um, um, of the morphine um, and yeah, I don't know, maybe it, it's an allergic reaction to the morphine.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Have you had any allergic reactions before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And so you took an extra morphine last night and then went to sleep. Um, did you wake up coughing or catching your breath or anything like that?",
+    "patient_turn": "No, I actually, I ended up waking up at 1:00 PM or 2:00 PM, I was just very drowsy and uh, I think I, I think I might have taken a bit too much, I don't know. The, the arthritis pain was just killing me last night and I thought taking an extra pill would help.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "And is this, are your symptoms constant? Or do they come and go?",
+    "patient_turn": "They're constant for the past two days. I've also noticed that I have, my breath just smells really bad. I don't know why.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Is that something you noticed recently or in the last two days?",
+    "patient_turn": "Yeah, since yesterday. Actually, not even yesterday, this morning I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "This morning, okay. Um, and is there anything that makes your symptoms worse? Like does lying down make your symptoms worse?",
+    "patient_turn": "Not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. How about exerting yourself, does it make your symptoms worse?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, do you have any other symptoms like any fevers or chills?",
+    "patient_turn": "I checked my fever last night, it was um, 37.2.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so you didn't have a fever last night, okay. Um, do you have any other symptoms like dizziness uh, any fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. How about sore throat, headaches, muscle pain, anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any chest pain?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And um, have you been traveling at all recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any contact with anyone who has been sick recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Uh, any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any swelling in your legs or arms, hands?",
+    "patient_turn": "No. No, I haven't noticed any of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fatigue? Just feeling more tired today?",
+    "patient_turn": "Maybe a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Have you been having any cold-like symptoms before the two days, like in the last week, like runny nose, sore throat?",
+    "patient_turn": "No. I was, like, I was absolutely fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, how about, do you have any changes in your bowel movements like constipation, diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Any trouble with urinating?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any sleep or appetite issues?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Have you lost uh, significant weight in the last few months?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, have you been exposed to anyone who may have had tuberculosis?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, and uh, do you have any pets or animals at home?",
+    "patient_turn": "Um, I have a dog.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any allergies to any pets or animals?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any exposure to fumes or dust uh, with where you live?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you have any past medical history? Any diagnoses?",
+    "patient_turn": "I um, I just have the osteoarthritis.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Osteoarthritis, okay. Is that why you're taking the?",
+    "patient_turn": "Yeah, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And are you taking any other medications?",
+    "patient_turn": "I take uh, Advil.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Advil, okay. Any allergies that you know of?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any previous hospitalizations?",
+    "patient_turn": "Um, I had my wisdom teeth removed. But no, I wasn't, I wasn't hospitalized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, is that the only surgery that you've had, or have you had anything else?",
+    "patient_turn": "Yeah. No, that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of any lung or heart conditions?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any cancers?",
+    "patient_turn": "Um, breast cancer, my grandma had it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any uh, and currently, what's your living situation like, do you live with someone?",
+    "patient_turn": "Um, I live with my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay.",
+    "patient_turn": "And my dog.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And your dog, okay. And did your husband tell you anything, like that has changed in your behaviour at all uh, recently?",
+    "patient_turn": "He just said that I was, I was just extremely drowsy yesterday and I was very hard to wake up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Okay, um, do you smoke currently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you smoked in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you work currently?",
+    "patient_turn": "Uh I, I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And uh, how would you, sorry, dis you say you don't work or do you work?",
+    "patient_turn": "I'm a banker, but I'm working virtually, uh, remotely right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And um, do you use any recreational drugs like marijuana?",
+    "patient_turn": "I um, no. Well sometimes I'll use marijuana for the pain, but I haven't been doing that recently, for the past two months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Um, how, how often would you say you use it?",
+    "patient_turn": "Only when the pain gets uh, too bad, so maybe um, three or four times a month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you use any alcohol?",
+    "patient_turn": "Um, yeah, I'll, uh, I'll drink once a week, two glasses, two or three glasses of wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, any, alright, so I think that those are all the questions I have for you today. Do you have any questions or concerns for me?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so yeah, definitely with the coughing and shortness of breath we will definitely get a COVID swab test done. Um, that should come back in the next 24 to 48 hours and then public health will contact you. Um, yeah, based on what you're telling me so far, we will definitely do a physical examination, get your vitals, and get your oxygenation and everything done. But I also think, since you were very drowsy and were, had fallen asleep and were really difficult to wake up, sometimes you can get what's called aspiration pneumonia. Um, and that's, that can also be a possibility and what we will do is get a chest x-ray, get some blood work done as well today. Um, now we may require antibiotics, and if your vitals unstable we might actually admit you as well. Um, does that sound good?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so yeah, we'll get those tests done and we'll be there with you shortly. We'll also get like an EKG done as well.",
+    "patient_turn": "Sure.",
+    "annotation": "Correct"
+  }
+]

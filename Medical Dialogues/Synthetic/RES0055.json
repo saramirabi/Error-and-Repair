@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been having some pretty bad respiratory issues lately. It started with a cough that got worse over the past week, and now I’m, uh, really short of breath, especially when I try to do anything. It’s just… it’s a lot more severe than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and shortness of breath?",
+    "patient_turn": "Uh, I think the cough started about a week ago, and it was just, like, a regular cough at first. But then it became more productive, and I started noticing the shortness of breath, um, maybe 2 or 3 days ago? It’s just been getting worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "Um, it’s mostly in my chest, I guess? It feels tight, and I just have a hard time catching my breath, especially when I’m doing anything active. It’s really, um, frustrating and kinda scary, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Well, it’s kind of tight, I think? Like, I feel it mostly when I'm doing things, you know, like walking up the stairs or even just getting up from the couch. And also, I was just thinking about how I really need to clean out my closet, but it’s such a mess right now. I guess the shortness of breath has been bothering me more than usual lately, especially after I had that lung infection two years ago.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the shortness of breath better or worse?",
+    "patient_turn": "Um, I’ve noticed that it definitely gets worse with activity, like I said. But, uh, resting helps a bit, I guess? I mean, I try to take it easy, but it’s hard not to worry about it. I’m just kinda anxious about what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the shortness of breath?",
+    "patient_turn": "Yeah, I’ve had that harsh cough, and it’s been producing more clear-white sputum lately. Um, I don’t have any chest pain, but there’s some wheezing too. Honestly, I’m just really worried because I haven’t had any fever or anything, but I keep thinking about COVID-19, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "Um, I have a pretty long history of smoking, about 20 years, and I was smoking a pack a day, but I’ve cut back a bit. I still smoke occasionally, though. As for alcohol, I drink, um, maybe once a week, but not a lot. Exercise has been tough lately because of my breathing issues, so I haven’t really been active like I should be. I’m just kinda worried about how all this is affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Oh, well, I have COPD, which I've had for over ten years, and I take metoprolol for my hypertension. But I also kind of feel like I should mention that I used to have this really bad cough when I was a kid, and I had my tonsils out, which I guess is sort of related? And lately, I've been using my inhalers a lot more, like Ventolin and Spiriva, especially after I started smoking again a little bit, but I thought I quit. So, yeah, I take multivitamins too, but I don’t think they really help much.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t really had dizziness or nausea, thank goodness. Just the breathlessness and that harsh cough, you know? I mean, I’ve been feeling a bit more tired than usual, but I think that’s just from struggling to breathe. I’m really trying not to let it get to me, but it’s hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the breathlessness and cough getting worse?",
+    "patient_turn": "I first noticed the cough getting worse about a week ago, and then the breathlessness kicked in, um, maybe 2 or 3 days ago? It just feels like it’s been escalating really quickly, and I’m, uh, honestly worried about what it means for my COPD. It’s just a lot to handle right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the breathlessness feels the worst?",
+    "patient_turn": "Uh, it feels the worst in my chest, I think? Like, it’s tight and heavy, and I just can’t seem to catch my breath, especially when I’m moving around. I mean, it’s really frustrating because I used to be able to do more without feeling this way. It’s just… it’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the breathlessness feel like? Is it a sharp pain, tightness, or something else?",
+    "patient_turn": "Um, it’s more of a tightness, I guess? Like, it feels heavy in my chest, and I just struggle to take a deep breath. It’s not really sharp pain, but it’s definitely uncomfortable and, um, kind of scary. I just keep thinking about how I don’t want it to get worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities make your breathlessness worse?",
+    "patient_turn": "Well, I don't really know about the activities, but I just remembered I need to water my plants at home, and they’ve been looking a bit sad lately. I mean, I guess if I try to do anything too active, like cleaning or even just going for a walk.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your breathlessness, like a cough or wheezing?",
+    "patient_turn": "Yeah, definitely. I’ve had that harsh cough, and it’s been producing more clear-white sputum lately. Um, there’s also some wheezing that comes with it, which is really annoying. I mean, I don’t have any chest pain, but the cough and wheezing just make everything feel worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough and wheezing?",
+    "patient_turn": "Uh, the cough started about a week ago, and it’s been getting worse since then. The wheezing, I think, has been more noticeable in the last few days, especially with the shortness of breath. It’s just all piling up, and I’m really worried about what it means for my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other surgeries besides your tonsillectomy?",
+    "patient_turn": "Um, no, I haven’t had any other surgeries besides the tonsillectomy when I was a kid. I mean, I’ve had some health issues, but nothing that required surgery. I just keep thinking about how my COPD has been such a challenge for me over the years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for lung problems besides the one two years ago?",
+    "patient_turn": "No, I haven’t been hospitalized for lung problems other than that one time two years ago. That was really tough, and I guess I’m just worried that I might end up back in the hospital again if this keeps getting worse. It’s just, um, really stressful to think about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I mean, I’ve been on my medications for a while now, and I haven’t had any issues with them, so that’s a relief, I guess. But, um, I’m still really anxious about everything else going on with my breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease or cancer?",
+    "patient_turn": "Yeah, there is some family history. My father died of a myocardial infarction in his 60s, and I have an uncle who had non-melanoma skin cancer. It’s just, um, a bit concerning, especially with my own health issues. I can’t help but worry about what might happen to me, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any specific triggers in your environment that make your breathing worse?",
+    "patient_turn": "Um, not really. I live in a well-maintained bungalow, and I haven’t noticed any specific environmental triggers. I mean, I’ve been practicing self-isolation since the pandemic started, so I haven’t been around many people or, um, different environments lately. It’s just frustrating because I can’t pinpoint what’s causing this flare-up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve been pretty much staying at home and, um, self-isolating since the pandemic began. I guess I just wanted to be cautious, but now I’m really worried about my breathing issues. It feels like everything is piling up on me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick recently?",
+    "patient_turn": "No, I haven’t had any known sick contacts. I’ve been, um, isolating myself, so I haven’t really been around anyone who might be sick. But I keep thinking about COVID-19 and how it could affect me, especially with my COPD. It’s just, um, really stressful right now.",
+    "annotation": "Correct"
+  }
+]

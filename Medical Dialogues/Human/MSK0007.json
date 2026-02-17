@@ -1,0 +1,372 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here to kind of figure out what it is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK alright are you feeling this pain on the lateral side of the elbow, or on the medial side of the elbow?",
+    "patient_turn": "It's on the medial side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and sorry, when did this pain exactly start?",
+    "patient_turn": "So it's been ongoing for like the past three months. But it's gotten worse over the last, I'd say three weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. Has the pain been getting worse, any better?",
+    "patient_turn": "Oh the pain's been getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. Was there any triggers or precipitating events to the pain, such as like a fall or any types of trauma to the elbow?",
+    "patient_turn": "No, no, not that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any pain or injury to the elbow in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Could you describe the character of the pain. Is it sharp, achey or dull?",
+    "patient_turn": "It's usually achey, but it can be sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Does the pain radiate anywhere?",
+    "patient_turn": "No, it's pretty. It's pretty much in that one area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, just on the medial side of the left elbow?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there anything that you've done to help make the pain go away, or any alleviating factors?",
+    "patient_turn": "I am taking some NSAIDs that helps with the pain temporarily.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And uh. Are there any factors that make the pain worse?",
+    "patient_turn": "Um when I. I. I guess when I like extend my elbow out it gets worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it's a movement OK, and straightening the elbow?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I mean, what is the severity of the pain on a scale of 1 to 10, with 10 being the worst pain you've ever felt.",
+    "patient_turn": "I'd say about 5.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And um. So did you have any other symptoms associated with the elbow pain?",
+    "patient_turn": "Um no, um not really I. I'm otherwise pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so have you had any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any night sweats",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or any weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sensory changes like changes to your vision or or hearing or even your smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any eye redness or eye discharge or your ear pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had a runny nose or sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough or shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any lightheadedness or dizziness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any heart palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any skin rashes?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any numbness or tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about any muscle weakness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any joint pains anywhere else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any changes to your memory or or any confusion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any fatigue?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, have you had any changes to your appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are an have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so do you take any medications, either prescribed or over the counter?",
+    "patient_turn": "Um no, I just take some multivitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any allergies to medications?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any hospitalizations or prior surgeries?",
+    "patient_turn": "I I had a fracture when I was younger. It was in my humerus bone on the right side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it's the to the fracture was on the other arm?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did that heal OK?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright then. Can you tell me about your living situation? Currently, like whereabouts and who you're living with?",
+    "patient_turn": "I live with my partner of five years. We live in an apartment together.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you working currently?",
+    "patient_turn": "I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And what do you do?",
+    "patient_turn": "I work on the assembly line for Chrysler.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and uh. Do you do repetitive tasks at work?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, do you notice this, uh pain after, more so after a shift or after after a long day?",
+    "patient_turn": "Yes, definitely.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what types of hobbies do you have, like do you play golf or tennis or or any kind of like, sports I guess?",
+    "patient_turn": "Yeah, I used to play golf before this pain in my arm and my elbow, so I haven't played it in the past like six months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um OK and um do you smoke cigarettes?",
+    "patient_turn": "I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you drink alcohol?",
+    "patient_turn": "Um I'll have a glass of wine every other day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about the use of any recreational drugs like cannabis or or anything else?",
+    "patient_turn": "I'll smoke a joint once a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright and. Is there any family history of any heart or lung problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any musculoskeletal or neurological diseases?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I got any autoimmune diseases like thyroid disease or diabetes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and so next I wanted to walk through a physical exam, so when you look at the elbow yourself, do you see any swelling or redness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does it look like there is any muscle atrophy either in the forearm or the biceps or triceps?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any misalignment or joint deformity?",
+    "patient_turn": "No, I don't see any of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are there any scars?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when you press on the medial part of the elbow, do you feel pain?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about over the olecranon or the, yea any pain over the olecranon?",
+    "patient_turn": "Um a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there any pain over the lateral part of the elbow?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, an any pain over the forearm, or biceps, or triceps muscles?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does the joint feel like it's hot?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any pain with shoulder or elbow movements?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Actually, sorry with the elbow when I straighten it out all the way it hurts a little bit.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK, when are you straightening it out all the way OK, But no pain with shoulder movements and full range of motion?",
+    "patient_turn": "No, no pain with shoulder.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about pain with pronation and supination?",
+    "patient_turn": "With pronation it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, at the medial side?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how about with wrist. So with resisted uh, yeah, wrist flexion?",
+    "patient_turn": "Wrist flexion yeah. That hurts too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about if you passively extend your your wrist as far down as as you can go?",
+    "patient_turn": "Down uh yes. That hurts too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And is there any numbness or tingling anywhere?",
+    "patient_turn": "No, no, no numbness or tingling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, so that was everything that I wanted to ask about today. Was there anything else that you wanted to mention?",
+    "patient_turn": "No, that was that. What do you think I have and how can I fix it?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so it. It's certainly it it sounds like with the medial aspect of your elbow having pain there over the last several months and some of the physical exam maneuvers, such as like passive wrist extension, resisted wrist flexion as well as pronation and the point tenderness over the medial elbow this could be a medial epicondylitis or a tendinopathy in that area. And so this is typically treated with activity modification, so this could be trying to avoid repetitive movements that that cause pain. And using medications such as Advil and Tylenol and doing strengthening and stretching exercises, which you can learn from a physiotherapist or or on your own as well. And also other things that that the medial side of the elbow that it could be is an ulnar ligament injury. Um or yeah, or the other thing to be considering is and ulnar ligament injury and so if the pain isn't going away, then we might consider an ultrasound or something to look at the structures there.",
+    "patient_turn": "OK, that sounds great. Thank you.",
+    "annotation": "Correct"
+  }
+]

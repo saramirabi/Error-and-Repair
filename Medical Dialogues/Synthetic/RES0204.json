@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've had a dry cough for about four to five days now. It hasn't really changed, and I've also had a clear runny nose for the last couple of days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "The cough started about four to five days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough gotten better or worse since it started?",
+    "patient_turn": "No, it hasn't really improved or worsened since it started. It's just been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it constant or does it come and go?",
+    "patient_turn": "The cough is mostly dry and feels a bit scratchy. It’s not constant; it comes and goes throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the cough better or worse?",
+    "patient_turn": "Not really. I haven't noticed anything specific that makes it better or worse. It just seems to be there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like a runny nose, fever, or difficulty breathing?",
+    "patient_turn": "I have a clear runny nose, but no fever or difficulty breathing. I feel fine otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough the most?",
+    "patient_turn": "So, the cough is mostly in my throat, I think? And it kind of feels like when you get a tickle, you know? But I’ve also been thinking about how I played outside a lot last week, and I was running around, which was really fun, but I didn’t notice anything different about my health until now. Oh, and my sister has been sneezing a bit too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, tickly, or something else?",
+    "patient_turn": "The cough feels dry and a bit scratchy, like a tickle in my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or phlegm when you cough?",
+    "patient_turn": "No, I haven't noticed any mucus or phlegm when I cough. It's just a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat or any pain when you swallow?",
+    "patient_turn": "No, I don't have a sore throat or any pain when I swallow. It feels fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt feverish or experienced any chills recently?",
+    "patient_turn": "No, I haven't felt feverish or experienced any chills at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any back or muscle pain lately?",
+    "patient_turn": "No, I haven't had any back or muscle pain lately. I feel fine otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or had any vomiting recently?",
+    "patient_turn": "No, I haven't felt nauseous or had any vomiting recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain or headaches at all?",
+    "patient_turn": "No, I haven't experienced any abdominal pain or headaches at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick lately?",
+    "patient_turn": "No, I haven't been around anyone who has been sick lately. I’ve been going to school, and there haven't been any known illnesses among my classmates.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is this the first time you've experienced a dry cough?",
+    "patient_turn": "Yes, this is the first time I've experienced a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or seen a doctor for any health issues?",
+    "patient_turn": "No, I've never been hospitalized or seen a doctor for any health issues. I've been healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I'm not currently taking any medications or supplements.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of asthma or other respiratory issues?",
+    "patient_turn": "Yes, my grandparents have a history of asthma, but I don't have any respiratory symptoms like wheezing or shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any wheezing or shortness of breath recently?",
+    "patient_turn": "No, I haven't experienced any wheezing or shortness of breath at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with both my parents and my four-year-old sister.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home or does anyone smoke?",
+    "patient_turn": "No, we don't have any pets at home, and no one smokes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you like to do for fun?",
+    "patient_turn": "I enjoy playing with my friends and playing video games. It's a lot of fun!",
+    "annotation": "Correct"
+  }
+]

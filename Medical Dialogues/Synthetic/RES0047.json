@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this worsening chest tightness and, like, increased shortness of breath over the past three days. My cough has also gotten worse, and it's been producing greenish sputum, which is kinda new for me. I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest tightness and shortness of breath?",
+    "patient_turn": "Well, I guess the chest tightness and shortness of breath have been, um, getting worse over the last three days, but I’ve had some issues with shortness of breath for a while now, especially when I exert myself, like running or shoveling snow. It’s just, um, more uncomfortable lately, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the chest tightness is located? Does it spread anywhere else?",
+    "patient_turn": "Um, the chest tightness is mostly in the center of my chest, I think. It doesn’t really spread anywhere else, but it feels uncomfortable, especially when I cough. It’s not, like, painful or anything, just, um, really tight and bothersome.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it’s more of a dull tightness, I guess. It’s not sharp or anything, just, um, uncomfortable and kind of, like, constricting, especially when I’m coughing. It’s just been really annoying lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make the chest tightness feel worse?",
+    "patient_turn": "Oh, you know, I was just thinking about how it’s been a while since I had a good pizza. I really love pizza, especially with extra cheese, but I should probably cut back on that.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It feels kind of uncomfortable, but I wouldn't say it’s painful at all. I mean, sometimes it feels sharp, but mostly it’s just tight. I haven't really noticed it much until now, though.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like to you? Is it sharp, dull, or something else?",
+    "patient_turn": "It feels more like a dull tightness, I guess. It’s not sharp or anything, just, um, kind of constricting and uncomfortable, especially when I cough. It’s really been bothering me lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Uh, yeah, I think I’ve felt a bit short of breath lately, but I’m not really sure when it started. And dizziness, I mean, sometimes I feel a little off, but I can't really pinpoint it. Nausea? Not really, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with COPD or chronic bronchitis before?",
+    "patient_turn": "Yeah, I’ve been diagnosed with COPD and chronic bronchitis by my family doctor. It’s been a part of my life for a while now, and I’m on medications for it, like Spiriva and some inhalers. But, um, lately, it feels like things are getting worse, and I’m really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your cough typically worse in the mornings?",
+    "patient_turn": "Yeah, it usually is worse in the mornings. I’ve had this cough for years, and it’s, um, pretty much daily, but mornings are definitely the worst. I usually cough up clear or white sputum, but now it’s been greenish, which is, like, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your sputum always been clear or white before it changed to greenish?",
+    "patient_turn": "Yeah, my sputum has mostly been clear or white for, um, a long time. But recently, it’s changed to greenish, and that’s really got me worried. I’ve never had that happen before, so it feels, um, pretty alarming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing along with your cough?",
+    "patient_turn": "Uh, yeah, I have noticed some wheezing along with my cough. It’s been, um, more pronounced lately, especially when I’m trying to catch my breath. It’s just adding to my anxiety about everything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your feet or ankles recently?",
+    "patient_turn": "Yeah, I’ve noticed some mild swelling in my feet. It’s not, like, super severe, but it’s definitely there. I’m not totally sure what’s causing it, but it’s just another thing that’s making me feel a bit more anxious about my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any palpitations or feelings of dizziness recently?",
+    "patient_turn": "Um, no, I haven’t really experienced any palpitations or, like, significant dizziness. Sometimes I feel a little off, but it’s not, um, anything too serious. I’m mostly just focused on the breathing issues and the chest tightness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Yeah, I’ve lost about 10 pounds over the last few years, but it wasn’t intentional. I mean, I didn’t really change anything major in my diet or anything, so it’s, um, a bit concerning. I guess I’m just feeling more tired lately, too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current?",
+    "patient_turn": "Uh, yeah, I’m up to date on my immunizations. I make sure to keep that in check, you know? It’s just one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart disease?",
+    "patient_turn": "No, um, my family history is pretty clear for lung or heart disease. I haven’t really had any issues like that in my family, which is, I guess, a bit of a relief. But with my own health problems, it’s still really worrying.",
+    "annotation": "Correct"
+  }
+]

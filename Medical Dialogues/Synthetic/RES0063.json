@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really unwell for about a week now. It started with a sore throat, and then I got chills and muscle aches... I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed the sore throat about five days ago. It’s been, um, a bit hard to swallow solids, but liquids are okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, the pain hasn’t really gotten worse, but it’s still there, you know? It’s just, um, uncomfortable, and I’m finding it a bit annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe exactly where the pain is located?",
+    "patient_turn": "Uh, it’s mostly in my throat, like, right here in the back. It’s not super sharp, but it’s definitely noticeable, especially when I try to eat something solid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your ears or neck?",
+    "patient_turn": "Well, the pain is mostly in my throat, but, you know, sometimes I feel like it might be a bit in my ears too, especially when I swallow. Oh, and speaking of swallowing, I remember the last time I had a sore throat, I ended up eating soup for a week because it was all I could manage. It’s funny how food choices change when you’re not feeling well, right?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Um, I’d say it’s more of a dull ache, you know? It’s not sharp or anything, just, like, uncomfortable and annoying. It’s hard to ignore sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make the pain better or worse for you?",
+    "patient_turn": "Well, um, drinking warm liquids helps a bit, like tea or soup, but, you know, when I try to eat solid foods, it definitely makes it worse. I guess just resting and not talking too much helps too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, I haven’t had any cough or shortness of breath or anything like that. I mean, I feel kinda fatigued and my appetite has decreased, but, um, no dizziness or nausea. Just feeling generally unwell, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits and lifestyle?",
+    "patient_turn": "Sure, um, I’m retired and mostly stay at home, you know? I live alone in my apartment in London. I used to smoke a lot, like, 1-2 packs a day until my late 40s, but I quit. I drink red wine a couple of times a week, maybe one bottle every two weeks. I don’t really go out much except for grocery shopping, and I always wear a mask.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical problems or take any medications regularly?",
+    "patient_turn": "Uh, I take…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any worrying symptoms like fainting or sudden breathlessness recently?",
+    "patient_turn": "No, I haven’t had any fainting or sudden breathlessness, thank goodness. Just, um, feeling tired and a bit off, you know? But nothing really alarming besides that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been feeling unwell?",
+    "patient_turn": "It’s been about a week now, I think. I started feeling generally unwell, and then the sore throat came on five days ago, followed by the chills and muscle aches. It’s just been, um, a rough week, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to clean out my closet. It's been ages since I did that, and I found some old clothes I forgot I had.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a dull ache, you know? It’s not sharp or anything, just, like, a constant discomfort that’s really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions do you have, if any?",
+    "patient_turn": "I have hypertension, type 2 diabetes, and hypercholesterolemia. I manage those with medications like ramipril, metformin, and rosuvastatin, along with some vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications do you take on a regular basis?",
+    "patient_turn": "I take ramipril for my hypertension, metformin for my diabetes, and rosuvastatin for my cholesterol. Oh, and I also take vitamin D and a multivitamin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve been pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medical conditions run in your family?",
+    "patient_turn": "Well, um, my parents both had hypertension, and my dad had a heart attack in his 60s. Also, my son was diagnosed with colorectal cancer at age 46, but I’ve had a normal colonoscopy, so I’m trying not to worry too much about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current, including any recent vaccines?",
+    "patient_turn": "Yeah, my immunizations are up to date. I got the shingles vaccine recently and the pneumococcal vaccine too, but I haven’t had the flu vaccine yet this year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick or showing symptoms recently?",
+    "patient_turn": "Um, not really. I haven’t been around anyone who was sick. I mostly stay at home except for grocery shopping, and I always wear a mask when I go out. So, I’m not totally sure where I might have picked this up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve never really been into that, just, um, the occasional glass of wine, you know?",
+    "annotation": "Correct"
+  }
+]

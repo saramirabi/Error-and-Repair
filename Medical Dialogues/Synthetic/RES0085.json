@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, my baby is a premature infant, born at 36 weeks, and, well, they started making these grunting noises with their breathing, like, just yesterday. It kinda worried me because they were also really irritable and had a low-grade fever last night, and this morning their temperature was about 38.7°C.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the grunting noises?",
+    "patient_turn": "I noticed the grunting noises this morning, um, but I think it was after they started being more irritable last night. It just, you know, made me really anxious to hear that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the grunting changed at all since you first noticed it?",
+    "patient_turn": "Um, I think it’s pretty much the same since I first noticed it. It’s, like, still there, and I’m kinda worried it might be getting worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you hear the grunting noises coming from?",
+    "patient_turn": "Uh, it seems to be coming from their chest, I think? Like, it’s definitely related to their breathing, and it just sounds, um, really labored and, you know, concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the grunting sound? Is it more like a low noise or something sharper?",
+    "patient_turn": "So, the grunting is kind of, um, low, I think, but it also sometimes sounds a bit sharper depending on when it happens. And you know, this morning, I was really worried because I had to check on the baby’s temperature again, which was around 38.7°C. I also noticed the baby was really fussy, and it reminded me of the time we had a family gathering, and everyone was all over the place.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe where you hear the grunting noises coming from?",
+    "patient_turn": "Uh, I think the grunting is, like, coming from the chest area? But I’m not totally sure, it’s just kind of hard to pinpoint. I mean, I guess it could be from other places too, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How long has the baby been making these grunting noises?",
+    "patient_turn": "So, um, it’s only been since this morning that I noticed the grunting noises. It feels like a really long time, though, because I’ve been so worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in the baby's behavior or activity level?",
+    "patient_turn": "Yeah, definitely. The baby has been more irritable than usual, and, um, they seem a bit less active. It’s just, like, really concerning to see them like this, especially with the grunting and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in the infant's feeding habits recently?",
+    "patient_turn": "Yeah, um, feeding has been difficult lately. The baby hasn’t been eating as much as usual, and I’m kinda worried about that. It’s just hard to see them struggle, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like coughing or difficulty breathing?",
+    "patient_turn": "Oh, you know, I really need to remember to buy some groceries after this appointment.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How long has the infant been making those grunting respiratory noises?",
+    "patient_turn": "Um, the grunting respiratory noises started just this morning. It feels like it’s been a lot longer because I’ve been so anxious about it, but it’s really only been a few hours.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your baby been around anyone who was sick recently?",
+    "patient_turn": "No, um, there haven’t been any recent sick contacts that I know of. We’ve been pretty careful, and the baby hasn’t been around anyone who’s been ill. It’s just, you know, really confusing why this is happening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your baby ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, um, the baby hasn’t been hospitalized or had any surgeries before. This is all pretty new and, honestly, it’s really stressful for me. I just want to make sure they’re okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your baby up to date on all their immunizations?",
+    "patient_turn": "Yes, um, the baby is up to date on all their immunizations. I’ve been keeping track of that, but, you know, with everything going on, I’m just really worried about their health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your baby have any known allergies to foods, medications, or anything else?",
+    "patient_turn": "No, um, there are no known allergies that I’m aware of. It’s just, you know, everything feels a bit overwhelming right now with the grunting and the feeding issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease in your family?",
+    "patient_turn": "No, um, there’s no family history of lung or heart disease that I know of. It’s just, you know, I’m really anxious about all of this, especially since the baby is so little and everything feels so serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your home environment like? Any pets, smoke, or allergens present?",
+    "patient_turn": "Uh, our home environment is pretty clean and smoke-free. There are no pets or known allergens around, so I’m not sure why the baby is having these issues. It just makes me more worried, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific concerns do you have about your baby's breathing or health right now?",
+    "patient_turn": "Well, um, I’m really worried about the grunting noises and how they seem to be struggling to breathe. It just feels so scary to see my baby like this, especially with the low-grade fever and feeding difficulties. I just want to make sure they’re okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any questions about the plans for your baby's hospital admission?",
+    "patient_turn": "Um, I guess I’m just a bit anxious about what to expect during the hospital admission. Like, will they be okay? And, um, how long might they need to stay? I just want to make sure they get the right care.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "doctor_turn": "OK, how old are you Rob?",
+    "patient_turn": "I'm I'm 50 I'm gonna be 50 soon.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, OK, when did this start?",
+    "patient_turn": "Well, like last night I kinda had like an ache on my chest, kind of like here like on the left. I just I didn't do anything really last night and you know I just went to sleep and I got to sleep fine like I just thought maybe I pulled a muscle on this side. But then I woke up and I was like walking up the stairs and I like was kinda having a hard time breathing and I took some Tylenol. It didn't really do anything. Um, and then it just got worse and then a few hours ago is like I could barely walk. And if I'm breathing deep it's like it just hurts. And I feel like I can't like catch my breath like I can't get a good like a good breath in.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Um, OK, so I just want to state at this point I would do ABC's, like I would do the vitals and make sure you're stable and then do airway breathing circulation if you weren't before I continue with the history. OK, so. OK, so that's how it started. Um, are you having any chest pain at all associated with that?",
+    "patient_turn": "Like when I breathe in, I get like and it's like an ache. And then if I breathe really deep it feels like a little sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? OK, that was going to be my next question. On a scale of 1 to 10, how severe is your shortness of breath, 10 being the worst?",
+    "patient_turn": "Um, I don't, I don't know, um. Like I can breathe right now, I can't get like a deep breath, like...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does it? Oh sorry, go ahead.",
+    "patient_turn": "Maybe like you know five or six.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it hurt when you take a deep breath in?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah?",
+    "patient_turn": "Yeah, it's like it's like sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, sorry, sounds like you're having some pleuritic chest pain. Do you have any coughing associated with that?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? You're not coughing up any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your legs?",
+    "patient_turn": "I I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? OK, how about on exertion? Like when you walk or run, or you know, does it hurt more or does I mean sorry, does your shortness of breath get worse?",
+    "patient_turn": "Oh yeah, it was like going up the stairs, can't really breathe in after.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about when you're laying down?",
+    "patient_turn": "I don't know. I don't think that's any different. No, I slept fine last night. I got up and when I went up the stairs I was like holy...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK. How about wheezing? Are you experiencing any wheezing?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about fevers or chills?",
+    "patient_turn": "No, not that I've noticed, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any abdominal pain?",
+    "patient_turn": "Uh, no, no, it's like it aches kind of it, but it's all up here and like kind of in my back a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, do you think anything triggered this?",
+    "patient_turn": "I don't know.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "No? OK. And you said this has never happened to you before, right?",
+    "patient_turn": "Right, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it get better with you sitting forward?",
+    "patient_turn": "I don't know, like I, I feel like that it's still kind of aching like it doesn't, it's not really like changing very much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. OK, any changes in your vision, hearing or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? Any rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? Weight loss?",
+    "patient_turn": "I, I mean, I've been trying to to lose weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "They told me a year ago I have like high blood pressure so I've been cutting out like salt and trying to walk more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good.",
+    "patient_turn": "So I've lost like 15 pounds but like not... Like I've been trying to.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. 15 pounds, that's good. Are you experiencing any dizziness or you feeling faint?",
+    "patient_turn": "No, just like a I can't get like a good breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you otherwise healthy? You mentioned you have high blood pressure, anything else?",
+    "patient_turn": "No, that's that's like it. I've never had any like chest problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any investigations done for your chest like pulmonary function tests, ECG's, chest X-rays?",
+    "patient_turn": "No, no, they just they just put the thing on my arm. But my doctors office and said that it was high. So they said to you know, eat better and I don't I don't wanna start any drugs so, I didn't do anything. I've been fine ever since.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, so you're not on any medications?",
+    "patient_turn": "No, just yeah, no that's it. I mean I, you know sometimes take like a Tylenol if I'm not feeling well but...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "And do you smoke?",
+    "patient_turn": "I, like I, smoke a little bit. Maybe like a pack a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A pack a week, OK? For how long?",
+    "patient_turn": "Oh like since college.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK OK. Um, do you smoke marijuana?",
+    "patient_turn": "Uh. No, no and I I smoke, I'm trying to smoke less, you know, since they told me I have the high blood pressure. So I used to smoke a little more but this is this is less but not since I've been having trouble breathing. Is it, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. Any other recreational drugs?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. How about alcohol? Do you drink alcohol?",
+    "patient_turn": "Oh like, maybe you know, a beer on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you up to date with all your immunizations?",
+    "patient_turn": "Like I don't I think I got all the ones when I was like a kid. What else should I have?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, so like the flu vaccine every year?",
+    "patient_turn": "Oh, I get that, like my wife, my wife makes me get that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK that's good. Any family history of lung or heart disease?",
+    "patient_turn": "Oh like my, uh, my mom and dad have high blood pressure too, so I wasn't surprised when I heard that I did.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. Um, OK so Rob, is there anything that you wanted to tell me that I haven't asked you already today?",
+    "patient_turn": "I am really like nervous 'cause I haven't felt anything like this before. Um, like it's scary, like do you think it's like cancer or something like I don't I don't really know?",
+    "annotation": "Correct"
+  }
+]

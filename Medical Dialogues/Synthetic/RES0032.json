@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this really persistent cough for about a month now. It’s, like, productive, and I’m coughing up dark sputum, sometimes with a bit of blood in it… and it’s just getting worse, especially in the mornings. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Uh, it’s definitely gotten worse. At first, it was just, like, a mild cough, but now I’m coughing up more sputum, and it’s darker. I also, um, notice it’s worse in the mornings, and I’m, like, really fatigued and losing weight, which is kinda scary.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Yeah, um, I sometimes feel this stabbing pain on the right side of my chest, especially when I take deep breaths. It’s, like, sharp and kinda uncomfortable… but I don’t really have shortness of breath, except when I’m exerting myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you’re coughing? Is it dry or productive?",
+    "patient_turn": "Oh, it’s definitely productive. I mean, I’m coughing up sputum, and it’s, like, dark and sometimes has a bit of blood in it, which is really concerning. It’s not dry at all, and I feel like I’m coughing a lot throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was maybe about a month ago? I’m not really sure, but it kind of just started after I had that cold, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain, and does it spread to any other areas?",
+    "patient_turn": "Um, I think it’s mostly on the right side, but I’m not totally sure if it spreads anywhere else. It's just, you know, kind of there sometimes.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did your cough start after you had the cold?",
+    "patient_turn": "Uh, I think it started, like, a week or so after I had the cold. So, um, it’s been about a month now since the cough really kicked in. It just kinda stuck around, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your cough been getting worse since it first started?",
+    "patient_turn": "Yeah, definitely. It’s, um, gotten a lot worse since it first started. I’m coughing up more sputum now, and it’s darker, plus I’m feeling really tired and losing weight, which is, like, really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many times a day do you usually cough up sputum?",
+    "patient_turn": "Um, I’d say I cough up sputum several times a day, like, maybe five or six times? It’s hard to keep track, but it feels like I’m doing it pretty often, especially in the mornings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fevers while dealing with your cough?",
+    "patient_turn": "Yeah, I’ve had some intermittent low-grade fevers. It’s, um, not super high, but I’ve been having night sweats too, which is kinda annoying. I’ve had to change my pajamas and sheets a few times a week because of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat or any rashes recently?",
+    "patient_turn": "Uh, no, I haven’t had a sore throat or any rashes. It’s mostly just the cough, the sputum, and the night sweats… and I’m feeling really fatigued. So, um, nothing else like that, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble sleeping at night aside from the night sweats?",
+    "patient_turn": "Um, not really, no. It’s mostly just the night sweats that are bothering me. I mean, I don’t have significant sleep disturbances aside from that, but it’s still, you know, kinda frustrating to wake up all sweaty.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your appetite recently?",
+    "patient_turn": "Uh, not really, I guess. I mean, I’m eating, but I’ve been losing weight without trying, like, about 15 pounds over the past few months. It’s, um, kinda concerning, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other illnesses or infections recently, apart from the cold you mentioned?",
+    "patient_turn": "No, I haven’t had any other illnesses or infections besides that cold. It’s just been this persistent cough and the other symptoms, you know? Nothing else really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any tingling or numbness in your body?",
+    "patient_turn": "Uh, no, I haven’t noticed any tingling or numbness at all. It’s mostly just the cough, the chest pain, and the fatigue… nothing like that, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how much do you smoke each day?",
+    "patient_turn": "Um, I’ve been smoking for quite a while, like, many years now. I smoke about 1 to 2 packs a day, which I know is a lot. Honestly, I’m kinda worried about how it might be affecting my health, especially with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "Uh, no, I don’t have any known allergies to medications. I mean, I’ve been using a beta-agonist inhaler, inhaled corticosteroid, and an antimuscarinic inhaler without any issues, so, um, I think I’m good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What inhalers are you currently using, and how often do you use them?",
+    "patient_turn": "I’m using a beta-agonist inhaler, an inhaled corticosteroid, and an antimuscarinic inhaler. Um, I use them as needed, but I’m not totally sure about the exact frequency. I just try to manage my symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "Uh, no, I haven’t been hospitalized or had any surgeries in the past. I mean, I’ve just been dealing with chronic bronchitis and my smoking, but nothing major like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you lived in the Philippines?",
+    "patient_turn": "I’ve been living and working in the Philippines for about three years now. It’s, um, been quite an experience, but I guess I’ve had some exposure to people with tuberculosis, which is kinda worrying me now with all these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in close contact with anyone diagnosed with tuberculosis recently?",
+    "patient_turn": "Um, I’ve had exposure to individuals with tuberculosis while living in the Philippines, but I haven’t been in close contact with anyone diagnosed recently. I mean, I had a TB skin test a few years ago, and it was normal, but now I’m just, like, really anxious about these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last TB skin test?",
+    "patient_turn": "Uh, my last TB skin test was several years ago. I think it was, um, normal, but I can’t remember the exact date. It’s just been a while since I had it done.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been exposed to mold or pets in your home recently?",
+    "patient_turn": "No, I haven’t been exposed to mold or pets at home. I mean, it’s just me and my girlfriend living in our apartment, and we don’t have any pets or anything like that. So, um, I don’t think that’s a factor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone in your family had lung cancer or other significant lung diseases?",
+    "patient_turn": "Yeah, my father had lung cancer, and he passed away at age 67. Um, there’s no family history of heart attacks or other cancers, but, you know, that really worries me with my own symptoms and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has anyone in your family had heart attacks?",
+    "patient_turn": "Uh, no, there’s no family history of heart attacks. It’s mostly just my father with lung cancer, but, um, I’m kinda worried about my own health with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live with anyone else, and do they smoke?",
+    "patient_turn": "Yeah, I live with my girlfriend, and, um, she doesn’t smoke. It’s just me who’s the heavy smoker in the apartment. I guess I’m just trying to manage my health, but it’s been tough lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "No, I don’t drink alcohol or use any recreational drugs. I mean, it’s just the smoking for me, but I’m trying to focus on my health with everything that’s been happening.",
+    "annotation": "Correct"
+  }
+]

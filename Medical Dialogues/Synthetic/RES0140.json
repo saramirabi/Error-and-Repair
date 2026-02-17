@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really short of breath and I have this, like, sharp chest pain when I take a deep breath. It started this morning when I woke up. I’m kinda worried about it…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the chest pain and shortness of breath start?",
+    "patient_turn": "It started this morning, um, right when I woke up. The pain is mostly when I breathe in deeply, and it’s just been getting worse… I don’t know, it feels pretty concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located? Does it spread anywhere else?",
+    "patient_turn": "... um, it's kind of in the .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or like pressure?",
+    "patient_turn": "It’s definitely sharp, like, um, it really hurts when I take a deep breath. I guess it feels a bit like a stabbing pain, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, it gets worse when I take a deep breath, um, or if I cough. I haven’t really found anything that helps, honestly. I’ve just been trying to stay still, but it’s still there…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located?",
+    "patient_turn": "Oh, um, it's mostly in the center of my chest, but I think it might be a bit on the right side too. It doesn’t really spread anywhere else, though… just there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain?",
+    "patient_turn": "I first noticed it this morning when I woke up. It just kind of hit me, and, um, it’s been bothering me since then. I didn’t really expect it, to be honest…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "It's kind of sharp, but also dull sometimes. I mean, it doesn't really feel like pressure at all, actually.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one place, or does it spread to other areas?",
+    "patient_turn": "It mostly stays in one place, um, right in the center of my chest, but sometimes I feel it a bit on the right side too. It doesn’t really spread anywhere else, though… just kind of stays there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one place, or does it spread to other areas?",
+    "patient_turn": "Um, it kind of stays in one place, but sometimes it spreads to my arm, I think. But it doesn't really do that all the time, actually.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one place, or does it spread to other areas?",
+    "patient_turn": "It mostly stays in one place, um, right in the center of my chest. Sometimes I feel it a bit on the right side, but it doesn’t really spread anywhere else. It’s just, like, really focused there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough or wheezing along with the chest pain?",
+    "patient_turn": "No, I haven’t had any cough or wheezing at all. It’s just the chest pain and the shortness of breath, um, nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or nasal congestion recently?",
+    "patient_turn": "No, I haven’t had any headaches or nasal congestion. It’s just the chest pain and shortness of breath, um, nothing else really. I’m kinda worried about it, to be honest…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain or swelling in your calf recently?",
+    "patient_turn": "Yes, actually, I’ve noticed some pain and swelling in my right calf over the past few days. It’s been getting worse since last night, and, um, I’m really concerned about that too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you have your hip surgery?",
+    "patient_turn": "I had my hip surgery about a week ago. I just got discharged from the hospital, and, um, I’ve been trying to follow the advice to move around, but it’s been hard…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your mobility been at home since your surgery?",
+    "patient_turn": "Um, my mobility has been pretty limited since the surgery. I’ve been trying to move around a bit, but it’s, like, really difficult. I guess I haven’t been as active as I should be, and I’m kinda worried about that too…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of hypertension or varicose veins?",
+    "patient_turn": "Yes, I have a history of hypertension, and I also have varicose veins. I’m managing the hypertension with lisinopril, but, um, I’m not sure if the varicose veins are causing any issues right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or other substances. I’m, um, pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share your smoking and alcohol use history?",
+    "patient_turn": "Sure, um, I have a 15-year smoking history, but I stopped after having kids. I used to smoke about half a pack a day in my 20s and 30s. As for alcohol, I drink occasionally, like, one glass once or twice every few days. That's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of heart disease or blood clots?",
+    "patient_turn": "I’m not totally sure about that. We didn’t really discuss family history, um, so I can’t say if there’s any heart disease or blood clots in my family.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried because I’ve had this loss of taste for the last two days, and it’s, like, really strange, especially with foods I usually love, like pizza. I also have this dry cough that started a few days ago, and I’ve been feeling really tired and a bit dizzy when I stand up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the loss of taste and the cough?",
+    "patient_turn": "I first noticed the loss of taste about two days ago, but the cough started, um, maybe three or four days ago? It’s just been kinda annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels like it is coming from?",
+    "patient_turn": "Um, it feels like it’s just in my throat, I guess? It’s dry and scratchy, but I don’t have any chest pain or anything like that. Just, like, a little difficulty catching my breath after coughing sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickle, a tightness, or something else?",
+    "patient_turn": "Um, it’s just... .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think I noticed the cough starting, um, maybe three or four days ago? It just kind of came out of nowhere, and it’s been dry and scratchy since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What other symptoms have you noticed along with the cough?",
+    "patient_turn": "Well, I’ve been feeling really fatigued and, um, more sleepy than usual. I also had a single episode of diarrhea this morning, but there was no pain or anything. Oh, and I’ve felt a bit dizzy when I stand up, which I think might be from not drinking enough water.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about the loss of taste you’ve experienced? When did that start?",
+    "patient_turn": "Yeah, um, the loss of taste started about two days ago. It’s just really weird because, like, I can’t taste anything properly, especially foods I usually enjoy, like pizza. It’s honestly kinda frustrating and, um, worrying too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your breathing, like shortness of breath or difficulty catching your breath?",
+    "patient_turn": "Yeah, um, I’ve had some transient difficulty catching my breath after coughing, but it’s not, like, constant or anything. I don’t really have shortness of breath otherwise, but it’s still a bit concerning, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like dizziness, nausea, or fatigue?",
+    "patient_turn": "Um, yeah, I’ve definitely been feeling more fatigued than usual, and I’ve had some mild dizziness when I stand up. I’m not really nauseous, but I guess the tiredness is, like, really getting to me. It’s just... a lot right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been feeling this way?",
+    "patient_turn": "Uh, I think it's been a couple of days or maybe three, but I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the dizziness?",
+    "patient_turn": "Um, it mostly happens when I stand up, like, I feel a little lightheaded. It’s not, like, super intense or anything, but it’s definitely there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the dizziness feel like for you?",
+    "patient_turn": "It’s, um, kind of a lightheaded feeling, I guess? Like, when I stand up too quickly, everything just feels a bit off for a moment. It’s not, like, spinning or anything, just... a little wobbly, I suppose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms besides the dizziness?",
+    "patient_turn": "Um, yeah, besides the dizziness, I’ve been really tired and, like, I mentioned the dry cough and loss of taste. Oh, and I had that one episode of diarrhea this morning, but no pain or anything. It’s just been a lot of different things happening, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been feeling this way?",
+    "patient_turn": "I’m not really sure, maybe it started around the same time as the cough? Like, a couple of days ago, I think.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough, and does it ever feel like it spreads anywhere?",
+    "patient_turn": "Um, it feels like it’s mostly in my throat, you know? It doesn’t really spread anywhere else, but sometimes I feel a bit of tightness in my chest after coughing, but it’s not, like, super intense or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent injuries or been to the hospital?",
+    "patient_turn": "No, I haven’t had any recent injuries or been to the hospital, except for, um, I had an appendectomy about four years ago, but that’s it. I’m just, like, really worried about all these symptoms now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies, or have you had any reactions to anything recently?",
+    "patient_turn": "Um, I think I might have a possible cat allergy, but I haven’t been around any cats recently. Other than that, I don’t have any known allergies or reactions that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications or supplements right now?",
+    "patient_turn": "No, I’m not on any medications or supplements at all. I don’t really take anything, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke tobacco or use marijuana?",
+    "patient_turn": "Uh, no, I don’t smoke tobacco or marijuana. I do use flavored vape products a few times a day, but I’m not totally sure if they have nicotine in them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol, and if so, how often?",
+    "patient_turn": "No, I don’t drink alcohol at all. I’ve just never really been into it, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my mom, my stepdad, and my younger sister in a townhouse. It’s pretty clean, and we all get along well, but, um, I’m just really worried about what’s going on with me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who had a cough or fever recently?",
+    "patient_turn": "Yeah, actually, I had some recent exposure to a classmate who had a cough and fever. I’m kinda worried that I might have caught something from them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any significant health issues?",
+    "patient_turn": "Um, yeah, my grandfather has lung cancer and diabetes, but other than that, I don’t think there are any major health issues in my family. It’s just, like, really concerning with everything going on right now.",
+    "annotation": "Correct"
+  }
+]

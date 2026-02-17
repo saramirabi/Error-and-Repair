@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this, like, sharp pain on the left side of my chest for about two weeks now. It comes and goes, usually lasts around 20 to 30 minutes, and happens two to three times a week. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, it hasn’t really changed much, to be honest. It’s still intermittent and, um, the intensity is about the same, like a 4 out of 10. It doesn’t seem to happen more often or get worse, but it still makes me anxious every time it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your chest?",
+    "patient_turn": "It’s, um, localized on the left side of my chest. It doesn’t really radiate anywhere else, you know? Just right there, and it’s sharp when it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when it occurs?",
+    "patient_turn": "It’s, um, sharp, like I said, and it can be pretty intense, but it’s not, like, unbearable. I’d rate it about a 4 out of 10. It just catches me off guard, and I feel a bit anxious when it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this chest pain?",
+    "patient_turn": "Uh, I think it was maybe about two weeks ago? Or it could have been a little less, I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How often do you experience the chest pain?",
+    "patient_turn": "I experience it, um, two to three times a week. It’s not super frequent, but it still worries me, you know? I just wish it would stop.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Yeah, it’s, um, on the left side of my chest. Just right there, localized, and it doesn’t really move anywhere else. It’s kind of unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when it occurs?",
+    "patient_turn": "Well, the pain is sharp, but sometimes it feels more dull, I guess? And I’ve had it a few times before, but I haven’t really, you know, had any issues like this before.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Do you have any chronic medical conditions or take any medications regularly?",
+    "patient_turn": "No, I don’t have any chronic medical conditions, and I’m not on any regular medications. I’ve been pretty healthy overall, but this chest pain is really throwing me off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "Um, no, I don’t have any known allergies to medications or anything else. I’ve never really had any issues like that, so, yeah, I’m not sure about that either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced heartburn or acid reflux before?",
+    "patient_turn": "No, I’ve never had heartburn or acid reflux before. This chest pain is really different from anything I’ve felt in the past, so it’s, um, concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high blood pressure?",
+    "patient_turn": "No, I’ve never been diagnosed with high blood pressure. I’ve never really been tested for it, to be honest, but I don’t think I have any issues like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had your cholesterol levels checked?",
+    "patient_turn": "Um, no, I’ve never had my cholesterol levels checked. I’ve never really had any reason to, I guess, but I’m not totally sure what my levels would be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many days a week do you usually exercise?",
+    "patient_turn": "I usually exercise about three to four times a week. I like to run or cycle, you know, just to stay active. It’s been part of my routine for a while now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke in a day?",
+    "patient_turn": "I smoke, um, about half to one pack a day. I’ve been trying to cut back recently, but it’s been tough. I’m kinda worried about how it might be affecting my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol occasionally, mostly on the weekends, like one or two glasses of wine. It’s not a lot, but, um, I guess I just do it to relax sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve never really been into that, so it’s not something I have to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside Canada recently?",
+    "patient_turn": "No, I haven’t traveled outside Canada recently. I’ve just been here, so, um, that’s not something I need to think about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart disease?",
+    "patient_turn": "Yeah, my dad had a myocardial infarction at age 60. It’s, um, definitely something that worries me, especially with this chest pain I’ve been having.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more stressed than usual lately?",
+    "patient_turn": "Yeah, I’ve definitely been feeling more stressed lately. It’s been, um, especially tough since I separated from my husband about two years ago. I think that’s added to my anxiety about the chest pain, you know?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "doctor_turn": "Well can you tell me what brought you in today?",
+    "patient_turn": "Yeah, I woke up this morning and I was just feeling suddenly feeling very short of breath and I just wasn't sure what was going on, so I thought I would come in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, this this morning suddenly feeling short of breath. OK, and this cough was not also something that happens suddenly this morning?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you ever had anything like this before?",
+    "patient_turn": "Um no not I mean if I I get a call from time to time when I get sick, but I've never really felt short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is this cough a dry cough or are you bringing up any sputum?",
+    "patient_turn": "Um it's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, have you had any fevers?",
+    "patient_turn": "Um yeah, I checked it this morning. I was like it was kind of mild, so 37.4 I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. That was just this morning?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, uh. Have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK Um. Have you felt at all like you're going to faint?",
+    "patient_turn": "No, no. Although I I should let you know and maybe I don't know if it's related um, but I had a seizure last night. And, I was fine after and then I went to bed. Um I don't know if that's related, but I thought I should let you know. I do have a seizure disorder I have epilepsy.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK OK, thank you for sharing that with me. Have you ever had any issues like this following seizures in the past?",
+    "patient_turn": "No, I usually don't get seizures very often. Um I kind of forgot to take my med. I think that might have yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, OK. No worries um. OK, is there anything, in terms of this shortness of breath and this cough, is there anything that makes it feel worse?",
+    "patient_turn": "Um I.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "In any position?",
+    "patient_turn": "Yeah, I. I mean, I haven't really been in a lot of positions like it, just started three hours ago or so, so I haven't really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "That's a hard question.",
+    "patient_turn": "Yeah I haven’t done much since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any belly pain",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any diarrhea?",
+    "patient_turn": "Uh no, no I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been in contact with anyone that's been sick lately?",
+    "patient_turn": "Uh no, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you traveled anywhere?",
+    "patient_turn": "No, I've just been at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anything else you wanted to tell me that I didn't ask you about?",
+    "patient_turn": "Um no no. I.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have lost any of your sense of taste or smell?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Runny nose?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm. So in terms of your overall health you said that you have epilepsy. Any other chronic conditions that you've been diagnosed with?",
+    "patient_turn": "No, that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You said you take a medication. What medication or medications are you currently taking?",
+    "patient_turn": "Um I'm taking Keppra.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And normally, are you having any difficulty remembering taking it, or was it just kind of a brain fart?",
+    "patient_turn": "No, it just kind of happened, it was, it was my daughter's birthday and we kind of just, I usually sort of have it with dinner time, but we did things a little bit differently and had like a celebration earlier on and so I completely forgot because I didn't have dinner later.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "Oh yeah, that makes sense. It happens for sure. K, do you have any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history, any any diseases that run in your family?",
+    "patient_turn": "Yeah, epilepsy runs in the family. My mom had it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in terms of your lifestyle, you said that you have a daughter. So do you live with your family? Do you live with your daughter?",
+    "patient_turn": "Yeah, yeah, I live with my daughter and my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How old is your daughter?",
+    "patient_turn": "Pardon me.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How old is your daughter?",
+    "patient_turn": "She's 16 years old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh wow sweet 16",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, OK, so are you currently working?",
+    "patient_turn": "I I am yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I’m an accountant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK cool, are you working from home or still working out?",
+    "patient_turn": "I’m working from home yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nice and thats sounds great. OK, and uh. Do you smoke?",
+    "patient_turn": "I don’t, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "On the weekends, one or two class says a wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And did you use any other substances?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I think that about covers my questions for now. So I'm gonna take everything we talked about. I'm going to go over it with the doctor was working today and now we'll come back shortly and talk to you about the next steps if there's any tests we want to do or how we want to move forward with this so.",
+    "patient_turn": "Yeah, thats great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Sure see you shortly.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  }
+]

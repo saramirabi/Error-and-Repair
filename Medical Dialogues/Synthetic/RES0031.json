@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here. I’ve been having this, like, really sore throat since last night, and it’s just gotten worse. It feels kinda burning, especially when I swallow solids… and I’ve also noticed my voice is really hoarse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain now? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s, um, more of a burning pain, honestly. It’s really uncomfortable, especially when I try to swallow anything solid. Cold liquids or ice cream help a bit, but, you know, it’s still pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one place, or does it spread anywhere else?",
+    "patient_turn": "It mostly stays in the back of my throat, but I’ve been feeling this weird sensation of swelling there too. Um, sometimes it feels like it’s kinda spreading, but I think it’s just the irritation, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "Uh, I think it started maybe last night, or possibly the night before? I'm not really sure, to be honest.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "It’s definitely gotten worse since it started. Like, at first it was just a little sore, but now it’s this burning pain that makes it hard to swallow. I’m kinda worried because it just feels more intense, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your throat?",
+    "patient_turn": "I actually just remembered I need to pick up some laundry after this appointment.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or trouble breathing at all?",
+    "patient_turn": "No, I haven’t had a cough or any trouble breathing. It’s mostly just the sore throat and, um, the hoarseness. I’m really just focused on the pain in my throat right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chills or fever recently?",
+    "patient_turn": "Yeah, I had chills yesterday morning, and when I came in, they found that I had a fever. I’ve been feeling pretty fatigued too, um, for the last few days. It’s just been a lot, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite or felt more tired than usual?",
+    "patient_turn": "Yeah, I’ve definitely noticed a change in my appetite. I haven’t been eating much lately, and I’ve been feeling really tired, um, more than usual. It’s just been hard to feel up to doing anything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal soreness or noticed any changes in your weight recently?",
+    "patient_turn": "I’ve had some mild abdominal soreness, but, um, nothing too serious. I haven’t noticed any changes in my weight, though. It’s just been a bit uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any lumps in your neck or changes in your breath odor?",
+    "patient_turn": "No, I haven’t noticed any lumps in my neck or any changes in my breath odor. It’s just the sore throat and the hoarseness that’s really bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "Um, no, my past medical and surgical history is pretty unremarkable. I haven’t had any major issues or hospitalizations, and I’m not on any medications. So, yeah, nothing really stands out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, including over-the-counter ones?",
+    "patient_turn": "No, I’m not taking any medications right now, not even over-the-counter ones. I guess I just thought I could handle this on my own, but it’s been pretty rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of serious illnesses, like heart disease or diabetes?",
+    "patient_turn": "Well, my dad has type 2 diabetes, but, um, that’s about it. There’s no history of cancer or heart disease in my family, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you living alone, or do you have roommates or family with you?",
+    "patient_turn": "I’m living in a dorm with, um, roommates. It’s kind of hectic sometimes, but I guess it’s nice to have people around. But right now, I’m just feeling really tired and not up for much socializing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I drink alcohol socially on weekends, but that’s about it. I’m just trying to focus on feeling better right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on the weekends?",
+    "patient_turn": "Um, I usually drink socially on the weekends, maybe once or twice, but I’m not totally sure how much. It’s just, like, when I’m hanging out with friends, you know? But I haven’t felt like drinking much lately with how I’ve been feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many sexual partners have you had in the past year?",
+    "patient_turn": "I’ve had, um, three female partners in the past year. I’m currently with one partner, and I always use condoms for contraception. It’s just, you know, something I’m careful about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you consistently use condoms during sexual activity?",
+    "patient_turn": "Yeah, I always use condoms during sexual activity. It’s really important to me to be safe, you know? I just want to make sure everything is okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes your sore throat feel worse?",
+    "patient_turn": "Um, I haven’t really noticed any specific triggers, but swallowing solids definitely makes it feel worse. Talking too much can also irritate it, which is frustrating. I guess just, you know, the general discomfort is hard to ignore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced similar throat issues or sore throats before this episode?",
+    "patient_turn": "Not really, um, I mean, I had that mild upper respiratory illness a couple of weeks ago with a sore throat, but nothing like this before. This feels way worse, and I’m kinda worried because it’s just not getting better.",
+    "annotation": "Correct"
+  }
+]

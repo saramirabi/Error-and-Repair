@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "How may I help you today?",
+    "patient_turn": "Hi, so yeah I I'm really worried. I started coughing up blood this morning, and for the last two days I've been having some, like on my right calf, just a lot of swelling and tenderness. Uhm, I just actually got out of the hospital just last week. I had a knee replacement surgery on my right leg. So yeah, I was just really concerned about this blood that I'm coughing up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly. So when, so you had a knee surgery last week, were you like immobilized afterwards for periods of time?",
+    "patient_turn": "Yeah, I've been just taking some rest, not really doing too much. And even in the hospital, like I was there for a day and was pretty immobilized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any pain in your calf, and if so, which which one?",
+    "patient_turn": "It's just the right calf and it's it's pretty swollen right now and I was having a lot of pain over it for the last two days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK is it, can you feel the pain at rest, or or is it with uh like with movement? Or if you press on it?",
+    "patient_turn": "It's yeah, it's pretty tender when I press on it. I haven't really been moving around, and it's still like painful right now, but it doesn't really hurt when I'm like, like I've been trying to keep myself rested just because of the surgery, but when I press on it, it is pretty tender.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is the is the swelling in kind of one spot of your leg, or is it most of the of the leg?",
+    "patient_turn": "It's just the calf, I would say more like just the lower leg area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you noticed any skin changes, like redness or or temperature like it feels hot to touch.",
+    "patient_turn": "Maybe a little bit. I haven't really noticed it too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have a history of like varicose veins or anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So uhm when did the coughing up blood start?",
+    "patient_turn": "Just this morning actually. So just uh, like I would say a couple hours ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much blood are you coughing up?",
+    "patient_turn": "Just some on like I just notice on the tissue like just some spots that I noticed every time that I'm, like, I would have to cough it up. Maybe like in the last couple hours, I've had three episodes of that where I've noticed blood on the tissue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see and did you ever cough prior to this?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and have you been experiencing any infectious symptoms like red or runny eyes, runny nose, sore throat?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been having any chest pain or or shortness of breath?",
+    "patient_turn": "No chest pain, but I do feel like I do have to take like a deeper breath. Like I've just been feeling it this morning a little bit. It's just kind of a bit of uneasy breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it has been more difficult to breathe. And is that is that at rest as well, do you feel that kind of sensation?",
+    "patient_turn": "Yeah, even right now, just a little bit, like it's it's not anything that I'm too worried about, but it is there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any pain if you have if if you take a deep breath in.",
+    "patient_turn": "Uh, no I don't, no I don't really have any pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you feel like your your heart's racing or beating really fast.",
+    "patient_turn": "I I do feel like my heart is beating like faster, especially today. But yeah, I don't know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about your breathing? Do you feel like you're breathing faster.",
+    "patient_turn": "No breathing, I feel like it's around the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any lightheadedness, or dizziness, or or feeling like you're going to pass out?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any any wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, uh have you had any abdominal pain?",
+    "patient_turn": "Uh no, no abdominal pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting.",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea?",
+    "patient_turn": "No diarrhea, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you noticed any rashes or or changes to your skin?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any other like joint pains, muscle aches?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. Have you ever had a a DVT before?",
+    "patient_turn": "No, I've never had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, or yeah, like a deep vein thrombosis or have you had a pulmonary embolism before?",
+    "patient_turn": "No, I've never had anything like that before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "I do have uh, so with my with my knee and then I do have high blood pressure, uh I have diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, then was it a knee replacement you had done?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you take any medications for the blood pressure and diabetes?",
+    "patient_turn": "Yeah, so for the blood pressure I'm taking medication called Ramipril, and then for diabetes I'm taking Metformin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you needed like insulin for diabetes before?",
+    "patient_turn": "No, I've never had to use insulin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and and do you take any other medications, either prescribed or over the counter?",
+    "patient_turn": "No, nothing else. I actually I do take some multivitamins, but besides that nothing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and do you have any allergies to medications?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any hospitalizations or surgeries in the past besides the the knee surgery last week?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so you've been healthy otherwise. I I'm not sure I I ask this, I'm wondering if you had any fevers or chills.",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh how about any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and uhm has your weight been stable over the last several months or have you had any changes?",
+    "patient_turn": "Yeah, it's been pretty stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, thank you, just wanted to clarify a few things there. And uhm, currently, can you tell me about where you're living and who you're living with?",
+    "patient_turn": "Yeah, so I'm living with my wife in a house. I do have two kids, but they're off to college right now so it's just us 2.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and and what what do you do for uh for work?",
+    "patient_turn": "Yes, so I actually work as a mechanic, and right now I'm kind of off of work with, I just need to recover and kind of get that physiotherapy done and then I can return, hopefully in a month or two.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah we need to recover after the knee surgery. OK, and do you smoke cigarettes?",
+    "patient_turn": "I used to, but I quit when I was in my thirties. I used to smoke like probably a pack a day between my 20s and 30s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but it sounds like yeah, you quit, about 20 years ago then?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Uh no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about using any other recreational drugs?",
+    "patient_turn": "No other drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, and in the family, are there any heart conditions or or lung conditions?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anybody in the family have a bleeding disorder or or a clotting disorder?",
+    "patient_turn": "No, not not that I'm aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you heard of anybody in the family having, I know you said you haven't had had this before, but anybody in the family having a deep vein thrombosis or or PE.",
+    "patient_turn": "Not that I know, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So that was everything that I wanted to ask about on history today. We'll do physical exam and I'll listen to your chest and have a look at your leg. We'll also order some imaging studies, with a CTPA it's called. Uh but before we go ahead with that, was there anything else that that you wanted to add?",
+    "patient_turn": "No, I think that's that's all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so we'll get the lab work started, as well as the imaging ordered. It will look for, to see if there is any pulmonary embolism present, because with the surgery last week and being immobilized for a period of time, it is a risk factor for it, and leg swelling with uhm coughing up blood can be symptoms of this. So we'll wanna make sure to to do, to investigate for a pulmonary embolism.",
+    "patient_turn": "OK. Sounds good, thank you so much.",
+    "annotation": "Correct"
+  }
+]

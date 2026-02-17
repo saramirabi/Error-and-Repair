@@ -1,0 +1,142 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having some, uh, burning when I urinate and I’m going to the bathroom a lot more than usual. It’s been going on for about two days now, and it kinda feels like a bladder infection, you know? But I’m not totally sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the burning sensation and increased frequency?",
+    "patient_turn": "I first noticed it, um, about two days ago. It just started out of nowhere, and I’ve been feeling that burning sensation every time I go to the bathroom, which is, like, way more often than usual for me. It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain or burning sensation is located?",
+    "patient_turn": "Um, it’s mostly, like, right when I’m urinating, you know? It’s this burning feeling, and it’s, uh, really uncomfortable. I don’t have any pain anywhere else, just that burning during urination.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the burning sensation? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I’ve been meaning to organize my closet. It’s such a mess, I can never find anything.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the burning sensation better or worse?",
+    "patient_turn": "Um, I haven’t really noticed anything that helps, to be honest. It just seems to be there all the time when I go to the bathroom. I guess drinking water might help a little, but it’s still pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like feeling breathless, dizzy, or nauseous?",
+    "patient_turn": "Uh, no, I haven’t felt breathless or dizzy or anything like that. I mean, I’ve been a bit fatigued and feeling slightly flushed, but no fever or anything serious. Just, um, the burning and needing to go to the bathroom a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Um, I don’t smoke at all, and I don’t really drink alcohol, like, maybe occasionally but not much. I try to stay active, you know, but I’ve been kinda busy with work lately, so I haven’t exercised as much as I’d like. I work at a bank, so it’s mostly sitting at a desk.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical problems or take any medications regularly?",
+    "patient_turn": "Well, I have a history of, um, overactive bladder, which I manage with Botox injections every six months. I also had my appendix removed when I was 24, but that’s about it. I don’t take any regular medications besides my inhaler for asthma, which I use, like, infrequently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any worrying symptoms, like fainting, sudden breathlessness, or extreme fatigue?",
+    "patient_turn": "Uh, no, I haven’t had any of those really worrying symptoms. Just the mild fatigue I mentioned and feeling a bit flushed, but nothing extreme or, um, alarming. Just this burning sensation and needing to go to the bathroom a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about the chest pain you're experiencing?",
+    "patient_turn": "Oh, um, I’m not experiencing any chest pain. I think I might have misunderstood something. I just have the burning when I urinate and the increased frequency, but no chest pain at all. Sorry if I confused you!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the burning sensation and increased urinary frequency?",
+    "patient_turn": "I’ve been dealing with the burning sensation and increased frequency for, um, about two days now. It just started suddenly, and it’s been really uncomfortable since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the burning sensation?",
+    "patient_turn": "Yeah, um, the burning sensation is mostly, like, right at the urethra when I’m urinating. It’s just this really uncomfortable feeling, you know? It’s not anywhere else, just during urination.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain or burning sensation? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, I don't really have any burning sensation at all, actually. I mean, I might have said that before, but I'm not sure it’s a big deal.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the burning sensation?",
+    "patient_turn": "Oh, um, I first noticed the burning sensation about two days ago. It just kind of came out of nowhere, and it’s been bothering me since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you feel the urge to urinate now compared to before?",
+    "patient_turn": "Um, I usually have to go every 30 to 60 minutes because of my overactive bladder, but now with this burning sensation, it feels like I’m going even more often. It’s, uh, definitely more frequent than usual, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last menstrual period?",
+    "patient_turn": "My last period was, um, about two weeks ago. I’m not currently menstruating, though, and I haven’t been sexually active for a while, so I’m not really worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active or using any form of contraception?",
+    "patient_turn": "No, I’m not sexually active at all, and I’m not using any contraception. I haven’t been for several years, so that’s not really a concern for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you usually feel the urge to urinate?",
+    "patient_turn": "I usually feel the urge to urinate, um, every 30 to 60 minutes because of my overactive bladder. That’s pretty much my baseline, but now with this burning sensation, it feels like I’m going even more often.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any flank or back pain recently?",
+    "patient_turn": "No, I haven’t had any flank or back pain at all. It’s just the burning sensation when I urinate and the increased frequency, but no pain anywhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your urine?",
+    "patient_turn": "No, I haven’t noticed any blood in my urine, um, thankfully. It’s just the burning and needing to go to the bathroom a lot, but no hematuria or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if your urine has a foul smell or appears frothy?",
+    "patient_turn": "Um, no, I haven’t noticed any foul smell or frothy appearance in my urine. It’s just the burning sensation and the increased frequency that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any vaginal lesions or any numbness in the perineal area?",
+    "patient_turn": "No, I haven’t noticed any vaginal lesions or numbness in the perineal area. It’s just the burning when I urinate and the frequent trips to the bathroom, but nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your bowel habits recently?",
+    "patient_turn": "No, I haven’t had any changes in my bowel habits. Everything’s been pretty normal in that regard, just, um, dealing with the burning sensation and increased urinary frequency.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or face?",
+    "patient_turn": "No, I haven’t noticed any swelling in my legs or face. It’s just the burning and needing to urinate a lot, but no swelling or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "Um, no, I don’t have any known drug allergies. I’ve never had a reaction to any medications, so that’s not something I’m worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience any seasonal allergies or nasal congestion?",
+    "patient_turn": "Yeah, I do have, um, occasional seasonal nasal congestion. It’s not too bad, but it happens sometimes, especially during certain times of the year. But it’s not really related to what I’m dealing with now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. I’ve just been, um, busy with work and stuff, so I haven’t really been around many people.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any concerns about sexually transmitted infections?",
+    "patient_turn": "No, I don’t have any concerns about sexually transmitted infections. I haven’t been sexually active for several years, so that’s not really on my mind right now.",
+    "annotation": "Correct"
+  }
+]

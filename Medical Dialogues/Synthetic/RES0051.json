@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this cough for like five days now, and it’s getting worse. It’s mostly during the day and at night, and I also have a sore throat and, um, I’ve been having trouble tasting food for the last couple of days. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, I think it started about five days ago. It just kinda came out of nowhere, and, um, it’s been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it started?",
+    "patient_turn": "Um, yeah, it’s definitely gotten worse. At first, it was just a little annoying, but now it’s, like, really persistent, you know? And I don’t have any sputum or anything, just a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough the most? Is it in your chest or throat?",
+    "patient_turn": "I feel it mostly in my throat, um, like it’s really scratchy and uncomfortable. It’s kinda hard to swallow too, especially when I’m eating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a dry cough or does it feel different?",
+    "patient_turn": "Um, I think it’s mostly in my throat, but I’m not really sure. It feels, like, kind of dry, I guess, but maybe not totally?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your throat or taste recently?",
+    "patient_turn": "Yeah, um, my throat has been really sore, especially when I swallow food. And, uh, I’ve also had trouble tasting things for the past couple of days, which is kinda weird and frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the strongest?",
+    "patient_turn": "... throat.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the cough—does it happen all day or mostly at certain times?",
+    "patient_turn": "Oh, I actually don’t have a cough at all. I mean, I did, but now I think it’s gone. So, yeah, no cough right now.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What other symptoms have you noticed along with the cough?",
+    "patient_turn": "Um, besides the cough, I’ve had a sore throat and, like, trouble tasting food for the past couple of days. I’ve also felt a bit tired, but, um, nothing else really, like no fever or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any mucus or blood when you cough?",
+    "patient_turn": "No, um, I haven’t had any mucus or blood when I cough. It’s just a dry cough, so, yeah, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nasal congestion or a loss of smell recently?",
+    "patient_turn": "No, I haven’t had any nasal congestion or loss of smell. It’s just been the cough and sore throat, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any night sweats or felt short of breath at all?",
+    "patient_turn": "No, I haven’t had any night sweats or felt short of breath. I mean, I felt a bit hot one night, but, um, I think that was just because I was worried or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had a cough or sore throat like this before?",
+    "patient_turn": "Um, no, I haven’t had anything like this before. This is the first time I’ve experienced a cough and sore throat like this, so, honestly, I’m kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical conditions or surgeries that I should know about?",
+    "patient_turn": "No, I don’t have any past medical conditions or surgeries. My medical history is pretty unremarkable, I guess. The only thing is, I might have a penicillin allergy that causes a rash, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have health issues, like asthma or other conditions?",
+    "patient_turn": "Um, yeah, my aunt has asthma, and my dad has Crohn’s disease. But, uh, that’s about it for my family history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and two younger siblings. It’s, um, a safe home environment, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "No, I don’t smoke or drink alcohol regularly. I’ve only had, like, a sip of wine once or twice, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you attend school—online or in-person?",
+    "patient_turn": "I attend school online, um, so I’ve been doing virtual classes. It’s been okay, but, you know, I’m kinda missing the in-person stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your vaccinations up to date?",
+    "patient_turn": "Yeah, my vaccinations are up to date. I’ve gotten all the necessary ones, so, um, I’m good there.",
+    "annotation": "Correct"
+  }
+]

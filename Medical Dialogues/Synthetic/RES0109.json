@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about a week now, and it’s kinda getting worse, especially when I’m out in the cold. Then, I started getting a runny and stuffy nose too, with clear discharge. Honestly, it’s been a bit annoying…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it started about a week ago, um, maybe a little more? It was just this dry cough at first, but then, you know, the stuffy nose came along after that. It’s just been… frustrating, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "Yeah, um, it’s definitely gotten worse, especially when I’m outside in the cold air. I mean, it’s still dry, but it feels like it’s more persistent now. I’ve been using some over-the-counter cough medicine, and that helps a bit, but, you know, it’s still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels like it’s coming from?",
+    "patient_turn": "Um, it’s mostly in my chest, but I think it might be more in my throat. I mean, it doesn’t really feel like it’s coming from anywhere specific, honestly.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—sharp, dry, or something else?",
+    "patient_turn": "It’s definitely dry, um, and kind of scratchy, I guess? It doesn’t feel sharp or anything, just… annoying, you know? Like, it makes me want to clear my throat a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest or throat?",
+    "patient_turn": "... just in the .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "I mostly feel it in my throat, um, like it’s scratchy and irritated there. I don’t really feel any discomfort in my chest, just, you know, that annoying feeling in my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens?",
+    "patient_turn": "... , I think.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath while coughing or at other times?",
+    "patient_turn": "No, um, I haven’t noticed any shortness of breath at all. It’s just the cough and the stuffy nose, but I can breathe fine otherwise, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any wheezing or tightness in your chest at all?",
+    "patient_turn": "No, um, I haven’t had any wheezing or tightness in my chest. It’s mostly just the dry cough and the stuffy nose, you know? So, I’m kinda glad it’s not anything more serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or chills recently?",
+    "patient_turn": "No, I haven’t had any fever or chills, um, just the cough and the stuffy nose. I’m really glad about that, honestly, because I’m kinda worried about how I’m feeling overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches at all during this time?",
+    "patient_turn": "No, um, I haven’t had any headaches. It’s mostly just the cough and the stuffy nose, but I’ve been feeling a bit fatigued and achy, you know? It’s just been a bit rough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting lately?",
+    "patient_turn": "No, I haven’t felt nauseous or had any vomiting. It’s really just the cough and the stuffy nose, but, um, I’m feeling a bit tired and achy, you know? Just trying to get through it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy at any time recently?",
+    "patient_turn": "No, I haven’t felt dizzy at all. It’s just the cough and stuffy nose that are bothering me, but, um, I’m glad it’s not anything more serious, you know? Just trying to manage it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any joint pain or rashes on your body?",
+    "patient_turn": "No, I haven’t noticed any joint pain or rashes. It’s really just the cough and the stuffy nose, and, um, I’ve been feeling a bit fatigued and achy, but nothing specific like joint pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any palpitations or irregular heartbeats recently?",
+    "patient_turn": "No, I haven’t had any palpitations or irregular heartbeats. It’s just the cough and stuffy nose that are bothering me, you know? I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your vision, hearing, or taste recently?",
+    "patient_turn": "Um, I’ve noticed a reduced sense of smell, probably because of the nasal congestion, but I haven’t had any changes in my vision or hearing. My taste seems okay too, I think. It’s just, you know, the stuffy nose and cough that are really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your bowel movements lately?",
+    "patient_turn": "No, I haven’t noticed any changes in my bowel movements. It’s really just the cough and stuffy nose that I’m dealing with, you know? So, um, I’m not too worried about that part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell recently?",
+    "patient_turn": "Yeah, um, I’ve noticed a reduced sense of smell, probably because of the nasal congestion. It’s kinda frustrating, honestly, because I didn’t expect that to happen. But, you know, it’s just part of the whole cough and stuffy nose situation.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more tired than usual or experiencing any body aches?",
+    "patient_turn": "Yeah, I’ve been feeling a bit more tired than usual, and I’ve had some mild body aches. It’s not super intense, but, um, it’s definitely there, you know? I’m just kinda worn out from all this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in close contact with anyone who was sick?",
+    "patient_turn": "I haven’t traveled recently, but I did have some brief contact with a coughing individual at the grocery store. I’m not totally sure if that’s where I picked this up, but, you know, it’s possible.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or smoke tobacco?",
+    "patient_turn": "No, I don’t smoke tobacco, but I do use recreational marijuana, um, like two to three times a week for relaxation. I’m not sure if that’s relevant, but I thought I should mention it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter ones?",
+    "patient_turn": "I’m currently taking Prozac for my depression, which I’ve been on for about a year. Um, I’ve also been using some over-the-counter cough medicine to help with the cough, but that’s about it. No other medications, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung disease?",
+    "patient_turn": "No, um, there’s no history of heart or lung disease in my family. The only thing is high cholesterol, but that’s it. So, I’m kinda relieved there’s nothing serious like that.",
+    "annotation": "Correct"
+  }
+]

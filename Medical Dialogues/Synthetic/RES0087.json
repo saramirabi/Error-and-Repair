@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has been having this, uh, right ear pain for about four days now. They’ve been really irritable, and I’m kinda worried, but there’s no fever or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started?",
+    "patient_turn": "Oh, it's been pretty consistent, but I think it got worse yesterday. Actually, I’m not sure if it even started at all.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located in the ear?",
+    "patient_turn": "Um, I think it’s more on the right side, but I’m not totally sure. They just keep saying their ear hurts, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it started four days ago?",
+    "patient_turn": "Well, um, I think it’s been pretty steady, but like I said, it seemed to get a bit worse yesterday. I’m just really worried about it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for your child? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I think it’s kind of, like, uncomfortable? Maybe a bit sharp sometimes, but I’m not really sure. It’s just, you know, not great.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Uh, it seems to have stayed pretty much the same, but I think it got a little worse yesterday. I’m just, um, really anxious about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like for your child? Is it sharp, dull, or something else?",
+    "patient_turn": "I think it’s more of a dull pain, but sometimes they say it hurts a lot, you know? It’s just hard to get a clear answer from them, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the ear pain?",
+    "patient_turn": "I think it started a few days ago, but honestly, I didn't notice it until yesterday. Or maybe it was just the day before that.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Has your child had any trouble hearing or noticed any changes in their hearing?",
+    "patient_turn": "No, um, they haven’t mentioned anything about trouble hearing. It’s mostly just the pain and, you know, being irritable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has there been any discharge or fluid coming from the ear?",
+    "patient_turn": "No, um, there hasn’t been any discharge or fluid that I’ve noticed. It’s just the pain and irritability, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any swelling, redness, or warmth around your child's ear?",
+    "patient_turn": "Um, no, I haven’t seen any swelling or redness, and it doesn’t feel warm either. It’s just, you know, the pain that’s concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did your child have a cold or cough before the ear pain started?",
+    "patient_turn": "Yeah, they had a, um, upper respiratory infection last week, but that cleared up. Then, I think they started with a dry cough just the day before the ear pain started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the dry cough begin?",
+    "patient_turn": "The dry cough started, um, just the day before we came in today. So, it’s been, like, a day now, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child been in contact with anyone who was sick recently?",
+    "patient_turn": "Um, no, I don’t think so. They haven’t been around anyone sick, and we haven’t traveled anywhere recently either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any past medical conditions or surgeries?",
+    "patient_turn": "No, um, they’ve been pretty healthy overall. No past medical conditions or surgeries, and they’re up to date with their immunizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child up to date on all their vaccinations?",
+    "patient_turn": "Yes, um, they’re up to date on all their vaccinations. I’ve kept track of that, so I’m not worried about that part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies to medications or foods?",
+    "patient_turn": "No, um, there are no known allergies that I’m aware of. They’ve never had any reactions to foods or medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like asthma or heart conditions?",
+    "patient_turn": "Um, not really, except for my husband having celiac disease, but that’s about it. No asthma or heart conditions in the family that I know of.",
+    "annotation": "Correct"
+  }
+]

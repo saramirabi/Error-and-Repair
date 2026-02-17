@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my throat. I’ve had this sore throat for like four days now, and it’s getting worse. It hurts a lot when I try to swallow solid foods, and I think I might have a fever, but I haven’t measured it or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I think it started about four days ago… um, it was just a little scratchy at first, but then it got worse pretty quickly. Now it really hurts, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Yeah, definitely. It was just a bit annoying at first, but now it’s, like, really painful. I can barely eat anything solid without it hurting a lot. I’m kinda worried it might be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat? Does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in the back of my throat, like, right where I swallow. I don’t really feel it anywhere else, though… just there. I don’t have any other symptoms, like a runny nose or cough, so I’m not totally sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "Oh, you know, I really need to remember to buy some snacks for school.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, well, it definitely gets worse when I try to swallow solid foods. I’ve been drinking a lot of water, and that helps a little, but, like, it still hurts. I haven’t really found anything that makes it feel better, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling short of breath or dizzy?",
+    "patient_turn": "No, not really. I mean, I haven’t felt short of breath or dizzy at all. It’s just the sore throat and, um, maybe a slight fever, but that’s it. No cough or anything like that, so I’m kinda confused about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the sore throat?",
+    "patient_turn": "It’s been about four days now… um, I think I mentioned that earlier. It started off kinda mild, but it’s just gotten worse since then. I really hope it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is in your throat?",
+    "patient_turn": "Yeah, um, it’s mostly in the back of my throat, like, right where I swallow. It feels really sore there, and it’s hard to eat anything solid. I don’t feel it anywhere else, just that spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it feels... like, um,…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or more like pressure?",
+    "patient_turn": "Um, I’d say it’s more like a sharp pain, especially when I try to swallow. It’s really uncomfortable, and, honestly, it’s hard to ignore. I just wish it would go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your throat?",
+    "patient_turn": "Um, I think it was maybe four days ago? Or it could’ve been three... I’m not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or have you had any surgeries?",
+    "patient_turn": "Um, no, I don’t have any past medical conditions. The only surgery I had was an appendectomy when I was 13. Other than that, I’m pretty healthy, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications besides multivitamins?",
+    "patient_turn": "No, I’m not taking any medications besides my multivitamins. I just, um, try to eat healthy and stay active, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other surgeries besides your appendectomy?",
+    "patient_turn": "No, just the appendectomy when I was 13. I haven’t had any other surgeries or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you current on all your vaccinations, except for the HPV and flu vaccines?",
+    "patient_turn": "Yeah, that’s right. I’m up to date on most of my vaccinations, but I haven’t gotten the HPV vaccine yet, and I didn’t get the flu vaccine for this year. I guess I just kinda forgot about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and two siblings. It’s, um, pretty busy at home, but I feel safe there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active or do you plan to be in the near future?",
+    "patient_turn": "No, I’m not sexually active, and I don’t plan to be before I finish high school. I’m just focusing on school and, um, other stuff right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use alcohol, tobacco, or any recreational drugs?",
+    "patient_turn": "No, I don’t use any of that stuff. I’ve never tried alcohol or tobacco, and definitely no recreational drugs. I just, um, try to stay healthy, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you attend school, and have you missed any days recently?",
+    "patient_turn": "I attend school in a hybrid model, so I go in some days and do online classes on others. I haven’t missed any days recently, but, um, I’m worried I might have to if this throat thing doesn’t get better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been at home and going to school, you know? I haven’t been exposed to anyone with COVID-19 or anything like that either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any significant medical history in your family, like heart disease or diabetes?",
+    "patient_turn": "Um, not really, except maybe some possible hypertension in the family. But, like, nothing major that I know of.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "So yeah, I've just been having a cough for the last week and I think I had a little bit of a fever in the last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you said the cough started a week ago?",
+    "patient_turn": "Yeah, around a week ago OK and the fever started two to three days ago. Yeah, I haven't really measured it, but like I definitely have been feeling chills.I've been wearing like multiple blankets over the last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Ok, have you taken your temperature? You said you haven't taken your temperature right?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So let's focus on the cough. Is it persistent or does it come and go?",
+    "patient_turn": "I think the cough is pretty persistent over the last week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it get worse with like cold air or dust? Like maybe pets or anything like that?",
+    "patient_turn": "No, I think it stays around the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it get better with anything? Have you tried any over the counter cough syrup?",
+    "patient_turn": "Yes, I tried tylenol cold and liked it. I think it made it a bit better, like it helped me sleep. Other than that, during the day, it's still around the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe this cough? Is it barky? Is it harsh? Does it sound muffled?",
+    "patient_turn": "How I would say is that it's kind of like it's not too harsh. It's more like a wet cough. I'm definitely bringing up some some sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What color is the sputum?",
+    "patient_turn": "It's usually like a, uh like a white and sometimes like a little bit yellow as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it ever green or do you ever see blood in there?",
+    "patient_turn": "No, I haven't seen any of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had a cough like this before?",
+    "patient_turn": "Umm, yeah, probably like in the last year, maybe I have gotten sick like once and had a similar cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat?",
+    "patient_turn": "No, I don't have a sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is this cough getting worse?",
+    "patient_turn": "It's, I think not really, it stayed around the same and I definitely feel a bit better with the tylenol cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your taste or smell?",
+    "patient_turn": "No, no changes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in hearing or vision?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have in the past week a runny or stuffy nose?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss over the past month?",
+    "patient_turn": "Umm, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about changes in your hair, nails or skin like rashes?",
+    "patient_turn": "No, no changes to the skin.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Any shortness of breath?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about wheezing?",
+    "patient_turn": "No, I don't think I've recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Chest pain?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Swelling in legs, arms, or belly?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Feeling like your heart’s racing?",
+    "patient_turn": "No, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Calf pain?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dizziness or fainting spells?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Confusion or memory loss?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have your bowel movements been normal?",
+    "patient_turn": "Yeah, I like go three times a day and I don't have any diarrhea or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Urinating wise?",
+    "patient_turn": "Everything normal there. Yeah, no trouble.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Joint pain or muscle ache?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any contact with sick people around you recently?",
+    "patient_turn": "My wife was actually just sick last week, but she recovered. She did have a fever for one of the days and she also had a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did she get it checked out in a clinic?",
+    "patient_turn": "No, I don't think so. She did get that COVID test done, but it came back negative and she didn't go to the doctor or anything. It kind of just went away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any travel recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any longstanding medical conditions?",
+    "patient_turn": "Just as a child. I had, probably in my teens, had my appendix removed, but nothing other than that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No hospitalizations other than that too, right?",
+    "patient_turn": "No, No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you on any medications?",
+    "patient_turn": "No, I just take some multi vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with all your immunizations?",
+    "patient_turn": "Yeah, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about allergies?",
+    "patient_turn": "I do have like some, I get some runny nose around spring time probably I think I'm allergic to pollen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of lung conditions?",
+    "patient_turn": "No, not that I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Heart conditions?",
+    "patient_turn": "No, I think my father has high blood pressure if that's like a heart condition.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How old was he when he got that?",
+    "patient_turn": "He's around like 60s right now, so probably like in his 40s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any cancers in the family?",
+    "patient_turn": "I do have an aunt on my mother's side who had ovarian cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How old was she when she was diagnosed?",
+    "patient_turn": "I think probably in her 50s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "No, I don't smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Marijuana?",
+    "patient_turn": "Marijuana just maybe like one or two joints in a month, just when I'm feeling that I need to relax a little.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Once a month right?",
+    "patient_turn": "Yeah, once per month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any other drugs?",
+    "patient_turn": "No, no other drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you live right now?",
+    "patient_turn": "I live in London right now. I live with my wife in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any reasons to think you have old carpet mold or asbestos?",
+    "patient_turn": "No, it's a fairly new apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Those are all the questions I had today. Do you have any questions for me?",
+    "patient_turn": "You don't think it could be COVID right? Like my wife got tested and it was negative.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you concerned about that?",
+    "patient_turn": "Yeah, for sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Honestly, some of your symptoms do seem to be overlapping with that of COVID, especially the cough and fever. So we are going to do a COVID swab just to rule that out. So you will get those results in 24 to 48 hours and you should isolate for 14 days because your symptoms overlap. Public health will be in touch with you if it's positive just to do some contact tracing. But if it's not COVID, it could be another viral infection that's going around at this time of year so keep an eye on your symptoms. If they become worse, or if you're experiencing symptoms like neurological deficits or weakness or seizures or anything like that, get help from the ER right away and if your symptoms are persisting beyond like seven days to 10 days, also you should give us a call back to see what's going on because it could be something like a bacterial infection, in which case we can give you some antibiotics. Does that sound OK?",
+    "patient_turn": "OK, great. Thank you.",
+    "annotation": "Correct"
+  }
+]

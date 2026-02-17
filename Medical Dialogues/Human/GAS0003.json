@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Yeah hi, I'm I I have a pain in my belly. It started a couple hours ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where exactly in your belly do you have this pain?",
+    "patient_turn": "It's mostly up here on the right side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "The right side, OK and can you describe what kind of pain is it? Is it like a dull pain or sharp pain, an aching pain?",
+    "patient_turn": "Oh I guess it's a, it's an aching pain I'd say. It kind of just, um, it would initially just come and go, but now it's just it's staying. It's not going away.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and so it's in the right area and does it travel anywhere elsewhere besides on from the right side?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And on a scale of 1 to 10, one being the least amount of pain you felt in your life, and 10 being the worst, how much would you rate it right now?",
+    "patient_turn": "It's about to a 10, an 8 maybe.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "An 8, OK and so just to clarify, when did it start?",
+    "patient_turn": "About 8 hours ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "8 hours ago, OK. And were you doing anything before? Like, did you have a meal or how were you sleeping before it woke you up, what was going on before you had the pain?",
+    "patient_turn": "I was just about to go to sleep. I wasn't doing anything in particular at the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has it been getting worse since it first started?",
+    "patient_turn": "Oh yeah, definitely it would come and go, but now for the past I'd say five to six hours, it's been constant, just there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any similar pain like this in the past?",
+    "patient_turn": "Yeah, uh I I have the same pain that sort of comes and goes after I eat. Usually after I've had something like a something fatty, something from outdoors, maybe like a burger or fries or something. I initially thought it was indigestion, but I don't I don't know what's going on now.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and does it, does anything make it better or worse or anything that you've tried?",
+    "patient_turn": "Well, I guess eating sometimes makes it worse, um, but I don't I don't think there's anything that's making it better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you tried any medications at all?",
+    "patient_turn": "I tried Tylenol but that didn't do anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And besides, uh, the pain that you're having, do you have any nausea and vomiting?",
+    "patient_turn": "I am a little nauseous, but no, I didn't, haven't had I haven't vomited yet, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been having any fevers?",
+    "patient_turn": "I don't think so. I haven't checked. I don't feel feverish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sweats or like chills?",
+    "patient_turn": "No,  I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your bowel movements like constipation, diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling at all, very tired, not your usual self, fatigued?",
+    "patient_turn": "Well the pain is making it difficult for me to do things, um, but I I guess I'm not, uh a little fatigued  maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, have you been having any changes in your urinary patterns?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No? Any changes in your skin and you rashes, any yellowing of your skin?",
+    "patient_turn": "Nothing that I've noticed, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your urine color?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed blood in your stools at all?",
+    "patient_turn": "I have not, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about your appetite, has this changed at all?",
+    "patient_turn": "Well, I guess because it's this thing happens usually happens after I eat, I think I've been eating less than usual, just because I don't, I don't want to, you know, I don't like the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any significant weight loss recently?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any recent infections recently at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and otherwise are you, do you have any other medical conditions like diabetes, high blood pressure or anything else?",
+    "patient_turn": "I do have diabetes but that's about it I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And you take anything for your diabetes?",
+    "patient_turn": "I take metformin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um do you take any other medications at all?",
+    "patient_turn": "No, I don't, sorry, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No worries. Do you have any allergies to any medications, any environmental allergies?",
+    "patient_turn": "No no, no, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been hospitalized in the past?",
+    "patient_turn": "No, no I haven't ever. I've been very uh healthy. No hospitalizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any past surgeries?",
+    "patient_turn": "I got my wisdom teeth removed when I was a teenager.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been in contact with anyone who has been ill recently?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Hmm, and in terms of your family history, has anyone had any cancers or um any err um IBD like Crohn's disease or ulcerative colitis?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And anything that runs in the family at all?",
+    "patient_turn": "My dad had a heart attack when he was in his 60s. But that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And um, currently right now do you work?",
+    "patient_turn": "Oh no, I'm I'm laid off because of COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And currently, what is your home situation like?",
+    "patient_turn": "What do you mean?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "So do you live in an apartment, house and do you live with anyone?",
+    "patient_turn": "I I I live in an apartment, I live alone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, and in terms of your daily routine, do you feel that you get enough exercise? Do you go outside for walks or runs or anything like that?",
+    "patient_turn": "I usually go out for a run, especially when it's a little bit warmer, which it now is.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you do you drink alcohol?",
+    "patient_turn": "Uh, sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much would you say you drink in an average week?",
+    "patient_turn": "One to two drinks a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what do you usually drink?",
+    "patient_turn": "I'll just drink a glass of wine at night, just helps me relax.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke cigarettes?",
+    "patient_turn": "I don't, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you use any recreational drugs like marijuana?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so um, that's all the questions I have and just to clarify, does your pain come and go, or is it constant?",
+    "patient_turn": "Yes, so initially it would come and go, but now, so for the first 2 hours it would come and go. And when I would have this pain when I was eating, it would come and go. But over the past six hours it's just been constant.",
+    "annotation": "Correct"
+  }
+]

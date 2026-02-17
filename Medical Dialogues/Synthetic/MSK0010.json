@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this, like, worsening pain in my left shoulder for about five days now. It’s been getting worse over the past few weeks, and it really hurts, especially when I try to lift things or, um, move my arm in certain ways.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your shoulder?",
+    "patient_turn": "I think it started a few weeks ago, but it was, like, pretty mild at first. I just thought it was, you know, maybe from overdoing it a bit, but then it just kept getting worse, and now it’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is located in your shoulder?",
+    "patient_turn": "Yeah, um, it’s mostly at the front of my left shoulder. It’s this achy feeling, but sometimes it gets sharp, especially when I move my arm, like, when I lift it or try to carry something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your neck or arm?",
+    "patient_turn": "No, not really. It’s mostly just in my shoulder, um, I don’t feel any pain spreading to my neck or arm. Just, like, the shoulder itself, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "Oh, the pain is mostly sharp, but I wouldn’t say it’s achy at all. Actually, I think it’s more of a dull feeling, not sharp, but yeah, it’s pretty bad sometimes.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your shoulder?",
+    "patient_turn": "Well, I think it was about five days ago, but honestly, I can’t really remember. You know, it’s funny because I was playing tennis a few weeks ago, and I had this overuse injury from years back, and I’ve been avoiding it since then. Also, I’ve been really busy with work and, oh, my wife has been asking me to help with some home renovations, which has kept me on my toes.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "Um, no, I don’t have any significant past medical or surgical history. I’ve been pretty healthy overall, and I don’t have any medication allergies either. The only thing is I had a left shoulder overuse injury from playing tennis a few years ago, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any medication allergies. I’ve been pretty lucky that way, I guess. Just, um, trying to manage this shoulder pain with some ibuprofen lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you rate your shoulder pain at rest and during activity?",
+    "patient_turn": "At rest, I’d say it’s about a 2 or 3 out of 10, but when I’m active, it can go up to a 7 out of 10. It really hurts when I try to lift things or move my arm in certain ways, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weakness or limited movement in your left arm?",
+    "patient_turn": "Yeah, I have noticed some mild weakness and, um, decreased range of motion in my left arm. It’s been hard to lift it or move it like I used to, and that’s, like, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any numbness or tingling in your arm or hand?",
+    "patient_turn": "No, I haven’t felt any numbness or tingling in my arm or hand. It’s just the pain and, um, some weakness in my shoulder, but no weird sensations like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What happened with your past shoulder injury related to tennis?",
+    "patient_turn": "Oh, um, that was a few years ago. I had an overuse injury from playing tennis, but I don’t really remember the details. I just know it took some time to heal, and I’ve been careful since then. I thought I was okay, but now this new pain is really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent trauma or injury to your shoulder?",
+    "patient_turn": "No, I haven’t had any recent trauma or acute injury to my shoulder. It’s just been this gradual pain that’s been getting worse, you know? I’m not totally sure what caused it this time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and what you do for work?",
+    "patient_turn": "Sure! I live with my wife in a downtown condominium. It’s nice, but, um, it can get a bit busy. I work as a real estate agent, so I’m often on the go, showing properties and meeting clients. Lately, I’ve been trying to balance work with, like, helping my wife with some home renovations, which has been a bit challenging with this shoulder pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and do you smoke or use any recreational drugs?",
+    "patient_turn": "I rarely drink alcohol, just, you know, occasionally with friends or at events. I don’t smoke or use any recreational drugs at all. I’ve always tried to keep things pretty healthy, but this shoulder pain is really throwing me off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any other medications besides ibuprofen?",
+    "patient_turn": "No, I’m not taking any other medications besides ibuprofen. I’ve just been using that to try to manage the pain, but, um, it doesn’t seem to be helping as much as I’d like.",
+    "annotation": "Correct"
+  }
+]

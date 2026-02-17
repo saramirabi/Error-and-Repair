@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three days now, and, uh, yesterday my voice started to change and I got kinda hoarse. I’m, like, a bit worried because I don’t really know what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and how has it changed since then?",
+    "patient_turn": "So, I first noticed the cough, um, three days ago, and it’s been dry the whole time. It hasn’t really changed much, but, like, yesterday I started to feel hoarse and my voice just… doesn’t sound right, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickle, a tightness, or something else?",
+    "patient_turn": "Well, it's kind of a tightness, but I don't really have a cough at all, actually. I mean, I might be coughing a little, but mostly it's just a bit of a tickle, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it started?",
+    "patient_turn": "Um, it hasn’t really changed much, to be honest. It’s still dry, and I just feel that tickle in my throat, but, like, it’s been consistent, I guess. Just the hoarseness started yesterday, so that’s new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it?",
+    "patient_turn": "Um, I think I noticed it maybe three days ago? Or maybe it was four, I’m not really sure. And the feeling, it's kind of... I don’t know, just a bit annoying, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you think it's dry or is there any mucus?",
+    "patient_turn": "Oh, it’s definitely dry. I haven’t had any mucus or anything like that, just, um, a tickle in my throat. It’s really just been dry the whole time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your throat?",
+    "patient_turn": "I feel like the cough started just a couple of days ago, but I’m pretty sure it’s been there for a week. And sometimes it feels like it's in my chest, but I don’t really have any discomfort, so it’s not really a problem.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Did you have a runny nose before the cough began?",
+    "patient_turn": "Yeah, I did have a runny nose, but that was, um, a couple of days before the cough started. The runny nose cleared up, and then the cough came on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other cold symptoms, like sneezing or congestion, besides the cough and runny nose?",
+    "patient_turn": "Um, not really. I had the runny nose, but I haven’t had any sneezing or congestion since then. It’s mostly just the dry cough and now the hoarseness, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease on either side of your family?",
+    "patient_turn": "Uh, yeah, my family history does have some unspecified heart disease on my dad's side. But, um, I don’t really know much about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any medical conditions or surgeries in the past?",
+    "patient_turn": "No, I haven’t had any medical conditions or surgeries in the past. I’ve been pretty healthy, you know? Just taking my multivitamins and stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies or take any medications besides multivitamins?",
+    "patient_turn": "No, I don’t have any allergies, and I only take multivitamins. I’m not on any other medications or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Um, yeah, a friend of mine had similar upper respiratory symptoms not too long ago, but they’ve recovered now. Other than that, nobody in my house is sick, so… I guess that’s good?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol or use any recreational drugs?",
+    "patient_turn": "Uh, no, I don’t drink alcohol or use any recreational drugs. I’m aware that some of my friends have experimented, but I haven’t.",
+    "annotation": "Correct"
+  }
+]

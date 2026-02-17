@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I hurt my wrist while skiing yesterday. I fell and, like, I extended my arm to brace myself, and now it’s really painful and swollen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start, and how has it changed since then?",
+    "patient_turn": "The pain started right after the fall, um, so it’s been about a day now. It’s, like, a sharp pain, and it’s pretty constant. It’s rated around 5 or 6 out of 10, I guess, and it gets worse when I move it, but resting and taking ibuprofen helps a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It’s definitely sharp, um, like a constant sharp pain, you know? It’s really uncomfortable, especially when I try to move my wrist. I’m just hoping it’s nothing too serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, I think moving it definitely makes it worse, but, like, resting helps a bit? I’m not really sure if that's the case, though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly is the pain located in your wrist? Does it spread to any other areas?",
+    "patient_turn": "It's... I guess.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling or bruising on your wrist since the fall?",
+    "patient_turn": "Yeah, um, there’s definitely some swelling and bruising on my wrist. It’s, like, pretty noticeable, especially on the palm side. It’s just adding to the discomfort, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any tenderness when you touch the area around your wrist?",
+    "patient_turn": "Yes, definitely. It’s really tender when I touch the area around my wrist, especially over the distal radius. It hurts quite a bit, um, so I try to avoid touching it too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever injured your wrist or had similar pain before this fall?",
+    "patient_turn": "No, I haven’t had any prior injuries or similar pain before this. This is the first time, um, something like this has happened to me, and I’m honestly kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical conditions or surgeries. I’ve been pretty healthy, I guess. Just this wrist issue now, which is, like, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications regularly, including over-the-counter ones?",
+    "patient_turn": "No, I’m not taking any regular medications. I’ve just been using ibuprofen for the pain, um, but that’s about it. I don’t have any allergies or anything, either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or other substances. I’m, um, pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of musculoskeletal or autoimmune conditions?",
+    "patient_turn": "Um, no, not that I know of. There’s no history of musculoskeletal or autoimmune conditions in my family, as far as I can tell. It’s just me dealing with this wrist issue right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation and daily lifestyle habits?",
+    "patient_turn": "Yeah, um, I live alone and I’m a student, so I’m pretty busy with classes and stuff. I don’t smoke, and I drink alcohol occasionally, like, about two beers every two weeks. I also use cannabis edibles, but that’s just once a month. Just trying to balance everything, you know?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "I just wanted to start with what brings you here today to the family clinic?",
+    "patient_turn": "Hi, this morning I read after I woke up by I coughed up some phlegm and there was some blood in it and it it totally scared me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and was this the first time that happened?",
+    "patient_turn": "Uhm, yeah, I've never I never noticed blood in my sputum before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but have you been coughing recently?",
+    "patient_turn": "Uh yeah, I have, uh, had a cough recently leading up to this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you had the cough for?",
+    "patient_turn": "Uhm, I've had it for uhm, yeah, about about four weeks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you know if you did anything prior to that, any new exposures or being around someone ill like anything like that that might have caused your cough?",
+    "patient_turn": "Yeah, I was just down in a, I went to Haiti on a on a trip for a, for a volunteer program with my school and I don't know I definitely notice there is a lot of people down there coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And were you at all living like close quarters or were you crammed into like like smaller spaces at all when you were there?",
+    "patient_turn": "Yeah, we were kind of like living with the locals while we while we were there. It was part of the experience for volunteering. I was there for almost two months as part of, part of my my summer break through University.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you notice, uh, at all any potential exposures to tuberculosis? Anyone there that had tuberculosis? Or found out later?",
+    "patient_turn": "Yeah, there were definitely some people around that I heard of who who mentioned tuberculosis, but I don't know if anybody specifically who had it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And the cough that you've been having for the last four weeks at, is it like a wet cough? Are you producing any sputum or phlegm, or is it more of a dry cough?",
+    "patient_turn": "Uh, I have been producing some phlegm, um, but it's been just kind of white, yellowish.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Up until this morning?",
+    "patient_turn": "Yeah or moreso clear actually, up until today where I saw some blood.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How much blood was in the phlegm? Was it like a significant amount it filled the whole production or just little streaks?",
+    "patient_turn": "Um it was pretty red. It, ah, yeah it was bright red and it was covering the, the issue.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "And have you had any similar episodes before?",
+    "patient_turn": "I've never brought up blood before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And after this morning, was that the only time you had that or did you did it recur at all?",
+    "patient_turn": "Um, it was just that time just this morning on the tissue and then a little bit in the toilet and it looked like a lot in the in the water.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often are you coughing in like an average day? Are you coughing throughout the day or does it come and go?",
+    "patient_turn": "Uhm, it's been pretty severe through throughout the day. I've been just coughing or coughing a ton.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Anything that makes your coughing go away or makes it worse at all?",
+    "patient_turn": "Not-nothing seems to help. I've tried various over the counter medications and and stuff for, for cough and nothing has seemed to help it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any other symptoms at all, like shortness of breath, sore throat, runny nose, anything like that?",
+    "patient_turn": "Uhm, nothing like like that. I mean the back of my throat, might feel a little itchy from the coughing, but not really sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any headaches or nausea or vomiting?",
+    "patient_turn": "Nothing like, well, a little bit of nausea maybe, but no vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often you getting nausea?",
+    "patient_turn": "Uh, it's coming after like if I'm having a really big cough, coughing fit I could feel a little nauseous after but it doesn't last very long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any fevers or chills?",
+    "patient_turn": "Yeah, I've been having ah, so fevers throughout the day, but feeling really hot, and and really sweaty at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often are you getting night sweats?",
+    "patient_turn": "Uhm, also a few times this past week, I've what woke up soaked.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you at all measured when you felt, measured your temperature when you felt like these chills and night sweats?",
+    "patient_turn": "No, I haven't measured my temperature yet.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed at all, uh, any increased fatigue throughout the day?",
+    "patient_turn": "Yeah, but I've definitely been more more tired. I haven't been able to concentrate on, umm, on my schoolwork.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been having any shortness of breath?",
+    "patient_turn": "Just after the, like coughing really, but otherwise, ah, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any chest pain?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any feeling that your heart is racing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any swelling in your limbs at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any loss of sense of taste or smell?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your bowel movements?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes at all in your sleep?",
+    "patient_turn": "Uhm, just been, well, I haven't been sleeping as well, waking up all sweaty and the cough is kept me up a little bit too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your appetite?",
+    "patient_turn": "Uh, no, I've been eating OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed at all any weight loss over the last few months?",
+    "patient_turn": "Yeah, I think I'm down like 15 pounds since the summer time, which is great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you tried to lose weight at all or is it just been completely unintentional?",
+    "patient_turn": "Uh, well I, I mean my, my appendix was taken out a few months ago and so I guess after that I, well, maybe wasn't eating and eating as much, but I mean I wasn't really trying to lose weight.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent exposure to any fumes or dust or animals?",
+    "patient_turn": "Uh, no, my my parents have a dog at home, but I've been away at school, so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In terms of your overall health, have you been diagnosed with any medical conditions before?",
+    "patient_turn": "Uh, no, I'm uh, healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So like no asthma or anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you on any medications currently?",
+    "patient_turn": "Uh. Yeah, I take an oral contraceptive pill.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you start that?",
+    "patient_turn": "Probably about five years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies, to any medications or any environmental allergies at all?",
+    "patient_turn": "Uh, yeah, I think Septra, gives me a rash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any previous hospitalizations?",
+    "patient_turn": "No, I've never been in the hospital before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any previous surgery? So you said you had the appendix removed but anything else?",
+    "patient_turn": "Uh, no the appendix was the only thing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any family history of asthma or any lung conditions? Any cancers that run in the family?",
+    "patient_turn": "Um, yeah but well, my grandfather had lung cancer, but he smoked for his entire life. And my mom has had diabetes for quite some time, but no, no lung problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any heart attacks in the family or any autoimmune conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Currently what is your living situation like?",
+    "patient_turn": "So I live with uh, four roommates here going to school.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you work right now or you just a student right now?",
+    "patient_turn": "Just a student.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Currently do you smoke?",
+    "patient_turn": "Uhm, I'mm smoke maybe maybe socially so, maybe a pack of cigarettes a week at the at the most.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recreational drug use like marijuana?",
+    "patient_turn": "Uh, yeah I'll smoke one or two joints on on the weekend with friends socially.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So yeah. This uh, the smoking marijuana or cigarettes make your symptoms worse at all?",
+    "patient_turn": "Uhm, it depends. Yeah, sometimes I can. It can bring on some more coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So no recreational, so just besides marijuana. Any other recreational drugs like cocaine or crystal meth, anything of that sort?",
+    "patient_turn": "Ah, no. Well, sometimes I at parties maybe a few times a year with friends will use ecstasy or something like that, but that's only a few times a year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any alcohol?",
+    "patient_turn": "Yeah, I'll have a few drinks on the weekend with with friends usually. Like rum or beer.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "This is all the questions I had for you today. Any questions or concerns or any ideas of what you think this might be?",
+    "patient_turn": "Uhm, I don't know. I'm really concerned about the the blood that I brought up like I mean is this cancer or, uh, uh tuberculosis like one of those tuberculosis infections that I heard about while I was away?",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "We'll also get some blood work done as well, so that'll be done before your next appointment.",
+    "patient_turn": "Alright, that sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

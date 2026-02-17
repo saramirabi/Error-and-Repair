@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my daughter. She’s been having this persistent dry cough for like two weeks now, and it’s, uh, really bad. Sometimes she turns blue and even vomits after coughing fits… it’s just been really stressful for us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Well, it started, um, after she had a bit of a cold, you know? She had some watery nasal discharge and mild symptoms, but those went away, and then the cough just, like, got worse and hasn’t stopped. It’s been really tough on her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it constant, or does it come and go?",
+    "patient_turn": "... I think it's there most of the time.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in her chest or throat?",
+    "patient_turn": "Um, I’m not totally sure, but it seems like it’s more in her throat, you know? It’s like she’s trying to clear it, but it just keeps going and going. It’s really hard to watch her struggle like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has she been coughing like this?",
+    "patient_turn": "It’s been about two weeks now, I think. It started after that cold, and, um, it just hasn’t let up. I’m kinda worried because it seems to be getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any other symptoms along with the cough, like a runny nose or fever?",
+    "patient_turn": "No, um, she hasn’t had any fevers or chills, and the runny nose was just at the beginning, you know? It was mild and went away pretty quickly. Now it’s just the cough that’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has she been experiencing this cough?",
+    "patient_turn": "Oh, you know, I really need to get some new shoes. I was thinking about that while waiting.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the cough sound like to you? Is it dry or does it seem to produce any mucus?",
+    "patient_turn": "Uh, I think it might be, like, dry. Or maybe not totally dry, I'm not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How long has she been coughing like this?",
+    "patient_turn": "Um, it’s been about two weeks now. It started after she had that cold, and, honestly, it just hasn’t stopped. I’m really worried about her.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any health issues or medical problems in the past?",
+    "patient_turn": "No, she hasn’t had any health issues before. She’s always been pretty healthy, you know? No allergies or anything like that, so this cough is really out of the blue for us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any known allergies to foods, medications, or anything else?",
+    "patient_turn": "Um, no, she doesn’t have any known allergies. I mean, she’s never had any reactions to foods or medications, so that’s not something we’ve had to worry about. It’s just this cough that’s really concerning us right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she ever been hospitalized or had any surgeries?",
+    "patient_turn": "No, she’s never been hospitalized or had any surgeries. She was born healthy, and, um, everything has been fine until now. It’s just really worrying to see her like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are her immunizations up to date?",
+    "patient_turn": "Um, no, they’re not up to date. There’s been some, like, parental refusal because of concerns about autism, even though we’ve talked about vaccine safety. I guess I’m worried that this might be affecting her now, especially with the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been around any new pets recently?",
+    "patient_turn": "Yeah, actually, we got a new cat about a month ago. I’m kinda worried that maybe it could be related to that, you know? But I’m not totally sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she been around anyone who was sick or traveled anywhere recently?",
+    "patient_turn": "No, she hasn’t been around anyone who was sick, and we haven’t traveled anywhere recently either. It’s just been this cough and, um, the new cat in the house. That’s all I can think of.",
+    "annotation": "Correct"
+  }
+]

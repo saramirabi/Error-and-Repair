@@ -1,0 +1,237 @@
+[
+  {
+    "doctor_turn": "I was wondering if we could start by you telling me what brought you in today?",
+    "patient_turn": "So I just came in today because I've been having a sore throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, could you tell me specifically where you're feeling the pain?",
+    "patient_turn": "I would say it's mostly at the back of my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long has this been going on for?",
+    "patient_turn": "I think it started last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how would you describe the pain? Is sharp, burning, stinging, dull?",
+    "patient_turn": "I would describe it as like a burning pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, has anything, has the pain been getting any better any worse?",
+    "patient_turn": "I think it's getting worse since last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any prior episodes like this where you had similar symptoms?",
+    "patient_turn": "Nothing, nothing recently that I can recall, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you feeling the pain radiate anywhere else?",
+    "patient_turn": "Uh, I think it's just staying at the back of my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and can you think of anything that triggered the the sore throat that you did just prior to the symptoms coming on?",
+    "patient_turn": "Uh, no, not that I can think of. I haven't really changed what I drink or what I eat. Nothing really changed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anything that's been making the pain worse?",
+    "patient_turn": "Um, I would say when I, uh, especially when I'm eating when I'm swallowing, it hurts a lot, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Anything that makes it better?",
+    "patient_turn": "Uh, I I think when I drink like colder liquids or ice cream, it just soothes he pain a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any other symptoms that you been experiencing?",
+    "patient_turn": "Um, so I I do find that like my mom told me, that I have my voice is kind of rough and like just a little bit hoarse. But other than that, besides the swallowing, um, nothing else really. I'm still able to swallow liquids but it's just the solids that causes some pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had anything to eat today or when was the last time you had anything to eat?",
+    "patient_turn": "I think I did have lunch today. I wasn't able to eat too too much just because of the pain. But yeah, just a couple hours ago I had I did have a lunch.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any changes to your voice yourself?",
+    "patient_turn": "Sorry, what was that?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes to your like do you think your voice sounds different too?",
+    "patient_turn": "Yeah, I definitely think um, like when I woke up this morning, my voice was definitely more like hoarse and more like raspy, almost. But yeah, I would say my voice has changed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been having any fevers or or chills?",
+    "patient_turn": "I definitely felt a bit chilly yesterday in the morning. I I didn't take any temperatures. I think you guys did take a temperature when I came in today. I I don't know what it was.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, yeah um you did have a fever today when coming in.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, OK. Have you had any headaches?",
+    "patient_turn": "No no headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any nausea or vomiting?",
+    "patient_turn": "Sometimes I feel like with the pain and I think there's a lot of just swelling back back in my throat that when I talk too much, I almost feel like I'm about to gag, but I haven't really thrown up at all though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but you do feel like your throat is swollen?",
+    "patient_turn": "Mhm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Alright, and how has your energy been? Have you been experiencing any fatigue?",
+    "patient_turn": "Yeah, I would say definitely the last few days, especially yesterday. I just felt exhausted, didn't really want to do anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, notice any skin rashes or or changes?",
+    "patient_turn": "No, no skin skin rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had a cough?",
+    "patient_turn": "No, I haven't had any cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any difficulty breathing or shortness of breath?",
+    "patient_turn": "No, I think my breathing has been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, and how is your appetite?",
+    "patient_turn": "Yeah, over the last few days, especially today, I just feel like with the pain I don't really feel like eating at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any recent changes to your weight?",
+    "patient_turn": "No, I I I weigh around 150 and that hasn't really changed at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and uh, have you had any infections recently?",
+    "patient_turn": "I think a couple of weeks ago I I did have a I would say like a bit of a runny nose. Maybe a little bit of soreness of my throat, but it just went away by itself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you didn't have any treatment for that?",
+    "patient_turn": "No, I didn't have any medications or anything. I didn't even go to the doctor then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any lumps in your in your neck or under your chin?",
+    "patient_turn": "Uh no not that I know, I haven't really checked, but I haven't noticed anything like remarkable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um any changes to the smell of your breath?",
+    "patient_turn": "I I don't know about a smell, but I do feel like I have like this gross taste in my mouth. Maybe I don't know. I think it might smell a little bit, but I definitely have that really gross taste.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, do you have any abdominal pain?",
+    "patient_turn": "I do feel that like my stomach is a bit sore, especially today, but nothing I'm too worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been diagnosed or treated for any medical conditions in the past?",
+    "patient_turn": "No. I've been fortunate. I'm completely healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies?",
+    "patient_turn": "No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any medications?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any hospitalizations?",
+    "patient_turn": "Nope. Never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been around anybody who's been sick?",
+    "patient_turn": "Uh, so just a couple of weeks ago, around the time when I had some cold symptoms, my girlfriend also had a sore throat and it lasted for around a week. Yeah, so I would say just my girlfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does your girlfriend have a sore throat now?",
+    "patient_turn": "No it it started, I think around 2 weeks ago and it stopped last week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any surgeries before?",
+    "patient_turn": "No, no surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright in the family, any history of cancer or cancer, early cardiovascular disease or chronic diseases?",
+    "patient_turn": "Uh, I don't know about the rest, but I I, my dad does have type 2 diabetes, but no cancers or no like heart attacks or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and right now, how are you supporting yourself financially?",
+    "patient_turn": "So I am currently not working. I'm going to college right now, majoring in the arts. Right now I'm living in dorm, I've been fortunate, my parents support me financially, so I'm currently not working, just a student.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK, and do you drink alcohol?",
+    "patient_turn": "Just just on the weekends when there's a like get togethers and parties. But throughout the week I I don't drink anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke cigarettes?",
+    "patient_turn": "Uh no I've never tried cigarettes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use any other recreational drugs like marijuana?",
+    "patient_turn": "No, no. I try to stay away from all drugs because I I'm also an athlete so I need to make sure that my body is completely healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you currently sexually active?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, could you tell me a little bit about your partner or or partners?",
+    "patient_turn": "So I just have one partner for the last couple months, my girlfriend. Before that, throughout the year, I think I've had two other partners. But yeah currently right now, just my girlfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and men or women or both?",
+    "patient_turn": "Oh no, I'm I'm straight. Like I I've only been with women.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many partners have have you been with over the last six months or the last year?",
+    "patient_turn": "I would say for my girlfriend, two other girls, so three in total in the last year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use a condom?",
+    "patient_turn": "Uh I I always try to use a condom like the last thing my parents would probably kick me out if I ever got a girl pregnant. So yeah, I always always use a condom.",
+    "annotation": "Too much information"
+  }
+]

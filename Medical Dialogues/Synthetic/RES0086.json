@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, Dr. Lee. So, I’ve been having some issues with shortness of breath when I exercise, like, running or at the gym. It’s been happening for the last couple of months, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this shortness of breath?",
+    "patient_turn": "I first noticed it, um, about two months ago. I was just, you know, running and suddenly felt really out of breath, which hasn’t happened to me in a long time. It’s been kinda frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the shortness of breath changed at all since it first started?",
+    "patient_turn": "Um, not really, I guess. It’s pretty much the same. I still get the shortness of breath, throat tightness, and wheezing when I exercise, but it usually goes away within, like, 10 to 15 minutes if I rest. It’s just, you know, a bit concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the shortness of breath most?",
+    "patient_turn": "Oh, you know, I was just thinking about how the weather has been really nice lately.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Um, it feels like, you know, I can’t catch my breath, and there’s this tightness in my throat. It’s really uncomfortable, and sometimes I start wheezing, which is, um, kinda scary. I just want to be able to exercise without feeling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to trigger your shortness of breath?",
+    "patient_turn": "Well, mostly it’s when I’m exercising, like running or doing gym activities. I mean, I don’t have any issues when I’m just, like, sitting around or resting, but as soon as I start to exert myself, that’s when it hits me. It’s really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the shortness of breath changed since it first started?",
+    "patient_turn": "Well, I was thinking about how I really need to clean my apartment this weekend.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Where do you feel the tightness or discomfort when you experience shortness of breath?",
+    "patient_turn": "I feel the tightness mostly in my chest and throat, um, it’s like a squeezing sensation. It’s really uncomfortable, and sometimes it makes me feel a bit panicky, you know? I just want to be able to breathe easily again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the tightness or discomfort feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I think it feels kind of… maybe a little sharp? But I'm not really sure, it’s hard to describe. Sometimes it’s just, like, uncomfortable, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What activities or situations seem to trigger your shortness of breath?",
+    "patient_turn": "Mostly, it’s triggered by exercising, like running or doing workouts at the gym. I mean, I don’t have any issues when I’m just, like, sitting or resting, but as soon as I start to exert myself, that’s when it hits me. It’s really frustrating because I want to stay active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any lung function tests done recently?",
+    "patient_turn": "Um, no, I haven’t had any lung function tests done recently. I haven’t really needed to, you know, since my asthma was well controlled for so long. So, I guess that’s why I’m a bit worried now that things have changed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, I was diagnosed with asthma when I was 13, but it’s been well controlled for the past five years.",
+    "patient_turn": "Yeah, exactly. I haven’t needed any inhalers or anything for a long time, so this sudden change is, um, really concerning for me. I just want to make sure everything’s okay, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you currently manage your eczema?",
+    "patient_turn": "Oh, um, I manage my eczema with a topical steroid cream. It helps keep it under control, but, you know, it’s always there in the background. I’ve had it for so long, it’s just part of my life, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience any seasonal allergies or reactions?",
+    "patient_turn": "Yeah, I do have seasonal allergies. They can be a bit annoying, but I don’t have any specific reactions that I know of, you know? I just try to manage it as best as I can, but it’s not, like, super severe or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of asthma or eczema in your relatives?",
+    "patient_turn": "Um, yeah, there is a family history of both asthma and eczema. My, uh, family members have dealt with those issues, but thankfully, there’s no history of cardiac disease or cancer. It’s just, you know, something that runs in the family, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, drink alcohol, or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or drink alcohol, and I don’t use any recreational drugs. I’m pretty much a non-smoker, you know? I just try to keep things healthy, especially with my asthma and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation? Do you live alone or with others?",
+    "patient_turn": "Um, I live alone in an apartment. It’s, you know, pretty quiet, which I like. I work from home as a programmer, so I spend a lot of time here, and I guess that’s why I’m a bit anxious about my health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of any sick contacts. I’ve just been, you know, working from home and keeping to myself mostly. So, I’m not really sure why I’m having these issues now.",
+    "annotation": "Correct"
+  }
+]

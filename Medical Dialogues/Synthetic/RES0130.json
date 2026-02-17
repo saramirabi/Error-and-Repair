@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, but honestly, I’m a bit worried. I’ve had this chronic cough for about five or six months now, and it’s been getting worse. Recently, I’ve also started coughing up small amounts of blood, which is really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Uh, I think it started maybe about five or six months ago, but I'm not really certain. It just kind of got worse over time, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels like it’s coming from?",
+    "patient_turn": "Um, it feels like it’s coming from my chest, I think? It’s just this persistent cough, and sometimes it feels tight, you know? I’m not totally sure how to explain it, but it’s definitely uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, it started off pretty mild, but, um, over the months, it’s definitely gotten worse. I cough more often now, and, uh, the fact that I’m coughing up blood recently is really worrying me. It’s just not getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, well, I think it was around five or six months ago, but you know, it’s hard to remember exactly. I was probably busy with my arthritis and trying to manage my blood pressure, which can be a bit of a hassle. Plus, I was also using those CBD drops for sleep and knee pain around that time, so it’s all a bit jumbled in my mind, if that makes sense?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, productive, or something else?",
+    "patient_turn": "Um, it’s kind of… I don’t know, maybe a mix? Sometimes it feels like there's something there, but I can’t really pinpoint it exactly. It's just not really pleasant, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Do you currently smoke, and if so, how much do you smoke each day?",
+    "patient_turn": "Yeah, I do smoke. I’m down to about half a pack a day now, but I used to smoke two packs. I know it’s not good for me, and, um, I’m kinda worried about how it might be affecting my health, especially with this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "Um, yeah, I have. I’ve lost about 5 to 10 pounds in the last month without really trying. It’s, uh, kind of concerning, to be honest. I didn’t expect that to happen, and it just adds to my worries about everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or chills recently?",
+    "patient_turn": "Uh, no, I haven’t had any fever or chills. It’s just the cough and the blood, you know? I’m really trying to figure out what’s going on, but those symptoms haven’t been part of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides arthritis, hypertension, and reflux?",
+    "patient_turn": "Um, no, I think those are the main ones. I just have arthritis in my knees and hands, hypertension, and gastroesophageal reflux disease. I manage them with Tylenol, topical creams, and amlodipine. But, you know, I’m really worried about this cough and the blood now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications or supplements are you currently taking?",
+    "patient_turn": "Uh, I’m taking Tylenol for my arthritis and using some topical creams. I also take amlodipine for my hypertension. Oh, and I occasionally use CBD drops for sleep and knee pain, but that’s about it. I’m just really anxious about this cough and everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date on all your vaccinations, including the flu shot?",
+    "patient_turn": "Um, I’m mostly up to date, but I haven’t gotten the shingles or pneumococcal vaccines yet, which I know are recommended after age 65. I think I’m good with the flu shot, though. It’s just been a lot to keep track of, especially with everything going on with my health right now.",
+    "annotation": "Correct"
+  }
+]

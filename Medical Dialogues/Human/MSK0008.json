@@ -1,0 +1,392 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Um so I was playing soccer the other day and I got kicked in the knee and since then my knee has been hurting and it looks a little bit red and a little bit swollen on the medial aspect of my right knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. And this started right after the kick at soccer?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how many days ago was this?",
+    "patient_turn": "This was two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, since then, has the pain begun getting any better or worse or staying the same?",
+    "patient_turn": "No, it's staying the same or a little bit worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Could you describe the pain? Is it sharp, achy?",
+    "patient_turn": "I'd say it's pretty sharp.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and do you feel the pain radiate anywhere like down the leg or or up into the thigh?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any pain in the posterior aspect of the knee or the lateral aspect?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um and is there anything that makes the pain worse?",
+    "patient_turn": "I guess if I press on that area or I try to. And. I don't know, flex or extend my knee too much.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK. An anything that you've tried to make the pain better?",
+    "patient_turn": "Um some ice helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And have you noticed swelling over the area?",
+    "patient_turn": "Just a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and redness as well?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and what would you say the severity of the pain is a 10 being the worst pain that you've ever felt and 1 being low intensity pain?",
+    "patient_turn": "Um I'd give it about a 5.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any injuries or any knee pain before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, at the time of the injury, did you hear a pop sound or or any kind of sounds like that?",
+    "patient_turn": "I don't recall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about any difficulties walking or having any knee instability?",
+    "patient_turn": "Um a little bit only when I like try to extend or flex my knee too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um. And. Uh, um alright. So have you been experiencing any other symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so just to be comprehensive so I'll run through a review. So have you been, having any any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any sensory changes like changes to vision, hearing, smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any eye symptoms or ear symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a runny nose or sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any heart palpitations or heart racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any fainting or dizziness?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any changes to your appetite like loss of appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any weight loss unexpectedly?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any abdominal pain?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to bowel habits like diarrhea, constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any urinary problems like pain or frequency?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any skin changes such as rashes or anything like that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any joint pains anywhere else?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any fatigue?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in the past, have you had or have you been diagnosed with any medical conditions?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any allergies to medications?",
+    "patient_turn": "No, no, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any surgeries or hospitalizations before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and. Um, can you tell me a little bit about your living situation, like who you're living with and whereabouts?",
+    "patient_turn": "Sure, I live with both my parents and three of my siblings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you going to school?",
+    "patient_turn": "I am, I'm in my last year of grade 12.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Well, that's good. How has that been going?",
+    "patient_turn": "It's been going OK. We've been doing part online, part in-person.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been around anybody who's been sick?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright then. And you play soccer. Do you play any other sports?",
+    "patient_turn": "And I play football.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, cool and any injuries before to your knee or anything like that?",
+    "patient_turn": "Um not that in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um do you drink alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, did you use any recreational drugs like marijuana or anything else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you currently sexually active?",
+    "patient_turn": "I am.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you in a relationship?",
+    "patient_turn": "I am. We've been together for a year.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, is there any concern for a sexually transmitted infection?",
+    "patient_turn": "No, we were both tested.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great, um and any chance that you could be pregnant?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and uh in the family, are there any musculoskeletal or neurological conditions?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um. And so that was everything I wanted to ask on history. So for the physical exam, when inspecting the knee, are you seeing any joint effusions or joint swelling or ecchymosis or bruising?",
+    "patient_turn": "It looks or is that a bruise, it looks red and I would say it's a little bit swollen on the medial aspect only.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there any muscle atrophy?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there any misalignment or joint deformities?",
+    "patient_turn": "No, not that I notice.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And alright on gait or walking, is there any limp or antalgia?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're able to walk normally?",
+    "patient_turn": "I am able to walk normally and it hurts, but I think I'm walking OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and next is there any changes to temperature like the joint itself feel hot?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and are there any areas of the joint line itself of the knee that is painful to palpation?",
+    "patient_turn": "At just the medial part of it like the I guess where the ligament would be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so just let me OK, and, any pain over the patella?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain over the tibial tuberosity or patellar tendon?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain over your over the fibular head or the lateral part of the knee?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain in the calf or the thigh muscles?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any pain in the hamstring muscles?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there any pain to a like varus stress of the knee?",
+    "patient_turn": "To the varus stress? I guess it would be, there will be pain if I press down in that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there any joint yeah, the joint laxity or pain too, like a valgus stress of the knee?",
+    "patient_turn": "Yeah, so when I press when I do that it hurts on the medial aspect but not the lateral aspect.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and does it feel as though there's some like the joints opening more when you put the valgus stress?",
+    "patient_turn": "A little bit, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and is there any instability moving the tibia anteriorly, if you're like, pull it outwards?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how about if you pull the tibia posteriorly, any instability?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and is there full range of motion of the knee?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And full range of motion of the hip and ankle?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and do you have any like numbness, tingling or muscle weakness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any sensory changes to the skin?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and reflexes are normal.",
+    "patient_turn": "Mmmm",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK. So I think that was everything I wanted to ask and and kind of go through on the physical exam. Did you have any other questions or anything that maybe I forgot to mention today?",
+    "patient_turn": "Ah no, that was it. Just what can I do about my knee?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so right now it's sounding like this could be an MCL or medial collateral ligament strain, or injury and so these types of injuries are usually treated conservatively, like with things like NSAIDs or anti-inflammatories to help that pain and swelling. If the pain depending on how severe it is, it might be useful to use maybe crutches for a day or two to try to help let the pain to subside and allow you to be able to do some physical therapy exercises like strengthening the quadriceps and hamstring muscles.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "But typically injuries that are lower grade will heal within two weeks and so if it's more more severe, it could take a bit longer. And although it's most likely an MCL injury that you're describing, it could be a medial meniscal injury as well or possibly even bursitis at the medial aspect of the knee. But the treatment to start with would be the same and maybe we will get any x-ray if things aren't improving.",
+    "patient_turn": "OK, that sounds good, thank you.",
+    "annotation": "Correct"
+  }
+]

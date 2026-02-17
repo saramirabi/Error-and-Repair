@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a really tough week with my asthma. I've had worsening wheezing and a dry cough, especially when I exercise or when it's cold outside. I've been using my Ventolin inhaler a lot, but it only helps for a little while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these symptoms getting worse?",
+    "patient_turn": "I started noticing the symptoms getting worse about a week ago. It just seemed to get progressively harder to breathe and I’ve been coughing a lot more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the wheezing and cough the most?",
+    "patient_turn": "I mostly feel the wheezing in my chest, and the cough is pretty persistent. It tends to get worse when I'm active or when I go outside in the cold air.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the wheezing and cough feel like for you?",
+    "patient_turn": "The wheezing feels like a tightness in my chest, and it’s kind of a whistling sound when I breathe out. The cough is dry and really annoying; it just won’t go away, especially when I'm trying to do anything active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the wheezing or cough better or worse?",
+    "patient_turn": "I've noticed that cold air definitely makes it worse, and any kind of physical activity seems to trigger it too. Using my Ventolin inhaler helps a little, but it’s only temporary. Staying indoors and keeping warm seems to help a bit, but I can't avoid going outside completely.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the wheezing and cough feel like to you?",
+    "patient_turn": "... kind of .",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the wheezing and cough the most?",
+    "patient_turn": "I feel the wheezing mostly in my chest, and the cough is just constant. It feels like it’s all coming from my lungs, and it gets really bothersome, especially when I'm active or in cold air.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing these symptoms?",
+    "patient_turn": "I've been experiencing these symptoms for about a week now. It started suddenly and has just been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the wheezing and cough the most?",
+    "patient_turn": "I feel the wheezing mostly in my chest, and the cough is constant. It feels like it’s all coming from my lungs, and it gets really bothersome, especially when I'm active or in cold air.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or chest pain during this time?",
+    "patient_turn": "No, I haven't experienced any fever, chills, or chest pain. It's just the wheezing and dry cough that I've been dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I don't know anyone who has been sick. My family is all healthy too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for your asthma?",
+    "patient_turn": "No, I haven't been hospitalized for my asthma. I've just managed it with my inhalers and medications at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any other medications besides your multivitamins?",
+    "patient_turn": "No, I'm not taking any other medications besides my multivitamins. Just my inhaled corticosteroid and the Ventolin for my asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other allergies besides strawberries and kiwis?",
+    "patient_turn": "No, I only have allergies to strawberries and kiwis, which cause hives. I don't have any other known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung disease?",
+    "patient_turn": "No, there's no family history of cardiac or pulmonary disease that I know of. Everyone in my family is healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many days of school have you missed because of your symptoms?",
+    "patient_turn": "I've missed two days of school because of my symptoms. It's been hard to keep up with everything while dealing with this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your asthma disturbed your sleep recently?",
+    "patient_turn": "Yes, my asthma has disturbed my sleep twice in the past week. It's been tough to get a good night's rest with the wheezing and coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe at home and at school?",
+    "patient_turn": "Yes, I feel safe at home and at school. I live with my parents and two siblings, and everything is good on that front.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this, uh, constant dull ache in my lower back for about a month now. It started after I lifted a heavy box at work, and, honestly, it’s been pretty uncomfortable. I also get these spasms, like, two or three times a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, um, it’s pretty much been the same, honestly. It’s a dull, achy pain that doesn’t really go away, and it gets worse when I bend forward. The spasms, uh, they come and go, but the overall pain is just… there, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located in your lower back?",
+    "patient_turn": "Yeah, um, it’s mostly in the lower part of my back, like, near the tailbone area. It’s a bit more on the right side, I think, but it’s hard to say exactly. It just feels tender there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your legs or hips?",
+    "patient_turn": "No, it doesn't spread to my legs or hips, but sometimes it feels like it goes down my legs, but not really. I mean, I guess it doesn't, but maybe it does a little.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "Um, I’d say it’s mostly dull and achy. It’s not really sharp, but it can get pretty uncomfortable, especially when I move or bend. It’s just this constant nagging feeling, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, bending forward definitely makes it worse, like, a lot worse. I’ve tried using some topical analgesics, but they only help a little bit, you know? Honestly, just sitting or standing still seems to be a bit better, but I can’t stay still forever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain starting?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get my car serviced soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s mostly dull and achy. It’s not sharp at all, but it can get pretty uncomfortable, especially when I move or bend. It’s just this persistent, nagging feeling that doesn’t seem to go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any other medical problems or conditions in the past?",
+    "patient_turn": "Uh, not really. I have hypertension, but it’s managed with Ramipril, and I don’t have any other medical issues. No surgeries or hospitalizations, and, um, no allergies either. So, I guess that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking besides Ramipril?",
+    "patient_turn": "Um, I’m not taking any other medications besides Ramipril. I haven’t needed anything else, really. Just that for my hypertension.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any allergies to medications. I mean, I’ve never had a reaction to anything, so, um, I guess I’m lucky in that way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in terms of exercise, diet, and social activities?",
+    "patient_turn": "Well, um, I work at a factory, so my job is pretty physical, you know? I lift heavy boxes and stuff, which I think might have contributed to my back pain. As for exercise, I don’t really have a regular routine, but I try to stay active. Diet-wise, I eat a mix of things, but I’m not super strict about it. Socially, I live with my wife and teenage son, and we hang out together when we can. I guess I drink alcohol occasionally, but not too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized in the past?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized before. I mean, I’ve been pretty healthy overall, aside from my hypertension, so, um, I guess I’ve been lucky that way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health conditions like heart disease or arthritis?",
+    "patient_turn": "Um, no, there’s no family history of musculoskeletal issues, rheumatologic conditions, or cancer that I know of. I think my family has been pretty healthy overall, so, um, I’m not really worried about that.",
+    "annotation": "Correct"
+  }
+]

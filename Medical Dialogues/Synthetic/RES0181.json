@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've had a sore throat for the last three days, and it’s been pretty painful, especially when I swallow solids. I also started running a fever two days ago, around 38.8°C.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where the pain is located in your throat?",
+    "patient_turn": "The pain is mostly in the back of my throat, and it feels really sore when I try to swallow. My tonsils also feel swollen and red.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or something else?",
+    "patient_turn": "The pain feels more like a sharp soreness, especially when I swallow. It's pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed the sore throat about three days ago. It started out as a mild discomfort and then got worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the sore throat start, and has it changed since then?",
+    "patient_turn": "Uh, I think it started maybe three days ago? But I'm not totally sure if it got better or worse since then, kind of just the same I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed the sore throat about three days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your neck?",
+    "patient_turn": "No, I haven't noticed any swelling in my neck. Just the pain in my throat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your voice?",
+    "patient_turn": "No, I haven't noticed any changes in my voice. It's just the sore throat that's bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any loss of smell or taste recently?",
+    "patient_turn": "No, I haven't experienced any loss of smell or taste. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches along with your sore throat?",
+    "patient_turn": "No, I haven't had any headaches. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath at all?",
+    "patient_turn": "No, I haven't noticed any shortness of breath. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling any chest pain at all?",
+    "patient_turn": "No, I’m not feeling any chest pain. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any palpitations or a racing heart?",
+    "patient_turn": "No, I haven't experienced any palpitations or a racing heart. It's just the sore throat and fever that I'm dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or had any vomiting?",
+    "patient_turn": "No, I haven't felt nauseous or had any vomiting. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any abdominal pain or changes in your urination?",
+    "patient_turn": "No, I haven't noticed any abdominal pain or changes in my urination. It's just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your skin, like rashes or discoloration?",
+    "patient_turn": "No, I haven't noticed any changes in my skin, like rashes or discoloration. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any muscle aches or body pain recently?",
+    "patient_turn": "No, I haven't experienced any muscle aches or body pain. Just the sore throat and fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone else who is sick lately?",
+    "patient_turn": "The only person I’ve been around is my younger sibling, who had a brief sore throat without a fever. Other than that, no one else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use tobacco, alcohol, or any recreational drugs?",
+    "patient_turn": "No, I don’t use tobacco, alcohol, or any recreational drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and three siblings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "No, I'm not sexually active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease?",
+    "patient_turn": "The only family history I know of is my grandfather, who had lung cancer related to smoking. Other than that, no known heart or lung disease in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yes, my immunizations are up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven't been hospitalized or had any surgeries in the past.",
+    "annotation": "Correct"
+  }
+]

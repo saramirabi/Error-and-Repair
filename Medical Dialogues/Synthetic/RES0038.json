@@ -1,0 +1,222 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. So, I’ve been having this dry cough for about two weeks now. It started after I got back from Mexico, and it’s been, like, really annoying… it gets worse when I exercise or when it’s cold outside. I’m kinda worried because it’s also been waking me up at night a few times a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your cough? Does it feel like it's coming from your chest or throat?",
+    "patient_turn": "Honestly, it feels more like it’s coming from my throat, I guess? It’s dry and, um, kind of scratchy, but I don’t really feel it in my chest, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickling sensation, or more like a tightness?",
+    "patient_turn": "Um, it’s more of a tickling sensation, I think. It’s really annoying and makes me want to cough a lot, especially when I’m, like, exercising or when it’s cold outside. It’s just… ugh, frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "Uh, I think maybe, like, cold air makes it worse? But I'm not really sure about the other things, you know? Sometimes it feels better when I drink water, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the cough, like breathlessness or wheezing?",
+    "patient_turn": "Yeah, um, I’ve noticed some wheezing, especially when I cough. It’s, like, a little scary sometimes. I also get these itchy eyes, but I don’t have any trouble breathing at rest or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "It’s been about two weeks now, I think. It started after I got back from Mexico, and it’s just been, um, pretty persistent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Um, yeah, it’s definitely gotten worse since it first started. At first, it was just a little annoying, but now it’s, like, really disruptive, especially at night. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it spreads anywhere?",
+    "patient_turn": "I mostly feel it in my throat, um, like I said before. It doesn’t really spread anywhere else, but it can feel pretty intense sometimes, especially when I’m trying to sleep or when I’m active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you—dry, tickly, or something else?",
+    "patient_turn": "It’s definitely dry and, um, tickly. It’s just really irritating, you know? I feel like I can’t get a good breath sometimes because of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make your cough better or worse?",
+    "patient_turn": "Well, um, cold air definitely makes it worse, I think. And, like, exercising seems to trigger it too. But drinking water helps a bit, I guess? It’s just really frustrating trying to figure it all out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your cough, like wheezing or itchy eyes?",
+    "patient_turn": "Yeah, I’ve noticed some wheezing, especially when I cough, and my eyes have been really itchy too. It’s just, um, kind of a mess right now. I don’t have any trouble breathing at rest, but the cough and those itchy eyes are really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your cough first start?",
+    "patient_turn": "Well, I think it was about two weeks ago, maybe after I came back from Mexico. And you know, I was there for a week, and it was really warm, but now it's getting colder here, which could be part of it. Also, I’ve been thinking about how the air in my apartment feels different, especially since I have two cats now, and I wonder if that’s affecting me.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or phlegm when you cough?",
+    "patient_turn": "No, um, I haven’t noticed any mucus or phlegm at all. It’s just been a dry cough, which is, like, really frustrating. I wish there was something more to it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood at all?",
+    "patient_turn": "No, I haven’t coughed up any blood. It’s just been a dry cough, and, um, I’m really glad about that, to be honest. I’m just dealing with the irritation and the wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or chills recently?",
+    "patient_turn": "No, I haven’t had any fever or chills. I mean, I feel fine otherwise, just this annoying cough and the itchy eyes. It’s, um, really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any chills at all during this time?",
+    "patient_turn": "No, I haven’t felt any chills at all. It’s just been the cough and the itchy eyes, but no fever or anything like that. I’m really hoping it’s nothing serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats while you’ve been coughing?",
+    "patient_turn": "No, I haven’t had any night sweats. It’s just the coughing that wakes me up at night, which is really annoying. I’m kinda worried about how it’s affecting my sleep, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest pain at all during this time?",
+    "patient_turn": "No, I haven’t had any chest pain. It’s just the cough and the wheezing, but no pain or anything like that. I’m really hoping it’s just something temporary, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel short of breath when you're resting?",
+    "patient_turn": "No, I don’t feel short of breath when I’m resting. It’s mostly just when I’m coughing or, um, when I’m active. I’m really trying not to panic about it, but it’s just so frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches recently?",
+    "patient_turn": "No, I haven’t had any headaches. It’s just been the cough and the itchy eyes, but no other symptoms like that. I’m really hoping it’s nothing serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or had any stomach issues recently?",
+    "patient_turn": "No, I haven’t felt nauseous or had any stomach issues. It’s just the cough and the itchy eyes that are bothering me. I’m kinda worried about it, but I’m glad it’s not anything else, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any vomiting recently?",
+    "patient_turn": "No, I haven’t experienced any vomiting at all. It’s just been the cough and the itchy eyes, which is really annoying. I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt dizzy or lightheaded at any time recently?",
+    "patient_turn": "No, I haven’t felt dizzy or lightheaded. It’s just the cough that’s really bothering me, and, um, the itchy eyes. I’m just trying to manage it, but it’s a bit overwhelming sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt your heart racing or pounding at any time recently?",
+    "patient_turn": "No, I haven’t felt my heart racing or pounding. It’s just the cough and the wheezing that are, um, really concerning for me. I’m just trying to stay calm about it, but it’s hard, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your weight recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my weight. It’s just the cough and the itchy eyes that are bothering me. I’m really hoping this will pass soon, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your appetite lately?",
+    "patient_turn": "No, I haven’t had any changes in my appetite. I’m still eating normally, it’s just this cough that’s really getting to me. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel habits or urinary symptoms?",
+    "patient_turn": "No, I haven’t noticed any changes in my bowel habits or any urinary symptoms. It’s really just the cough and the itchy eyes that are bothering me. I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any loss of taste or smell recently?",
+    "patient_turn": "No, I haven’t experienced any loss of taste or smell. It’s just the cough and the itchy eyes that are really bothering me. I’m kinda worried about it, but I’m glad it’s not anything more serious, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent exposure to someone with tuberculosis?",
+    "patient_turn": "No, I haven’t had any recent exposure to someone with tuberculosis. It’s just been this cough and the itchy eyes, and I’m really hoping it’s nothing serious. I’m just trying to take care of myself, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of asthma or eczema?",
+    "patient_turn": "Yeah, I have a remote history of childhood asthma and eczema. I haven’t had any similar episodes until now, but my son has asthma and uses inhalers, which I found helpful for my cough. It’s just, um, a bit concerning to have this cough again after so long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your son currently have asthma?",
+    "patient_turn": "Yes, my son has asthma, and he uses inhalers for it. I’ve been thinking about how I used to have asthma as a kid, and now I’m dealing with this cough, which is, um, kind of worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known environmental allergies?",
+    "patient_turn": "Yes, I have environmental allergies to pollen and other allergens. I also have two cats at home, and I’ve been wondering if that’s affecting me too. It’s just been a lot to deal with lately, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long did you smoke before you quit?",
+    "patient_turn": "I smoked for about a pack a day, um, for quite a while, but I quit about a month ago. I’m really trying to stay away from it, but I still occasionally use marijuana, like one or two joints a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use marijuana?",
+    "patient_turn": "I use marijuana occasionally, like, um, one or two joints a week. I’m just trying to manage everything, but I’m worried about how it might be affecting my cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I usually drink about a bottle of wine on the weekends. It’s just, um, something I do to relax, but I’m starting to wonder if it’s affecting my cough too. I’m just trying to figure everything out, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides asthma and eczema?",
+    "patient_turn": "No, I don’t have any other medical conditions. It’s just the asthma and eczema from when I was a kid, and now this cough is really bothering me. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your asthma or any other condition?",
+    "patient_turn": "No, I’m not currently taking any medications for my asthma or anything else. I haven’t had any issues for a long time until this cough started, and I’m just trying to figure out what to do about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don’t have any allergies to medications. I haven’t had any issues with that, so, um, that’s one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for any reason in the past?",
+    "patient_turn": "No, I haven’t been hospitalized for any reason in the past. I’ve been pretty healthy overall, except for the asthma and eczema when I was a kid. This cough is just, um, really concerning for me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries?",
+    "patient_turn": "No, I haven’t had any surgeries. I’ve been pretty lucky in that regard, but, um, this cough is really stressing me out. I just want to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung disease or cancer in your family?",
+    "patient_turn": "No, there’s no family history of lung disease or cancer that I know of. My sister has eczema, but that’s about it. I’m just trying to stay positive, but this cough is really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you had your cats?",
+    "patient_turn": "I’ve had my cats for about a year now. I’m starting to wonder if they might be affecting my allergies or something, especially with this cough I’ve been having. It’s just, um, a lot to think about right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you typically exercise each week?",
+    "patient_turn": "I exercise irregularly, to be honest. I don’t have a set routine, but I try to get some activity in when I can. Lately, though, it’s been hard with this cough getting worse when I do try to exercise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you made any recent changes in your home environment or routine?",
+    "patient_turn": "Um, no, I haven’t made any recent changes in my home environment or routine. Everything’s pretty much the same as it’s been for a while. I’m just trying to figure out why this cough started after my trip, you know?",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, I’ve been having this, um, chronic cough that’s gotten worse over the past month. It’s really harsh and, like, productive of white sputum, but now there’s this yellowish tinge to it. I’m kinda worried because it’s persistent throughout the day, especially in the morning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough getting worse?",
+    "patient_turn": "I think it was about a month ago… um, it just started getting harsher and, you know, I noticed I was producing more sputum. It’s been really annoying, honestly. I didn’t think much of it at first, but now it’s just, like, really persistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the cough or if it causes any discomfort in your chest?",
+    "patient_turn": "Um, I think it’s mostly in my chest, but I’m not really sure. It’s kind of… just there, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it dry or productive?",
+    "patient_turn": "Oh, it’s definitely productive. I mean, I’m coughing up sputum, and it’s been white, but now it’s, like, yellowish. It feels harsh, you know? And sometimes it causes a bit of chest tightness during those coughing fits, but, um, no pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting to change?",
+    "patient_turn": "Uh, I think it was about a month ago when I really started to notice the change. It just felt like it got harsher and, um, I was producing more sputum than usual. It’s been pretty concerning for me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, I’d say it feels the worst in my chest, especially when I’m coughing a lot. It’s like this tightness, you know? But, um, it’s not really painful, just uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it sharp, dull, or something else?",
+    "patient_turn": "I’d say it’s more of a dull discomfort, you know? It’s not sharp or anything, but it’s just this persistent harsh feeling. It’s really annoying, especially when I’m trying to do anything during the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting to change?",
+    "patient_turn": "Uh, I think it was about a month ago. That’s when it really started to feel harsher and, um, I noticed the sputum was increasing too. It’s just been really frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "I think it feels the worst in my chest, especially when I’m having those coughing fits. It’s like this tightness that comes and goes, but, um, it’s not really painful, just uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you—sharp, dull, or something else?",
+    "patient_turn": "Well, it feels kind of harsh, you know? Like, sometimes it feels sharp, especially in the mornings when I get up. I remember last week, I had a terrible time trying to drink my coffee because I kept coughing. Oh, and I also had to stop watching my favorite show because I was coughing too much during it. It’s just really annoying, especially since I used to enjoy my mornings.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "Um, I’ve noticed that it gets worse when I’m active, like, when I’m doing chores or, you know, moving around a lot. But, uh, using my Ventolin inhaler helps a bit, though it doesn’t seem to work as well as it used to. Honestly, I’m just trying to find anything that can help at this point.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Oh, you know, I really need to get my car's oil changed soon. It's been a while, and I keep forgetting to schedule it. But about the cough, I guess it gets worse when I’m active, but I'm not really sure about the other symptoms.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "Um, I used to smoke, like, a pack a day for about 30 years, but I quit a few years ago. I’m really glad I did, but, you know, I think it might have contributed to my COPD. I drink about one beer daily, but I don’t do any recreational drugs or anything like that. As for exercise, I try to stay active, but with this cough, it’s been tough. I mean, I work from home, so I’m not moving around as much as I should.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your cough recently?",
+    "patient_turn": "Yeah, definitely. I mean, it’s gotten harsher and more persistent over the past month. I’ve also noticed the sputum volume increasing and, um, the color changing to yellowish, which is kinda worrying. It just feels like it’s not getting any better, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting to change?",
+    "patient_turn": "Uh, I think it was about a month ago when I really started to notice the change. It just felt like it got harsher and, um, I was producing more sputum than usual. It’s been pretty concerning for me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any lung conditions, like COPD?",
+    "patient_turn": "Yeah, I have a five-year history of COPD. I mean, I know it’s related to my smoking history, and, um, I’ve been managing it with my inhalers. But lately, with this cough getting worse, I’m just feeling a bit more anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed an increase in the amount of sputum you're producing?",
+    "patient_turn": "Yes, definitely. I’ve noticed that the sputum volume has increased a lot over the past month. It used to be just white, but now it’s, um, got this yellowish tinge to it, which is really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you experience wheezing when you're active or exercising?",
+    "patient_turn": "Yeah, I do experience wheezing when I’m active. It’s, um, especially noticeable when I’m doing chores or moving around a lot. I guess it’s just another thing that’s been bothering me lately, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever coughed up any blood?",
+    "patient_turn": "No, I haven’t coughed up any blood, thank goodness. I mean, I’m really glad about that, but I do have this persistent cough and, um, some chest tightness during those fits. It’s just been really stressful, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever or weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any fever or weight loss. I mean, I feel more fatigued lately, but, um, my weight seems to be about the same. It’s just this cough and the increased sputum that’s really got me worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any antibiotics in the past few months?",
+    "patient_turn": "No, I haven’t taken any antibiotics recently. I, um, haven’t had any reason to, I guess. I’m just trying to manage my COPD and this cough, but it’s been tough lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any swelling in your ankles recently?",
+    "patient_turn": "Yeah, I’ve had mild bilateral ankle swelling for at least a year now. It’s not something that’s changed recently, but, um, it’s just been there. I’m not really sure what’s causing it, but it’s something I’ve noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any increase in your fatigue lately?",
+    "patient_turn": "Yeah, I have noticed an increase in my fatigue over the past few months. I mean, it’s been harder to keep up with things, and I just feel more tired than usual. It’s, um, kind of frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medication for your hypertension?",
+    "patient_turn": "Yes, I’m taking lisinopril for my hypertension. I’ve been managing it with that, but, um, I’m just more focused on my cough and COPD right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications besides amoxicillin?",
+    "patient_turn": "Um, no, I only have an allergy to amoxicillin, which causes a rash. I’m not aware of any other medication allergies, but, you know, I’m not totally sure about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of heart disease or cancer?",
+    "patient_turn": "Yeah, there’s a family history of heart disease. My dad had a myocardial infarction in his 60s, and, um, I have an uncle with bladder cancer. But, you know, no family lung diseases reported, which is a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick recently?",
+    "patient_turn": "No, I haven’t had any known contact with sick individuals recently. I mean, I’ve just been working from home and, um, keeping to myself mostly. So, I’m not sure where this cough is coming from.",
+    "annotation": "Correct"
+  }
+]

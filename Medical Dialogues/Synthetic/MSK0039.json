@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I, uh, I hurt my right leg during a dance class about an hour ago. My foot got caught in my dress, and I felt this, like, twisting motion and then an audible snap… it really hurt, like, a lot. I can’t move it or put any weight on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start, and how has it changed since then?",
+    "patient_turn": "The pain started right after the injury, um, it was really sharp and throbbing, like a 10 out of 10. Honestly, it hasn’t really gotten better… it’s still super painful, and now there’s swelling and bruising. I’m kinda worried because I can’t move my leg at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me exactly where the pain is located?",
+    "patient_turn": "Yeah, um, the pain is mostly in the mid-shin area, like right in the middle of my lower leg. It’s really tender there, and, um, it feels warm and swollen too. I can’t really touch it without it hurting a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, or is it just in your shin?",
+    "patient_turn": "Um, it’s mostly just in my shin, but I’ve noticed some intermittent numbness and tingling below the injury, like in my foot. I’m not totally sure what that means, but it’s, uh, kind of concerning. Other than that, the pain is really localized.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, throbbing, or something else?",
+    "patient_turn": "It’s definitely sharp and throbbing, like, um, really intense. I can’t really think of anything else to compare it to, but it feels like it’s, uh, just constant and really overwhelming. I just want it to stop, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "I was just sitting at home, you know, doing some chores.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any numbness, tingling, or coldness in your leg?",
+    "patient_turn": "Yeah, I’ve noticed some intermittent numbness and tingling below the injury, like in my foot. It’s, um, kind of strange and a little concerning, but I don’t feel any coldness or complete loss of sensation, just that weird tingling. I’m not totally sure what it means, but it’s definitely adding to my worries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms like a headache, fever, or feeling unwell?",
+    "patient_turn": "No, I haven’t had any other symptoms like that. I mean, I feel okay otherwise, just really focused on this leg pain and the swelling. No headaches, fever, or anything like that, just, um, this injury is really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "Um, no, I don’t have any significant past medical or surgical history. I’ve had two uncomplicated vaginal deliveries, but that’s about it. I’m not on any regular medications, and I don’t have any known allergies, so, um, I guess I’m pretty healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "No, I’m not taking any regular medications, and I don’t have any known allergies. I mean, I’m up to date with my immunizations, but that’s pretty much it. I’m just, uh, really focused on this leg injury right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of significant medical conditions?",
+    "patient_turn": "Yeah, um, my mom was diagnosed with osteoporosis in her late fifties, and I have an aunt who had ovarian cancer in her sixties. But, um, there’s no family history of musculoskeletal issues or anything like that, so I’m not really sure if that’s related to my injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I haven’t been in contact with anyone who was sick. I’ve just been at home, you know, doing my usual stuff. So, um, I don’t think that’s related to what happened with my leg.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I mean, I’ve never really been into that kind of stuff, and I don’t drink alcohol either. I just, um, try to stay healthy, you know?",
+    "annotation": "Correct"
+  }
+]

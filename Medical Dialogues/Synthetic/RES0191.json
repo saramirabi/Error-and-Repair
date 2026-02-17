@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having some nasal obstruction and clear nasal discharge for about a week now. It's mostly mild, but it gets worse at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal obstruction and discharge?",
+    "patient_turn": "I first noticed it about a week ago. It started off pretty mild, but it’s been consistent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the nasal obstruction or discharge changed in any way since it started?",
+    "patient_turn": "No, it’s pretty much stayed the same. The obstruction is still mild, and the discharge is clear without any color or blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the nasal obstruction the most?",
+    "patient_turn": "I mostly feel the obstruction in my nose, especially at night when I'm trying to sleep. I have to change positions sometimes to relieve it a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the nasal discharge feel like? Is it watery, thick, or something else?",
+    "patient_turn": "The nasal discharge is clear and watery. It’s not thick at all, just kind of runny.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the nasal obstruction and discharge?",
+    "patient_turn": "Uh, well, I think I first noticed it about a week ago, maybe? But, you know, I also had a really bad cold last month, and I remember my neighbor had some kind of allergy problem too, which was weird. Oh, and I’ve been binge-watching this show on Netflix, so I might’ve just not paid attention to it until recently.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the nasal obstruction?",
+    "patient_turn": "No, I haven't noticed any other symptoms. Just the nasal obstruction and clear discharge, nothing else like pain or cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the nasal obstruction?",
+    "patient_turn": "I've been experiencing the nasal obstruction for about a week now. It started around the same time as the clear nasal discharge.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "No, I don’t have any past medical or surgical history to share. I’ve been pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I'm not taking any medications or supplements at the moment. I haven't needed anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies, including to medications or foods?",
+    "patient_turn": "No, I don’t have any allergies, including seasonal allergies. I’ve never had any issues with medications or foods either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your living situation like? Do you live alone or with others?",
+    "patient_turn": "I live alone in a downtown apartment. It's been nice, especially since I work from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of medical conditions, like heart disease or diabetes?",
+    "patient_turn": "No, my family history is pretty clear for heart disease, lung issues, diabetes, or hypertension. The only thing is that my grandfather had colon cancer at age 55.",
+    "annotation": "Correct"
+  }
+]

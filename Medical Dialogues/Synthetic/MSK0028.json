@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this really sharp pain in my right shoulder and elbow. It started suddenly after I was, you know, weight training, and it’s been pretty intense—like, 8 or 9 out of 10. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start exactly?",
+    "patient_turn": "The pain started, um, the day before yesterday, right after I was working on biceps flexion with a machine. I think I might have heard a pop at the time, and then the pain kicked in about 30 minutes later. It’s just been really bad since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, um, the pain is mostly in my anterior right shoulder and elbow. It’s pretty localized there, but it doesn’t really spread anywhere else. I mean, it hurts a lot, but I don’t feel it radiating or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "It’s definitely sharp and stabbing, you know? Like, really intense. I can’t really describe it as dull or pressure—it's more like a sudden, really painful jolt, especially when I try to move my arm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "Well, I was at the gym, you know, doing some weight training, focusing on biceps flexion. I think I might have heard a pop, but it's hard to remember exactly. And I was also thinking about how I hadn't worked out in a while, so I was kind of excited but nervous about getting back into it. Plus, I was wearing my new workout shoes, which I really like.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "Oh, you know, I was just thinking about what to have for dinner later. Maybe some pasta?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling, redness, or bruising around your shoulder or elbow?",
+    "patient_turn": "Yeah, I’ve definitely noticed some swelling and redness around my shoulder and elbow. There’s also bruising, which is kinda alarming, to be honest. It’s like, um, there’s a painful mass in the biceps area that makes it look a bit enlarged too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any previous shoulder pain or injuries before this incident?",
+    "patient_turn": "Um, yeah, I had some shoulder pain years ago, but it was on the opposite side. I managed it with physiotherapy, and it got better, but I haven’t had any issues since then until now. So, this is kind of a surprise for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling any numbness or tingling in your arm?",
+    "patient_turn": "No, I’m not feeling any numbness or tingling in my arm, thankfully. It’s just the pain, you know? I haven’t noticed anything like that, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "No, I’m not taking any regular medications, and I don’t have any allergies that I know of. I mean, I’ve never had any issues with medications before, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of musculoskeletal or neurological issues?",
+    "patient_turn": "Um, no, there’s no family history of musculoskeletal or neurological issues that I’m aware of. It’s just, you know, me dealing with this right now, which is kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in terms of exercise, work, and leisure activities?",
+    "patient_turn": "Well, I work from home as an accountant, so my days are mostly spent at my desk, you know? I try to fit in some exercise, like weight training, but I just recently got back into it after a long break. For leisure, I like cooking and spending time with my wife and daughter. We sometimes watch movies together or go for walks in the city. It’s just, um, a pretty normal routine, but now this injury is really throwing a wrench in things.",
+    "annotation": "Correct"
+  }
+]

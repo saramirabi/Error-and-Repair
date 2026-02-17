@@ -1,0 +1,147 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this worsening cough for about two months now, and it's really been, like, affecting my breathing, especially when I exert myself. I, uh, I also have this productive cough with, like, white to yellowish sputum, and it's just... it’s getting kind of hard to deal with, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, at first, it was just, like, a little annoying, but now it’s, um, pretty consistent throughout the day. Sometimes it’s worse in the morning, and I’m, uh, coughing up more sputum than I used to. Honestly, it’s just really tiring, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough is coming from?",
+    "patient_turn": "Um, I guess it feels like it's coming from my chest? I mean, I can feel some discomfort when I cough, but it’s not, like, super painful or anything. It’s just... I don’t know, it feels heavy, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it dry or productive?",
+    "patient_turn": "Oh, it’s definitely productive. I, um, I cough up sputum, like, five to ten teaspoons a day, I think? It’s mostly white to yellowish, and, uh, it feels like I need to clear my throat a lot, you know? It’s just... really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was maybe a couple of months ago? I’m not really sure about the exact time, but it just kind of started getting worse over time, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "So, um, at first, it was just a little annoying, but now it’s, like, much more consistent throughout the day. It’s worse in the mornings, and I’m coughing up more sputum than I used to. Honestly, it’s just really exhausting, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or discomfort in your chest?",
+    "patient_turn": "Um, I feel it mostly in the middle of my chest, I think? It’s not, like, sharp or anything, but there’s this sort of heaviness when I cough. It’s just... uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you’re experiencing it?",
+    "patient_turn": "Well, it’s, um, definitely productive, so I’m coughing up sputum. It feels like I really need to clear my throat a lot, and sometimes it’s, like, a bit tight in my chest. Honestly, it’s just really tiring and, uh, frustrating to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this cough?",
+    "patient_turn": "Uh, I think it’s been about two months now? It started out, like, kind of mild, but it’s just gotten worse since then. I’m really starting to feel the effects of it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me if the cough is worse at any specific times of the day?",
+    "patient_turn": "Well, I think it might be worse in the mornings sometimes, but then again, it’s also pretty consistent throughout the day, so I’m not entirely sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like when you experience it?",
+    "patient_turn": "Uh, it feels kind of tight and heavy in my chest, I guess? It’s not sharp or anything, but it’s definitely uncomfortable, especially when I’m coughing. Honestly, it just makes everything feel more exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this discomfort while coughing?",
+    "patient_turn": "Um, I think I started noticing it around the same time as the cough, so, like, two months ago? It wasn’t too bad at first, but it’s definitely gotten worse as the cough has progressed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the discomfort changed in intensity or frequency since it first started?",
+    "patient_turn": "Yeah, I think it has. At first, it was, um, pretty mild, but now it feels more intense, especially when I cough. It’s, like, happening more often too, which is, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your sputum when you cough?",
+    "patient_turn": "No, I haven’t noticed any blood in my sputum at all. It’s just been, um, white to yellowish, so that’s one thing I’m, uh, relieved about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills lately?",
+    "patient_turn": "No, I haven’t had any fever or chills. I mean, I’ve been feeling pretty okay otherwise, just, um, dealing with this cough and shortness of breath. It’s just... really frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any palpitations or experienced lightheadedness recently?",
+    "patient_turn": "No, I haven’t felt any palpitations or lightheadedness. It’s mostly just the cough and, um, the shortness of breath that’s been bothering me. I’m really just trying to figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a runny nose or sore throat recently?",
+    "patient_turn": "No, I haven’t had a runny nose or sore throat. It’s just been the cough and the shortness of breath, you know? I’m kinda worried because it feels like it’s not getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or abdominal issues lately?",
+    "patient_turn": "No, I haven’t had any headaches or abdominal issues. It’s really just the cough and the shortness of breath that’s been, um, bothering me. I’m just trying to figure out what’s causing all this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any urinary or bowel symptoms, or any rashes?",
+    "patient_turn": "No, I haven’t noticed any urinary or bowel symptoms, and I don’t have any rashes either. It’s really just the cough and shortness of breath that’s, um, concerning me right now. I’m just feeling a bit overwhelmed, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any muscle or joint aches recently?",
+    "patient_turn": "No, I haven’t had any muscle or joint aches. It’s really just the cough and shortness of breath that’s been, um, bothering me. I’m just feeling kind of worn out with all of this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your voice recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my voice. It’s just the cough and the shortness of breath that’s really been, um, affecting me. I’m just trying to figure out what’s going on, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you manage your asthma, and how often do you use your inhalers?",
+    "patient_turn": "Um, I manage my asthma with a daily steroid inhaler and a salbutamol inhaler. Lately, I’ve been using the salbutamol one more often, like, 6 to 10 times a week, I think? It’s just, uh, been harder to breathe with all this going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many times do you use your inhalers in a typical week?",
+    "patient_turn": "Well, I’ve been using my salbutamol inhaler, like, 6 to 10 times a week recently. It’s definitely more than I used to, and, um, it’s kind of worrying me, you know? I just feel like I’m relying on it more.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any wheezing recently, similar to your past asthma episodes?",
+    "patient_turn": "Yeah, I have noticed some occasional wheezing, which feels similar to my past asthma episodes. It’s, um, kind of concerning because I thought I had it under control, but now it’s just... frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many chest infections have you had in the past year?",
+    "patient_turn": "I’ve had a few chest infections over the past year, but I’m not totally sure how many. They were treated with antibiotics, and, um, I’ve been okay since then, but now with this cough, I’m just feeling really anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides asthma?",
+    "patient_turn": "No, I don’t have any other medical conditions besides asthma. It’s just been, um, really focused on this cough and shortness of breath lately, and I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I mean, I’ve been pretty lucky in that regard, but, um, right now I’m just really focused on figuring out this cough and breathing issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent hospitalizations or surgeries?",
+    "patient_turn": "No, I haven’t had any recent hospitalizations or surgeries. It’s just been, um, this ongoing cough and shortness of breath that’s really been bothering me lately. I’m just feeling a bit overwhelmed, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you receive this year's flu vaccine?",
+    "patient_turn": "Yes, I did get this year’s flu vaccine. I thought it would help, you know, but, um, I’m still dealing with this cough and shortness of breath, which is really frustrating.",
+    "annotation": "Correct"
+  }
+]

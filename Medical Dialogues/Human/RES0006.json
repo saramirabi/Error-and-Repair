@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "What brings you in to see us?",
+    "patient_turn": "So I've just been having this cough that I feel has just been getting worse, and I've also been feeling a bit short of breath for the last few months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, could you tell me when the cough started?",
+    "patient_turn": "So I would say it started around two months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has the cough been dry or have you been bringing up sputum?",
+    "patient_turn": "Uh, it's usually always, uh, produces like the sputum, and it's usually white or yellowish in colour.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much sputum are you producing each day? Some, sometimes it's useful to think about like teaspoons or tablespoons.",
+    "patient_turn": "I would say every time I cough like a teaspoon I probably have like. I don't know. Maybe 5 to 10 teaspoons a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh OK, and is there any particular time of day that the cough is worse?",
+    "patient_turn": "Um, not really. It's pretty, pretty much the same. Sometimes it is worse in the morning. Yeah, and sometimes it gets better when I go out for a smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. And have you noticed any blood?",
+    "patient_turn": "No, um I haven't noticed any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had, so you had shortness of breath, when did that start?",
+    "patient_turn": "It's around two months ago, around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And. Is this? Do you have shortness of breath at rest or is it when you exert yourself?",
+    "patient_turn": "Uh, it's it can happen like at anytime, but worse when I am exerting myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and then have you had a cough before?",
+    "patient_turn": "Uh. Not as frequently. I would say not really, it just started in the last two to three months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had shortness of breath like this before?",
+    "patient_turn": "Just throughout my life I've had asthma so when I am exercising too much or get exposed to like dust, sometimes get shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has there been anything, um besides exerting yourself, that's made that either the cough or or shortness of breath worse?",
+    "patient_turn": "Uh, over the last year like I've had a couple of chest infections. After going to the ER, they gave me some antibiotics. But yeah, when that happens it usually gets worse. The shortness of breath and the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, do your symptoms feel like any of those times right now?",
+    "patient_turn": "No, I I don't feel like I have a fever and no other symptoms, just the shortness of breath and cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been doing anything that's made it better?",
+    "patient_turn": "I've been taking some Tylenol Cold, hasn't really helped too much. I've tried my inhalers, they sometimes help, but I've never had have this frequent of coughing and shortness of breath before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and how has your energy been? Have you been experiencing fatigue?",
+    "patient_turn": "Um, when it gets really bad then I can't really step out of the house, but other than that I feel like my energy's still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and you have it, have you had any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about at a loss of smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um a loss of taste?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chest pain?",
+    "patient_turn": "No, just sometimes when I'm like coughing a lot it gets a little bit uncomfortable. But other than that, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you had any instances where you felt like your heart was racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about being lightheaded or or like you were going to pass out?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a runny nose or or a sore throat?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about headaches?",
+    "patient_turn": "No headaches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any wheezing?",
+    "patient_turn": "Um, sometimes I've noticed it, but I had it before. Like with asthma as well, but not not that much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about abdominal pain?",
+    "patient_turn": "No abdominal pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, then any urinary problems?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any bowel problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any rashes?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about any muscle aches or or joint aches or or body aches?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And you mentioned asthma, but have you been diagnosed with any other medical conditions?",
+    "patient_turn": "No, just asthma.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you use inhalers? Are there any other medications you're currently using?",
+    "patient_turn": "Oh no, just the salbutamol and like the steroid inhaler.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, and how often are you using both of those?",
+    "patient_turn": "So the steroid one I am using pretty much every day but the salbutamol I found I've been using a lot more recently. I would say probably at least six to 10 times in a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um that reminded me I I forgot to ask. Have you notice any changes to your voice?",
+    "patient_turn": "Um no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. And I was wondering if you had any allergies to medications?",
+    "patient_turn": "No, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you been in the hospital recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so when was the last time that you had antibiotics?",
+    "patient_turn": "I would say like six months ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and any surgeries?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you get the flu shot this year?",
+    "patient_turn": "Yep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, great um and I was wondering if you could tell me a little bit about your living situation.",
+    "patient_turn": "So I live in London um in a small apartment with my wife.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you have any pets around?",
+    "patient_turn": "No, no pets.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and um, any exposures at work too, like dust or any types of like chemicals like that.",
+    "patient_turn": "No, not really. My work is pretty much a desk job, so nothing like that.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke cigarettes?",
+    "patient_turn": "Yeah yeah, I smoke a lot of cigarettes just like I would say 30 cigarettes a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you smoked for?",
+    "patient_turn": "I'd say, probably at least 25 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So you started smoking um around 35.",
+    "patient_turn": "Yeah yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you tried to quit?",
+    "patient_turn": "Yeah, tried to quit. I've even quite a couple times but then just got back onto it. Yeah, not not really ready to quit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. That's fair enough. If there's something that you wanted to talk about quitting smoking at another appointment, we can arrange follow up for that.",
+    "patient_turn": "Alright",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "Not much, just out say one or two beers on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and you use any recreational drugs like cocaine, crystal meth, or IV drugs.",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and has anything similar like this happened in your family before?",
+    "patient_turn": "Uh, I think my um sister has a COPD, like she smokes a lot too. But that's that's about, I don't know if that's genetic.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Oh OK, um I. So I mean anybody in the family have cancers?",
+    "patient_turn": "Um no, not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright um so, that that was all the questions that I wanted to ask on history. Was there any, uh, any other questions that you had?",
+    "patient_turn": "No, not really. Just wanted to get to the bottom of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK for sure so um we will run some investigations and likely get a chest X Ray because it's been a couple of months that these symptoms have been going on for. But I think it could be related to your smoking and most likely um Bronc, chronic bronchitis, but we can definitely will be looking into this, and then also with possibly some pulmonary function tests as well.",
+    "patient_turn": "OK, sounds good.",
+    "annotation": "Correct"
+  }
+]

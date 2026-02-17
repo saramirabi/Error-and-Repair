@@ -1,0 +1,292 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "I just came in because I've been having this just just yesterday it started this sudden just pain over the front of my kind of like a shoulder an also elbow and it was right after doing I was just doing some workout and this pain just started and it's just like a stabbing sharp pain that hasn't really gone away since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so what activity were you doing specifically?",
+    "patient_turn": "So I was doing so I was just doing weight training and I was kind of flexing my elbows and I was working on my biceps. I was on that machine where you so know I wasn't using weights or doing curls, but I was working on my biceps and I think I did hear, I don't think I heard like any pop or anything, but right after that I just had this sudden sharp pain in my shoulder as well as my elbow.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so you you you think you heard a pop at that time?",
+    "patient_turn": "Um I'm not sure if I heard a pop. Actually, I think I might have though.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and did the pain start immediately or or a bit later on?",
+    "patient_turn": "The pain I think it started pretty soon after, like probably within like half an hour of that happening.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And where is the pain located now?",
+    "patient_turn": "The pain right now is a. Yeah, just kind of right at the front of my right elbow as well as near my shoulder as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And where is the pain located now?",
+    "patient_turn": "Yeah, it's sharp. Yeah, I just feel like something stabbing in there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does the pain radiate anywhere else?",
+    "patient_turn": "No, it's kind of in the same area as they described.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has there been anything you've tried to make the pain better?",
+    "patient_turn": "No nothings I tried like Advil nothings really worked.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, uh, sorry. How long is how many days is the pain been on going on for just just started yesterday?",
+    "patient_turn": "Yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and since then has the pain getting any better or any worse?",
+    "patient_turn": "I think it's the same, probably a bit worse than so it just happened last evening and I I didn't end up coming last night, but I wanted to make sure. I'm just coming this morning since it's just been a really painful night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you done anything that's made the pain worse since last night?",
+    "patient_turn": "No I just tried to just rest and I tried to use some ice, but nothing. Nothing's been working and I kind of also have like this. It it's weird, it's just like this mass right where my biceps is. It kind of just makes my biceps look really big.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, alright, well I skip look at that during the physical exam component thank you and so like are you seeing swell is there like swelling there is as well or is is that part painful?",
+    "patient_turn": "Yeah, it's painful there swelling there as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And well, how severe is the pain on a scale of 10 to 1, 10 being the worst pain that you've ever experienced and one being the least.",
+    "patient_turn": "Probably at least an 8, maybe a 9.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so the pain is pretty severe then it sounds like. Uh, OK. Have you had any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any unexpected weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any appetite loss?",
+    "patient_turn": "Uhm no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any headaches?",
+    "patient_turn": "Uhm no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any sensory changes like changes to vision or hearing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your sense of smell or sense of taste?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a runny nose or a sore throat?",
+    "patient_turn": "Uhm no nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any heart palpitations or feeling like your heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any lightheadedness or dizziness?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to your bowel movements such as diarrhea or constipation or even blood in the stool.",
+    "patient_turn": "No nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any urination problems such as pain or frequency?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you noticed any changes to your skin like rashes or changes to your nails or hair?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any neurological symptoms such as numbness or tingling?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any muscle weakness?",
+    "patient_turn": "Just just in the in that area, I can't really like. I can't really flex an really move my upper upper arm in my elbow.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK. Do you have any pains in any other joints?",
+    "patient_turn": "Um no that's it's only my right upper arm.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um. And. Have you had any confusion or memory loss?",
+    "patient_turn": "Uhm no I've been pretty healthy, um I they think I do have like pre diabetes but I'm not on any medication.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, and have you had any issues with your shoulder before like like a subacromial like impingement syndrome or like a rotator cuff pains or problems in the past?",
+    "patient_turn": "A few years ago I did have some pain um with like some, they they told me not to do like overhead work like just things that require like with Physio I need to do some strengthening as well and it was it wasn't the same same shoulder.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you take any medications regularly?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any allergies?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any hospitalizations or prior surgeries?",
+    "patient_turn": "I had my tonsils removed when I was probably like 10 or something, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and for the shoulder in the past did you have any imaging done like an ultrasound or or MRI maybe to look at the structures?",
+    "patient_turn": "No, it was just a it kind of went away. I just did some physio they didn't really do any imaging.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK. And can you tell me a little about your living situation right now, like you're living with and where?",
+    "patient_turn": "Yeah so I'm living with my wife and um daughter and I'm living just in a condominium in the city.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you working right now?",
+    "patient_turn": "Yeah, so I'm an accountant. I'm working from home, so it's not that bad, but I I might just take a few days off depending on what I have to do with this injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um do you and hobby wise you mentioned like weight lifting, are you an active person like bodybuilding and that sort of thing regularly?",
+    "patient_turn": "I I just actually probably started this past year. I used to. I used to workout a lot. In University and in my early 30s but then I stopped and this year I've kind of gone back into it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well it's good that you're staying active. And um do you smoke cigarettes?",
+    "patient_turn": "No, I uh, probably tried a couple times and. High School and University, but just it was never my thing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about cannabis, like smoking marijuana or using any of those types of products?",
+    "patient_turn": "No, I I try to stay away from any drugs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, including recreational drugs?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and. Uh, are there any musculoskeletal or neurological problems that that run in the family?",
+    "patient_turn": "Not that I know of, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and. Uh, are there any musculoskeletal or neurological problems that that run in the family?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so next I just wanted to ask you to have a look at the at the arm. Compared to the other side, are you noticing any swelling, redness, or?",
+    "patient_turn": "Yeah, any swelling or redness, I do see some just like kind of like in the middle of this area, some redness kind of looks like some bruising in in that in that region. Uhm, I also feel like when I like try to flex my biceps kind of have moved upwards.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is this the mass or lump that I you were mentioning earlier that you kinda can notice in the in your right arm?",
+    "patient_turn": "Yeah yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there any temperature change, like does it feel warm on that side?",
+    "patient_turn": "Uhm I can't really tell if it's warm or not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you so you mentioned are you able to bend your elbow all the way up so to flex it all the way up, or is a range of motion limited?",
+    "patient_turn": "It's pretty limited. It's pretty tough to flex. It's really painful and that I also can't like. I can't turn my arm, I can't supinate.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so yeah, so you have reduced supination as well?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And how are your shoulder movement, are you able to like if you're lifting your arms straight out in front of you, are you able to to lift them all the way up above your head?",
+    "patient_turn": "Out like at the sides or in front of me?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In front of you.",
+    "patient_turn": "Yeah, the shoulder seems to be OK. I am able to lift up, but it's just if I try to move my upper arms at all it hurts a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright so. You'll get some pain at the at the shoulder with the movement.",
+    "patient_turn": "There there is discomfort in the affected side, but I can I can move it much more than I can move my elbows or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see. So I think that was everything that I wanted to ask about and and I look for on on the physical today. Was there anything I may be missed or anything like that?",
+    "patient_turn": "Uhm no I think, uh, I don't have any other questions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, so based on the history and what you're telling me for the physical as well of having a history of exercising and also shoulder pain with overhead head movements which are risk factors for developing a biceps, tendon tear or biceps tendon injury. And having the swelling and bruising as well as reduced function of biceps or elbow flexion, they all suggests that there is a biceps, tendon tear, or injury there, and so will want to get an ultrasound or MRI to look at will start with the ultrasound, but then possibly get an MRI as well to look at the extent of the tissue damage, but if there is just a long head of biceps tear, it will usually be treated conservatively. And so we'll just need to look to see what the extent of the injury is.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  }
+]

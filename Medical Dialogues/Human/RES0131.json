@@ -1,0 +1,182 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi there, I, I've had this cough that started um, three days ago, and over these past couple of days, I've just been really achy all over and so, I've had a headache as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, well I'm sorry to hear that you're not feeling well. Um, the cough, when did that start?",
+    "patient_turn": "Yeah, so that, about three or four days ago um, it started to come on, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and then how about the headache?",
+    "patient_turn": "That's been more in the last two days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Two days, okay, and then the uh, muscle ache?",
+    "patient_turn": "Yeah, it's been there for about two, yeah about two or three days. I wake up in the morning and I've been feeling like really fatigued and achy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, the cough, is it dry or you're bringing up phlegm?",
+    "patient_turn": "It's, it's dry, but it's gotten a little bit worse since it started. It's just been happening more often.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and does it sound harsh?",
+    "patient_turn": "Uh, maybe a little bit, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Is it getting worse do you think?",
+    "patient_turn": "Yeah, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, are you experiencing any shortness of breath along with the cough?",
+    "patient_turn": "Uh, a little bit after, um, if I have like a coughing fit that's bad enough, but um, for the most part, I've been okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any wheeziness?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Do you ever feel like your heart's racing?",
+    "patient_turn": "No, I haven't felt like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, how about calf pain when you walk, like more than a block or two?",
+    "patient_turn": "No, I haven't had any symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any changes to your bowel movements?",
+    "patient_turn": "No things have been normal there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, changes to your urine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Uh, headaches?",
+    "patient_turn": "Every once in a while, I'll get a headache, but it's, they're pretty mild. Usually I'll take an Advil and they go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure, um, how about dizziness or fainting spells?",
+    "patient_turn": "No, I haven't had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, any confusion or memory loss?",
+    "patient_turn": "Uh, I guess I um, forget things a little more easily now, but, that's just part of getting older.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, sure. Um, and then other questions I have for you, are um, are you otherwise healthy? Do you have any major medical, medical conditions?",
+    "patient_turn": "Uh, I have arthritis um, in my knees and uh, hands, um so I have a lot of pain from that sometimes, and I also have high blood pressure and um, GERD.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay.",
+    "patient_turn": "Or acid reflux, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure. Do you take any medications for these things?",
+    "patient_turn": "Um, yeah, I'll take Tylenol um, for the arthritis, and sometimes use some like, topical creams for my knees. Um and uh I, I take amlodipine as well, I think, for the blood pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Okay, and um, are you up to date with all your immunizations?",
+    "patient_turn": "Yeah, yeah, I remember getting one not too long ago, actually. Well, seven years ago I guess now, but I didn't realize, that we uh, had to get anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, so yeah, after you turn 65, they should've given you the Shingrix for shingles and pneumococcal vaccine, does that sound familiar?",
+    "patient_turn": "Yeah it does. Yeah, I just didn't know about them until that time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay yeah, sure. Any allergies that you have?",
+    "patient_turn": "Uh, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. How about family history of lung or heart conditions?",
+    "patient_turn": "My uh, grandfather had, had a stroke when he was in his 70s and um, but he was like, a smoker and a drinker, and didn't really look after himself very well unfortunately, and uh, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, okay. And do you currently smoke?",
+    "patient_turn": "I do, yes. Yeah, I, I smoke um, I don't know, maybe half a pack a day now, which is, it's a lot less than I used to. I was smoking two packs a day at one point.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, well congratulations on cutting down. Um, yeah, if you need help cutting that down even more, let us know, we have resources that you may be able to use.",
+    "patient_turn": "Yeah, absolutely. Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, no problem. Do you do any other recreational drugs like marijuana, cocaine, heroin, anything like that?",
+    "patient_turn": "Yeah since I, oh CBD drops, I, at night I find that helps with uh, sleep and, and the pain in my knees.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh okay, are those prescribed drops?",
+    "patient_turn": "Um. well I do buy, I get them from uh, like the uh, the OCS store, I think they're called.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay yeah. Okay, that's good that you're getting them from, like an official store.",
+    "patient_turn": "Yeah they're for, they were, uh, my friend said that they worked for her, and so I just gave them a try and I, I found that they've helped.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, good. Um, and where do you live right now? And who do you live with?",
+    "patient_turn": "Yeah, so I live in uh, in an apartment with my, with my husband.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, And any like, old carpets, dust, mold, or asbestos in this apartment?",
+    "patient_turn": "No, I don't believe so. It's relatively new. We just moved out of our house, uh, just to make it a little easier on us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay yeah, for sure. Um, have you been in contact with anyone sick recently?",
+    "patient_turn": "No, I don't think so. I've been spending a lot of time at at home uh, with my husband, and he's been okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, good. How about travel?",
+    "patient_turn": "No, we've been pretty scared with uh, COVID and all that, so we've been staying, staying home for the most part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, okay, good. Um, those were all the questions that I had for you today. Did you have any questions of your own for me?",
+    "patient_turn": "No, I was just really concerned when I started to see um, the blood coming up more recently, and so I was just hoping to get this figured out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. Um, so they're a couple of things we're gonna work you up for. Um, because some of your symptoms overlap with COVID, we'll start by getting a COVID swab and you should hear back in about 24 to 48 hours. Um, we will also do a chest x-ray um, to look for any signs of lung cancer. Um, and then if we see consolidation or anything that would indicate um, like a mass in your lungs, we will discuss options for like biopsies which is the gold standard for diagnosing lung cancers. Also, I know you haven't had any recent travel or anything like that and your symptoms have been going on for a long time, but uh, it may also be worthwhile to uh, also check for things like TB, which could also cause you to cough up blood. Um, so we'll start, we'll start from there, and then if those come back negative, then we'll work you up further for other things that you may have, but are like more rare. How does that sound?",
+    "patient_turn": "That sounds like a good plan. Thank you.",
+    "annotation": "Correct"
+  }
+]

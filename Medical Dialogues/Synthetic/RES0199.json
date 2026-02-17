@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a persistent headache for the last four days, mostly in my forehead and the top of my head. It's pretty painful, around a 7 out of 10, and I've also developed a dry cough and some frequent watery diarrhea.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the headache changed in intensity or location since it started?",
+    "patient_turn": "No, it hasn't really changed in intensity or location. It's still mostly in my forehead and the top of my head, and it feels about the same as when it first started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the headache is located?",
+    "patient_turn": "It's mainly located in my forehead and the top of my head, kind of like a band around that area. It doesn't radiate anywhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It feels more like a dull pressure, but it's definitely painful. It's not sharp, just really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "... a few ago.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has the headache changed in intensity or location since it started?",
+    "patient_turn": "No, it hasn't changed in intensity or location since it started. It's been pretty consistent the whole time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the dry cough?",
+    "patient_turn": "I've been experiencing the dry cough for about four days, the same amount of time as the headache.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many times a day are you having diarrhea?",
+    "patient_turn": "I'm having diarrhea about five to six times a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about the nausea and vomiting episodes you've had?",
+    "patient_turn": "I've had some nausea along with the diarrhea, and I've vomited twice. The vomiting was non-bloody and just contained food. It hasn't been too frequent, but it adds to the discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or are you currently taking any medications?",
+    "patient_turn": "I don't have any past medical conditions, and I'm not currently taking any medications. My health has been pretty good overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease in your relatives?",
+    "patient_turn": "No, there's no family history of lung or heart disease that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your living situation like, and do you have any work exposure to communal areas?",
+    "patient_turn": "I live alone in a city apartment, and I work at a car dealership. There might be some limited exposure to communal areas at work, but I haven't been around anyone sick recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your immunizations up to date?",
+    "patient_turn": "Yes, all my immunizations are up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or other substances?",
+    "patient_turn": "No, I don't have any known allergies to medications, foods, or other substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your menstrual cycle and any gynecological issues you've had?",
+    "patient_turn": "I don’t know.",
+    "annotation": "Correct"
+  }
+]

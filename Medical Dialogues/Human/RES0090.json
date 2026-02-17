@@ -1,0 +1,197 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Yeah, um, so I have been, I have this cough, I'm coughing up blood so that's made me a little bit worried, um, so I thought I should come and get, get it investigated.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah no definitely, that, that's definitely concerning, is, so when did this start?",
+    "patient_turn": "It, the coughing up blood started about a week and a half ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mhm.",
+    "patient_turn": "Uhm, but it's not getting any better, and it's not stopping.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and did it start, did the cough just start, uh with, uh, blood in the cough or what, did it just start as a normal cough first?",
+    "patient_turn": "It started off as a normal cough first.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and did you have any kind of production of sputum with yellow or greenish material at all?",
+    "patient_turn": "Uh, not really, I mean there, it's, it was a little bit yellow, but now it's just mostly blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and did you, were you in contact with anyone that was sick recently, or did you have any travel?",
+    "patient_turn": "I recently immigrated to Canada from India.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and were you in contact at all when you were in India with anyone who might have had tuberculosis or was sick at all around you?",
+    "patient_turn": "Uh, I mean it's possible, like people get sick in my family all the time in India, so it's possible.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And were you at all, in India when, were you were you living in like close quarters like in a smaller space with other people at all?",
+    "patient_turn": "I have a big family so we all live together.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Uh, so it's yeah, so there are about like ten of us.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK great, so it started one, you said around one and a half weeks ago.",
+    "patient_turn": "Yeah, that's right.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is it like a constant cough? Or does it come and go?",
+    "patient_turn": "It's uh, it's pretty constant, well, I guess it comes and goes, it's, it's not there all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had this happen before at all?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Right, is there anything that makes your symptoms better or worse?",
+    "patient_turn": "Uhm, I don't think so, nothing that, nothing I've tried has worked.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any other symptoms like a fever or shortness of breath, anything like that?",
+    "patient_turn": "I have been feeling chills and uhm, I haven't actually taken my temperature, but I feel hot, so it's possible that I have a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you, do you have any significant weight loss at all in the past few weeks?",
+    "patient_turn": "Yeah, now that you mention it, I think I've lost about ten pounds in the past month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how much do you weigh?",
+    "patient_turn": "Right now I weigh a hundred and ten.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so yeah, definitely, that's more than like the ten percent, yes, that is pretty significant. Have you been experiencing any night sweats?",
+    "patient_turn": "Yes, yeah, I've been having night sweats. I thought that was just me being hot, but I guess, I feel chilly and then I have night sweats so I probably do have a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about fatigue? Are you, do you feel more tired throughout the day?",
+    "patient_turn": "Uh, yeah, I would say so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any symptoms like chest pain or racing heart or anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, any headaches, nausea, vomiting?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your bowel movements?",
+    "patient_turn": "uh, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any issues with your sleep or appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um, any exposures to fumes or dust or animals or pets?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, currently right now, have you been in contact with anyone else, do you go to work or anyone living with you right now?",
+    "patient_turn": "So I go to work, uhm, I'm working for an assembly line, so there are a lot of people around me and I live with two housemates.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anyone at work or your housemates, anyone showing any similar symptoms at all?",
+    "patient_turn": "No, I don't think so. I haven't asked them, but nothing I've seen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and previously do you have any medical conditions that you were diagnosed with?",
+    "patient_turn": "Nope, I'm healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "No, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any kind of loss of taste or smell?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you on any medications at all?",
+    "patient_turn": "Uhm, no, just some vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any previous hospitalizations or surgeries?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, other than that, have you had any family history of any heart or lung conditions?",
+    "patient_turn": "Nope, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, currently right now, so you live with roommates. Is it like an apartment, is it a home, like a house?",
+    "patient_turn": "I live in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, do you currently smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you drink alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recreational drugs like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, alright, so those are all the questions we had. Do you have any questions or concerns?",
+    "patient_turn": "No, what do you think I have and is there anything I need to do right now?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, So what, uh, some of your symptoms are concerning, especially the coughing up blood, which is something that we always think of with tuberculosis. You don't have any history of, uh, family history of lung cancer or anything like that, so right now, especially since you just moved from India where tuberclosis is endemic, we need to make sure that we test you for tuberculosis. In the meantime though, you will need to stay in the hospital and be in an isolated room, uh, where we can filter some of the air and make sure, it's a very infective condition if you do have it so while you're getting all the tests done, you will need to stay here in an isolated room. Also, we will get some sputum smears and cultures to test for TB and we will also, I will need to, if the test comes back positive we will need to contact public health and let your contacts know as well. Lastly, we will also be getting, since you're having the hemoptysis, like coughing up blood, we will, we might also do a chest X-ray to see if you, if you have active TB.",
+    "patient_turn": "OK",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So those are, those are some of the things that we'll get started with. Is that OK with you? Any questions or concerns?",
+    "patient_turn": "Uhm, no nothing like that, uhm do I need to isolate?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so we will keep you in an isolated room right now, when you're getting all those tests. And if you do have TB, you will need to isolate, uhm, and stay away from contacts, not be at work, we will, if you do in fact have TB, which it seems likely right now, you will be started in hospital on a ,like antibiotic therapy, uh, which consists of like four different medications and people with the active TB will do have to isolate during that time period, so yeah, we'll get some of those tests done and, we'll get back to you as soon as possible.",
+    "patient_turn": "OK, great, thank you.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "doctor_turn": "Could you start with telling me what brought you in today?",
+    "patient_turn": "Hi, I've just been been so like weak and so tired, I just I can't I can't seem to like get off the couch, like I'll get up from my bed and go lay on the couch and then you know I might be able to get something to eat but I just I get so tired so fast and I don't know I don't know what's wrong.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, when did these symptoms start?",
+    "patient_turn": "Um, like I've been feeling pretty tired for like a week, but like this bad for like maybe four days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and so it sounds like you haven't been going to work or like anything like that because you have been so kind of tired and weak.",
+    "patient_turn": "Yeah, I mean at first I was already kind of working. I'm I'm a truck driver so you know, once you start the job, you kind of have to finish that. I was supposed to go on another another trip like 4 days ago and I just couldn't. I had to call my boss and say that I can't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you had any like specific muscle weakness like in your legs or or in your arms? Or would you say it's overall like a general weakness?",
+    "patient_turn": "It's just everywhere. It's it's not like I can't move. I'm just really, really tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how, how have you been sleeping?",
+    "patient_turn": "I mean, I've just been sleeping like all the time. I have been sleeping all night and then like I said, I get up and I go to the couch and like just fall back asleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, have you been having any other symptoms?",
+    "patient_turn": "I mean my my throat is maybe a little sore, but nothing nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, when when did the sore throat first start?",
+    "patient_turn": "Probably probably about a week ago. It's not really bad, it's just kinda there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it's it started just before uh, the weakness and fatigue?",
+    "patient_turn": "Yeah, around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and have you been having any pain with swallowing?",
+    "patient_turn": "Uh, I mean maybe a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, like with uh, like solid foods or liquids or both?",
+    "patient_turn": "It it's just like it's just like it's a little a little tender. It's not like, really it's not like hard to swallow or anything, it just feels like it's like my throat's kinda tired.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, have you had any changes to your voice?",
+    "patient_turn": "Uh, no, I don't think so. I mean, I live. I live alone so I can't really ask someone else if I have.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, but your voice sounds the same to you?",
+    "patient_turn": "Yeah, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, um, and so have you been having any fevers or chills?",
+    "patient_turn": "Um, I've been, I've been feeling really cold.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any, uh, like shakes or or rigors?",
+    "patient_turn": "I've been like kind of kind of shivering.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any night sweats?",
+    "patient_turn": "Um, yeah, come to think of it, like I was I was, when I was last traveling with, when I was last on it because I'm a truck driver, I I was in the States, I I had to bring something to Ohio, and I had to change my clothes in the night. They were just like so drenched in sweat.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, has that happened more than that that one time?",
+    "patient_turn": "Maybe a couple times that it wasn't as bad, that one time was really bad, but here and there like I I've been feeling pretty sweaty at night in general.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any, uh, like difficulties breathing or shortness of breath?",
+    "patient_turn": "Not really, just like kind of tired, but it's not like hard to breathe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you had a cough?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about a runny nose?",
+    "patient_turn": "Maybe maybe a little bit, but not like too noticeable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did the runny nose start?",
+    "patient_turn": "Oh, it's all like around the same time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and have you been having any headaches?",
+    "patient_turn": "A little.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then how about any chest pain?",
+    "patient_turn": "No no. No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about any wheezing?",
+    "patient_turn": "No, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, then any heart palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you felt lightheaded or or like you were going to pass out or faint?",
+    "patient_turn": "Uh not like I've been feeling really tired, but it's not been like I don't think it's been like fainting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so kind of like you are fatigued that you've been experiencing. Um, have you had any abdominal pain?",
+    "patient_turn": "I mean, I'm not really eating a lot, so it's kind of like gurgling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any nausea or vomiting?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any bowel problems?",
+    "patient_turn": "No, I mean, you know I haven't been eating that much, so I haven't been going as much as normal, but it's I don't think there's problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you haven't had any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, and have you had any skin rashes?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um have you had any like muscle aches or or joint aches?",
+    "patient_turn": "I mean, I feel kind of achy all over but not in like one particular spot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in terms of your past health, have you been, is there any reason you you see a doctor regularly?",
+    "patient_turn": "Oh Oh yeah, like I have I have high blood pressure and diabetes. Yeah, that's that's pretty well it, but yeah, those two things. Oh and I take a medication for my prostate.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, um, and do you take medications for the blood pressure and diabetes?",
+    "patient_turn": "I yeah yeah, I um, oh geez, what's it called? I take ramipril, and I take Metformin. I was on insulin but I pretty well I just have been able to eat well so I'm not taking it now. And then, uh, I can't remember the, uh, the prostate one. Like tam, tam something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, maybe tamsulosin?",
+    "patient_turn": "That sounds right, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I can check on the chart as well to confirm. Um, do you have any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any recent hospitalizations?",
+    "patient_turn": "No, no, I've been pretty good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any surgeries?",
+    "patient_turn": "Uh, not for a really long time, I I had my gallbladder out like 20 years ago. Yeah, that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um, and has anything like this happened to you or any of your family members before, suddenly they start started to feel fatigue like this?",
+    "patient_turn": "I don't think so. I mean, we've all like you know, caught colds and you know stuff like bugs and stuff but, not not quite like this, like I can barely get up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anybody in the family have a history of heart disease or cardiovascular disease?",
+    "patient_turn": "My dad had high blood pressure, that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anybody in the family have cancer?",
+    "patient_turn": "My mom, my mom had breast cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you told me that that you work as a trucker, so you were over in the states, it sounds like. How recently were you in the United States?",
+    "patient_turn": "That was like about a week ago. I probably got back five or six days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you travel there often?",
+    "patient_turn": "Oh yeah, yeah. I mean that's you know the route that I usually take.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh any anybody you interacted with that was sick, do you believe?",
+    "patient_turn": "I don't. I don't really interact with with many people. I kind of just go there and um, and then you know I stayed in a hotel. But you know, I didn't really see anyone besides like the lady that works there. And maybe you know, the people at the McDonald's like counter. I didn't I didn't like see anyone that I know that I sat with for a long time or anything.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, but you got home about five or six days ago. Um, yeah, and who are you living with currently?",
+    "patient_turn": "Just me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you drink alcohol?",
+    "patient_turn": "Oh no. No, I used to a little bit, but not not anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how about cigarettes? Do you smoke cigarettes?",
+    "patient_turn": "I quit um 10 years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "I smoked I smoked probably like 1/2 a pack a day for for a while, maybe 20 years.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, but you quit over 10 years ago?",
+    "patient_turn": "Uh, about 10 years ago, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you smoke marijuana?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about any other recreational drug use, including the use of IV drugs?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you currently sexually active?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, and have you had a sexually transmitted infection before?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK uh, and are you currently in a in a relationship?",
+    "patient_turn": "Uh, no, uh, like I have I have a friend that I see and we both, um, we both lost our spouses, um, several years ago, and I mean, we, we see each other and like we live in the same apartment building and often have meals together. But we're just like friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "But that's the person that would check on me if I needed it.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, that's great. It sounds like you have some good support nearby. I'm sorry to hear about your wife. But I think that was all of the questions that I wanted to ask on the the history today. So next I we're gonna order some some lab work for sure to start with then and maybe we'll go from there. So we'll give you some fluids, and maybe some Tylenol and we will see what the lab work shows.",
+    "patient_turn": "OK, thank you.",
+    "annotation": "Correct"
+  }
+]

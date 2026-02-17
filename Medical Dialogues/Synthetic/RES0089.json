@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this worsening shortness of breath for about two weeks now, and, uh, I’ve also got this cough that’s been really bad for three weeks. It’s, like, constant and producing a lot of green sputum… I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and cough?",
+    "patient_turn": "Well, the shortness of breath started about two weeks ago, and, um, the cough has been going on for three weeks. It’s just gotten worse, you know? I mean, I’m coughing all the time now, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the tightness in your chest is located? Does it spread anywhere else?",
+    "patient_turn": "Um, the tightness is mostly in the center of my chest, and it feels, like, throbbing or achy. It happens when I cough and sometimes even when I’m just sitting there… but, um, it doesn’t really spread anywhere else, I don’t think. It’s just, you know, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It's kind of sharp, I think? But I don’t really feel it all the time, mostly just when I'm sitting still. I mean, it’s not really tight at all, just sometimes.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What activities or situations make the tightness in your chest feel worse?",
+    "patient_turn": "Uh, well, it definitely gets worse with activity, like when I’m moving around or doing anything, really. And, um, cold air seems to make it worse too… I guess it just makes everything feel tighter, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or swelling in your legs?",
+    "patient_turn": "Yeah, I’ve noticed some leg swelling, which is, um, kinda concerning. And I do feel short of breath a lot, especially when I’m active. I haven’t really felt dizzy or anything like that, but, um, I do get a bit of mild orthopnea, which gets better if I change positions. It’s just all really exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your cough? When did it start, and how has it changed?",
+    "patient_turn": "Sure, um, the cough started about three weeks ago, and it’s just gotten worse since then. It’s constant now, and I’m producing, like, two palms’ worth of green sputum every day. Honestly, it’s really frustrating because it feels like it just won’t go away, and it’s making everything harder to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like? Is it sharp, dull, throbbing, or something else?",
+    "patient_turn": "Oh, um, it feels more like a dull, throbbing ache, I guess? It’s not super sharp, but it’s definitely uncomfortable. It kind of comes and goes, especially when I’m coughing or, you know, when I’m active.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make the chest tightness feel worse for you?",
+    "patient_turn": "Well, I think it gets worse when I’m just sitting around doing nothing, but then again, I feel fine when I'm active, like when I go for walks or play sports. So, it’s kind of confusing.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the chest tightness feel like to you? Is it sharp, dull, throbbing, or something else?",
+    "patient_turn": "The tightness is, um, kind of throbbing, I guess? It's been going on for a couple of weeks, but it kind of changes. Like, some days it feels more achy, and then other times it’s like, I don’t know, more intense? Oh, and I also remember last month I had this really nice dinner with friends, and we had way too much dessert, which made me feel bloated, but that’s not really related. Anyway, sometimes I notice it more when I’m in the cold air, like when I go outside for a bit.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How much sputum do you produce each day?",
+    "patient_turn": "I’m, um, producing about two palms’ worth of sputum every day. It’s a lot, honestly, and it’s mostly green, which is kinda concerning. It just feels like it won’t stop, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers, chills, or night sweats recently?",
+    "patient_turn": "Uh, no, I haven’t had any fevers or chills, but I do get, like, occasional sweating when I’m having trouble breathing. It’s not really night sweats, though, just, you know, when I’m feeling short of breath. I’m kinda worried about all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of lung or heart conditions, like COPD or heart failure?",
+    "patient_turn": "Yeah, I have a history of COPD, which I was diagnosed with about seven years ago, and I also have congestive heart failure that was diagnosed two years ago. I’ve had some issues with dyspnea before, and, um, I was hospitalized for it once. It’s just been really tough managing everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your conditions?",
+    "patient_turn": "I’m currently taking an ACE inhibitor and spironolactone for my heart failure, and I have two inhalers—one’s a long-acting beta agonist and the other is a short-acting beta agonist. I’ve been using the short-acting inhaler almost daily lately, which is, um, not great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "Uh, no, I don’t have any known drug allergies. I’ve never had a problem with medications before, so that’s, um, one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol, and if so, how often?",
+    "patient_turn": "I quit smoking about two years ago, so that’s good, but I do drink alcohol occasionally, like, about once a week. I also use marijuana from a medical dispensary, like, once a week too. I’m just trying to manage everything, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized for breathing problems in the past?",
+    "patient_turn": "Yeah, I was hospitalized once for dyspnea and hypoxia, um, about two years ago. It was really scary, and I don’t want to go through that again. I’m just really worried about how things are getting worse now.",
+    "annotation": "Correct"
+  }
+]

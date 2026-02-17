@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here. So, I’ve had this dry cough for like four days now, and it’s been more bothersome than usual. It’s constant and, uh, not really productive, you know? I’ve tried some over-the-counter cough suppressants, but they haven’t helped at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, it started about four days ago. Before that, I had a runny and stuffy nose for a week, but that cleared up without any fever or anything. So, I guess the cough just kinda came out of nowhere after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in intensity or frequency since it started?",
+    "patient_turn": "Uh, it’s..., I guess.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most?",
+    "patient_turn": "Honestly, it feels like it’s just in my throat, you know? I don’t really feel any pain or anything in my chest, just this annoying tickle that makes me cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it?",
+    "patient_turn": "Um, it’s kind of a dry cough, you know? It’s just this persistent tickle, and it feels like I need to clear my throat all the time, but nothing really comes up. It’s just... really annoying and, um, bothersome.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I first noticed it about four days ago. It just sort of started out of the blue after I had that runny nose, which went away. So, yeah, it’s been four days now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in intensity or frequency since it started?",
+    "patient_turn": "Um, no, not really. It’s been pretty much the same—constant and annoying, I guess. It hasn’t gotten worse or better, just... there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it spreads anywhere?",
+    "patient_turn": "I mostly feel it in my throat, you know? It doesn’t really spread anywhere else, just that tickling sensation that makes me cough. It’s not painful or anything, just really irritating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as dry, tickly, or something else?",
+    "patient_turn": "Yeah, I’d definitely say it’s dry and tickly. It’s like this constant urge to cough, but there’s nothing really coming up, you know? Just really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the cough better or worse?",
+    "patient_turn": "Um, I’m not really sure if anything makes it better or worse, you know? It just kind of is what it is, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough, like breathlessness or dizziness?",
+    "patient_turn": "No, not really. I haven’t had any fever, chills, or anything like that. Just the cough, and I feel fine otherwise—no breathlessness or dizziness or anything. It’s just... the cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me when the cough first started and if it has changed since then?",
+    "patient_turn": "Oh, I think it started maybe four days ago, but I don't really remember. I mean, it hasn’t changed at all, but also it feels different now, I think.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest, or does it feel like it’s spreading anywhere?",
+    "patient_turn": "Um, I don’t really feel it in my chest, to be honest. It’s mostly just in my throat, like a tickle, and it doesn’t seem to spread anywhere else. Just really annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it more sharp, dull, or something else?",
+    "patient_turn": "I’d say it’s more of a tickly, dry cough, you know? It’s not sharp or dull, just this persistent urge to cough that’s really annoying. It’s hard to describe, but it’s definitely not painful or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cough better or worse?",
+    "patient_turn": "Um, honestly, I haven’t really noticed anything that makes it better or worse. It just seems to be there all the time, and the cough suppressants I tried didn’t help at all. So, yeah, it’s just... frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently?",
+    "patient_turn": "Uh, no, I haven’t traveled outside the province recently. I’ve just been here, you know? No trips or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Um, not that I know of. I haven’t really been around anyone who’s been sick, so I’m not totally sure where this cough came from. It’s just kind of weird, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any pets or allergens in your home that might be affecting you?",
+    "patient_turn": "No, I don’t have any pets, and I don’t think there are any allergens in my home. I mean, I live alone, so it’s pretty clean, I guess. No known allergies or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical conditions or surgeries that I should know about?",
+    "patient_turn": "Uh, no, my past medical history is pretty unremarkable. I haven’t had any major conditions or surgeries, so nothing really to worry about there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or substances?",
+    "patient_turn": "No, I don’t have any allergies to medications or substances. I’ve never had any reactions or anything like that, so I think I’m good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you quit smoking?",
+    "patient_turn": "I quit smoking about a year ago. I had been smoking for like two years before that, but I decided it was time to stop. So, yeah, it’s been a year now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently smoking or using any recreational drugs?",
+    "patient_turn": "No, I’m not smoking or using any recreational drugs. I quit smoking a year ago, and I don’t really do anything else like that. I only drink alcohol occasionally during holidays, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "Um, I only drink alcohol occasionally, like during holidays or special occasions. It’s not something I do regularly, you know? So, it’s pretty infrequent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like heart or lung problems?",
+    "patient_turn": "No, there’s no family history of heart or lung problems that I know of. Everyone in my family seems to be pretty healthy, so I’m not really worried about that.",
+    "annotation": "Correct"
+  }
+]

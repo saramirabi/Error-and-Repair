@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this nasal congestion for about two weeks now, and then it turned into a pretty constant clear runny nose for the last week and a half. I guess I’m kinda worried because it’s just not getting better, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal congestion?",
+    "patient_turn": "Oh, um, I first noticed the nasal congestion about two weeks ago. It just sort of started out of nowhere, and then it, uh, progressed to the runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the congestion and runny nose changed since it first started?",
+    "patient_turn": "Well, at first, it was just the congestion, but then, um, after about a week, I started getting this clear runny nose that hasn’t really stopped since. It’s, uh, kind of annoying, honestly, and I’ve also had some mild facial pressure and occasional headaches, but nothing too severe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the facial pressure feels the strongest?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to clean out my closet.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pressure feel like—sharp, dull, or something else?",
+    "patient_turn": "Um, I’d say it’s more of a dull pressure, you know? It’s not really sharp or anything, just sort of there, and it can be a bit uncomfortable at times.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or positions make the pressure feel better or worse?",
+    "patient_turn": "Uh, I haven’t really noticed a specific activity that makes it better or worse, to be honest. It’s just kind of there all the time, but sometimes, um, resting or lying down helps a little bit, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any of those symptoms. It’s mostly just the congestion and runny nose, along with the facial pressure and occasional headaches. I’m really glad I haven’t had any cough or fever or anything like that, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Well, I usually just work from home, so I don’t get a lot of exercise, but I try to go for walks sometimes, like maybe once or twice a week. Oh, and I drink about a glass of wine on the weekends, which is nice, but I also had this funny incident where I tripped over my cat while trying to get to the fridge, so I guess I could be more active. And I definitely don’t smoke, never have, but yeah, I think I might need to get a new vacuum cleaner because the old one just isn’t cutting it anymore.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Um, not really, my past medical history is pretty unremarkable, except for, like, a remote arm fracture from a long time ago. I’m not on any regular medications, and I don’t have any allergies that I know of. So, yeah, nothing major, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t noticed any of those symptoms at all. It’s really just the nasal congestion, runny nose, and some mild facial pressure and headaches. I’m kinda relieved it’s not anything worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain or discomfort you're experiencing?",
+    "patient_turn": "Uh, I wouldn’t really call it pain, more like discomfort, you know? It’s this dull pressure in my face, and sometimes it’s just annoying, but it’s not really severe or anything. Just, um, kind of bothersome, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal congestion and runny nose?",
+    "patient_turn": "I first noticed the nasal congestion about two weeks ago, and then, um, the runny nose started about a week and a half ago. It’s just been, like, a constant thing since then, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the congestion or runny nose changed in intensity since it started?",
+    "patient_turn": "Um, not really, it’s been pretty consistent, I think. The congestion was there at first, and then the runny nose just sort of took over, but it hasn’t really gotten worse or anything. Just, you know, still there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pressure in your face?",
+    "patient_turn": "You know, I really need to remember to buy some more coffee. Anyway, the pressure in my face is, um, kind of all over, I think? But speaking of coffee, I’ve been trying to cut back lately because I read somewhere that too much caffeine can be bad for you.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pressure in your face feel like?",
+    "patient_turn": "Uh, it feels more like a dull pressure, you know? It’s not sharp or anything, just sort of there, and it can get a bit uncomfortable at times, especially when I’m, um, trying to focus on work or something.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick lately?",
+    "patient_turn": "No, um, I haven’t been in contact with anyone who’s been sick. I’ve been pretty careful, and I haven’t traveled anywhere recently either, so I’m not really sure where this is coming from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been, um, working from home and staying in my apartment. So, yeah, no travel at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sleep or appetite lately?",
+    "patient_turn": "Uh, no, not really. My sleep has been okay, and my appetite is pretty much the same as usual. I mean, I’ve been eating normally, so, um, no changes there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. I think my weight has been pretty stable, you know? I’m just, um, trying to keep things normal despite this congestion and runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any shortness of breath or chest pain at all?",
+    "patient_turn": "No, um, I haven’t had any shortness of breath or chest pain. It’s really just the nasal congestion and runny nose, so I’m glad it’s not anything more serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your nasal congestion or runny nose affected your work or daily activities in any way?",
+    "patient_turn": "Not really, um, it hasn’t affected my work or daily activities much. I’ve been able to keep up with everything, but it’s just, like, annoying to deal with, you know? I’m just hoping it clears up soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone in my apartment. It’s, um, kind of nice sometimes, but I guess it can feel a bit lonely, especially when I’m not feeling great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No, I don’t use any recreational drugs. I’ve never really been into that, um, just the occasional glass of wine, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unusual fatigue or tiredness recently?",
+    "patient_turn": "No, I haven’t noticed any unusual fatigue or tiredness. I mean, I feel pretty much the same as usual, just, um, dealing with this congestion and runny nose. So, yeah, no significant fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any night sweats recently?",
+    "patient_turn": "No, I haven’t had any night sweats. It’s really just the nasal congestion and runny nose that’s been bothering me, so, um, nothing like that.",
+    "annotation": "Correct"
+  }
+]

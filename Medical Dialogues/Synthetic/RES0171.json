@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having some trouble breathing over the last day, and it's gotten worse to the point where I feel short of breath even at rest. I also have this sharp chest pain that hurts when I take deep breaths.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and chest pain?",
+    "patient_turn": "I first noticed the shortness of breath and chest pain about a day ago. It started out mild but has progressively gotten worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the chest pain is located and if it spreads to any other areas?",
+    "patient_turn": "The chest pain is mostly on the right side, and it feels sharp, especially when I take a deep breath. It doesn’t really spread to other areas, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "The chest pain feels sharp, especially when I breathe deeply. It’s quite uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the chest pain first start?",
+    "patient_turn": "The chest pain started around the same time as the shortness of breath, so about a day ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the chest pain changed in intensity or frequency since it first started?",
+    "patient_turn": "Well, it hasn’t really changed much, but I think it started a couple of days ago, or maybe even longer. I mean, it could be just a few hours, really.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Yes, I've been experiencing shortness of breath, and I also feel some palpitations with a rapid heart rate. I haven't felt dizzy or nauseous, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a dry cough, or have you noticed any sputum when you cough?",
+    "patient_turn": "Yes, I have a dry cough, but there's no sputum or anything like that. It's just been dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or headaches recently?",
+    "patient_turn": "No, I haven't had any fever or headaches recently. I feel fine in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any soreness or discomfort in your right calf?",
+    "patient_turn": "Yes, I have noticed some soreness in my right calf, but there's no swelling, redness, or warmth. It just feels a bit sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions like diabetes or anxiety?",
+    "patient_turn": "Yes, I have type 2 diabetes and I also have anxiety, which I manage with medication.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke each day, and how often do you drink alcohol?",
+    "patient_turn": "I smoke about half a pack of cigarettes a day, and I drink alcohol socially, usually 1-2 glasses of wine on the weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of stroke or other heart-related issues?",
+    "patient_turn": "Yes, my father had a stroke at age 68. That's the only significant heart-related issue in my family that I know of.",
+    "annotation": "Correct"
+  }
+]

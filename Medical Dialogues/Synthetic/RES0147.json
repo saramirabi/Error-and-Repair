@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this worsening cough and, like, really bad shortness of breath for the past 12 hours. It started off just in the mornings with some white sputum, but now it's, um, more frequent and there's this greenish-yellow sputum too. I'm kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and shortness of breath?",
+    "patient_turn": "Well, I guess it started getting worse, um, about 12 hours ago. Before that, it was just in the mornings, but now it’s, like, happening all day. The shortness of breath is really bothering me, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the tightness in your chest?",
+    "patient_turn": "Um, it’s kind of hard to explain, like maybe it’s a bit constricting? I’m not really sure if it spreads anywhere else, but it just feels… not great, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the tightness in your chest better or worse?",
+    "patient_turn": "Uh, I’m not totally sure, to be honest. I haven’t really noticed anything that helps it, and it seems to get worse when I’m, like, coughing more. I just feel, um, kind of anxious about it, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like shortness of breath or dizziness?",
+    "patient_turn": "Yeah, definitely shortness of breath, um, that’s been pretty bad. But I haven’t had any dizziness or anything like that. I mean, I feel a bit off, but no fever, chills, or anything else like that. Just, um, really worried about the cough and the tightness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing this tightness in your chest?",
+    "patient_turn": "Um, I think it’s been, like, the same amount of time as the cough, so about 12 hours? It just sort of came on with the cough getting worse. I’m really not used to feeling like this, and it’s, um, making me anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the tightness in your chest feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Um, I’d say it feels more like pressure, you know? It’s not sharp or anything, but it’s just this heavy feeling that’s, um, really uncomfortable. I’m kinda worried about it, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What seems to make the tightness in your chest better or worse?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to clean out my garage. It’s been a mess for a while.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the tightness in your chest, and does it spread anywhere else?",
+    "patient_turn": "Um, it’s…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you been diagnosed with any lung conditions, like COPD, before this?",
+    "patient_turn": "Yeah, I was diagnosed with COPD about two years ago. I’ve been managing it with inhalers, like Ventolin and Spiriva, but, um, this feels different and, honestly, it’s really worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your health?",
+    "patient_turn": "Um, I take a statin and a blood thinner because of my aortic stenosis, and I also have some antihypertensive medication, but I can’t really remember the names, you know? I just, um, hope they’re helping.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure! Can you describe your living situation and who helps you with daily tasks?",
+    "patient_turn": "Uh, I live alone in a house, and I’m retired, but I do some volunteering, like, seasonally. My son helps me out a bit with meals and, um, household tasks, which is nice. I don’t really use any mobility aids or home oxygen, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did you do for work before you retired, and were you exposed to any irritants?",
+    "patient_turn": "I worked at a beer factory before I retired, and, um, I guess there might have been some exposure to irritants there. I’m not totally sure how much it affected me, but, you know, it’s something I think about sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any inhalers or breathing treatments at home?",
+    "patient_turn": "Yeah, I use inhalers at home, like Ventolin and Spiriva. They’ve helped me manage my COPD, but, um, this recent cough and tightness feel different, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick recently or traveled anywhere?",
+    "patient_turn": "Um, no, I haven’t been around anyone who was sick recently, and I haven’t traveled anywhere either. I’ve been, like, sticking to mask use and social distancing while volunteering, so I thought I was being careful.",
+    "annotation": "Correct"
+  }
+]

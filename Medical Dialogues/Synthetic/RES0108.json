@@ -1,0 +1,142 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve had this persistent dry cough for about a week now. It’s kinda itchy and scratchy in my throat, and, honestly, it’s really annoying. I’ve tried cough syrup, but it only helps a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about a week ago, um, I think it started just suddenly. I don’t really remember anything that triggered it, you know? It’s just been there, and it’s not getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "... started?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your throat?",
+    "patient_turn": "It’s mostly, um, like right in the back of my throat, you know? It feels really itchy and scratchy there, and I cough to try to relieve it, but it doesn’t last long. It’s just... frustrating, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the cough?",
+    "patient_turn": "Um, I’d say it’s more of a dry cough, not harsh or anything, but it’s definitely persistent. It feels like there’s this constant irritation in my throat, and I just have to cough to, like, try to clear it, but it doesn’t really help much. It’s kinda annoying, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about a week ago, um, it just sort of came out of nowhere. I can’t really pinpoint anything that might have caused it, you know? It’s just been there, and it’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it started?",
+    "patient_turn": "Not really, um, it’s pretty much stayed the same since it started. It’s still dry and scratchy, and I don’t have any other symptoms like phlegm or anything. I just wish it would go away, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the irritation or discomfort when you cough?",
+    "patient_turn": "I feel the irritation mostly in the back of my throat, um, it’s like this itchy, scratchy feeling. It’s really uncomfortable, and I cough to try to relieve it, but it doesn’t seem to help much. It’s just... really annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it more of a tickle, or does it feel different?",
+    "patient_turn": "It’s more of a tickle, I’d say, um, like a persistent itch in my throat that just won’t go away. It makes me want to cough, but it’s not harsh or anything. Just really uncomfortable and, um, kind of frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, I think it started about a week ago, but maybe it was two weeks? I’m not really sure.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "No, not really. It’s pretty much been the same, um, just that dry, scratchy feeling in my throat. I wish it would change for the better, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the irritation or discomfort when you cough?",
+    "patient_turn": "I feel the irritation mostly in the back of my throat, um, it’s like this constant itch that just won’t go away. It’s really uncomfortable, and I cough to try to relieve it, but it doesn’t help much. It’s just... really annoying, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it more of a tickle, a scratch, or something else?",
+    "patient_turn": "It’s more of a tickle, I guess, um, like this persistent itch in my throat that makes me want to cough. It’s not harsh or painful, but it’s definitely uncomfortable and, um, just really frustrating. I just want it to stop, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was maybe a week ago, but I’m pretty sure it was longer than that. I’m not really clear on the timing.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "Um, no, it hasn’t really changed. It’s still that same dry, scratchy feeling in my throat. I just wish it would get better, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced a cough like this before?",
+    "patient_turn": "Not really, um, I mean, I get the occasional cold once a year, but nothing like this persistent cough. This one is just... different and really annoying. I’m kinda worried it won’t go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent changes in your bowel or urinary habits?",
+    "patient_turn": "No, not really. I’ve had some longstanding constipation, um, mostly because I don’t eat enough fiber, but there haven’t been any recent changes in my bowel or urinary habits. Everything’s pretty much the same there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you started any new medications recently?",
+    "patient_turn": "Yeah, I just started taking ramipril about two weeks ago for my blood pressure. Um, I’ve been on metformin for my diabetes for, like, five to six years now, but the ramipril is the new one. I’m kinda worried that it might be related to this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications, besides penicillin?",
+    "patient_turn": "Um, no, I only have that penicillin allergy, which I had as a kid, and it was just a rash. I haven’t had any other allergies to medications that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease that I know of. Um, my family seems to be pretty healthy overall, so that’s not something I’m really worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any tobacco products?",
+    "patient_turn": "No, I don’t smoke or use any tobacco products. I’m a non-smoker, um, I just drink a couple of beers on the weekends, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I usually have, um, two to three beers on the weekends. It’s not a lot, but, you know, I just like to relax a bit. I don’t drink during the week or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife and our two kids. Um, they’re all pretty healthy, and we don’t have any known environmental exposures in our house, so it’s just... a normal home life, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any specific allergens or irritants in your home environment, like pets or mold?",
+    "patient_turn": "Um, not that I know of. We don’t have any pets, and I haven’t noticed any mold or anything like that in the house. It seems pretty clean, you know? So I’m not sure what could be causing this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled recently. I’ve just been home, um, doing the usual stuff with my family. I haven’t been in contact with anyone sick either, so I’m not really sure what’s going on with this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick recently?",
+    "patient_turn": "No, I haven’t been around anyone who was sick. Um, I’ve just been at home with my family, and nobody’s shown any signs of being unwell, so it’s kinda puzzling why I have this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with your vaccinations?",
+    "patient_turn": "Yeah, I’m up to date with my immunizations. I make sure to keep everything current, um, so that’s not something I’m worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any gynecological or menstrual issues that you’re currently experiencing?",
+    "patient_turn": "Um, no, I don’t have any gynecological or menstrual issues. I’m a man, so that doesn’t really apply to me.",
+    "annotation": "Correct"
+  }
+]

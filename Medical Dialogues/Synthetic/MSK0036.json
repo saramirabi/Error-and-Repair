@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, Dr. Lee. So, I’ve been having this, like, aching pain and numbness in my right wrist and fingers for about two weeks now. It’s been getting worse, especially at night, and it’s really starting to worry me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain and numbness in your wrist and fingers?",
+    "patient_turn": "Uh, I first noticed it about two weeks ago. It started off kinda mild, but, um, it’s gradually gotten worse. Now it’s affecting my thumb, index, and middle fingers, and even a bit in my left hand too, but not as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Sure, um, the pain is mostly in my right wrist, palm, and then it radiates into my thumb, index, and middle fingers. Sometimes it feels like it’s, uh, going up to my forearm too. I don’t have any neck pain or anything like that, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, aching, or something else?",
+    "patient_turn": "Honestly, it’s more of an aching pain, but sometimes it feels like a burning sensation, you know? It’s really uncomfortable, especially when I’m trying to grip things or, um, open jars. It’s just, like, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Um, I think it gets worse when I'm like, using the computer for a long time or something. And, uh, resting helps a bit, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the pain?",
+    "patient_turn": "Well, the pain is mostly in my right wrist, and it kind of spreads to my fingers. Oh, and sometimes I feel it in my palm too. You know, I was actually thinking about how last week I tried a new recipe that involved a lot of chopping, and it might be related, but then again, I also binge-watched a series, which probably didn't help my wrist either. So, it’s been a bit of a mix, really.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical or surgical history. I’ve been pretty healthy overall, so, um, this pain is really unexpected for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications on a regular basis?",
+    "patient_turn": "No, I’m not taking any regular medications. I, um, don’t have any allergies either, so that’s not an issue. It’s just this pain that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else, um, as far as I know. I’ve never had any issues with that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use any recreational drugs. I, um, drink wine occasionally, but that’s about it. I’ve been trying to take care of my health, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink wine or other alcoholic beverages?",
+    "patient_turn": "I, um, drink wine occasionally, maybe just a couple of times a month, you know? It’s not a regular thing for me, just sometimes when I’m relaxing or out with friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any significant medical conditions?",
+    "patient_turn": "Yeah, um, my dad has diabetes, and then there’s my maternal aunt who had a hysterectomy for cancer. So, I guess those are the main things in my family history that I know about. It makes me a bit worried sometimes, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What did your doctor find during the physical exam at your last visit?",
+    "patient_turn": "Well, during the exam, they didn’t find any swelling or redness, which was a relief. But they did notice some mild fat pad loss near my thumb, and, um, they did a couple of tests that, like, reproduced my symptoms, like the Tinel’s and Phalen’s sign. So, it sounds like it’s carpal tunnel syndrome, which is, um, kinda concerning.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve had this persistent wet cough for about a week now. It’s been kinda annoying, and, uh, I’ve also been feeling feverish and had chills for the last two to three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "I think it started about a week ago, um, maybe a little more. It’s just been this wet cough, you know? And it’s been producing, like, white to yellow sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "No, not really. It’s, um, pretty much stayed the same in severity. I mean, it’s annoying, but it hasn’t gotten worse or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest?",
+    "patient_turn": "Well, it’s kind of all over, I guess, like it’s deep in my chest, but sometimes it feels like it’s more up in my throat. Oh, and I remember last week I went to a concert, and it was really loud, which might have made my throat a bit scratchy too. So, I’m not sure if that’s connected, but it’s been a bit annoying.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you bring up mucus?",
+    "patient_turn": "Um, it feels, like, kinda relieving when I cough it up, you know? It’s not painful or anything, just, uh, sort of satisfying to get it out. The mucus itself is, like, white to yellow, but, um, no green or blood, which is good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was about a week ago, um, maybe last Monday or Tuesday? It just kinda started out of nowhere, you know? I didn’t really think much of it at first.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in severity or frequency since it first started?",
+    "patient_turn": "No, it hasn’t really changed. It’s, um, pretty much stayed the same, you know? Just this persistent wet cough that’s been, uh, really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough in your chest?",
+    "patient_turn": "Uh, I think it’s mostly in the middle, but I’m not really sure. It kind of feels like it’s just there, you know? Like, sometimes it’s more annoying than other times, but I can't pinpoint it exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when you have it? Is it dry or productive?",
+    "patient_turn": "It’s definitely productive, um, like I said before, I’m bringing up mucus. It feels, uh, kind of wet and, I guess, a bit heavy in my chest when I cough. It’s not dry at all, which is, um, good, I think?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest?",
+    "patient_turn": "Well, it feels kind of wet, like I can bring up some mucus, which is mostly white to yellow, I think. And you know, I’ve also been sneezing a bit, which is odd because I usually only sneeze during pollen season. Oh, and last weekend, my neighbor had a barbecue, and the smoke really bothered me, so maybe that’s part of it too. But the cough, yeah, it’s pretty persistent.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you taken your temperature at all during this time?",
+    "patient_turn": "Um, no, I haven’t actually measured it. I just felt, like, feverish and had chills for the last couple of days, but I didn’t check it. I guess I thought it wasn’t that serious, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any green sputum or blood in your cough?",
+    "patient_turn": "No, um, thankfully, there’s no green sputum or blood at all. It’s just been, like, white to yellow, which is, I guess, a bit of a relief. I’m kinda worried about it, but at least it’s not anything worse, right?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat or any other symptoms besides the cough?",
+    "patient_turn": "No, not really. I mean, I haven’t had a sore throat or anything like that. Just the cough and, um, the feverish feeling with chills. It’s kinda strange, but I don’t have any other symptoms, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who has?",
+    "patient_turn": "Uh, no, I haven’t traveled anywhere recently. But I did have close contact with my wife, who had a similar illness last week. She tested negative for COVID-19 and, um, recovered without needing any medical help, so I’m hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone else who is sick recently?",
+    "patient_turn": "Um, not really, just my wife, you know? She had a similar illness last week, but she tested negative for COVID-19 and got better on her own. I’m kinda worried that I might have caught something from her, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other past medical problems or conditions I should know about?",
+    "patient_turn": "Uh, not really. The only thing is I had an appendectomy when I was a teenager, but, um, I don’t have any chronic illnesses or anything like that. I just take multivitamins and, you know, I have seasonal allergies to pollen. That’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart problems in your relatives?",
+    "patient_turn": "Not really, um, my family history is pretty clear. My dad has hypertension, but that was diagnosed when he was in his 40s. And, um, my maternal aunt had ovarian cancer in her 50s, but no lung or heart issues that I know of. So, yeah, nothing major there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any tobacco products?",
+    "patient_turn": "No, I don’t smoke or use any tobacco products. I, um, do use marijuana occasionally, like about one joint a month, but that’s it. I’ve never really been into smoking cigarettes or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any other recreational drugs besides marijuana?",
+    "patient_turn": "Um, no, I don’t use any other drugs. Just the occasional marijuana, you know? I’ve never really been into anything else, so, um, that’s pretty much it for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your vaccinations current?",
+    "patient_turn": "Yeah, I believe so. Um, my immunizations are reportedly up to date. I try to keep on top of that, you know? It’s just one less thing to worry about, I guess.",
+    "annotation": "Correct"
+  }
+]

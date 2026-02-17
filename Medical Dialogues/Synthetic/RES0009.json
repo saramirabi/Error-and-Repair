@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this chest pain I’ve been having. It’s been going on for about five days now, and it’s sharp and mostly on the left side. It also gets worse when I take deep breaths or try to walk around… and I’ve been feeling short of breath too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the chest pain first start?",
+    "patient_turn": "Uh, it started about five days ago. I remember it just kind of came out of nowhere, and it’s been pretty persistent since then. It’s honestly been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, um, it hasn’t really changed much in terms of intensity, you know? It’s still sharp and left-sided, but it definitely gets worse with deep breaths or any physical activity. I’m kinda worried because it’s making it hard to do normal things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your chest?",
+    "patient_turn": "Um, it’s mostly on the left side, like, right here, you know? It feels sharp, and sometimes it feels like it’s just… right under my ribcage. I don’t really feel it anywhere else, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get my car serviced soon. The check engine light has been on for a while now.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Um, it definitely feels sharp. Like, it’s not dull at all, and it kind of catches me off guard sometimes. I guess it’s more of a stabbing sensation, especially when I breathe deeply or move around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or frequency since it started?",
+    "patient_turn": "Well, I think the pain has gotten a bit sharper, especially when I take deep breaths. It's kind of funny because just the other day, I was talking to my neighbor about how their kids are always so loud when they play outside. And then later, I noticed that I felt it more when walking short distances. Also, I’ve been trying to drink more water lately, but sometimes I forget.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or produced any mucus since the pain started?",
+    "patient_turn": "No, I haven’t had any cough or produced any mucus at all. It’s just the chest pain and shortness of breath, really. I’m kinda relieved about that, but the pain is still really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever or chills since the pain started?",
+    "patient_turn": "No, I haven’t had any fever or chills. It’s just the chest pain and the shortness of breath, you know? I’m honestly a bit worried because it feels so persistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea or vomiting along with the chest pain?",
+    "patient_turn": "No, I haven’t had any nausea or vomiting. It’s just the chest pain and the shortness of breath that’s been bothering me. I’m kinda worried about what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any night sweats since the pain started?",
+    "patient_turn": "No, I haven’t noticed any night sweats at all. It’s really just the chest pain and shortness of breath that I’m dealing with. I’m honestly feeling a bit anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches or palpitations recently?",
+    "patient_turn": "No, I haven’t had any headaches or palpitations. It’s just the chest pain and the shortness of breath that’s been really concerning for me. I’m kinda worried about what it could mean, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt lightheaded or dizzy at any time?",
+    "patient_turn": "No, I haven’t felt lightheaded or dizzy. It’s really just the chest pain and shortness of breath that’s been bothering me. I’m honestly feeling pretty anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any abdominal pain along with your chest pain?",
+    "patient_turn": "No, I haven’t had any abdominal pain. It’s just the chest pain and the shortness of breath that’s really concerning me. I’m kinda worried about what’s causing all of this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urinary habits or any urinary symptoms?",
+    "patient_turn": "No, I haven’t noticed any changes in my urinary habits or any urinary symptoms. It’s really just the chest pain and shortness of breath that I’m dealing with. I’m honestly feeling pretty anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your skin, like rashes or discoloration?",
+    "patient_turn": "No, I haven’t noticed any changes in my skin, like rashes or discoloration. It’s just the chest pain and shortness of breath that’s been really concerning for me. I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any joint or muscle pain recently?",
+    "patient_turn": "No, I haven’t had any joint or muscle pain. It’s really just the chest pain and shortness of breath that’s been bothering me. I’m honestly feeling pretty anxious about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your energy level been since the chest pain started?",
+    "patient_turn": "Um, my energy level has definitely dropped a bit. I’ve been feeling mild fatigue, mostly because I’m not moving around as much due to the breathlessness. It’s honestly frustrating because I was feeling fine before all this started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any heart or lung problems in the past?",
+    "patient_turn": "No, I’ve never had any heart or lung problems before. I was pretty healthy until this chest pain started. I’m honestly feeling a bit anxious about it, especially with my family history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any regular medications or supplements?",
+    "patient_turn": "No, I’m not taking any regular medications or supplements. I just use over-the-counter pain relievers like Tylenol or Advil occasionally for the pain. I’m honestly a bit worried about what’s going on with me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I’ve been pretty lucky in that regard. I’m just really anxious about this chest pain and what it could mean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yeah, my mom had a myocardial infarction in her seventies, and there’s also a distant relative with thrombosis. It’s honestly a bit concerning, especially with what I’m experiencing right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke daily, and how often do you drink alcohol?",
+    "patient_turn": "I smoke about five cigarettes a day, but I’m trying to quit. I drink alcohol minimally, just a glass of wine on the weekends. I’m honestly worried that my smoking might be contributing to this chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active, and have you completed your childbearing?",
+    "patient_turn": "Yes, I’m currently sexually active, and I’ve completed my childbearing. I have two teenage children, so, um, I’m done with that part of my life. But honestly, I’m just really focused on figuring out this chest pain right now.",
+    "annotation": "Correct"
+  }
+]

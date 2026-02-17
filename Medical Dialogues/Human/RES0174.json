@@ -1,0 +1,337 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi I just want to talk about these, these times when I feel like I'm just I'm suffocating and I just can't breathe. It's pretty scary and I don't know what's going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, certainly, um, feeling short of breath like that can be quite scary for sure. When, when do these episodes kind of happen? Are they spontaneous? Or can you think of things that you're doing when they when they come on.",
+    "patient_turn": "Uhm? I, I don't know, it's just like. Uhm? Sometimes, like before interviews, sometimes just kind of random. Uhm, yeah. I can kind of tell when they're about to come on. Uhm? Yeah, I think. It's mostly like job interviews.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, have you had many of those recently?",
+    "patient_turn": "Job interviews?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Yeah.",
+    "patient_turn": "I got I got laid off because of the pandemic and now I've been looking for jobs and it's just like it's kind of nerve wracking. But also like I don't know, I'm just worried it could be something else like it's just, yeah, it's like I really just can't breathe, it's so weird.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, it's certainly. It sounds like there's been a lot of stress recently. Certainly plenty for with the pandemic as well. And so when you get short of breath, you you said you have this, you could feel that it's coming on and how long does it last for?",
+    "patient_turn": "Like 15 minutes 15, 20 minutes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything you do to help it go away?",
+    "patient_turn": "I'll just say go and lie down and close my eyes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you get shorter breath if you walk far distances or exert yourself?",
+    "patient_turn": "Oh no, no. I go out for a run every single day. Nothing happens at that time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. Have you had a cough?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any any chest pain?",
+    "patient_turn": "Yeah, I kind of feel like this pressure at that time is just like yeah, someone's like pressing my chest inwards, kind of. It's hard to explain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see do you it is it um like, do you feel it in any one particular spot or?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "I just feel like my chest is really tight and it's just it's like I can't like expand my lungs.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see and does this last around 15 minutes as well?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And similarly you like going for runs and stuff like that you don't ever get any chest pain?",
+    "patient_turn": "No, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and I know you mentioned you didn't have a cough, but have you brought up any phlegm or brought up any any blood?",
+    "patient_turn": "No, no, I have not had a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh no, OK, I'm sorry.",
+    "patient_turn": "That's OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you otherwise been well? Or if you had any infectious symptoms, like a runny or red eyes, runny nose or sore throat?",
+    "patient_turn": "No. None of those.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any night sweats?",
+    "patient_turn": "No, but I get really sweaty when these episodes happen. Just like yeah, my face is like sweating, and my neck.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Yeah, Um, OK, and How is your weight been recently? Any weight gain or loss?",
+    "patient_turn": "Yeah, I've gained quite a bit of weight since the pandemic started. Yeah, gained about 10 pounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes to your diet or appetite?",
+    "patient_turn": "Oh yeah, I've been eating quite a bit, been baking a lot at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And, and have you had any abdominal pains?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea?",
+    "patient_turn": "Uhm? No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and any urinary problems like pain or frequency?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any rashes or skin changes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And, any muscle aches, body pains or joint pains or swelling?",
+    "patient_turn": "Nothing like that, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and how's your energy been?",
+    "patient_turn": "Um. Well, I've been feeling a little low. Since I've been laid off just like worried about my finances and I kind of sleep all day. I'm not feeling very energetic.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK. How is your interest in activities been?",
+    "patient_turn": "I don't know, I just feel like staying at home and just being in bed all the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you're um, have you had a low mood?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and are you sleeping more than usual?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is there anything that you're feeling particularly guilty about right now?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How is your concentration been?",
+    "patient_turn": "Uhm, not great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. You haven't been able to focus and have you felt like things are moving in slow motion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so have you had any thoughts of hurting or harming yourself?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had depression or anxiety in the past?",
+    "patient_turn": "Um I've been diagnosed with depression.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had panic attacks before?",
+    "patient_turn": "No, but do you think that's what's going on?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Potentially, it certainly can't rule out. Inorganic cause meaning something going on, otherwise just yet we might need to do some physical exam and some investigations first, but it certainly could be related to that. With all of the stressors that are going on. And so you had a low mood. Have you had any periods in your life where you felt really energetic, like you didn't need any sleep, you're really talkative, you had all the energy in the world.",
+    "patient_turn": "I wish, no, I've never really felt that way,",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any concerns with eating disorders in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And then you mentioned, even diagnosed with depression, if you had, are you have you been diagnosed with any other medical conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, are you on any medications right now?",
+    "patient_turn": "No, I was doing pretty well. I used to have these episodes of depression when I was younger as a teenager and they kind of went away. I was on meds at that time, but I think I think it's coming back now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you haven't been on medication now for for quite awhile for years.",
+    "patient_turn": "For like 12 years 13 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, what did you use that, if you can remember?",
+    "patient_turn": "Prozac?",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK, and did you find it helped?",
+    "patient_turn": "Yeah, yeah it was very helpful, was very good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. That's good. Any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and any hospitalizations or surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and can you tell me a little bit about where you're living and who you're living with?",
+    "patient_turn": "I I live, I live with my girlfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. Has there been anybody around that that has been sick that they have been around?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you traveled anywhere?",
+    "patient_turn": "No no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you smoke cigarettes?",
+    "patient_turn": "Oh no, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you drink alcohol?",
+    "patient_turn": "I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. Are you currently sexually active?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any chance that you could be pregnant currently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you been pregnant in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke cigarettes?",
+    "patient_turn": "I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you use any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any family history of heart or lung problems?",
+    "patient_turn": "My grandfather had lung cancer. But that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did he smoke for a long time?",
+    "patient_turn": "Oh yeah, he was a big smoker.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anybody in the family have problems with mental illness?",
+    "patient_turn": "My mom has uh depression too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Anybody in in the family have problems with substance, substance use?",
+    "patient_turn": "no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, and I think that's everything that I I wanted to ask on history today. So you been having these episodes where you get really short of breath and you get chest pain, you'll get sweaty and have what sounds like what sounds like an impending sense of doom where you kind of feel like it's coming on and it lasts for 15 minutes and not related to exercise. Were there any other symptoms or things that you've been experiencing recently?",
+    "patient_turn": "Yeah, it's also, I also feel like my heart's like breathing really fast.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh, OK. And I does that, how long does it last for?",
+    "patient_turn": "Same time. Like everything is just sort of comes on at the same time. Just kind of goes away together.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, would you say that it comes on like kind of like at the snap of your fingers sort of thing like really quickly and then?",
+    "patient_turn": "I can kind of tell it's gonna come on like I have a sense of it and then it just like starts. It suddenly just happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So you you have the heart racing, are there any other symptoms as well?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so, uh, we will get an ECG and I will look at that, but I've been concerned now thinking that this might be related to anxiety or panic attacks and so, I guess that would be something that we could discuss more about in regards to like I guess previous traumas and things that and the stresses that you might be dealing with currently to help manage manage stress better.",
+    "patient_turn": "Sure, thank you.",
+    "annotation": "Correct"
+  }
+]

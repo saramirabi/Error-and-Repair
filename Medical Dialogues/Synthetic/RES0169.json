@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been feeling unwell for the past few days. I have a fever, a dry cough, and I've been really tired. It's been going on for about two days now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your symptoms first start?",
+    "patient_turn": "My cough started about four days ago, and then the fever came on about two days ago. I've also been feeling more fatigued during that time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "It’s mostly just a dry cough, and it doesn’t really feel worse in any specific area. It’s just annoying and makes me feel a bit uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickling sensation or something else?",
+    "patient_turn": "It feels more like a tickling sensation in my throat, and it just makes me want to cough. There's no mucus or anything, just dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with the cough?",
+    "patient_turn": "Oh, I haven't really had any other symptoms, but I think I also had some body aches last week, but I've never had that before. So, it's just the cough, really.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "No, I don’t have any past medical or surgical history. I’ve been healthy overall, except for a known penicillin allergy that caused a rash when I was a child.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you taking any medications right now, including over-the-counter ones?",
+    "patient_turn": "No, I'm not taking any medications right now, except for the occasional over-the-counter pain reliever like acetaminophen or ibuprofen for my symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What happens when you take penicillin?",
+    "patient_turn": "When I take penicillin, I get a rash. It happened when I was a child, and I’ve avoided it ever since.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nasal congestion or a sore throat recently?",
+    "patient_turn": "No, I haven't had any nasal congestion or a sore throat. My symptoms have just been the dry cough and fever, along with some fatigue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and how do you feel about your home situation?",
+    "patient_turn": "I live with my mother in a townhouse. I feel safe and comfortable at home, and we get along well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently?",
+    "patient_turn": "No, I haven’t traveled outside the province recently. I’ve just been going to school and staying at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick recently?",
+    "patient_turn": "I don’t know of any specific sick contacts, but I guess there’s a possibility I could have been exposed at school. Other than that, I haven’t been around anyone who’s been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use tobacco, alcohol, or any recreational drugs?",
+    "patient_turn": "No, I don’t use tobacco, alcohol, or any recreational drugs. I’ve never been into any of that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe at home and at school?",
+    "patient_turn": "Yes, I feel safe at home and at school. My home environment is comfortable, and I feel secure with the precautions in place at school.",
+    "annotation": "Correct"
+  }
+]

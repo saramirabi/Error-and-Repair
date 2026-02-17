@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. Um, I've been having this, like, numbness and tingling in my left hand for about four to five months now. It mostly affects my thumb, index, and a bit of my ring finger. Honestly, it's been getting worse, and it's waking me up at night a few times a week… and it’s kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the numbness and tingling in your hand?",
+    "patient_turn": "I first noticed it, um, a few months ago, like four or five months back. At first, it was just, you know, a few minutes of numbness that would go away if I moved my hand. But now, it’s happening more often and lasting longer… it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where you feel the pain or numbness in your hand?",
+    "patient_turn": "Sure, um, it’s mostly in my thumb and index finger, and a little bit in my ring finger too. I feel this burning pain and tingling there, and sometimes it just feels… numb, you know? It’s really annoying, especially when I’m trying to do things.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Oh, you know, I’ve been thinking about redecorating my living room. It’s been a while since I did anything with it.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, moving my hand a bit used to help, like, when I first started having the symptoms. But now, it seems like it doesn’t really help as much anymore. Honestly, it’s worse at night, and I wake up a few times a week because of it… I’m kinda worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain when it occurs? Is it sharp, dull, or something else?",
+    "patient_turn": "Oh, I really need to remember to pick up some milk on my way home. It’s just one of those things that always slips my mind!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain and numbness in your hand? Does it spread to any other areas?",
+    "patient_turn": "I feel the pain and numbness mostly in my thumb and index finger, and a little in my ring finger too. It doesn’t really spread to other areas, which is, um, a relief, but it’s still really annoying just being in those fingers. I wish it would stop!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "On a scale of 1 to 10, how would you rate your pain when it occurs?",
+    "patient_turn": "Um, I’d say it’s about a 6 out of 10 when it happens. It’s not the worst pain I’ve ever felt, but it’s definitely uncomfortable and, you know, really bothersome. I just wish it would go away!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any weakness or clumsiness in your left hand?",
+    "patient_turn": "Yeah, I have. I’ve noticed some mild weakness and clumsiness in my left hand, like, I’ve been dropping things more often and having trouble opening jars. It’s really frustrating, and I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any pain, redness, or swelling in your arm or wrist?",
+    "patient_turn": "No, um, I haven’t noticed any pain, redness, or swelling in my arm or wrist. It’s just the numbness and tingling in my fingers, you know? I’m glad there’s no swelling or anything, but it’s still really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches, weight loss, or fever recently?",
+    "patient_turn": "No, I haven’t had any headaches, weight loss, or fever recently. It’s just been this hand issue, you know? I’m really glad there aren’t any other symptoms, but I’m still worried about what’s going on with my hand.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your thyroid condition?",
+    "patient_turn": "Yes, I’m taking Synthroid for my hypothyroidism. I’ve been on it for a while now, and, um, it seems to be managing it okay. But, you know, with this hand issue, I’m just feeling a bit anxious about everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "I’ve been smoking for about ten years, and I usually smoke, like, 5 to 10 cigarettes a day. I’ve tried to cut back a bit, but it’s been tough. I’m kinda worried about how it might be affecting my health overall, especially with this hand issue.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you typically have in a week?",
+    "patient_turn": "I drink alcohol occasionally, about one drink per week. It’s not a lot, but, um, I guess I just have it when I feel like it, you know? I’m not sure if it’s related to my hand issues, but I’m just trying to keep an eye on everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs or marijuana?",
+    "patient_turn": "No, I don’t use any recreational drugs or marijuana. I’ve never really been into that, so it’s just, um, not something I do. I’m mostly focused on dealing with this hand issue right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries or been hospitalized before?",
+    "patient_turn": "No, I haven’t had any surgeries or been hospitalized before. This is, um, the first time I’m really dealing with something like this, and it’s honestly a bit overwhelming. I’m just trying to figure out what’s going on with my hand.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or other substances. I’ve never had any issues with that, so, um, I guess that’s one less thing to worry about. But with this hand problem, I’m just feeling a bit anxious overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family members with significant medical conditions?",
+    "patient_turn": "Yeah, um, my grandfather had a stroke, and my dad has hypercholesterolemia. Other than that, there aren’t any autoimmune diseases or cancers in my family that I know of. I guess I’m just trying to be mindful of my health, especially with what’s going on with my hand.",
+    "annotation": "Correct"
+  }
+]

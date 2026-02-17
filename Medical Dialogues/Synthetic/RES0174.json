@@ -1,0 +1,57 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having these episodes where I suddenly feel short of breath, my chest feels tight, and I get really sweaty, especially on my face and neck. They usually last about 15 to 20 minutes and seem to happen more when I'm stressed, like during job interviews.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these episodes starting?",
+    "patient_turn": "I first noticed them a few weeks ago, around the time I got laid off due to the pandemic. It seems like the stress of everything has really triggered them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do these episodes happen?",
+    "patient_turn": "They happen unpredictably, but I’d say I've had them a few times a week since they started. It's really frustrating, especially when I'm trying to focus on job hunting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the tightness in your chest?",
+    "patient_turn": "Uh, I think it's kind of all over, but maybe more towards the middle? I'm not totally sure, to be honest.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the tightness in your chest?",
+    "patient_turn": "It's mostly in the center of my chest, but it feels more like a general pressure rather than a specific spot. It's uncomfortable, but not really painful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you notice sweating on your face and neck during these episodes?",
+    "patient_turn": "Yes, I do notice sweating on my face and neck during these episodes. It feels pretty intense, and it adds to the discomfort I'm already feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or wheezing along with the tightness and shortness of breath?",
+    "patient_turn": "No, I haven't experienced any cough or wheezing. It's just the tightness and shortness of breath without those symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed or treated for depression before?",
+    "patient_turn": "Yes, I was diagnosed with depression in my adolescence and was treated successfully with Prozac. I haven't had any issues with it since then, but I've been feeling low again since losing my job.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your mood been since you lost your job?",
+    "patient_turn": "Since I lost my job, my mood has been pretty low. I've been feeling more tired, having trouble concentrating, and I've been withdrawing from social activities. It's been tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "I'm not currently taking any medications, and I don't have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of mental health issues or lung cancer?",
+    "patient_turn": "Yes, my mother has a history of depression, and my grandfather had lung cancer related to heavy smoking. Other than that, there's no family history of substance use disorders.",
+    "annotation": "Correct"
+  }
+]

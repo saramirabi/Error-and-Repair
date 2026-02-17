@@ -1,0 +1,202 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi I umm, so I started to have this cough that started like 2 days ago and also these last couple of days I've just had this headache and feeling really achy all over.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I'm sorry you said it started a day, two days ago?",
+    "patient_turn": "Yeah, it's more like one to two days. All of this is kind of started. I think the the cough started 1st and then the headache and achiness has come after. I felt a bit feverish as well. I haven't checked my temperature but I, I felt feverish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. The cough, is it dry, or are you bringing up any phlegm?",
+    "patient_turn": "It's pretty dry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry, OK, so no blood and no sputum?",
+    "patient_turn": "No blood or sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you feel short of breath?",
+    "patient_turn": "No thats I haven't been short of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any chest pain?",
+    "patient_turn": "No, I haven't had any chest pains.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright. And the headache one to 10, 10 being the worst head, worst pain you've ever been in. How bad was it?",
+    "patient_turn": "I'd say a four. It's just been kind of there the whole, so it's really annoying. I've tried some Tylenol and it's taken a little bit off the the I mean the edge off a little bit, but it's just been kinda there still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And is it a throbbing kind of pain or is it a dull, achy pain?",
+    "patient_turn": "It's a kind of a dull, achy pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, alright and where is it located?",
+    "patient_turn": "Uh kind of in the front of uh I have my over my head and on both sides as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Any feelings of feeling like your heart's racing?",
+    "patient_turn": "No, I haven't felt like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any dizziness or fainting spells?",
+    "patient_turn": "No, I haven't had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Confusion or memory loss?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any neck pain or stiffness?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, running or stuffy nose?",
+    "patient_turn": "No, my, I haven't had anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, how about that loss of smell or taste?",
+    "patient_turn": "Uh yeah I have actually. Yeah, I have.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, both?",
+    "patient_turn": "Yeah, both it's uh, I've actually yeah, I notice that in the last day, it's kind of weird. I didn't even think of it until you until you asked there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "But yeah, I have haven't really noticed being able to smell or taste.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your vision or hearing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Weight loss?",
+    "patient_turn": "No weight loss, I've been, that's been stable. I wish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and you mentioned you might have had a fever so we'll check your temperature today as well. Any fatigue?",
+    "patient_turn": "Uh, not really. That's been OK, but been achey, so certainly doing less.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any rashes?",
+    "patient_turn": "No rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes to your bowel movements?",
+    "patient_turn": "No, that, everything has been normal there. I haven't had any diarrhea or no blood in the stool.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any nausea or vomiting?",
+    "patient_turn": "No nausea or vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Changes to your appetite?",
+    "patient_turn": "Yeah, I've been, less interested in food for sure. I think I've been been, been, had a decreased appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Changes in your urine?",
+    "patient_turn": "No, I haven't had any any pain or any anything changing to my urinary habits.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are you otherwise healthy? Do you have any longstanding medical conditions?",
+    "patient_turn": "Uh, I I do have high blood pressure and high cholesterol and I take a statin as well as a what is it, an ACE inhibitor, I think, for the blood pressure, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you up to date with your immunizations?",
+    "patient_turn": "Uh, I am yes I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. Alright, and are you allergic to anything?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Alright, and any family history of lung or heart conditions.",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, umm, alright. Do you smoke?",
+    "patient_turn": "I don't, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Any other recreational drugs?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you drink alcohol?",
+    "patient_turn": "Yeah, sometimes I'll have a glass of wine on the weekend or something like that, but that will just be one or two, maybe with dinner.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been in contact with anyone sick recently?",
+    "patient_turn": "No, I I don't think so. I mean, I've been working from well, some days I've had to go into the office for work, but I've been mostly just working from, from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK. Uhm and where do you live right now?",
+    "patient_turn": "So I live in a house downtown in the city here and I live with my wife and our two sons.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any are they, they're ok, they're all healthy?",
+    "patient_turn": "Uhm, yeah they they, they uh, well my son actually had a cough and a sore throat I think like last week or something like that but it just went it went away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and do you have any old carpets? Asbestos, mold, anything like that in your home?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Uhm alright, I think those are all the questions that I had for you. Did you have any questions of your own for myself?",
+    "patient_turn": "I was just well worried about Covid and was just wondering what I should do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. So we are, you're a lot of your symptoms do overlap with those of Covid, so we are going to take a swab today and you should hear back in about 24 to 48 hours, but you should isolate for 14 days. And that includes from family family members if possible. Uhm, and basically just keep an eye on your symptoms. If they get worse, or you're having like neurological symptoms, you should seek help from the ER, but otherwise keep yourself hydrated, eat well. If you have a humidifier in the basement, use it, and for your fevers you can take antipyretics like Tylenol. And just it's it's just a lot of supportive care. How does that sound and obviously like if your symptoms aren't going away after like a few weeks, call us back and it could be something like bacterial, in which case we can give you some antibiotics.",
+    "patient_turn": "OK yeah, that sounds great. Thank you.",
+    "annotation": "Correct"
+  }
+]

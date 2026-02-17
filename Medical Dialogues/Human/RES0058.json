@@ -1,0 +1,302 @@
+[
+  {
+    "doctor_turn": "How are you?",
+    "patient_turn": "I'm doing OK. Thank you. How are you?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What brings you in today?",
+    "patient_turn": "So, usually we go to my favorite pizza spot for lunch and these last couple of days I've noticed I just can't taste it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When you say the past couple of days, do you mean two days, three days, four days?",
+    "patient_turn": "I would say the last two days, yeah, just yesterday and today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So you can't taste anything or you can only taste some things or you're just not getting the full depth of your taste?",
+    "patient_turn": "Yeah, I really noticed it with the pizza, but with like other things too, it's just a yeah, really plain, it doesn't really have any flavor with the food that I'm eating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So it kind of tastes like cardboard.",
+    "patient_turn": "Yeah, kind of, and I think, like, I mean part of that is that I maybe not smelling it as well either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you have any trauma to the area like the mouth area or the nose area in the past couple of days or days leading up to that?",
+    "patient_turn": "Umm, no, not at all, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a fever at all?",
+    "patient_turn": "Umm, I don't think so no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You have a cough?",
+    "patient_turn": "Yeah, I've had a cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A similar timeline?",
+    "patient_turn": "Yeah, that's when the cough started, maybe three or four days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry or wet cough?",
+    "patient_turn": "Yeah, it's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So no sputum, no blood?",
+    "patient_turn": "No sputum and and no blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel wheezy at all?",
+    "patient_turn": "No wheeziness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about shortness of breath?",
+    "patient_turn": "Umm, maybe after coughing, I've had a hard time catching my breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fatigue?",
+    "patient_turn": "Yeah, these past few days I have definitely. I felt more tired, I've been sleeping a lot more throughout the day and just I don't know, kind of lazy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about your appetite?",
+    "patient_turn": "I think appetite's been OK. I've been hungry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Muscle aches?",
+    "patient_turn": "Umm, no, just tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Chest pain?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Heart racing?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in bowel movements?",
+    "patient_turn": "Umm, yeah, well, I had diarrhea this morning actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No blood in your stool?",
+    "patient_turn": "I know I didn't see anything red.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Stool very dark or black?",
+    "patient_turn": "Oh no, it it wasn't dark like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any issues swallowing food?",
+    "patient_turn": "Umm, no issues swallowing food. My throat has felt a bit itchy. I mean I've been coughing alot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sore throat?",
+    "patient_turn": "Not really or just kind of yeah, kind of scratchy.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Runny nose or blocked nose?",
+    "patient_turn": "Umm, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any rashes?",
+    "patient_turn": "Umm, no. I haven't noticed any rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Urine normal?",
+    "patient_turn": "Yeah they are.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dizziness or fainting spells?",
+    "patient_turn": "Umm, a little bit dizzy I when I got out of bed this morning, but we sat back down for a couple of minutes. I felt better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you think dizziness was from dehydration or is this normal?",
+    "patient_turn": "I mean, I guess I could have been dehydrated. I didn't even think of that, but I mean, since the food didn't taste so great, I don't know. I probably didn't eat as much yesterday or the last couple of days. Maybe I haven't eaten as much.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Do you feel weak?",
+    "patient_turn": "I don't know, maybe. Maybe a little weak, but umm, just way more tired.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Confusion or memory loss?",
+    "patient_turn": "Umm, no, I have been able to do some of my school work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No rashes, right?",
+    "patient_turn": "No rash.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss over past couple of months?",
+    "patient_turn": "Nothing like that. No weight change, it's been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Night sweats or chills?",
+    "patient_turn": "I felt a bit, umm, hot but not sweaty, just hot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So kind of like you have a fever?",
+    "patient_turn": "Yeah, I guess so, maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Muscle aches?",
+    "patient_turn": "Umm, no muscle aches.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Been around anyone sick recently?",
+    "patient_turn": "Yeah there is this guy in my class who was sick in class last week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What kind of symptoms did he have?",
+    "patient_turn": "Well, he had a cough and fever. Yeah, I think he had a cough and a fever and somebody said that. Maybe a sore throat or something like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Traveled recently?",
+    "patient_turn": "Oh no, I've been at home. We just started back at going in person to school again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you otherwise healthy?",
+    "patient_turn": "Yeah, I haven't been diagnosed with any medical conditions in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies?",
+    "patient_turn": "Possibly cats but we don't have any pets at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Been around cats recently?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any hospitalizations or surgeries in the past?",
+    "patient_turn": "I did have my appendix taken out like 4 four years ago. Yeah, at the beginning of high school, but that was the only surgeryand everything went well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with immunizations?",
+    "patient_turn": "I am, yeah. I have my immunization card here actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Family history of lung/heart conditions?",
+    "patient_turn": "I know my grandfather had lung cancer, but he smoked his whole life also. Also diabetes but don't know if he had any heart problems though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you on any medications?",
+    "patient_turn": "Umm, I'm not.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "Umm, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about marijuana?",
+    "patient_turn": "Uh, no. Oh, but I guess I use a vape every once in a while..",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "With like marijuana?",
+    "patient_turn": "No, it's like those flavored ones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use that?",
+    "patient_turn": "It's like a few times a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any tobacco or nicotine?",
+    "patient_turn": "I think there might be, but umm, I don't know. I usually just buy the flavored ones.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Discussion about health risks; OK, do you drink alcohol?",
+    "patient_turn": "Umm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with?",
+    "patient_turn": "I live with my mom, my step dad, and then my younger sister.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live in a house?",
+    "patient_turn": "We live in a townhouse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In the city you said?",
+    "patient_turn": "Yeah, yeah, I live close. I go to high school not too far from here.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any concerns with the living arrangement?",
+    "patient_turn": "No, I live in a nice place. It's usually like really clean.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any questions or concerns?",
+    "patient_turn": "I guess the only thing that I was concerned about was possibly having COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does that plan sound good?",
+    "patient_turn": "Yeah, that makes sense.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK great, well have a great day.",
+    "patient_turn": "Yeah, thank you.",
+    "annotation": "Correct"
+  }
+]

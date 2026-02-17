@@ -1,0 +1,62 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having this sharp chest discomfort for about a week and a half. It comes and goes, usually triggered by deep breaths, and it mostly happens when I'm alone or studying. It's been pretty stressful with my thesis deadlines, so I thought I should get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest discomfort?",
+    "patient_turn": "I first noticed it about a week and a half ago. It started off as something I brushed off, but it’s been happening more frequently since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the discomfort changed since it first started?",
+    "patient_turn": "It hasn't really changed much since it started. It's still intermittent and sharp, lasting about 20 minutes each time. It just seems to be more frequent when I'm feeling stressed or anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the discomfort in your chest?",
+    "patient_turn": "It's mostly in the center of my chest, a sharp pain that feels like it's right behind the breastbone. It can be quite intense, but it goes away after a little while.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, it doesn't spread to other areas. It's just localized in my chest, and I haven't felt any pain in my arms, neck, or back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Well, it's kind of sharp, I suppose. But sometimes it feels like a pressure, especially when I'm really focused on my studies. And, you know, I was thinking about how stressful this thesis is, and how I sometimes forget to eat when I'm busy. Oh, and my sister just called me about her new job, which is exciting but also adds to my stress. So, yeah, it’s sharp and sometimes pressure, but also, I’ve been really distracted lately.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any anxiety attacks recently?",
+    "patient_turn": "I haven't had any anxiety attacks recently, but I do have a history of them from when I was younger. Lately, I've just been feeling more anxious due to the stress of my thesis deadlines.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently smoking cigarettes, and if so, how many do you smoke each day?",
+    "patient_turn": "Yes, I currently smoke cigarettes. I've reduced my smoking from about 10 a day to around five recently, and I'm trying to quit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you currently live?",
+    "patient_turn": "I live alone in London while I'm completing my Master's degree in social work. It's been quite a busy time with my studies!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific area are you focusing on in your Master's degree in social work?",
+    "patient_turn": "I don’t know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How is working on your thesis impacting your stress levels lately?",
+    "patient_turn": "It's definitely adding a lot of stress. With the deadlines approaching, I find myself feeling overwhelmed, which I think contributes to the chest discomfort I've been experiencing. I’ve been trying to manage it by reading and running, but I’ve been less active lately because of the anxiety.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart problems?",
+    "patient_turn": "Yes, my father had a myocardial infarction in his 50s and has ongoing cardiac issues. Other than that, no one else in my family has known cardiac disease or sudden unexplained deaths.",
+    "annotation": "Correct"
+  }
+]

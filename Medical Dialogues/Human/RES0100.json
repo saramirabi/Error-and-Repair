@@ -1,0 +1,272 @@
+[
+  {
+    "doctor_turn": "How may I help you today?",
+    "patient_turn": "Umm, yeah so I just came in today with, I've been having a few symptoms for the last I would say 5 days. So I've had, it started with a sore throat just five days ago, kind of just very irritating sore throat sensation that's kind of gotten worse over the last few days. And then I started getting a fever four days ago and it has been going on for the last couple of days as well. And the highest temperature I measured on myself was 38.8 degrees Celsius and yeah, so that, that's, that's my main concern right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, since the sore throat started 5 days ago has it been getting better, worse or staying the same?",
+    "patient_turn": "I would say it's getting worse. I have some pain with swallowing food as well as, like now, even when I'm talking a little, I'm getting some pain as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been able to maintain your appetite?",
+    "patient_turn": "I do feel like I've lost a bit of my appetite over the last three to four days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any changes to your voice?",
+    "patient_turn": "Uhm, I don't think so, not yet, I, but I think, like the way it's hurting right now, I feel like it's coming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so have you notice any like neck swelling?",
+    "patient_turn": "Yeah, now that you mention it, I, I do have like these two lumps on the right side of my neck, like kind of right below the jaw.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are they painful?",
+    "patient_turn": "Uhm, not, not really. Like when I'm pressing on them they don't really hurt, but I definitely have two lumps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. We'll, certainly look into that on the physical exam. OK, and uh, and you mentioned that you've also been really tired over these last few days?",
+    "patient_turn": "Yeah, I've, I haven't really had much of an appetite, kind of just, I've skipped work, just trying to take it easy like just napping the whole day, as much as I can.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so you've been experiencing fatigue. Have you had any, any headaches?",
+    "patient_turn": "No headaches, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, how about any eye redness or runny nose, or?",
+    "patient_turn": "Uh no, no runny nose, or, so I, I don't have headaches, but I, I, I think I was having some body aches just yesterday.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, so any particular area that, that's aching?",
+    "patient_turn": "Uhm, not really. It's kind of just like a general, like I don't know if it was, it was because I was lying around the whole day, but just kind of a general pain throughout the body.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been experiencing any difficulties, or sorry, have you been experiencing any cough?",
+    "patient_turn": "No, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any shortness of breath or trouble breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any wheezing?",
+    "patient_turn": "No wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and how about any chest pain?",
+    "patient_turn": "No, no, no chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any heart palpitations or, or feeling like your heart's racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, and, maybe you had any lightheadedness or, or dizziness?",
+    "patient_turn": "Uh, no, not really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "Uhm, actually, yeah, yesterday when I was, uhm, like when I was having the body pain, I also noticed a little bit of abdominal pain just, like on the upper, I would say upper left side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, and how would you describe this pain and how long has it been going on for?",
+    "patient_turn": "Just since yesterday. It's, it's not really like, I would say it's more of a discomfort than a pain, but I definitely do feel like like something's just not right in that area.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, is there anything that you do that, that makes that, that feeling worse, or make, that make it better?",
+    "patient_turn": "Yeah, like I, I try not to lie on that side. I have to go on to the other side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, did you notice this in the last couple of days as well?",
+    "patient_turn": "Yeah, that, that just started yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any fevers or, or sorry, yeah, you mentioned you had a fever of 38.2. And have you had any chills?",
+    "patient_turn": "Uhm, no chills, well, yeah, I would say a couple nights ago I might have had some chills, but mainly it's just been, I've been feeling more hot and I have been kind of getting like night sweats.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "OK, you've been having night sweats this week or have they been going on longer?",
+    "patient_turn": "No, just, just this week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, have you had any changes to your weight over the last several months?",
+    "patient_turn": "No, it's been pretty steady.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and the fever this week, has it been there the whole time, or has it come and gone?",
+    "patient_turn": "It kind of comes and goes. I've probably taken temperatures like every day. But I would say it's definitely, for the last few days it's been more of a fever, like the nightsweats sensation. Before it was a bit fine, like, but the highest temperatures have been in the last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any skin changes or rashes?",
+    "patient_turn": "Uhm, just like, I, I don't know, like I don't think there are any changes, but I did notice some, like kind of just pink, pink spots on my arm the other day.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, well uh, were they itchy?",
+    "patient_turn": "No, they weren't really itchy. Just like a couple I would say like raised, not raised spots, just like flat, kind of pinkish spots.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has that, has that spread anywhere or has it gone away?",
+    "patient_turn": "No, hasn't really started spreading yet, I just noticed it on, on my arm, and I, I don't think it has really spread at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, this is on, on one arm?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you've had some body aches, uh, have you had any joint pains?",
+    "patient_turn": "No join pains, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and are you currently sexually active?",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and could you tell me a little bit about your partners or, or partner and I, and I was wondering if you use condoms?",
+    "patient_turn": "Yeah, so I, I just have one partner right now, my fiance, and we Uh, I actually like have in an IUD, so like we, we don't use condoms, but like we're pretty honest and safe with each other. I fully trust him, like he doesn't have any partners or anything like that and I only have, I don't have any other partners as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a sexually transmitted infection before?",
+    "patient_turn": "No, never.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any concerns currently? Any vaginal discharge or itchiness or, or pain?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you been pregnant before?",
+    "patient_turn": "No, I haven't no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been diagnosed with any medical conditions before?",
+    "patient_turn": "Uhm, just uh, I have had just eczema in the past, but that, that's fairly stable. It's been treated, I don't really have it anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you take any medications regularly?",
+    "patient_turn": "Currently, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, uhm, and any hospitalizations or surgeries in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And could you tell me a little bit about your living situation currently, like, who you live with, and, and where?",
+    "patient_turn": "Yeah, so I'm just living with my fiance and that's, we're living in like a small apartment. And right now we're not really seeing anyone else really during the pandemic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so have you been around anybody who's been sick?",
+    "patient_turn": "I just had to go into work like one day last week just to grab some of my stuff, but didn't really come into contact with anyone. My fiance does go to his work like a couple, like three or four times during the week, so I don't know if he got into contact with anyone, It's, it's hard to say.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has he been sick at all? Like any, any cough, sore throat, anything, like that?",
+    "patient_turn": "He did have a sore throat last week, but it kind of just went away on its own in a couple of days and compared to me, like, his was nothing really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And have you traveled anywhere?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about do you smoke marijuana or use any cannabis products?",
+    "patient_turn": "Uh, probably smoke marijuana, just maybe once or twice a month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it sounds like socially?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any other recreational drugs?",
+    "patient_turn": "No, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you drink alcohol?",
+    "patient_turn": "Yeah, I, Probably have some red wine every other day, I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and this is like one glass or two?",
+    "patient_turn": "Yeah, no, It's just like a normal glass of wine. Maybe, like we probably go through like a bottle between both of us, like every two weeks, maybe.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in the family, has there been anybody who's had any cancers?",
+    "patient_turn": "No, no, no cancer is in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any genetic diseases or anything congenital that runs in the family?",
+    "patient_turn": "Not that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So that was everything that I wanted to ask about on history, and so next we'll go ahead and get vitals and do a physical exam. But did you have anything else that maybe I forgot to ask about, or any other symptoms maybe?",
+    "patient_turn": "No, I don't think so. Do you think it can be covid at all?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uhm, so covid does present in a variety of non specific ways and so it certainly could be on the differential for causing a sore throat and abdominal pain and as well as a fever. However, it could be caused by other things as well. Uhm, currently your constellation of symptoms, with the enlarged lymph nodes in the neck, sore throat, it sounds like you may have uhm, an inflamed spleen as well, which could all be signs and symptoms of something called EBV or, or mono. And it sounds like you might have had an exposure, like your husband or fiance rather may have had this last week with the sore throat. All that being said, today we'll do the monospot test to check for that as well as some blood work. And we will do a covid swab as well, just in case.",
+    "patient_turn": "OK, that sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

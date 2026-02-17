@@ -1,0 +1,257 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Yeah, so my daughter, she's had this hoarse voice for the past like two or three days. It doesn't seem to be getting better. In fact, it's getting worse and she just doesn't sound like herself anymore and she's not speaking as much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did this start?",
+    "patient_turn": "OK, so she had a cough like four days ago, and she's still coughing a little bit, but not as much as she was before, but it's more her voice that I'm concerned about. It sounds very hoarse and harsh.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so how many days has she had the hoarse voice for?",
+    "patient_turn": "I'd say about two or three days now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Two or three days, OK. And when she was coughing, you mentioned like previously was she coughing up any sputum or was it more of a dry cough?",
+    "patient_turn": "It was more of a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And the cough has pretty much resolved by now?",
+    "patient_turn": "Yeah, she still gets them once in a while, but yeah, it's pretty much gone.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when she was coughing, did she at all bring up any kind of blood or any green or yellowish material?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Did she have any fevers at all, recently?",
+    "patient_turn": "Uh, no, no fevers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And does she have any kind of, uh, along with a hoarse voice, does she have any pain with talking?",
+    "patient_turn": "Yes, I think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does she have any pain with swallowing any foods or liquids?",
+    "patient_turn": "She's eating and drinking ok, but I suspect there is some pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, So how long has she, so she has a sore throat, how long has she had that for?",
+    "patient_turn": "The sore throat? Uhm I would say for the past two or three days as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and was there anything that, so she had kind of like a cough previously, but anything else, anyone sick around her, or anything you think might have precipitated some of her symptoms?",
+    "patient_turn": "No, not that I know of. I don't think she's had any contacts with sick people recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Are there any, have you tried any medications over the counter, that has helped her?",
+    "patient_turn": "Uhm, not over the counter medications, but like I tried to get her to like gargle with like salt water and all that kind of stuff, but that didn't seem to help.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have her symptoms been just constant or do they come and go?",
+    "patient_turn": "They've been pretty constant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you think her symptoms are getting worse?",
+    "patient_turn": "Uh, no, they've been pretty consistent, but maybe the harsh voice is getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And other than the symptoms that you've mentioned, has she had any kind of shortness of breath, wheezing, chest pain or anything like that?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and no fevers, right?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Has she traveled at all recently outside of the country or outside of the province?",
+    "patient_turn": "No, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any headaches at all?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any nausea or vomiting?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any runny nose or congestion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And have you had a chance to at all, look into her mouth and throat? And if you have, have you noticed any kind of redness, swelling?",
+    "patient_turn": "I haven't looked in there too much, like, just an inspection the other day, it looked a little bit red, but I didn't see any discharge.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any kind of swelling around her neck, ears, like, around her lymph nodes?",
+    "patient_turn": "Uhm, I haven't actually taken a look there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, we can do that. Other than those symptoms, has she been experiencing any kind of like fatigue or have you notice her being just very tired?",
+    "patient_turn": "Um, she has seemed a little bit more tired than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and right now is she going to school or is right now all like virtual? Is she at home?",
+    "patient_turn": "Uhm, she's at home right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does she have any symptoms of, any chest pain at all?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in her bowel movements, any Constipation, diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any urinary problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has she been able to sleep well or does she wake up a lot more at night?",
+    "patient_turn": "Uhm, she's been able to sleep well, yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about her appetite?",
+    "patient_turn": "Its been pretty normal. She's not eating as much as she used to, but she's still eating and drinking ok.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you noticed any kind of weight changes at all recently has she lost any weight?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and, has she had any loss of taste, of smell or sorry, loss of sense of taste or smell at all.",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any muscle aches or anything like that?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any exposure to fumes, dust, animals or Pets at Home?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, has this happened at all in the past?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Does she have any medical conditions at all that she's been diagnosed with in the past?",
+    "patient_turn": "Uhm, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any like asthma or any other conditions?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies that you know of?",
+    "patient_turn": "I know she has seasonal allergies, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does she take any medications at all on a daily basis?",
+    "patient_turn": "Uh, no, she just takes multi vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and currently or previously has she had any surgeries or hospitalizations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Are there any family history of any lung or heart conditions?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any cancers?",
+    "patient_turn": "There's some colon cancer on her dad side of the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is there any, so do you remember who the person is and also like when they got diagnosed with the colon cancer?",
+    "patient_turn": "So it was her uncle. He was diagnosed when he was forty five.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, other than that, were there any developmental challenges at all while she was growing up? Did she, was she meeting her milestones? Any concerns at all?",
+    "patient_turn": "No concerns, she was meeting all her milestones from what I remember.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, in terms of her pregnancy, were there any, or your pregnancy with her, were there any complications at all either during the pregnancy or after she was born?",
+    "patient_turn": "No, no complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And right now, where does she live, and who does she live with?",
+    "patient_turn": "she's at home with myself, my husband and she has one younger sibling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, is everyone at home well, does anyone have any of these symptoms?",
+    "patient_turn": "No, OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, so, and in terms of the home environment, does anyone smoke in the house?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No OK, alright so I think that's all the questions I had right now. Do you have any questions or concerns?",
+    "patient_turn": "No, no questions, but uhm, actually, what do you think she has and how can we treat her?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so it seems like that the hoarseness of voice and the sore throat and her symptoms mostly align with what's called laryngitis, and this is usually caused by like just a viral respiratory infection. The hoarseness of voice will usually last more than a week and up to like ten days and it should resolve on its own. But we'll definitely take a better look and do a proper physical examination, see if I see any kind of swelling, redness, or any like white streaks or exudates around her pharynx as well. So after we take a look, we'll see what we can do. It doesn't seem like, it can also be a bacterial infection, in which case we would need to give her antibiotics, but usually it's a viral infection that should go away on its own. So we would just kind of wait and see and potentially just give her voice some rest during this period, and just go on from there. Do you have any other questions or concerns?",
+    "patient_turn": "Uh no, that sounds great, thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome and yeah, we'll, just do a full examination and then go from there.",
+    "patient_turn": "OK, sounds great thanks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome. Take care.",
+    "patient_turn": "You too.",
+    "annotation": "Correct"
+  }
+]

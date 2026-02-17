@@ -1,0 +1,277 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hi, umm, so I've had a sore throat for the past three days and it doesn't seem to be getting any better, and I've also had a fever. So, I thought I should get it checked out by you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. So you said that the sore throat started three days ago. Has it been getting any better or any worse?",
+    "patient_turn": "Neither, it's been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is it painful to swallow food or liquids?",
+    "patient_turn": "It's painful to swallow solids, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and how is your, umm, have you had any voice changes like a hot potato voice or sound like muffled or any voice changes at all?",
+    "patient_turn": "No, not really. No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you noticed any like neck swelling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about your appetite? Has that changed?",
+    "patient_turn": "Uhm, I'm still hungry, I just don't eat as much 'cause my throat is sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, OK, that makes sense. And so you mentioned that you also had a fever. When did that start?",
+    "patient_turn": "That started two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK and did, did you check it?",
+    "patient_turn": "It was 38.8.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, so yeah, certainly a fever. OK, and have you had any, uh, like any runny nose?",
+    "patient_turn": "No, not that I've noticed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any red eyes or itchy eyes or eye discharge?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about any loss or changes to your sense of smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any any headaches?",
+    "patient_turn": "Um, no headaches, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about any cough?",
+    "patient_turn": "No cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No coughing, OK. And how about any shortness of breath?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any wheezing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about any chest pain?",
+    "patient_turn": "No chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fainting or dizziness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any heart palpitations?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And so you don't you haven't had any cough, but have you had any instances of bringing up any sputum or or any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any abdominal pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You had any diarrhea or, or constipation?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about any urinary problems?",
+    "patient_turn": "Um, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see, OK. And any skin changes or rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, any muscle aches or body pains?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any, and how's your energy been? Have you had fatigue?",
+    "patient_turn": "I have been, yeah, I've been tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you had any, have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Um, I have type one diabetes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and uh, insulin wise, do you use a pump or is it like, how do you manage diabetes?",
+    "patient_turn": "I use an insulin pump, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, excellent, and do you see an endocrinologist for that?",
+    "patient_turn": "I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Well that's good and have you had any complications or have things been stable?",
+    "patient_turn": "Things have been pretty stable. I had, when I was younger, I had a few episodes of like hypoglycemia. But now things are pretty stable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you can recognize those signs like feeling jittery and sweaty might, maybe a little anxious when that comes on?",
+    "patient_turn": "Yes, I'm an expert now.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "OK, that's great that you can recognize that those signs. It's important. And have you had any allergies?",
+    "patient_turn": "Uhm, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any, and all your immunizations up to date?",
+    "patient_turn": "Ah, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and any hospitalizations or surgeries before?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and uh currently, are you in, in school or working?",
+    "patient_turn": "I'm in school. I'm in Grade 10 and we're doing half days now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Err, half days like in person?",
+    "patient_turn": "Yeah half in person and half online.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been around anybody who's been sick?",
+    "patient_turn": "No, no one at schools been sick actually.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm and have you traveled anywhere?",
+    "patient_turn": "Ah, nope, not not since COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see an are you ah, who are you living with?",
+    "patient_turn": "I live with both my parents and three of my siblings.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anybody at home have any sore throat or cough, or or anything like that?",
+    "patient_turn": "Uhm, so my younger sister had a sore throat like a week back, but that's all she had. She never had a fever and her sore throat went away in like 2 days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh, OK and does she need any treatment?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh, and uh, and I I know people around your age might experiment with drugs or alcohol. Have you used anything like that or your friends?",
+    "patient_turn": "Oh no, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke cigarettes or have you tried?",
+    "patient_turn": "Uhm, I tried once but I don't ever do it regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And uh, and do you smoke cannabis or use cannabis products?",
+    "patient_turn": "Um, no, I never have tried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And and is there a family history of any heart or or lung conditions?",
+    "patient_turn": "Uhm, I know my grandfather had lung cancer, but he used to smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I see. How old was he? Roughly?",
+    "patient_turn": "Uhm, he was in his late 60s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, I'm sorry to hear that, and thank you and oh sorry, I forgot to ask her are you currently sexually active?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been sexually active before?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so umm, OK. Uhm, so that was all the questions that, uhm that, that I wanted to ask, was there anything else that you wanted to umm, mention today?",
+    "patient_turn": "Uh no, I don't think so. Is it, when you asked me if my neck was swollen, my necks not swollen but I feel like inside the back of my throat, my tonsils feel a little bit swollen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you looked? Does it look like you have like redness in the back of your, back of your mouth?",
+    "patient_turn": "Yeah, it looks pretty red and angry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and it's sore?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so it's just to kind of summarize, this happens like this sometimes you been having so the sore throat, like the redness and swelling of the tonsils in the back of your mouth, as well as a fever and being pretty tired over these last few days.",
+    "patient_turn": "Yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah. Um alright, so it's sounding like most likely this would be strep throat or, or Group A strep pharyngitis with, because you have no cough, and with a high fever and swelling that you've been redness that you notice in the back of your mouth. And so we'll do a rapid strep antigen test and it will require just a throat swab. To see, to to detect for that, however with a, uh, umm, yeah, I guess that's it. That's what I yeah, well, we'll start with with that now and it could potentially be something like uhm, a viral illness, but that's lower on the on the differential then the bacterial infection is right now. And because of COVID it will be, we'll do a swab as well because people can get fever and sore throat with with COVID as well.",
+    "patient_turn": "Ok.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So just to make sure that we're being comprehensive.",
+    "patient_turn": "OK. That sounds good. Thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Thank you.",
+    "patient_turn": "You're welcome.",
+    "annotation": "Correct"
+  }
+]

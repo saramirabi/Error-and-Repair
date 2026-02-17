@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, I guess. I’ve been having this dry cough for several days now, and it’s just gotten worse… like, it’s nearly continuous. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, it started a few days ago. I think it was, um, maybe around four or five days ago? It began with a tickle in my throat, and then, you know, it just turned into this persistent cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Yeah, it’s definitely gotten worse. At first, it was just a little annoying, but now it’s, um, almost non-stop. I don’t have any sputum or anything, but it feels like it’s really taking a toll on me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it spreads anywhere?",
+    "patient_turn": "…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the cough feel like to you? Is it dry, or does it have any other characteristics?",
+    "patient_turn": "It’s, um, definitely dry. Like, there’s no mucus or anything, just this irritating tickle that makes me want to cough all the time. It’s really uncomfortable, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "Well, I feel it mostly in my throat, I think, but it kind of feels like it’s in my chest too, you know? And I’ve been trying to drink more water, which helps a little. Also, I remembered I need to get a new humidifier for the house because it’s been pretty dry lately, especially with the heating on.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough coming from? Is it more in your throat or your chest?",
+    "patient_turn": "I mostly feel it in my throat, um, like that irritating tickle. It doesn’t really feel like it’s coming from my chest, but sometimes it feels like it’s a bit deeper, you know? It’s just really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any headaches or chills along with your cough?",
+    "patient_turn": "Yeah, I’ve been having some headaches, and, um, I’ve also felt chills at night, but I haven’t had a fever or anything. It’s just been really uncomfortable, and I’m kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling more tired than usual or experiencing any nausea?",
+    "patient_turn": "Yeah, I’ve definitely been feeling more tired than usual, and I’ve had some nausea too, but no vomiting. It’s just, um, everything feels off, and I’m really not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you experience any shortness of breath while lying down?",
+    "patient_turn": "Yeah, actually, I did have an episode of shortness of breath while lying down last night. It was, um, kind of scary, but it went away when I sat up. I haven’t had any other episodes since then, but it’s still on my mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "No, I don’t have any past medical conditions or surgeries. I’ve been pretty healthy up until now, um, just this cough and everything. I don’t take any regular medications or have any known allergies either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What are your smoking, alcohol, and exercise habits like?",
+    "patient_turn": "I don’t smoke at all, and I drink alcohol very rarely, like, maybe once in a while. I try to stay active, you know, but with this cough, I haven’t been exercising much lately. I’m just feeling really worn out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of respiratory issues or other significant health problems?",
+    "patient_turn": "Not really, um, the only thing is that my aunt had breast cancer, but there’s no family history of respiratory issues or anything like that. It’s just, you know, my immediate family is all healthy, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around anyone with a cough or illness?",
+    "patient_turn": "I haven’t traveled anywhere recently, but, um, a coworker of mine had a cough and was absent from work. I’m not totally sure if that’s related, but it’s been on my mind since I started feeling unwell. My family is all fine, though, no one else is showing any symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many days have you missed work because you haven't been feeling well?",
+    "patient_turn": "I’ve missed, um, about two days of work now because I’ve been feeling unwell. It’s just been hard to focus with this cough and everything, you know? I’m really hoping to get back to normal soon.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been dealing with chronic left-sided nasal congestion for as long as I can remember. It's pretty constant, and sometimes it gets a bit worse when I'm sick. My mom also mentioned that I snore and breathe through my mouth at night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the congestion changed at all over time, or has it stayed the same?",
+    "patient_turn": "It’s pretty much stayed the same. Sometimes it feels a bit worse when I'm sick, but overall, it’s been pretty consistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the congestion most? Is it mainly on one side or both?",
+    "patient_turn": "I mainly feel the congestion on the left side, but it can occasionally affect both sides when I'm not feeling well. Most of the time, though, it's just that left side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the congestion feel like for you? Is it more like pressure, fullness, or something else?",
+    "patient_turn": "It feels more like a constant fullness, like there's just something blocking my nose. It's not super uncomfortable, but it's definitely annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the congestion, and has it changed over time?",
+    "patient_turn": "Um, I think I've had it for a long time, maybe like, I don't know, several years? But it’s kind of hard to say if it’s really changed much, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the congestion, and has it changed over time?",
+    "patient_turn": "I've had the congestion for as long as I can remember, definitely since I was a kid. It hasn't really changed much over time; it's been pretty consistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever notice any mucus or discharge from your nose?",
+    "patient_turn": "I don’t really have any nasal discharge, except for the occasional nosebleed. It's mostly just the congestion that I deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been around anyone who was sick either. I’ve just been dealing with my usual congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "I don’t have any past medical or surgical history to mention. I’ve been pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or supplements?",
+    "patient_turn": "No, I'm not taking any medications or supplements at the moment. I haven't needed anything for my congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "I don’t have any known drug allergies, but I am allergic to cats. I haven’t had any recent exposure to them, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you allergic to anything else besides cats?",
+    "patient_turn": "No, it's just cats that I'm allergic to. I don't have any other known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around any dust, pollen, or strong odors recently?",
+    "patient_turn": "No, I haven't been around any dust, pollen, or strong odors recently. I haven't noticed any environmental irritants affecting me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any headaches or issues with your bowel or urinary symptoms lately?",
+    "patient_turn": "No, I haven't had any headaches or any bowel or urinary symptoms. Everything else has been fine for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share any significant health issues in your family?",
+    "patient_turn": "Yes, my father had a myocardial infarction at age 50, and my mother has hypertension. Other than that, there aren't any significant health issues that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel safe and comfortable in your home environment?",
+    "patient_turn": "Yes, I feel safe and comfortable at home. It's a good environment for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything else about your health that’s been bothering you lately?",
+    "patient_turn": "No, there’s nothing else that’s been bothering me. Just the congestion, but I’ve gotten used to it over the years.",
+    "annotation": "Correct"
+  }
+]

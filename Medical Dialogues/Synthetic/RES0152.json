@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this cough for almost three weeks now. It started off with, like, white to yellow sputum, but now I’ve been coughing up some blood, just about half a teaspoon, and it’s kinda worrying me… I also have some chest discomfort when I cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was, um, about three weeks ago? It started off pretty mild, but it’s just gotten worse since then. I mean, I didn’t think much of it at first, but now with the blood and everything, I’m kinda worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed in any way since it first started?",
+    "patient_turn": "Yeah, definitely. At first, it was mostly just, um, productive with that white to yellow sputum, but now it’s, like, more intense, and the hemoptysis is really concerning. I just feel like it’s not getting better, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the discomfort in your chest when you cough?",
+    "patient_turn": "Oh, I don’t really feel any discomfort, actually. But I mean, sometimes I get this tightness, but I’m not sure where it’s coming from.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe what the tightness feels like when you experience it?",
+    "patient_turn": "Um, it’s hard to explain… it’s sort of a pressure, I guess? Like, when I cough, it just feels uncomfortable, but it’s not, like, sharp or anything. Just, um, kind of annoying, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Exercise is…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you experienced any significant weight loss recently?",
+    "patient_turn": "Yeah, actually, I have. I’ve lost about 10 pounds over the last two months, and it’s been, um, unintentional. I didn’t really mean to lose weight, and it’s kinda concerning, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like fever, chills, or fatigue?",
+    "patient_turn": "Yes, I’ve had chills and, um, some feverish episodes over the past week. And the fatigue has been pretty bad too, which is why I’ve missed some workdays. It’s just, like, everything is piling up, and I’m feeling really worn out…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the discomfort in your chest when you cough?",
+    "patient_turn": "Actually, I don’t have any discomfort at all, I think. It’s more like a tickle in my throat sometimes, but I’m pretty sure that’s not related.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "No, not really. My past medical and surgical history is unremarkable, so, um, I haven’t had any major issues before this. I don’t take any medications or have any known allergies either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "No, I’m not taking any medications, and I don’t have any known allergies. I mean, everything’s up to date with my immunizations too, so, um, that’s good, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, they are. I’ve kept everything up to date, so, um, that’s not an issue. I just wish I knew what was going on with this cough and everything else…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your living situation and who you live with?",
+    "patient_turn": "Um, I live in a shared home with some people I don’t really know well. It’s a bit uncomfortable, to be honest, and I think that might be adding to my stress. I just, um, hope it’s not affecting my health or anything…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "No, I’m not currently sexually active. I haven’t been for a while now, so, um, that’s not something I’m worried about at the moment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been here since I immigrated from the Philippines about six months ago. So, um, I don’t think that’s a factor in what’s going on with me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart or lung disease in your relatives?",
+    "patient_turn": "No, there’s no known family history of heart or lung disease or cancer. I mean, I’m not totally sure about every relative, but, um, as far as I know, there’s nothing like that in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any exposure to tuberculosis or known contacts with someone who has it?",
+    "patient_turn": "I’m not really aware of any direct contacts, but I do know that tuberculosis has been present in my previous workplace environment. So, um, I guess that’s something to consider, but I’m not sure if it’s related to my symptoms.",
+    "annotation": "Correct"
+  }
+]

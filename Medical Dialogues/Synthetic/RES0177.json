@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My child has been having a fever for the last couple of days, and now he has a bad cough with greenish-yellow sputum. He's also having trouble breathing, even when he's just sitting still.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the fever and cough first start?",
+    "patient_turn": "The fever started about two days ago, and the cough came on shortly after that. It’s been getting worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the chest pain is located?",
+    "patient_turn": "The chest pain is mostly felt when he takes a deep breath. It seems to be right in the center of his chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It feels more like a sharp pain when he breathes deeply. It seems to bother him quite a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or movements make the chest pain feel worse?",
+    "patient_turn": "...  breaths.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What was your child's highest recorded temperature during this illness?",
+    "patient_turn": "His highest recorded temperature was 38.7°C.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, he hasn’t been hospitalized or had any surgeries in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any chronic medical conditions?",
+    "patient_turn": "No, he doesn’t have any chronic medical conditions. He’s been healthy up until now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your child's birth and development normal?",
+    "patient_turn": "Yes, his birth and development were normal. He had a regular vaginal delivery and has met all his growth and milestone markers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child taking any medications right now?",
+    "patient_turn": "No, he’s not on any medications right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies?",
+    "patient_turn": "No, he doesn’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your child's immunizations up to date?",
+    "patient_turn": "Yes, his immunizations are up to date.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart diseases?",
+    "patient_turn": "No, there’s no family history of lung or heart diseases.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who does your child live with at home?",
+    "patient_turn": "He lives at home with me and his younger sister.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your younger sister had any recent illnesses or symptoms?",
+    "patient_turn": "Yes, she recently had a cough and fever, but she was treated with antibiotics.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled recently or been around any smoke or strong odors?",
+    "patient_turn": "No, there hasn’t been any recent travel, and he hasn’t been around smoke or strong odors.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child noticed any changes in appetite or experienced nausea?",
+    "patient_turn": "His appetite has been slightly decreased, but he hasn’t had any nausea or vomiting.",
+    "annotation": "Correct"
+  }
+]

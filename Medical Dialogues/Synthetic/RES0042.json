@@ -1,0 +1,162 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three days now, and I, uh, noticed I had a bit of a fever this morning—like 99.9°F. I’m kinda worried because it’s just not going away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "I first noticed it, um, about three days ago. It just started out of nowhere, and it’s been pretty persistent since then. I mean, it’s really annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Uh, not really, to be honest. It’s still dry and, um, I haven’t had any sputum or anything like that. It’s just… there, and it’s kinda bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it's coming from your chest or throat?",
+    "patient_turn": "... throat.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of the cough? Is it tickly, scratchy, or something else?",
+    "patient_turn": "Um, I’d say it’s more like a scratchy feeling, you know? It’s not super painful, but it’s definitely uncomfortable and, uh, makes me want to clear my throat a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you feel the cough most, or does it feel like it’s coming from your chest or throat?",
+    "patient_turn": "I feel it mostly in my throat, um, it’s kind of scratchy there. It doesn’t really feel like it’s coming from my chest, just… more up high, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the cough feels like? Is it dry or do you feel any irritation?",
+    "patient_turn": "Oh, it's definitely dry, but I think it might be a little wet sometimes too. I mean, it just feels kind of weird, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough feels the strongest?",
+    "patient_turn": "It feels strongest in my throat, um, like it’s really scratchy there. It doesn’t feel like it’s coming from my chest or anything, just more up high, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood or noticed any unusual color in your mucus?",
+    "patient_turn": "No, I haven’t coughed up any blood or, um, any mucus at all, actually. It’s just been a dry cough the whole time, which is, you know, really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any wheezing or trouble breathing at all?",
+    "patient_turn": "No, I haven’t had any wheezing or trouble breathing, um, thank goodness. It’s just the cough that’s bothering me, but I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you ever feel short of breath, even when you're resting?",
+    "patient_turn": "No, I don’t feel short of breath when I’m resting, um, just the cough is really persistent. I’m glad I’m not having any breathing issues, but the cough is still really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest pain at all during this time?",
+    "patient_turn": "No, I haven’t had any chest pain, um, just the cough and that slight fever. It’s mostly just the cough that’s bothering me, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt any fluttering or racing in your heart recently?",
+    "patient_turn": "No, I haven’t felt any fluttering or racing in my heart, um, just the cough and the fever. I’m not really sure what’s going on, but I’m a bit anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your arms or legs?",
+    "patient_turn": "No, I haven’t noticed any swelling in my arms or legs. It’s really just the cough and, um, the slight fever that’s been concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your throat sore or painful at all?",
+    "patient_turn": "Um, it’s not really sore or painful, just scratchy, you know? It’s uncomfortable, but I wouldn’t say it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your sense of smell?",
+    "patient_turn": "No, I haven’t noticed any changes in my sense of smell. Um, everything seems normal in that regard, just dealing with this cough and the fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of taste recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my sense of taste either. It’s just the cough and the slight fever that’s been bothering me, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nasal congestion along with your cough?",
+    "patient_turn": "Not really, um, just a little bit of mild rhinorrhea, but no major congestion. It’s mostly just the cough that’s been the issue for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chills or shivering along with your fever?",
+    "patient_turn": "No, I haven’t had any chills or shivering, um, just the slight fever. It’s mostly just the cough that’s been bothering me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any unintentional weight loss recently?",
+    "patient_turn": "No, I haven’t noticed any weight loss. I mean, everything seems pretty normal in that regard, just dealing with this cough and the fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes or changes on your skin recently?",
+    "patient_turn": "No, I haven’t noticed any rashes or changes on my skin. It’s really just the cough and the slight fever that’s been concerning me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any difficulty swallowing recently?",
+    "patient_turn": "No, I haven’t had any difficulty swallowing. It’s just the cough and, um, the slight fever that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or had any stomach upset recently?",
+    "patient_turn": "No, I haven’t felt nauseous or had any stomach upset. It’s really just the cough and the fever that’s been on my mind, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any vomiting since your cough started?",
+    "patient_turn": "No, I haven’t experienced any vomiting at all. It’s just the cough and the slight fever that’s been worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have your bowel habits changed at all in the past few days?",
+    "patient_turn": "No, my bowel habits haven’t changed. They’re pretty much the same as my baseline with Crohn’s, um, it’s just the cough and the fever that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urination recently?",
+    "patient_turn": "No, I haven’t noticed any changes in my urination. It’s really just the cough and the slight fever that’s been concerning me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or lightheadedness lately?",
+    "patient_turn": "No, I haven’t experienced any dizziness or lightheadedness. It’s just the cough and the fever that’s been on my mind, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you fainted or felt like you might faint recently?",
+    "patient_turn": "No, I haven’t fainted or felt like I might faint. It’s really just the cough and the slight fever that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any confusion or changes in your memory lately?",
+    "patient_turn": "No, I haven’t noticed any confusion or changes in my memory. It’s just the cough and the fever that’s been worrying me, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick. I’ve just been at home, um, dealing with this cough and the slight fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I do have seasonal allergies to ragweed and pets, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of high blood pressure?",
+    "patient_turn": "Yeah, my dad has a history of hypertension, but that’s the only thing notable in my family history.",
+    "annotation": "Correct"
+  }
+]

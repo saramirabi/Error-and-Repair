@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My son has had a dry cough for about three days now, and it seems to be getting worse. He also has a low-grade fever and has been feeling pretty tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "It started off mild, but it has progressively gotten worse over the past few days. It's persistent throughout the day, and he hasn't been able to shake it off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "He doesn't really complain about it being in his chest or throat specifically. It's just a dry cough that seems to be constant, but he hasn't mentioned any pain or discomfort.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it a tickle, a scratch, or something else?",
+    "patient_turn": "It seems more like a tickle to me. He often coughs like he's trying to clear his throat, but there's no sputum or anything coming up.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it started?",
+    "patient_turn": "Yes, it has gotten worse since it first started. It was mild at first, but now it's more persistent and bothers him throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How does the cough feel? Is it sharp, tickly, or more like a dry irritation?",
+    "patient_turn": "It seems more like a dry irritation or tickle. He coughs a lot, but it doesn't seem to be sharp or painful for him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was maybe Wednesday evening after school, but I'm not totally sure about the exact time. It’s kind of hard to remember, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "It started off pretty mild, but it has definitely gotten worse over the past few days. Now it's more persistent and seems to bother him throughout the day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the cough get worse at any specific time of day?",
+    "patient_turn": "No, it seems to be persistent throughout the day without any specific time when it gets worse. He coughs pretty much all day long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had a runny nose or noticed any changes in his sense of taste?",
+    "patient_turn": "Yes, he has a mild runny nose, and he mentioned something about possibly having a reduced sense of taste.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any past medical problems or known allergies?",
+    "patient_turn": "No, he doesn't have any significant past medical problems or known allergies. He's been pretty healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in the family have a history of lung or heart conditions?",
+    "patient_turn": "No, there's no history of lung or heart conditions in our family. Everyone is generally healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been around anyone who was sick or traveled anywhere recently?",
+    "patient_turn": "No, he hasn't been around anyone who was sick, and we haven't traveled anywhere recently either. Just the usual school routine.",
+    "annotation": "Correct"
+  }
+]

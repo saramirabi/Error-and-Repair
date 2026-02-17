@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my child has had a really sore throat for about 3 or 4 days now. They’ve also been feeling chills since yesterday, and it’s just been really tough for them to swallow solid foods… I’m kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "Uh, I think it started about 3 or 4 days ago. They were complaining about it, and it just seems to have gotten worse since then. It’s really painful for them, especially when they try to eat.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed at all since it first started?",
+    "patient_turn": "Uh, no, I think it’s been pretty much the same, but I’m not really sure because I feel like it got better, but then it got worse again. So, yeah, I guess it has changed a bit.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like the ears or neck?",
+    "patient_turn": "Uh, I’m not totally sure, but I think they might have some discomfort in their neck, like, maybe from swollen lymph nodes? I haven’t really heard them say anything about their ears hurting, though. It’s mostly just the throat pain that they talk about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, I think it’s more of a sharp pain, especially when they try to swallow. It just sounds really intense, you know? Honestly, it makes me feel bad for them because they’re not eating much at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Well, um, I gave them some over-the-counter Tylenol cold medication, and it helped a bit with the headache they had a few days ago, but it didn’t really do much for the sore throat. I think eating solid foods makes it worse, but, um, they’ve been trying to drink more liquids, which might help a little?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like difficulty breathing or feeling dizzy?",
+    "patient_turn": "Uh, no, thankfully they haven’t had any trouble breathing or feeling dizzy. It’s mostly just the sore throat and the chills. They did have a headache a few days ago, but that went away on its own. I’m just really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has your child been experiencing the sore throat?",
+    "patient_turn": "Um, it’s been about 3 or 4 days now. I feel like it’s been a bit of a struggle for them, you know? Just seeing them in pain is really hard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly the pain is located in their throat?",
+    "patient_turn": "Um, it's…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Does the pain feel sharp, dull, or like something else?",
+    "patient_turn": "Uh, I think it feels sharp, especially when they try to swallow. It just sounds really painful, and I feel bad for them.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the throat pain better or worse?",
+    "patient_turn": "Well, um, I think eating solid foods makes it worse for sure. They’ve been trying to drink more liquids, which might help a little, but, honestly, the over-the-counter Tylenol didn’t really do much for the throat pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child noticed any other symptoms, like a cough, fever, or difficulty breathing?",
+    "patient_turn": "Uh, well, I think maybe there was a little bit of a cough, but not really sure. And, um, I guess there might have been some fever, but it’s hard to tell exactly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has your child been feeling more tired than usual or had any trouble sleeping?",
+    "patient_turn": "Um, yeah, I think they’ve been a bit more tired than usual. It’s just been hard for them with the sore throat, and I’m worried it’s affecting their sleep. They seem kinda restless at night, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any recent exposure to anyone who was sick or had similar symptoms?",
+    "patient_turn": "Uh, yeah, I think they might have been around some kids at school who were sick, even though they were wearing masks. So, I guess that could be a possibility for where they got it. It’s just frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child lost any weight recently?",
+    "patient_turn": "No, um, they haven’t lost any weight, but they have definitely had a decreased appetite. It’s just hard for them to eat with the sore throat, so I’m a bit worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any rash or trouble breathing?",
+    "patient_turn": "No, um, thankfully there hasn’t been any rash or trouble breathing. It’s mostly just the sore throat and the chills, but I’m still really concerned about how they’re feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced sore throat issues like this in the past?",
+    "patient_turn": "Uh, no, not really. This is the first time they’ve had something like this, so it’s kinda worrying for me. I just hope it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child currently taking any medications or supplements?",
+    "patient_turn": "Um, no, they’re not taking any medications or supplements right now. Just the over-the-counter Tylenol cold medication for the headache, but that’s it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies to medications, foods, or anything else?",
+    "patient_turn": "Uh, no, they don’t have any known allergies that I’m aware of. It’s just been pretty straightforward until now, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your child's immunizations current and up to date?",
+    "patient_turn": "Yes, um, their immunizations are all up to date. I’ve made sure of that, so at least that’s one thing I don’t have to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any past medical problems or hospitalizations?",
+    "patient_turn": "No, um, they’ve been pretty healthy overall. No past medical problems or hospitalizations, so this is all new for us. It’s just a bit stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any pets or environmental triggers in your home that might be causing issues?",
+    "patient_turn": "Uh, no, we don’t have any pets, and we just moved into a new apartment. I don’t think there are any environmental triggers, so I’m not really sure what could be causing this. It’s just confusing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled anywhere recently?",
+    "patient_turn": "No, um, they haven’t traveled anywhere recently. Just been going to school and hanging out at home, so I’m not sure how they got sick.",
+    "annotation": "Correct"
+  }
+]

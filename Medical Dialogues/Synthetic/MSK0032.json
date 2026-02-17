@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about my elbow. I’ve had this aching pain for about a day now, and it started after I, uh, almost fell while playing at the park. It hurts a lot, like a 7 out of 10, and I can’t really flex it without it hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When exactly did the pain start?",
+    "patient_turn": "So, it started, um, like a day ago, I think. I was playing and, you know, I almost fell, and then the pain just kinda started right after that. It’s been constant since then, and I’m honestly kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you show me where exactly the pain is located?",
+    "patient_turn": "Yeah, um, it’s mostly around my right elbow, but it kinda extends up to my upper arm too. When I touch it, it really hurts, and I’ve been trying to protect it, you know? I just don’t want it to get worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "Um, I’d say it’s more like a dull ache, but it can get pretty intense at times, you know? It’s not sharp, but it’s definitely uncomfortable, and it just won’t go away. I’m really trying to avoid moving it too much because it hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain first started?",
+    "patient_turn": "I was, um, just playing at the park with some friends, and I was, like, running around. Then I almost fell, and I think I pulled my arm or something to stop myself from falling. That’s when the pain started, and it’s been bothering me ever since.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you rate the pain on a scale from 1 to 10, with 10 being the worst?",
+    "patient_turn": "Uh, I’d say it's about a 5 out of 10, but I think it was more like an 8 earlier. I mean, it’s really not that bad, I guess.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Has the pain changed since it first started?",
+    "patient_turn": "Um, not really, I think. It’s been pretty constant since it started, honestly. It hasn’t gotten better or worse, but it’s just, you know, always there, and it’s kinda frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Uh, it feels more like a dull ache, I guess. It’s not sharp, but it’s definitely uncomfortable, and sometimes it feels like a pressure, you know? It just makes it hard to move my arm without it hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain feel better or worse?",
+    "patient_turn": "Well, um, moving my arm definitely makes it worse, especially when I try to flex it. But, like, resting it and using ice helps a bit, I think. I’m just trying to keep it still as much as I can.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling breathless, dizzy, or nauseous?",
+    "patient_turn": "Um, no, I haven’t noticed anything like that. It’s just the pain in my elbow, and I’m not feeling dizzy or nauseous or anything. I’m just really focused on this pain, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, diet, or any smoking or alcohol use?",
+    "patient_turn": "Uh, I don’t smoke or drink alcohol, and I think my diet is pretty normal for my age. I try to eat healthy, you know, fruits and veggies, but I also like snacks. As for exercise, I play outside a lot with my friends, but I haven’t had any issues before this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Well, I don’t take any medications, but I do go for walks sometimes, like maybe a couple of times a week. And I eat a lot of cereal for breakfast, which is kind of my go-to. Oh, and I once tried to make a smoothie, but it didn’t turn out great. I also don’t smoke, but my brothers do sometimes, which I think is weird.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the pain started and how it has changed since then?",
+    "patient_turn": "Sure, um, the pain started about a day ago after I almost fell while playing at the park. It was pretty sudden, and it’s been constant since then. Honestly, it hasn’t really changed much; it’s just always there, and I’m kinda worried it won’t go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced similar pain in your elbow or anywhere else before?",
+    "patient_turn": "No, um, I haven’t had any similar pain before. This is the first time I’ve felt anything like this, and it’s really, you know, concerning for me. I just don’t want it to be something serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any medical conditions or take any medications regularly?",
+    "patient_turn": "Uh, no, I don’t have any medical conditions, and I’m not taking any medications. I’m pretty healthy, I think, and I’m up-to-date with my immunizations. It’s just this elbow pain that’s bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, um, I’ve never been hospitalized or had any surgeries. I’ve been pretty healthy overall, so this elbow pain is, like, really unexpected for me. I just hope it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or anything else?",
+    "patient_turn": "Um, no, I don’t have any allergies that I know of. I’ve never had a reaction to any medications or anything like that. I’m just really hoping this pain goes away soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, um, I’m up-to-date with my immunizations. I think my parents make sure of that, you know? It’s just this elbow pain that’s really got me worried right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you met all your developmental milestones for your age?",
+    "patient_turn": "Yeah, I think so. I’ve met all my developmental milestones for my age, and, um, my parents always say I’m doing well. It’s just this pain in my elbow that’s, like, really bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of any diseases?",
+    "patient_turn": "Um, not that I know of. There’s no family history of, like, musculoskeletal issues or anything serious like that. I think we’re all pretty healthy, but I’m just really worried about this elbow pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and, um, my two older brothers. It’s a pretty busy house, but it’s nice. I just wish I could play with them without this elbow pain getting in the way.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your home smoke-free?",
+    "patient_turn": "Yeah, um, my home is smoke-free. My parents don’t smoke, but my brothers do sometimes when they’re out. I think it’s better that way, you know? It just makes me feel safer, especially with this elbow pain I’m dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been feeling unwell or traveled anywhere recently?",
+    "patient_turn": "No, um, I haven’t been feeling unwell or traveled anywhere recently. I’ve just been going to school and hanging out with friends, but then this elbow pain started, and it’s really been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any safety concerns at home that you’d like to share?",
+    "patient_turn": "Um, no, I don’t think there are any safety concerns at home. It’s pretty safe, and my parents are always careful about things. I just wish this elbow pain would go away so I can, you know, play and have fun again.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my daughter has had this dry cough and wheezing for like two weeks now. It’s been really tough, you know? She’s missed almost two weeks of school, and it’s just… it’s worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and wheezing starting?",
+    "patient_turn": "Well, it started about two weeks ago, but she’s actually had these symptoms on and off for the past two years. Usually, they go away pretty quickly, but this time it just… it hasn’t. It’s really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and wheezing seem to be the worst?",
+    "patient_turn": "Um, it definitely gets worse when she’s active, like when she’s playing or running around. And, um, during the winter, it seems to flare up more too. Lying down also makes her breathing feel harder, which is really tough to see.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or does it have any other characteristics?",
+    "patient_turn": "It’s a dry cough, um, and there’s no sputum or anything like that. Just, you know, this persistent dry cough that doesn’t seem to go away. It’s really frustrating for her, and honestly, for us too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make her cough and wheezing worse?",
+    "patient_turn": "Well, I think it gets worse when she runs around, but she doesn’t really have any trouble with that usually. Sometimes, it also seems fine when she’s just sitting, so it’s hard to say.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How long has she been experiencing this cough and wheezing?",
+    "patient_turn": "So, um, this current episode has been going on for about two weeks, but like I mentioned, she’s had these symptoms on and off for the past two years. It’s just, um, this time it’s been a lot longer, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly she feels the cough and wheezing?",
+    "patient_turn": "Um, she doesn’t really say much about where it feels bad, but I think it’s mostly in her chest. She just complains about the wheezing and, you know, feeling like it’s hard to breathe sometimes. It’s really hard to watch her struggle like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough and wheezing feel like to her?",
+    "patient_turn": "It’s... kind of , I guess. And then, sometimes it just...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What seems to make her cough and wheezing better or worse?",
+    "patient_turn": "Um, I think resting helps a bit, but, like I said, physical activity definitely makes it worse. And lying down seems to make her breathing harder, which is really concerning. I’m just not sure what else might help.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she noticed any other symptoms, like feeling breathless, dizzy, or nauseous?",
+    "patient_turn": "No, um, she hasn’t mentioned feeling breathless or dizzy, and there’s no nausea or anything like that. It’s mostly just the cough and wheezing, you know? But she does seem more fatigued lately, sleeping less than usual, which worries me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about her daily habits, like exercise, diet, or any exposure to smoke or allergens?",
+    "patient_turn": "Well, um, she’s usually pretty active, but lately, she hasn’t been as much because of the coughing. Her diet hasn’t changed, and she’s eating normally. As for smoke, there’s no smoking in the house now since her dad quit a few years ago. We think there might be some environmental allergies, but we haven’t confirmed anything yet.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any past medical problems or is she taking any medications?",
+    "patient_turn": "Um, she was premature at 34 weeks and had some issues with her lungs when she was born, but other than that, she hasn’t had any other medical problems or hospitalizations. She’s not on any medications right now either, so… yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she experienced any worrying symptoms like fainting, sudden breathlessness, or extreme fatigue recently?",
+    "patient_turn": "Um, sometimes, but not really... I mean, it’s just...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How would you describe her daily activity level compared to before?",
+    "patient_turn": "Honestly, it’s been a lot lower than usual. She used to be really active and playful, but now she’s just, um, not as energetic. It’s like she’s more fatigued and doesn’t want to do much, which is really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any recent changes in her sleep patterns or how well she sleeps at night?",
+    "patient_turn": "Yeah, um, she’s been sleeping about 6 to 7 hours a night instead of her usual 8. I think it’s because of the coughing and wheezing, but it’s just... it’s really hard to see her not getting enough rest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long do her cough and wheezing symptoms typically last when they occur?",
+    "patient_turn": "Usually, they last just a few days, but this time it’s been two weeks, which is really unusual for her. I mean, I’m just really worried because it’s not like her to have it go on this long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are her cough and wheezing symptoms present every day right now?",
+    "patient_turn": "Yes, um, they’ve been present every day for the past two weeks. It’s really concerning because they usually come and go, but this time it’s just... it’s constant, and I don’t know what to do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she experienced any fever or chills during this time?",
+    "patient_turn": "No, um, she hasn’t had any fever or chills at all. It’s just the cough and wheezing, which makes it even more confusing, I guess. I just wish we could figure out what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she wake up at night because of her cough or wheezing?",
+    "patient_turn": "No, um, she hasn’t had any nocturnal awakenings. It’s mostly during the day when she’s active that it gets worse. But still, it’s just really hard to see her struggle with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has there been any change in her appetite or weight recently?",
+    "patient_turn": "No, um, her appetite has been normal, and she hasn’t lost any weight. It’s just the cough and wheezing that are really bothering her, you know? I’m just really worried about her overall health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she traveled anywhere recently or been around anyone who was sick?",
+    "patient_turn": "No, um, there hasn’t been any recent travel, and I don’t think she’s been around anyone who was sick either. It’s just really strange how this came on, and I’m not totally sure what’s causing it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have any allergies been confirmed for her, or are they just suspected?",
+    "patient_turn": "Um, they’re just suspected right now. We haven’t had any allergies confirmed, but I think there might be some environmental triggers. It’s just... it’s all so confusing, and I really want to help her feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of asthma or lung issues in her relatives?",
+    "patient_turn": "No, um, there’s no family history of asthma or lung issues that I know of. It’s just really puzzling because she’s had these symptoms, and we don’t have any background to explain it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who does she live with at home?",
+    "patient_turn": "She lives with both of her parents and her younger sibling. It’s a pretty normal household, and we’re all just trying to figure out how to help her right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any potential allergens or irritants in your home, like dust, mold, or strong smells?",
+    "patient_turn": "Um, we recently renovated our home, so I guess there could be some dust or things like that. But we don’t have any pets or strong smells, and we try to keep things clean. I’m just not sure if that’s contributing to her symptoms.",
+    "annotation": "Correct"
+  }
+]

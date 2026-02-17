@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this dry cough for about three days now, and it’s getting worse. I also have these muscle aches and a headache that feels like a squeezing pressure on my forehead. It’s kinda worrying me, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough and other symptoms first start?",
+    "patient_turn": "So, the cough started about three days ago, and, um, the muscle aches and headache kind of came on around the same time. It just feels like everything is piling up, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst or if it spreads anywhere?",
+    "patient_turn": "Um, I don’t really feel like it spreads anywhere, it’s just a dry cough, you know? It’s mostly just annoying, and I don’t have any sputum or anything like that. I’m just, uh, hoping it goes away soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it constant or does it come and go?",
+    "patient_turn": "... just a ...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your breathing since the cough started?",
+    "patient_turn": "No, um, I haven’t noticed any changes in my breathing, thankfully. I mean, I’m not having any shortness of breath or anything like that, but I’m still kinda worried about it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the most intense?",
+    "patient_turn": "I guess it feels most intense in my throat, like, um, it’s just a dry tickle there. It’s not really painful, but it’s definitely uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the cough? Is it dry, or do you have any phlegm?",
+    "patient_turn": "Well, it's mostly dry, I think. But, you know, I was at that family party last weekend, and we were all outside, which was nice, but I might’ve caught something there. Plus, my neighbor's cat keeps sneezing, and it’s been kind of annoying. Anyway, no phlegm or anything like that.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—would you describe it as dry, wet, or something else?",
+    "patient_turn": "It’s definitely dry. I mean, there’s no phlegm or anything like that, just this annoying tickle in my throat. It’s really uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your cough since it started?",
+    "patient_turn": "... I think it’s been a …",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How often do you typically experience headaches?",
+    "patient_turn": "I don’t get headaches that often, honestly. They usually happen infrequently, but this one feels like a squeezing pressure on my forehead, and it’s been pretty persistent lately. It’s, um, really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does acetaminophen help relieve your headache?",
+    "patient_turn": "Yeah, it does help a bit. I’ve been using acetaminophen along with Tylenol Cold and Sinus at night to help me sleep, and it, um, partially relieves the headache, but it still comes back. It’s just frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills recently?",
+    "patient_turn": "No, I haven’t had any fever or chills at all. I mean, I’m really just dealing with this cough, headache, and muscle aches. It’s, um, a bit concerning, but no fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any stomach issues or felt nauseous lately?",
+    "patient_turn": "No, I haven’t had any stomach issues or felt nauseous. It’s really just the cough, headache, and muscle aches that are bothering me. I’m kinda worried about what’s going on, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any neck stiffness or vomiting recently?",
+    "patient_turn": "No, I haven’t experienced any neck stiffness or vomiting. It’s just the cough and headache, and, um, I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of high cholesterol or any other medical conditions?",
+    "patient_turn": "Yeah, I have a history of high cholesterol, um, but it’s managed with a statin. Other than that, I don’t have any major medical conditions, just, you know, the usual stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications, besides penicillin?",
+    "patient_turn": "No, I only have a childhood allergy to penicillin, which gives me hives or a rash. I’m not aware of any other medication allergies, so, um, that’s it for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of health issues, like heart disease or strokes?",
+    "patient_turn": "Yeah, my dad had a stroke in his late 70s, and my mom has high cholesterol too. So, um, there’s some history of health issues in my family, which makes me a bit more anxious about my own health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke or drink alcohol in the past?",
+    "patient_turn": "I quit smoking about 17 years ago after smoking half a pack a day for, like, 12 years. I do drink, um, three to four glasses of wine on the weekends, but I don’t use any recreational drugs or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How was the family party you attended? Did anyone there seem sick?",
+    "patient_turn": "The family party was, um, nice, we were all outside and trying to keep physical distance, but I didn’t notice anyone who seemed sick. I mean, it was just a regular gathering, but now I’m kinda worried I might’ve caught something there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you vaccinated against COVID-19?",
+    "patient_turn": "No, I’m not vaccinated against COVID-19. I’ve been, um, hesitant about it, I guess, but now with these symptoms, I’m really starting to worry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in close contact with anyone who has tested positive for COVID-19 or shown symptoms?",
+    "patient_turn": "No, I haven’t had any known sick contacts or anyone around me who tested positive. It’s just, um, I went to that family party, and now I’m feeling these symptoms, which is really concerning.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Um, hi, Dr. Lee. So, I’ve been having this cough for about a week and a half. It started out, like, not too bad, but now I’m coughing up blood, and it hasn’t really gotten any better… I’m kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you find yourself coughing throughout the day?",
+    "patient_turn": "Well, it’s pretty much, um, constant, I guess? It’s intermittent, but it feels like I’m coughing a lot, you know? There’s not really anything that makes it better or worse, which is frustrating…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get some new shoes.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does your cough feel like? Is it dry, wet, or something else?",
+    "patient_turn": "Um, it’s definitely more of a wet cough now, I think? Like, I’m coughing up mucus and, uh, now blood too, which is really alarming. Honestly, it just feels really uncomfortable and, um, concerning…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes your cough feel better or worse?",
+    "patient_turn": "Not really, to be honest. It’s just sort of there all the time, and I can’t find anything that helps. I mean, I’ve tried drinking water and stuff, but it doesn’t seem to make a difference…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms along with your cough, like fever, chills, or fatigue?",
+    "patient_turn": "Yeah, I’ve definitely had chills and, um, I feel really tired all the time. I’ve also noticed I’ve been sweating a lot at night, which is, like, really weird. And I’ve lost about ten pounds without trying, which is kinda concerning…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice your cough starting?",
+    "patient_turn": "I’ve been thinking about how much I miss my favorite restaurant back home. The food was just amazing!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it was about a week and a half ago? It started off as just a regular cough, but then it got worse pretty quickly. I’m really worried about how it’s changed…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the cough, like fever or night sweats?",
+    "patient_turn": "Uh, I think maybe it started about a week and a half ago, but I’m not totally sure. And, um, I guess I might have some chills or something, but it’s hard to keep track of everything, you know?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you feel any phlegm?",
+    "patient_turn": "Oh, it’s definitely not dry anymore. It’s, um, pretty wet, I think? I’m coughing up mucus, and now there’s blood too, which is really alarming. It just feels really heavy and, um, concerning…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you checked your temperature with a thermometer recently?",
+    "patient_turn": "Um, no, I haven’t checked my temperature with a thermometer. I just feel, like, chills and I think I might have a fever, but I haven’t measured it, so I’m not really sure…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain at all?",
+    "patient_turn": "No, I haven’t had any chest pain, which is, um, a relief, I guess? It’s mostly just the cough and the other symptoms, but no pain, thank goodness. I’m just really worried about everything else going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any shortness of breath while resting or during activities?",
+    "patient_turn": "No, I haven’t really noticed any shortness of breath, um, at rest or when I’m doing stuff. It’s mostly just the cough that’s bothering me, but I’m still kinda worried about everything else…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt your heart racing or any unusual heartbeats?",
+    "patient_turn": "No, I haven’t felt anything like that, um, no racing heart or unusual beats. It’s mostly just the cough and feeling really tired and, uh, worried about the blood when I cough…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any headaches recently?",
+    "patient_turn": "Um, no, I haven’t had any headaches. It’s really just the cough and, like, the chills and fatigue that are bothering me. I’m kinda worried about everything else going on, though…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt nauseous or experienced any vomiting lately?",
+    "patient_turn": "No, I haven’t felt nauseous or, um, had any vomiting. It’s really just the cough and the other symptoms, like the chills and night sweats. I’m honestly just really anxious about it all…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your bowel habits recently?",
+    "patient_turn": "Uh, no, I haven’t noticed any changes in my bowel habits. It’s mostly just the cough and, um, the other symptoms that are concerning me. I’m really worried about what’s going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any trouble sleeping or noticed changes in your appetite recently?",
+    "patient_turn": "Um, I haven’t really had trouble sleeping, but I guess I’ve lost my appetite a bit. I mean, with everything going on, it’s hard to focus on eating, you know? I’m just feeling really fatigued and, um, worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any loss of taste or smell recently?",
+    "patient_turn": "No, I haven’t noticed any loss of taste or smell. It’s really just the cough and the other symptoms that are bothering me. I’m honestly just feeling really anxious about everything…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been exposed to any dust, fumes, or animals recently?",
+    "patient_turn": "Um, no, I haven’t been exposed to any dust, fumes, or animals. I live in an apartment with two housemates, and I work on an assembly line, but I don’t think there’s anything like that affecting me. I’m just really worried about this cough and everything else…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had a cough or similar symptoms like this in the past?",
+    "patient_turn": "No, I haven’t had anything like this before. This is the first time I’m experiencing a cough like this, and it’s really, um, concerning for me. I just don’t know what’s going on…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies. I just take some vitamins, but that’s it. I’m honestly just really worried about this cough and everything else happening…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and who you live with?",
+    "patient_turn": "Um, I live in an apartment with two housemates. It’s, like, a small place, and we all share the space. I work on an assembly line, so I’m around a lot of people there too. I guess I’m just feeling really anxious about everything going on with my health…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work, and how often are you in close contact with others?",
+    "patient_turn": "I work on an assembly line, and, um, I’m in close contact with others pretty much every day. It’s a busy environment, so I’m around a lot of people, which makes me a bit more worried about this cough and everything else…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, drink alcohol, or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or drink alcohol, and I don’t use any recreational drugs either. I just take some vitamins, but that’s it. I’m really just focused on this cough and how worried I am about it…",
+    "annotation": "Correct"
+  }
+]

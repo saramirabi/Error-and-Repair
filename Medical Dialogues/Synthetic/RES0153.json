@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve had a sore throat for about three to four days now. It kinda hurts when I swallow solids, and I’ve noticed this lumpiness in my neck… I’m a bit worried about it, to be honest. I also have a fever that started a couple of days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat and the lumpiness in your neck?",
+    "patient_turn": "I think the sore throat started about three or four days ago, and, um, I noticed the lumpiness in my neck around the same time, I guess. It’s just been getting a bit worse, and I’m not really sure what to think about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is in your throat? Does it stay in one spot or move around?",
+    "patient_turn": "Um, I’d say the pain is mostly in the back of my throat, but it kinda feels like it’s all over, you know? It’s not really moving around, just… it hurts when I swallow solids, but it’s not like a constant pain or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Um, I think it’s like a dull pain, maybe? It's not really sharp, but I’m not totally sure if it feels like pressure or something else.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, I’ve tried taking some over-the-counter Tylenol, but it didn’t really help much. I guess swallowing solids definitely makes it worse, and, um, drinking warm liquids seems to help a little bit, but not a whole lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any of those symptoms. No cough, dizziness, or anything like that. Just the sore throat, the lumpiness in my neck, and the fever… so, um, I’m kinda worried about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the pain better or worse?",
+    "patient_turn": "Well, I noticed that swallowing solids makes it worse, but I’m not really sure about liquids, you know? Oh, and I also tried drinking warm tea, which was nice, but it didn’t really help much. By the way, I’ve been binge-watching this new series on Netflix, and I can't believe how good it is!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "How would you describe the pain in your throat when you swallow?",
+    "patient_turn": "It's... Um",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you feel any sensation of your throat closing up or tightening?",
+    "patient_turn": "No, um, I don’t feel like my throat is closing up or anything like that. It’s just sore and uncomfortable, but no tightness or anything like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your voice, like hoarseness?",
+    "patient_turn": "Yeah, um, I have noticed some hoarseness in my voice. It’s not super severe, but it’s definitely there, and it’s kinda frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced a sore throat or similar symptoms before this time?",
+    "patient_turn": "Not really, um, I think I had a sore throat when I was a kid, but nothing like this recently. So, this is kinda new for me, and I’m feeling a bit anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, um, I don’t have any known allergies to medications or anything else. I’ve never really had issues with that, so, um, I’m not sure what to think about all this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been in contact with anyone who has?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. But, um, my sister had a sore throat not too long ago, and she was treated with some medications, but I don’t know what they were. So, I guess that’s a little concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications did your sister take for her sore throat?",
+    "patient_turn": "Um, I’m not really sure what medications she took. She just mentioned it, but I didn’t get the details. I guess I should’ve asked her more about it, but I was kinda focused on my own symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol?",
+    "patient_turn": "No, um, I don’t smoke or drink alcohol. I’ve never really been into that stuff, and I’m not sexually active either, so, um, I guess that’s one less thing to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently sexually active?",
+    "patient_turn": "Um, no, I’m not sexually active. I’ve just been focused on school and stuff, so that’s not really on my mind right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How is school going for you right now?",
+    "patient_turn": "Oh, um, school is actually going pretty well! It’s all virtual right now, but I’m managing to keep up with everything. I guess it helps to have a supportive home environment, you know? But with this sore throat, it’s been a bit harder to concentrate.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "doctor_turn": "How may I help you?",
+    "patient_turn": "Hey, I've just been feeling kind of ill over the past two days and uh, I thought I'd just come in to see what's going on. So I've had um, um, I was feeling very achy and I had a cough and then I think yesterday night I developed a fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and so um, last night you developed a fever. What, uh, did you check your temperature?",
+    "patient_turn": "Um, I didn't, but I'm pretty sure I have a fever and like I can feel it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you had any chills or night sweats?",
+    "patient_turn": "I had chills last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uh, so you mentioned you've had a cough as well, and when did that start?",
+    "patient_turn": "Two days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is the cough been, um producing any phlegm or sputum?",
+    "patient_turn": "No, it's kind of dry cough nothing",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "alright. How about any any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And you've had muscle aches. Has this been like a whole body type of feeling, or is it any particular muscles that hurt?",
+    "patient_turn": "It's all over.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright. And have you had a cough before or is this a new cough?",
+    "patient_turn": "It's a new cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any wheezing with the cough?",
+    "patient_turn": "A little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so you've had wheezing as well. Are you able to to hear it?",
+    "patient_turn": "Yeah, it's just like I can kind of like tell, when I'm breathing like it just, yeah. It sounds different. I don't know what a wheeze sounds like, but it just sounds different.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, um, and have you had any chest pain?",
+    "patient_turn": "Uh, uh, sorry, can you say that again?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Sorry um, did you have any chest pain?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, have you had any, uh, um, symptoms such as red eyes or or itchy eyes or runny nose?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had a sore throat?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about a loss of taste or loss of smell?",
+    "patient_turn": "Uh yeah, I kind of just foods have just been tasting little bland, since yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so yeah, I lost of taste today. Have you had a runny nose at all?",
+    "patient_turn": "No",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any abdominal pain or diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary problems like uh pain or frequency.",
+    "patient_turn": "Uhm? I uh, I I've had that for a while like it's just I think my prostate's kind of large so it's it's hard for me to, like I pee very frequently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And OK. Have you noticed any skin changes or rashes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh. And how is your energy been?",
+    "patient_turn": "I've been feeling a little tired.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so you've had this dry cough that started two days ago. Been feeling feverish, have had some muscle aches, been tired and also a loss of taste. Have you been experiencing any other symptoms?",
+    "patient_turn": "No, that's I think that covers it all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Oh sorry, I asked about chest pain, but have you had any like dizziness or feeling like you're going to faint or even like your heart's racing really fast?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been diagnosed with any medical conditions in the past?",
+    "patient_turn": "Um, just a large prostate. It's not cancer or anything, it's just kind of large.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so I have you heard of BPH before?",
+    "patient_turn": "Yeah, I think that's what the doctor said.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you take any medications for that or for any other reason?",
+    "patient_turn": "Yeah, I do. I do take a I think a medication for that. Uhm? It's called tamsulosin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah call me what is like Flomax or or tamsulosin, but there are there are others for sure.",
+    "patient_turn": "Yeah I think I think it's called Flomax.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah it's the brand name for it but lots of yeah lots of different namings can be hard for the medication sometimes. And have you had any surgeries or hospitalizations?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um, and can you tell me a little bit about where you're living and who you're living with?",
+    "patient_turn": "I just live with wife in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And has she had any symptoms or been sick at all?",
+    "patient_turn": "Oh no, she's feeling good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any sick contacts?",
+    "patient_turn": "I don't, no I haven't. I don't think so. I mean potentially. I was. I was actually out with my friends, but no one was sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you traveled anywhere?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And do you smoke cigarettes?",
+    "patient_turn": "I used to, I quit. I quit 10 years ago. I used to smoke about two or three cigarettes a day for 20 years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, well congratulations on quitting, that's great.",
+    "patient_turn": "Thanks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cannabis or use cannabis products?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use any recreational drugs?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you drink alcohol?",
+    "patient_turn": "Yeah, maybe sometimes once or twice a month, maybe a glass or two at a time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh. And anybody in the family have any heart or lung conditions.",
+    "patient_turn": "Uhm? Yeah, I think it's called Hypertrophic cardiomyopathy where people kind of die early. People get like people in my family got heart attacks very early on in their 30s. My brother died and when he was 15.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh wow, sorry to hear that and uh, has that been looked into for yourself?",
+    "patient_turn": "Oh yeah, I see a cardiologist. I get regular checkups done.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And. OK, and uh, so that was everything that I wanted to ask about on history today. Did you have any anything else that you wanted to mention or anything you were concerned about?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so with your your symptoms today, they do overlap potentially with covid, and So what we'll need to do or will well, it'll be important to do a swab to test for covid. It could be something else like the common cold. Like another type of viral illness, but because of the pandemic it will be important to self isolate, including from your wife, for the next 14 days and we'll get back to you with the results as soon as we can.",
+    "patient_turn": "Sure, thank you.",
+    "annotation": "Correct"
+  }
+]

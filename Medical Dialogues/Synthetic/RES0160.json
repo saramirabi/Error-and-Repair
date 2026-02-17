@@ -1,0 +1,87 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a dry cough for about a week, and while it's getting better, I've also developed watery diarrhea over the last two days. I've been going to the bathroom around 8 to 10 times a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start, and how has it changed since then?",
+    "patient_turn": "The cough started about a week ago. It was worse at first, but now it's improving a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough in your chest or throat?",
+    "patient_turn": "It feels more like it's in my throat. It's dry and irritating, but I don't have any chest pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you find it sharp, tickly, or something else?",
+    "patient_turn": "It's more of a tickly cough. It kind of makes me want to clear my throat a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Uh, I think it started about a week ago, but I'm not totally sure. It was maybe worse at first, or something like that, but now it seems like it’s getting a bit better, I guess?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What color is your stool?",
+    "patient_turn": "The stool is normal in color. I haven't noticed any blood or anything unusual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you seen any blood in your stool?",
+    "patient_turn": "No, I haven't seen any blood in my stool. It's been normal in color.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your appetite been with the diarrhea?",
+    "patient_turn": "My appetite has been good, actually. Even with the diarrhea, I've been eating normally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any abdominal discomfort along with the diarrhea?",
+    "patient_turn": "Yes, I do have some abdominal discomfort, but it's mostly related to the frequent bowel movements. It's not too severe, just a bit uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What is your work environment like, and do you have any safety measures in place?",
+    "patient_turn": "I work in a car shop, and I mostly wear a mask and try to maintain social distancing. It's been pretty consistent with those safety measures.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and are they currently feeling well?",
+    "patient_turn": "I live with my wife, and she's currently working remotely. She hasn't had any symptoms and seems to be feeling well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who has been sick recently?",
+    "patient_turn": "No, I haven't been in contact with anyone who has been sick recently. I don't know of any known sick contacts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other medical conditions besides hypertension and hypercholesterolemia?",
+    "patient_turn": "No, I don't have any other medical conditions besides hypertension and hypercholesterolemia. Those are managed with Ramipril and Lipitor.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries besides your appendectomy?",
+    "patient_turn": "No, I haven't had any other surgeries besides my appendectomy when I was in my 20s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or environmental factors?",
+    "patient_turn": "No, I don't have any known allergies to medications, foods, or environmental factors.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about any health issues in your family?",
+    "patient_turn": "Sure, there's diabetes on my paternal side, and I have an aunt with ovarian cancer on my maternal side. Other than that, I don't know of any other significant health issues in my family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently smoke or drink alcohol?",
+    "patient_turn": "I don't smoke anymore; I used to smoke half a pack daily for about 15 years, but I quit. I do drink alcohol, about one beer a day.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this really severe headache for the past two days. It feels different from my usual migraines, like a band-like pressure in my forehead, and it’s just… it’s not going away. I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did this headache first start?",
+    "patient_turn": "It started about two days ago, um, and it’s just been getting worse since then. I’ve tried taking Tylenol and Advil, which helped a little bit at first, but then the pain just came back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain, and does it spread to any other areas?",
+    "patient_turn": "It’s mostly in my forehead, like a band around my head, you know? It doesn’t really spread anywhere else, just that pressure in the front. It’s, um, definitely different from my usual migraines.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Well, it’s kind of like this pressure, I guess, but not the same as my usual migraines. You know, I had a headache like this once before, but it was different. And, oh, by the way, I’ve been drinking a lot of water lately, trying to stay hydrated, which is important, right? And I also had pizza last week, which I think really hit the spot.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Um, like I said, Tylenol and Advil helped a little bit at first, but it didn’t last long. I haven’t really noticed anything else that makes it better or worse, honestly. It just seems to be there all the time, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Oh, it’s definitely sharp, I think, but I don’t usually get sharp pains, so maybe I’m wrong about that. I mean, last time it felt more like pressure, but I’m not really sure what it is this time.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "It feels more like pressure, I guess, but it’s also kind of sharp at times, which is confusing. It’s definitely not like my usual migraines, which are different, you know? This one just feels… heavier, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the headache changed in intensity or character since it first started?",
+    "patient_turn": "I’ve been meaning to ask, do you think they’ll have cookies in the waiting room later? I really hope so! ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any nausea, vomiting, or changes in your vision?",
+    "patient_turn": "No, I haven’t had any nausea or vomiting, and my vision seems fine, I think. It’s just this headache and, um, I’ve been feeling really tired and a bit short of breath, but no other symptoms like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your shortness of breath? Does it happen all the time or only with activity?",
+    "patient_turn": "Um, it’s not all the time, but I’ve noticed it a bit, especially when I’m moving around or, like, doing anything active. It’s kind of mild, I guess, but it’s just… there, you know? It’s making me a little anxious, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any muscle aches along with your headache?",
+    "patient_turn": "Yeah, I’ve had some mild muscle aches too, which started around the same time as the headache. It’s just, um, everything feels a bit off, you know? I’m not used to feeling like this, and it’s kind of worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever, chills, or chest pain recently?",
+    "patient_turn": "No, I haven’t had any fever or chills, and, um, no chest pain either. It’s just the headache, the muscle aches, and feeling tired, you know? I’m really hoping it’s nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications for your headaches or other health issues?",
+    "patient_turn": "Um, no, I’m not taking any medications right now. I’ve had migraines in the past, but I haven’t been on anything for them lately. I just, you know, try to manage it with over-the-counter stuff when it happens.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries before. I mean, I’ve had migraines and, um, I have polymyalgia rheumatica, but nothing major like that. So, I guess I’m pretty lucky in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, drink alcohol, or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or drink alcohol, and I don’t use any recreational drugs either. I’ve just been trying to stay healthy, you know? It’s, um, important to me, especially with how I’ve been feeling lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of heart disease or cancer in your relatives?",
+    "patient_turn": "Um, no, there’s not really a significant family history of heart disease or cancer that I know of. My family has some migraines, but, you know, nothing major like that. I’m just hoping it’s not anything serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you dined out with anyone who was feeling unwell recently?",
+    "patient_turn": "I recently dined out with friends, but, um, they weren’t known to be ill. I mean, I didn’t notice anyone looking sick or anything like that. It’s just been a bit strange how I started feeling unwell after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. I’ve just been, um, working from home because of how I’ve been feeling. It’s kind of frustrating, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently working from home because of your symptoms?",
+    "patient_turn": "Yeah, I am. I’ve been working from home because of my symptoms, and it’s, um, really hard to focus with this headache and everything else going on. I just wish I could feel normal again.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies. I mean, I haven’t had any issues with medications before, so that’s good, I guess. It’s just, um, I’m really hoping to figure out what’s going on with me.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "doctor_turn": "Could you start by telling me what brought you in?",
+    "patient_turn": "So like I don't really feel sick. I just I lost. I can't. I for the past two days I can't smell anything. I can't taste any of my food. It's super weird I like live with my boyfriend and he was like here take a bite of this onion and I like bit into it and I literally didn't taste anything. Otherwise, like I feel totally fine. I just heard that this happens sometimes like with COVID and. I'm just kind of worried that I have COVID.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "OK, for sure I will we will, um definitely look into that today and you are right, it is a symptom that can occur with with covid. But we will want to make sure that it isn't something else, and so I wanted to just ask you a few more questions about how you've been feeling. So you said you haven't felt sick, so have you been experiencing any other symptoms?",
+    "patient_turn": "I mean, I may be even a bit tired, but really. Otherwise no. I guess maybe I felt like a little dry, but I haven't actually been coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So no cough have you felt a like short of breath at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you brought up any like, sputum or any blood?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any feeling like your heart is ready racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, um, any nausea or vomiting.",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes to urinary habits. Any painful urination or needing to go more often?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and have you had any headaches?",
+    "patient_turn": "Mmm no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, how about any fevers?",
+    "patient_turn": "I don't, like I don't have a thermometer, I like maybe felt a little hot, but like like I don't really know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you had any chills?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, or how about any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And recently, over the last several months, have you had any changes to your weight?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And in the last several days, have you had a sore throat?",
+    "patient_turn": "Like I said, it felt like dry, but I don't think it's been sore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. And have you had a runny nose?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Or felt congested at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then any eye pain or ear pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then any rashes on your skin?",
+    "patient_turn": "Like I have eczema, but nothing new.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in regards to your past health do you have any medical conditions that you're followed for,",
+    "patient_turn": "Like the eczema, like I have like a peanut allergy. That's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK, do you have an EpiPen?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you keep that with you regularly?",
+    "patient_turn": "Yeah, yeah, always.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, excellent um, and do you take any other medications or?",
+    "patient_turn": "I take birth control. An like sometimes like I had, I had like eczema cream like the the steroid one for when it's really bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and when did you start birth control?",
+    "patient_turn": "Maybe like three years.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, and how often are you using the cream?",
+    "patient_turn": "It's kind of like goes in like flares, so like this, 'cause it's winter I've been using it like maybe a couple times a week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and. Any allergies to medications?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And have you had any surgeries in the past?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any reason reason for hospitalization?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Sorry I went to the Emergency Department like when I had my peanut like the first time I realized I was allergic to peanuts. But that was it.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Oh, did you have an anaphylactic reaction?",
+    "patient_turn": "Yeah, like I was a kid. So. I don't really remember that much, but that's when they told me I was allergic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see OK, so important to have the EpiPen then for sure.",
+    "patient_turn": "Yeah",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And so you mentioned that you're living with your boyfriend?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anybody else?",
+    "patient_turn": "No, just us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and as your boyfriend been sick at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And at like have you been around anybody who's been sick at work or school?",
+    "patient_turn": "Um no like all my classes are online, so I don't really see anyone besides him right now like we don't even officially like together. He's just been essentially staying at my apartment, 'cause like we don't see anyone else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, and do you smoke cigarettes?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke marijuana?",
+    "patient_turn": "Like occasionally we will like. Do an edible or something, but I don't smoke it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any other recreational drugs like cocaine, MDMA?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um and uh are you currently sexually active?",
+    "patient_turn": "Yeah, just like with my boyfriend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um. Any sexually transmitted infections in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. And then do you drink alcohol?",
+    "patient_turn": "Like maybe a couple of beers on the weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and in your family, has anybody ever lost their smell before?",
+    "patient_turn": "I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, anybody in the family have a heart condition or a lung condition?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright and then I have anybody in the family had cancer before?",
+    "patient_turn": "Like my like my Uncle um had like prostate cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you know, breast cancer, ovarian cancer?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So that that was all I wanted to ask about on, uh, the history today. Was there anything else that I maybe forgot to ask about?",
+    "patient_turn": "Mmm I don't know that's it.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, so, uh, yeah with, uh, the symptoms of losing your smell over the last day or so we will certainly look into. Whether or not this is caused by COVID and so that will require a nasal swab test for that. Usually the results are coming back now within 48 hours hopefully, but still will be required to self isolate now for the next 14 days after your symptoms are gone, so we will let you know when the results come back from this test though.",
+    "patient_turn": "OK. OK, geez OK. Thank you.",
+    "annotation": "Correct"
+  }
+]

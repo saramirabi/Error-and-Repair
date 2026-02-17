@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here. So, I’ve been having this cough for about three days now, and it’s getting worse. It’s, uh, producing this yellow sputum, and today I started feeling short of breath, which is kinda worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, it feels like it’s mostly in my chest, I guess? It’s just, like, tight and, uh, sometimes it makes it hard to breathe. I’m not totally sure how to describe it, but it’s definitely not pleasant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry or producing mucus?",
+    "patient_turn": "Oh, it’s definitely producing mucus, like I mentioned before. It’s, um, yellow and kinda thick, which is, you know, not great. I just feel like I can’t clear it out properly, and it’s really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Oh, you know, I just remembered I need to clean out my closet at home. I think the cough started a few days ago, but I might have been busy with other things, like organizing my books.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, it’s definitely gotten worse since it started. At first, it was just a little annoying, but now it’s, like, really persistent, and I’m coughing a lot more. Plus, the shortness of breath today is, uh, really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you describe it as dry or productive?",
+    "patient_turn": "It's... uh, kind of.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—do you describe it as dry, wet, or something else?",
+    "patient_turn": "Oh, it’s definitely wet, um, because it’s producing mucus. It’s, like, thick and yellow, and I just feel like I can’t clear it out properly. It’s really frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and shortness of breath?",
+    "patient_turn": "I think the cough and shortness of breath started today, but I might have had something similar a few weeks ago. I’m not really sure, though.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with any lung conditions, like COPD or asthma?",
+    "patient_turn": "Yeah, I was diagnosed with COPD about five years ago. I’ve had some issues with it since then, but this feels, um, worse than what I’ve experienced before. I’m just really anxious about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently managing any other health conditions, like diabetes or high blood pressure?",
+    "patient_turn": "Yes, I’m managing diabetes and high blood pressure, um, with insulin and ramipril. I also take rosuvastatin for my cholesterol. It’s just a lot to keep track of, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your health conditions?",
+    "patient_turn": "I’m taking insulin for my diabetes, ramipril for my high blood pressure, and rosuvastatin for my cholesterol. Um, I try to keep everything organized, but sometimes it gets a bit overwhelming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest pain or fever recently?",
+    "patient_turn": "No, I haven’t had any chest pain or fever, um, thankfully. It’s just the cough and shortness of breath that are really bothering me right now. I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who has been sick recently?",
+    "patient_turn": "Um, no, I haven’t been around anyone who’s been sick recently. I’ve just been, you know, staying at home mostly. I’m not sure if that’s, like, related to what I’m feeling now, but it’s just been me in my apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of lung or heart problems?",
+    "patient_turn": "Yeah, there is. My mom had lung cancer when she was, um, 50, and my dad had a heart attack at 49. They both had issues with diabetes and high blood pressure too. It’s, uh, definitely something that worries me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies, um, at least not that I’m aware of. I think my immunizations are up to date, too. It’s just, you know, the other health issues that I’m dealing with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current, including the flu and pneumonia vaccines?",
+    "patient_turn": "I believe my immunizations are up to date, um, including the flu and pneumonia vaccines. I try to keep track of that stuff, you know, but sometimes it’s hard to remember everything.",
+    "annotation": "Correct"
+  }
+]

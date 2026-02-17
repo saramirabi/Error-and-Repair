@@ -1,0 +1,292 @@
+[
+  {
+    "doctor_turn": "What can I do for you?",
+    "patient_turn": "Hi there, yeah I've had this pain in my knee that's been going on for a few weeks now and it hasn't gone away and and so I thought I would get checked out. It's been really impacting my running. I just haven't been able to run as often as I would like to and so that's why I wanted to get this looked at.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. You said it started a couple of weeks ago. Was that two weeks ago, three weeks ago? Or more than that?",
+    "patient_turn": "Yeah, I would say maybe it's been going on for the past four weeks, for the past month.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Past month. OK. And is it a constant type of pain or does it come and go?",
+    "patient_turn": "It comes and goes, yeah, and it depends on what I'm doing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, alright and what kind of makes it worse or better?",
+    "patient_turn": "So if I'm out while running, what will bug it, but I think like that the main things that hurt are if I'm walking down stairs or if if I'm squatting. I like to lift weights as well, and yeah, I could barely even do body weight now 'cause if I I'm squatting down it causes a lot of pain, it's a sharp pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, and if you were to describe the quality of your pain, would you say it's achy, throbbing, dull, sharp, burning?",
+    "patient_turn": "Uh, it's a sharp pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sharp pain, OK. And one to 10, 10 being the worst pain you've ever had. How bad is this pain?",
+    "patient_turn": "It's about a 7.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "7. And have you ever had pain like this in the past?",
+    "patient_turn": "Uh, no, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you feel like your pain is getting worse over the past four weeks?",
+    "patient_turn": "Uh, yeah it has gotten, has gotten a bit worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, alright, and do you, are you experiencing any sort of muscle weakness?",
+    "patient_turn": "No muscle weakness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. How about numbness or tingling?",
+    "patient_turn": "No numbness or tingling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Headaches?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Confusion or memory loss?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any joint pains or muscle aches outside of the area of this left knee?",
+    "patient_turn": "No, just, just the left knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And whereabouts on the left knee, is it?",
+    "patient_turn": "It's on the anterior aspect. Like on the front of it, but I I could, it feels like the pain is right behind my like right underneath the kneecap.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right underneath the knee, OK.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright and otherwise like have you had any weight loss?",
+    "patient_turn": "No, my way it's been the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about fevers or chills?",
+    "patient_turn": "No fevers or chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about fatigue?",
+    "patient_turn": "No fatigue, energy's been good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Changes in your hair or nails like rashes?",
+    "patient_turn": "No, nothing, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Changes in your vision, hearing, smell or taste?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uhm how about coughing, wheezing or shortness of breath?",
+    "patient_turn": "Nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uhm, chest pain, heart palpitations or fainting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any changes in your bowel movements?",
+    "patient_turn": "Nope, I haven't had any diarrhea or any blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. Alright, and are you otherwise healthy or do you have any longstanding medical conditions?",
+    "patient_turn": "I do have, ah, asthma, so I I do take a, an inhaler. I have a daily, a daily one that I'll use and then, just a, like rescue one. So like the blue one that I'll use sometimes, but I haven't needed that one for for awhile. I've been pretty good. I don't even need it when I'm going or runs anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK that's good. And are you on any medications?",
+    "patient_turn": "Yeah, just the just the inhalers and then I took uh, birth control as well. I've been taking that since I was 16 so, yeah, so for like 6 years? 7 years?",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK alright. And are you, have you been hospitalized or had surgeries in the past?",
+    "patient_turn": "No, I haven't had any.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about immunizations? Are you up to date?",
+    "patient_turn": "I am, yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about allergies? Do you have any?",
+    "patient_turn": "Uh, I, uhm, I don't, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No allergies, OK, good. And any family history of musculoskeletal issues.",
+    "patient_turn": "Uh, no, ah, well, I think my grandparents have like osteoarthritis or something like that. They, but, that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, how about longer heart conditions?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any autoimmune conditions?",
+    "patient_turn": "No, I don't believe so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. How about cancers?",
+    "patient_turn": "Uh, no, no cancers in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And, and do you smoke?",
+    "patient_turn": "No, I I try to stay away from that with all the running and stuff that I'm doing. I'm uh, I want to make sure that I'm able to to improve.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure. And how about marijuana? Do you consume that in any form?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, and how about recreational drugs?",
+    "patient_turn": "No, I stay away from that stuff too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good. And who do you live with and where do you live right now?",
+    "patient_turn": "So I live with a couple of roommates at school, just finishing up my undergraduate degree.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. Uhm, have you been in contact with anyone sick recently?",
+    "patient_turn": "No, I don't, I don't think so. Everybody's been been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, and travel anywhere?",
+    "patient_turn": "No, we've been at, been at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, uhm, alright, so I think those are all the questions that I have for you. Let's move on to the physical exam part of this interview, if that's OK with you. So I'm going to get you to take a look at both your knees and let me know if you see more redness or swelling in your left knee compared to your right.",
+    "patient_turn": "Uh, no, I'm not noticing any swelling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you see any redness?",
+    "patient_turn": "No, no redness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. How about any atrophy, deformities, or skin changes in your left knee compared to your right knee?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. I'm gonna get you to press down and palpate on your quadriceps on both knee. Sorry, on both thighs. Do you feel any pain there?",
+    "patient_turn": "Uh, no pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about when you press down on your knee caps?",
+    "patient_turn": "Yeah, I do get some pain when I push on the on the kneecap, uhm, on my left knee.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about just below that where your shins start?",
+    "patient_turn": "No pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No pain there, and then how about on the lateral aspects of your knee?",
+    "patient_turn": "Ah, no pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And then the medial aspects of your knee?",
+    "patient_turn": "No pain there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No pain there. OK, good. When you are palpating, was there a difference in temperature between the left and right knee? Was the left knee a little bit more warm than the right knee?",
+    "patient_turn": "No, the temperature feels the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good. So now I'm going to uhm, are you sitting down?",
+    "patient_turn": "I am yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so from a sitting position I'm going to get you to stand up uhm, and you let me know if that is painful.",
+    "patient_turn": "It is, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, OK. Uhm, and then how about when you bend your knees?",
+    "patient_turn": "Uhm, no, no pain with just bending.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, how about when you, uh, when you flex your hips so you can do one leg at a time, does that hurt?",
+    "patient_turn": "Oh no, that doesn't hurt.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about squatting down?",
+    "patient_turn": "That does hurt. Yeah, squatting hurts.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Squatting hurts OK. OK. OK and then how about when you point your toes towards the ceiling?",
+    "patient_turn": "No pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. How about when you point your toes towards the ground?",
+    "patient_turn": "No pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No pain. So no pain on dorsiflexion or plantar flexion, OK. Do you hear any like popping or crackling sounds in your knees when you climb stairs or when you're standing up after sitting down for a long time?",
+    "patient_turn": "Yeah, yeah, sometimes I will hear, uhm, some, some like yeah, crackling sounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright and yeah, you mentioned that you do a lot of running. Do you do any other sorts of exercises?",
+    "patient_turn": "Yeah, I'll do some weight lifting and like cycling as well. I mean, all kinds of different stuff. We just, like staying as active as I can.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright yeah, given your young age and the fact that you do a lot of running and a lot of physical activity like cycling and lifting weights, what you have is most likely something called a Patellofemoral syndrome and that is basically a nerve. Uh kind of pain and then in the in the soft tissues and bone around your kneecap. Uhm, and it's basically happens because of overuse, so vigorous physical activities that put repeated stress on your knees, like running and cycling, uhm, can cause that or just like improper sports training techniques. Uhm, we can do a few things that that'll help with the pain. So for a little bit, if you could hold off on the running that would be good. So, in the meantime, while you while you switch to like low impact activities, whether that's like riding a stationary bike or swimming, you can also try something called the RICE method and so that stands for resting, uhm, so avoiding putting any strain on that knee using ice packs for several days, compression, so wrapping your knee in like an elastic bandage, as well as elevating your knees higher than your, then the level of your chest can help. And then with the sharp pain you could also also take ibuprofen for pain management. Uhm, yeah, so we can start there if it doesn't get better we can also order an x-ray just to rule out other things that could have caused this pain in your knee. And if none of those nonsurgical treatments work, oh sorry, I also forgot to mention will also refer you to physiotherapy to help you with the range of motion and strength and endurance. But of those non surgical treatments work we'll also refer you to like am arthroscopy or some sort of surgery that may be able to fix the issue more permanently. Does that sound OK?",
+    "patient_turn": "Yeah, that sounds great, thank you so much.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having this, like, really annoying pain in my left knee for the past three to four months. It’s gotten worse lately, and now it hurts both when I’m active and even when I’m just sitting around… I guess I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "I first noticed it, um, about three to four months ago. It started off kinda mild, but, like, it’s really gotten worse recently… now it’s sharp and stabbing when I run, and even just walking is uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where exactly the pain is in your knee?",
+    "patient_turn": "Yeah, um, it’s mostly above the joint line on the lateral side of my knee. I don’t really feel pain over the patella or, like, the other areas around it, just that specific spot. It’s, um, pretty localized, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, the pain is kind of sharp, like a stabbing feeling when I run, but then it turns into this dull ache when I'm just sitting around. You know, I also noticed that it’s really noticeable when I’m going up and down stairs, which is a bit frustrating because I just moved into this apartment on the third floor and now I’m regretting it a bit. Plus, I’ve been trying to keep up with my studies for my Master’s, so between running and school, it’s been a lot. Oh, and I really should get some groceries later.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you describe what the pain feels like? Is it sharp, dull, or something else?",
+    "patient_turn": "Sure, um, the pain is mostly sharp and stabbing when I’m running, but when I’m just sitting or resting, it feels more like a dull ache. It’s, uh, pretty uncomfortable, especially when I’m trying to do everyday things like walking or going up and down stairs. Honestly, it’s just really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities make the pain worse for you?",
+    "patient_turn": "Well, um, running definitely makes it worse, like, every time I foot strike, it’s really sharp. Going up and down stairs is also tough, and even just standing up from a seated position can trigger that pain. It’s, um, really frustrating because I want to stay active, but it’s just hard right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your knee?",
+    "patient_turn": "Oh, um, I think I already mentioned it, but it was about three to four months ago. It started off kinda mild, but it’s just gotten worse since then… and now it’s really affecting my daily life, which is, like, really stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the pain changed in intensity or frequency since it first started?",
+    "patient_turn": "Oh, it’s definitely changed since it first started, I think it was a few months ago, maybe three or four? At first, it was just a little annoying, like a mild discomfort when I ran, but now it’s gotten sharper, especially with every foot strike. It’s really frustrating because, you know, I was trying to get back into running regularly, and now I’m worried about missing my workouts. Also, I’ve been really busy with school, and I just got a new pair of running shoes recently, which I thought might help, but now I’m not so sure. And I keep forgetting to pick up that laundry detergent I need!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "On a scale of 1 to 10, how would you rate your knee pain?",
+    "patient_turn": "I’d say it’s about a 6 out of 10 right now. It’s, um, pretty uncomfortable, especially when I’m running or doing activities like going up and down stairs. Honestly, it’s just really frustrating because I want to keep up with my exercise routine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling, redness, or bruising around your knee?",
+    "patient_turn": "Um, no, I haven’t noticed any swelling, redness, or bruising around my knee at all. It’s just the pain that’s really bothering me, but, like, everything else seems normal, which is, I guess, a little reassuring?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history I should know about?",
+    "patient_turn": "Uh, no, I don’t have any past medical or surgical history that’s relevant. I’ve been pretty healthy overall, and I’m not on any medications except for a multivitamin. So, um, nothing really stands out, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any other medications or supplements besides your multivitamin?",
+    "patient_turn": "No, um, I’m not taking any other medications or supplements besides my multivitamin. I’ve just been trying to stay healthy, but, like, with this knee pain, it’s been tough to keep up with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "Uh, no, I don’t have any known allergies to medications or other substances. I’ve never really had any issues with that, so, um, I guess that’s a good thing?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of joint or autoimmune diseases?",
+    "patient_turn": "Um, no, there’s no family history of joint or autoimmune diseases that I know of. My dad has hypertension and high cholesterol, but, like, nothing related to musculoskeletal issues. So, I guess that’s a bit of a relief?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does a typical day look like for you in your living situation?",
+    "patient_turn": "Well, um, I live alone in a small apartment while I’m working on my Master’s degree, so my days can be pretty busy. I usually spend a lot of time studying and working on assignments, and I try to fit in my runs for exercise. But, like, with this knee pain, it’s been hard to keep up with everything. I also have to manage things like grocery shopping and, um, just keeping the place tidy, which can be a bit overwhelming sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are all your immunizations current?",
+    "patient_turn": "Yeah, um, all my immunizations are up to date. I’ve made sure to keep on top of that, so I guess that’s one less thing to worry about, you know?",
+    "annotation": "Correct"
+  }
+]

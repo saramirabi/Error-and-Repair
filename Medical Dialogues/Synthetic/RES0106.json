@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this cough for about two weeks now. It’s mostly dry, but sometimes I cough up, like, whitish or clear phlegm. I’m kinda worried because it’s been persistent, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it started about two weeks ago, um, maybe a little more? It just kind of came out of nowhere, and it hasn’t really gone away since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the cough changed at all since it first started?",
+    "patient_turn": "Uh, not really, I guess. It’s mostly been the same, just dry with some clear phlegm occasionally. Sometimes it makes me wheeze a bit, and I get this dull chest pain after I cough a lot, but, um, that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain when it occurs?",
+    "patient_turn": "It’s, um, like a dull pain in my chest, mostly in the middle, I think? It happens after I cough for a while, you know, like it’s just sore from all the coughing. It’s not super intense, but it’s definitely there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "Oh, you know, I’ve been thinking about getting a new plant for my apartment. I really want something that’s easy to take care of.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like when it happens? Is it sharp, dull, or something else?",
+    "patient_turn": "Um, it’s definitely more of a dull pain, I think. It’s not sharp or anything, just, like, uncomfortable after I’ve been coughing a lot. It kind of feels like my chest is just sore, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain feel better or worse for you?",
+    "patient_turn": "Well, um, I’ve noticed that it gets worse when I cough a lot, obviously. But, like, resting a bit seems to help, I guess? I try to take it easy after I’ve been coughing, and that makes it feel a little better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "You know, I’ve been meaning to ask about getting a new phone. Mine is kind of old and slow now. ",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Can you describe where the pain is located?",
+    "patient_turn": "Uh, yeah, it’s mostly in the middle of my chest, I think. It’s not on one side or the other, just kind of right in the center. It’s, um, not super intense, but it’s definitely noticeable after I cough a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, um, it doesn’t really spread anywhere else. It’s just in my chest, you know? I haven’t felt it in my arms or neck or anything like that, just, um, right there in the middle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when it occurs?",
+    "patient_turn": "It’s, um, mostly a dull ache, I guess. It’s not sharp or anything, just kind of uncomfortable after I’ve been coughing a lot. It feels like my chest is sore, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain feel better or worse for you?",
+    "patient_turn": "I guess the pain is, like, kind of there sometimes, but I’m not really sure how to explain it. It might get worse when I cough, or maybe not, I can’t really remember.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the chest pain, like breathlessness or dizziness?",
+    "patient_turn": "Um, no, I haven’t noticed anything like that. It’s just the cough and the chest pain, really. I mean, I don’t feel breathless or dizzy or anything, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your daily habits, like smoking, drinking, or exercise?",
+    "patient_turn": "Oh, um, I smoke occasionally, like about once a month now. I used to smoke more, but I’ve cut back a lot. I also have a glass of wine, like, every night, but I don’t really drink much beyond that. As for exercise, I try to stay active, but I haven’t been super consistent lately, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Uh, my past medical history is pretty unremarkable, honestly. The only thing I had was my wisdom teeth removed about 8 or 9 years ago. I’m currently on a birth control pill that I started three years ago, and I haven’t had any side effects from it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any green or bloody sputum when you cough?",
+    "patient_turn": "No, um, I haven’t noticed any green or bloody sputum at all. It’s mostly just clear or whitish when I do cough something up. So, that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What happened during your last cough episode 3-4 years ago?",
+    "patient_turn": "Oh, um, I remember having a similar cough back then, but I didn’t really go to the doctor or anything. It just sort of went away on its own after a while. I guess I thought it would do the same this time, but it’s been longer than I expected, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications, foods, or environmental factors?",
+    "patient_turn": "Um, no, I don’t have any known allergies, really. I haven’t had any issues with medications or foods, and I’m not aware of any environmental triggers either. So, I guess that’s good?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about any medical conditions in your family?",
+    "patient_turn": "Sure, um, my mom has diabetes, and my dad has hypertension, but that’s about it. There aren’t any cancers or lung or heart conditions in my family that I know of. So, it seems pretty normal, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t think I’ve been around anyone who was sick either. I’ve just been, um, at home mostly, you know, with my boyfriend. So, I’m not sure where this cough came from.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any environmental triggers in your apartment, like mold or strong odors?",
+    "patient_turn": "Um, not really, no. I mean, we live in an old apartment, but I haven’t noticed any mold or strong odors that would trigger anything. It seems pretty normal, I guess, but I’m not totally sure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you up to date with your influenza vaccine for this year?",
+    "patient_turn": "Oh, um, actually, I’m not up to date with this year’s influenza vaccine. I just haven’t gotten around to it yet, you know? I’ve been meaning to, but it slipped my mind.",
+    "annotation": "Correct"
+  }
+]

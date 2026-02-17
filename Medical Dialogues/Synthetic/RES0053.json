@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because my son has this really dry, harsh cough that started a couple of days ago. It’s, like, worse at night and he’s been having these coughing fits that leave him kinda winded and tired. I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough first start?",
+    "patient_turn": "Uh, it started about two days ago, but I think it got worse after he had a runny nose and some mild cold symptoms three days before that. So, it’s been, um, a bit concerning for us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from? Does it feel like it's in his chest or throat?",
+    "patient_turn": "Well, it seems like it’s more in his throat, but, you know, he had a runny nose a few days ago, and that was kind of annoying, and then he started coughing. Also, I remember that he was playing outside a lot before this happened, and there were some leaves around, which might have been dusty, you know? It's just hard to say exactly where the cough is coming from, but it definitely makes him sound like a little seal at night, which is kind of funny but also not great.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it more dry, or does it have any wet or phlegmy sounds?",
+    "patient_turn": "Um, it’s definitely more dry and harsh, like a bark, you know? There’s no wet or phlegmy sound to it at all. It’s just really, um, persistent and kind of alarming to hear, especially when he’s coughing for a minute at a time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I first noticed it about two days ago, but, um, I think it really started to get worse after he had that runny nose and some mild cold symptoms three days before that. So, it feels like it’s been going on for a little while now, and I’m just really worried about him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often does he cough during the day and night?",
+    "patient_turn": "Uh, during the day, it’s not too often, maybe a few times here and there, but at night, it’s definitely worse. He has these fits that can last up to a minute, and it really seems to bother him, especially when he’s trying to sleep. I mean, it’s just hard to see him like this, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the cough seems to be coming from?",
+    "patient_turn": "Um, it seems like it’s coming from his throat, I think. It’s that dry, barky kind of cough, and it doesn’t really sound like it’s in his chest at all. I guess it’s just really uncomfortable for him, and I feel bad that he’s going through this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been able to sleep well at night despite the cough?",
+    "patient_turn": "…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How long has he been coughing like this?",
+    "patient_turn": "He’s been coughing like this for about two days now, but, um, it started after he had a runny nose and some mild cold symptoms three days ago. So, it feels like it’s been a bit of a rough couple of days for him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly does he feel the cough in his throat?",
+    "patient_turn": "Um, I’m not totally sure where exactly he feels it in his throat, but he does mention that it hurts a bit when he coughs. I think it’s just uncomfortable for him, and he’s been preferring soft foods and liquids because of it. It’s just hard to see him struggling like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often does he cough during the day and at night?",
+    "patient_turn": "You know, I really need to remember to buy more milk after this appointment.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "When did the runny nose and cold symptoms first begin?",
+    "patient_turn": "The runny nose and cold symptoms started about three days ago, I think. It was pretty mild at first, but then, um, a couple of days later, he developed that really dry cough. It’s just been a bit of a rollercoaster since then, and I’m kinda worried about him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long do the coughing fits usually last when they happen?",
+    "patient_turn": "The coughing fits usually last up to a minute, I think. It’s, um, pretty intense when it happens, and it really seems to leave him winded and fatigued afterward. I just feel so bad for him when he goes through that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had a fever or any blood in his cough?",
+    "patient_turn": "No, he hasn’t had a fever or any blood in his cough at all. It’s just the dry cough and a bit of a sore throat, but nothing else like that, which is, um, a little reassuring, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been eating less than usual lately?",
+    "patient_turn": "Yeah, he has been eating less than usual. He seems to prefer liquids and soft foods because of the throat discomfort, you know? It’s just hard to see him not wanting to eat like he usually does.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he ever had a cough like this before?",
+    "patient_turn": "No, he hasn’t had a cough like this before. This is the first time he’s experienced something like this, and, um, it’s really concerning for us. I just hope he gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any known allergies to foods, medications, or anything else?",
+    "patient_turn": "No, he doesn’t have any known allergies to foods, medications, or anything else. I mean, he’s been pretty healthy overall, so this cough is just, um, really out of the blue for us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does he have any chronic health issues or conditions we should know about?",
+    "patient_turn": "No, he doesn’t have any chronic health issues or conditions that I know of. He was born a bit early, at 34 weeks, but he’s met all his developmental milestones and has been doing well otherwise. It’s just this cough that’s worrying me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is he currently taking any medications other than a daily multivitamin?",
+    "patient_turn": "No, he’s not taking any medications other than his daily multivitamin. We’ve been pretty cautious about giving him any over-the-counter cough medications, so it’s just that multivitamin for now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of respiratory issues, like asthma or chronic cough?",
+    "patient_turn": "Um, no, there’s no family history of asthma or chronic cough that I know of. There is some lung cancer in his great-grandfather, but that was due to heavy smoking, and, um, no significant allergies in the family either. So, it’s just a bit confusing why he’s having this cough now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is anyone at home smoking around him?",
+    "patient_turn": "No, there’s no one at home smoking around him. We’re really careful about that, and he hasn’t been exposed to any tobacco smoke. It’s just been us at home, you know, especially with all the COVID-19 precautions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he traveled anywhere recently?",
+    "patient_turn": "No, he hasn’t traveled anywhere recently. We’ve mostly been staying at home because of COVID-19, and he did have a playdate with a cousin about five days ago, but that’s about it. So, um, I don’t think that’s related to his cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many people has he been in contact with lately?",
+    "patient_turn": "He hasn’t really been in contact with many people lately, just, um, that playdate with his cousin five days ago. We’ve been pretty cautious because of COVID-19, so it’s mostly just been us at home. I guess that’s why I’m a bit worried about this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you given him any cough medications or remedies at home?",
+    "patient_turn": "No, we haven’t given him any cough medications or remedies at home. We’ve been kinda cautious about that, you know? Just trying to monitor his symptoms and see if it gets better on its own.",
+    "annotation": "Correct"
+  }
+]

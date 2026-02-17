@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been experiencing this persistent chest tightness for the past three days. It gets worse when I take a deep breath, walk, or change positions, like when I get up from a chair.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this chest tightness?",
+    "patient_turn": "I first noticed it during a walk a few days ago. There wasn't really any specific trigger that I could identify at the time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the tightness changed at all since it first started?",
+    "patient_turn": "No, the sensation has remained pretty stable since it started. It hasn't really gotten better or worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the tightness in your chest?",
+    "patient_turn": "It's more of a diffuse tightness across my chest, not really localized to one spot. It just feels like a general pressure.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the tightness ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, it doesn't spread to my arms, neck, or back. It's just that tight feeling in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the tightness in your chest?",
+    "patient_turn": "She experiences it intermittently throughout the day, mostly when she's playing or being active. It doesn't happen all the time, but it does seem to come up when she's running around with her friends.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Does the tightness ever spread to other areas, like your arms, neck, or back?",
+    "patient_turn": "No, it doesn't spread to my arms, neck, or back. It's just that tight feeling in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any history of asthma or high blood pressure?",
+    "patient_turn": "Yes, I have a history of asthma and hypertension. My asthma has been well-controlled, and I usually take a daily salbutamol inhaler.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough, fever, or night sweats recently?",
+    "patient_turn": "No, I haven't had any cough, fever, or night sweats. Just the chest tightness and some mild hoarseness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any recent weight loss?",
+    "patient_turn": "No, I haven't noticed any weight loss recently. Everything's been pretty stable in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter ones?",
+    "patient_turn": "I'm currently taking a daily salbutamol inhaler for my asthma and ramipril for my hypertension. I also use Tylenol occasionally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any recent changes in your living environment or routine?",
+    "patient_turn": "No, I haven't had any recent changes in my living environment or routine. Everything has been pretty much the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of heart disease or respiratory issues?",
+    "patient_turn": "I don’t know. We didn't really discuss family history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you needed to use any rescue inhalers in the past few weeks?",
+    "patient_turn": "No, I haven't needed to use any rescue inhalers for several years. I've been managing my asthma pretty well with my daily inhaler.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "I don’t smoke, and I only drink alcohol occasionally, just some beers on the weekends.",
+    "annotation": "Correct"
+  }
+]

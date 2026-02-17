@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this cough for about three days now, and it's gotten worse. I’m kinda worried because it’s not like my usual cough from smoking... it’s more frequent, like several times an hour, and I’m producing this dark greenish-yellow sputum.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "I think it started about three days ago, um, just out of nowhere. I mean, I’ve had a chronic dry cough for years because of smoking, but this feels different, you know? It just... it got worse really quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, at first, it was just a little annoying, but now it’s, um, really frequent, like I said, several times an hour. And, um, I’m also coughing up that dark greenish-yellow sputum, which is really concerning. It’s just not what I’m used to, and it’s, uh, making me feel pretty anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the chest pain, and does it spread to any other areas?",
+    "patient_turn": "Well, the chest pain is mostly on the right side, but it kind of feels like it’s in my upper abdomen too. And you know, I’ve been volunteering at this shelter, and sometimes the air quality is not great, which might be affecting me. Also, I had a weird dream last night about a boat, so that’s been on my mind. But yeah, it hurts when I cough or take a deep breath, which is really annoying.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the chest pain feel like to you?",
+    "patient_turn": "Um, it’s a sharp pain, you know? Like, it really stings when I cough or breathe deeply. Honestly, it’s pretty uncomfortable, and I’m just... I’m kinda worried about what it could mean. I mean, it’s not something I’ve felt before, and it’s just adding to the stress of everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the pain better or worse?",
+    "patient_turn": "Uh, I haven’t really found anything that helps, to be honest. I’ve tried taking acetaminophen and ibuprofen, but they didn’t really do much for the pain. It just seems to get worse with coughing or taking deep breaths, and, um, I can’t really pinpoint anything that makes it better. It’s frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I think the chest pain started right after the cough began, so, um, about three days ago too. It just sort of came on suddenly, and, you know, it’s been pretty consistent since then. I didn’t expect it to be this painful, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "Yeah, um, it’s mostly on the right side of my chest, but it feels like it radiates a bit into my upper abdomen too. It’s hard to pinpoint exactly, but that’s where I feel it the most. It’s just really uncomfortable, especially when I cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like shortness of breath, dizziness, or nausea?",
+    "patient_turn": "Oh, I haven’t really noticed any shortness of breath at all, but I do feel a bit dizzy sometimes. I mean, I might have mentioned it earlier, but I don’t think it’s related. The cough is really the main issue, not the breathing.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you experienced any worrying symptoms like fainting, sudden breathlessness, or extreme fatigue recently?",
+    "patient_turn": "Um, I wouldn’t say I’ve fainted, but I do feel a bit more fatigued than usual, you know? I mean, with the cough and the pain, it’s just been hard to keep my energy up. I haven’t had sudden breathlessness, but I’m definitely feeling more tired overall, and it’s kinda concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently or been around anyone who was sick?",
+    "patient_turn": "Um, no, I haven’t traveled anywhere recently, and I don’t know of anyone who’s been sick. I do volunteer at a homeless shelter, though, so I guess I’m around a lot of different people. But, um, I haven’t noticed any specific sick contacts or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fevers or chills along with your cough and chest pain?",
+    "patient_turn": "Yeah, I’ve had some fevers, I think. My temperature was around 38.6°C, which is, um, higher than normal for me. I’ve felt a bit chilly too, but it’s mostly just the fever that’s been bothering me. It’s all just really unsettling, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share any significant health issues in your family, like heart disease or diabetes?",
+    "patient_turn": "Um, yeah, my dad had a myocardial infarction in his 70s, and my mom has hypertension. So, you know, there’s some history of heart issues and high blood pressure in the family. I guess that’s something I think about sometimes, especially with my own health concerns.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to things like pollen, dust, or pet dander?",
+    "patient_turn": "Yeah, I have some environmental allergies, but, um, I don’t have any allergies to medications. I’m not really sure what specifically triggers my allergies, but I definitely notice it with pollen and dust sometimes. It’s just another thing to deal with, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your gynecological or menstrual history?",
+    "patient_turn": "Um, I’m not sure about that. I don’t have any gynecological or menstrual history to share, so I guess I can’t really provide any information there.",
+    "annotation": "Correct"
+  }
+]

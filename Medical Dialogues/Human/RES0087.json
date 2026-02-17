@@ -1,0 +1,242 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Yeah, I'm just coming in with my son, he's been having, he's been complaining of just, seems like pain in his right ear for the last I would say three to four days. And it seems like he's just more irritable, just not himself right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah OK, so, how long did you say he's had this ear pain?",
+    "patient_turn": "I would say four days now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Four days, OK. Have you noticed any hearing loss?",
+    "patient_turn": "Uh, no, he still responds when I call his name.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and, have you noticed any fluid coming out of his ears?",
+    "patient_turn": "Uh, no, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is it more like one side of his ears or is it both ears?",
+    "patient_turn": "It's just his right ear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Just his right ear, OK. And have you noticed that it's like, swollen, red or warm?",
+    "patient_turn": "Uh, no, I don't see any swelling or redness at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, good, and have you taken a look inside his ears?",
+    "patient_turn": "Yeah, I tried to take a look with a flashlight. I couldn't really see too much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, yeah, that's fair. And you mentioned he's had a runny nose too, When did that start?",
+    "patient_turn": "Yeah, so that, kind of like last week he was recovering from, I think it was just a cold and he had a runny nose and just was a bit congested. But then over the last week it kind of just resolved. But then this week he started having just this ear pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any fevers?",
+    "patient_turn": "Uh, no, not that I, I haven't measured anything and he hasn't mentioned any, like he hasn't felt cold or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any weight loss over the past month or so?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, any change in his hair or nails, like rashes or, sorry, or skin?",
+    "patient_turn": "Yeah, no, I haven't seen any changes in the skin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any changes in your vision or smell or taste?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. His runny nose, what color is it?",
+    "patient_turn": "It was mainly, uh, it seemed to me like it was mainly clear when it was happening, like he wasn't bringing up any yellow or green material.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. Does he have a sore throat at all?",
+    "patient_turn": "No, not that he's told me. He's still eating things and I don't think he's having any trouble with eating anything, so I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. Has he had a cough?",
+    "patient_turn": "Uhm, actually he did. He did start coughing like yesterday, but just a few times a day. I don't know if it's because of this or like, what else might be going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and you said for the past few days, he's had the cough?",
+    "patient_turn": "Yeah, I think just maybe started yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Started yesterday, OK. Is it a dry cough or is it, is he bringing up any phlegm?",
+    "patient_turn": "No, it seems to be just dry. I think I just noticed it like three or four times during the day yesterday.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so no blood that he's bringing up right?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does he have any shortness of breath?",
+    "patient_turn": "No, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, any wheezing?",
+    "patient_turn": "No, no wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No chest pain?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, any nausea or vomiting?",
+    "patient_turn": "No nausea or vomiting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes to his bowel movements?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK and, how about urine, is that normal?",
+    "patient_turn": "Yeah, Uh, no changes at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any headaches?",
+    "patient_turn": "Not that he's told me about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, dizziness or fainting spells?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Feeling like he's off balance or lost coordination?",
+    "patient_turn": "No, I don't think so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, no numbness, no tingling?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he had any contacts with sick people recently?",
+    "patient_turn": "Uhm, no, I don't think anyone's been sick around him.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and has he traveled to anywhere recently?",
+    "patient_turn": "Uh, no, like, he's mainly just been inside his home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. has he ever had ear pain before?",
+    "patient_turn": "He did have a similar pain, I think when he was like around three years old, but it happened with his left left ear, not the right one.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, was he prescribed any medications?",
+    "patient_turn": "Uh yeah, he was given a, like a course of antibiotics at that time. I forgot what it was called, but I think at that time it was much worse, like he, I don't know if he was just younger and couldn't tolerate it but I think he also had a fever at that time.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, OK, and then any other ear infections outside of that one time.",
+    "patient_turn": "No, I think that, only that one I can recall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, alright, is he otherwise healthy?",
+    "patient_turn": "Yeah, otherwise he's healthy. No, other conditions or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No hospitalizations or surgeries?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And is he on any medications?",
+    "patient_turn": "No medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, is he up to date with all his immunizations?",
+    "patient_turn": "Yeah, all his immunizations are good.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies?",
+    "patient_turn": "Not that we know of so far.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And any family history of lung conditions or heart conditions.",
+    "patient_turn": "No lung or heart conditions. Just, his father does have like celiac disease, so I don't know if that's related at all.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, how old was he when was diagnosed with celiac?",
+    "patient_turn": "Fairly young I would say, in his 20s.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, uhm, alright, we'll keep an eye on it in him, like if he has any changes in his bowel movements or if he's getting severe abdominal pain after eating certain foods with gluten you can get him checked up for that as well.",
+    "patient_turn": "OK.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah and then, in terms of where he lives, does he live with you and your partner?",
+    "patient_turn": "Yeah, so it's just, he's an only child, lives with me and my husband, and also we have like a pet dog.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you live in an apartment or in a house?",
+    "patient_turn": "We live in a, it's like a condominium.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK, any old carpet, mold or asbestos in the building?",
+    "patient_turn": "No, no, nothing like that. It's fairly well kept.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, And is he other-wise like developmental-wise, he's OK? There's no past history of like developmental disorders, anything like that?",
+    "patient_turn": "No, no issues from like when he was younger like no complaints at all. I Think he was doing the same as every other child.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no complications during your pregnancy with him, no complications during the actual delivery and then when he was a newborn?",
+    "patient_turn": "Uh no, no complications, it was just a vaginal birth at 39 weeks and we didn't need to stay in the hospital at all afterwards.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, good. So those were all the questions that I had for you today. Did you have any questions of your own?",
+    "patient_turn": "Yeah, I don't know if, uh, like last time we did get some antibiotics. I don't know if he needs them right now or what would you recommend?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, uhm so I'm gonna have to take a look into his ears first before I can come up with like a management plan for him. So once I do, if I see, uhm, if his tympanic membrane has been perforated or I see pus in there, we'll prescribe him like 10 days of antibiotics. We can give him either Amoxicillin, or if he has bad reactions to penicillins,  we can give him Cefuroxime and then if, uh, it doesn't seem to have any systemic symptoms, so if he has systemic symptoms like fever, which we'll check for today, and if he's like been really ill and he has like a middle ear effusion or bulging tympanic membrane, again we'll give him antibiotics for 10 days. But if his tympanic membrane is just bulging a little bit, or if he has some middle ear effusion but no systemic symptoms, like, no fevers, and he seems to be fine otherwise, we'll reassess him in 24 to 48 hours to see if he's better and if he's not, again, will prescribe him antibiotics. How does that sound?",
+    "patient_turn": "Yeah, that sounds good. Thank you.",
+    "annotation": "Correct"
+  }
+]

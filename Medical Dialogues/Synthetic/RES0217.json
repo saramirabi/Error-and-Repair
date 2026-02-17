@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I found a tick bite behind my left knee earlier today after I removed the tick myself. The area is red and tender, and I wanted to make sure everything was okay.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the redness and tenderness changed since you first noticed it?",
+    "patient_turn": "The redness and tenderness have been pretty consistent since I first noticed it. It’s still red and tender, but it hasn't gotten worse or better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the tick bite is located?",
+    "patient_turn": "The tick bite is located behind my left knee joint. It's a bit hard to see back there, but that's where I found it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain or discomfort feel like around the bite area?",
+    "patient_turn": "The discomfort is mostly tenderness; it feels a bit sore to the touch. It’s not really painful, just uncomfortable when I press on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the tick bite?",
+    "patient_turn": "... behind the knee.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "When did you first notice the tenderness or pain in that area?",
+    "patient_turn": "I first noticed the tenderness right after I removed the tick today. It was tender from the moment I found it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you remove the tick yourself, and if so, how did you do it?",
+    "patient_turn": "Yes, I removed the tick myself. I used a pair of tweezers to grasp it as close to the skin as possible and pulled it straight out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How big was the tick, and did it look engorged when you removed it?",
+    "patient_turn": "The tick was small and not markedly engorged when I removed it. It didn’t look like it had been feeding for a long time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had a tick bite before this one?",
+    "patient_turn": "Yes, I had a tick bite about 10 years ago that was associated with a bullseye rash and required antibiotics. But I’ve been otherwise healthy since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently experiencing any fever or general feelings of unwellness?",
+    "patient_turn": "No, I’m not experiencing any fever or general feelings of unwellness. I feel fine otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home?",
+    "patient_turn": "No, I don’t have any pets at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known drug allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, including over-the-counter ones?",
+    "patient_turn": "Yes, I take a statin for cholesterol, but I’m not taking any other medications or over-the-counter ones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Will the tick be sent for testing to identify its species?",
+    "patient_turn": "Yes, I understand that the tick will be sent for species identification. I think that’s a good idea to check for any potential risks.",
+    "annotation": "Correct"
+  }
+]

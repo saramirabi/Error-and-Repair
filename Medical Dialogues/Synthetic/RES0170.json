@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having these coughing fits and wheezing episodes, usually once or twice a week. They sometimes make it hard to breathe, especially when I’m playing soccer or when it’s cold outside.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long do these coughing fits and wheezing episodes usually last?",
+    "patient_turn": "They usually last about 30 to 60 minutes. Sometimes they even wake me up at night, which is really frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the coughing or wheezing the most?",
+    "patient_turn": "It feels like it's mostly in my chest and throat when I cough or wheeze. It’s kind of tight and makes it hard to breathe sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the coughing and wheezing episodes starting?",
+    "patient_turn": "Oh, I think it started a couple of months ago, but I’m pretty sure it was last week instead.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the coughing and wheezing episodes?",
+    "patient_turn": "I first noticed the coughing and wheezing episodes a few months ago. They started happening more often, especially when I was playing soccer or when it was cold outside.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain during your coughing fits?",
+    "patient_turn": "No, I haven’t had any chest pain during my coughing fits. It’s mostly just the coughing and wheezing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fevers or illnesses recently?",
+    "patient_turn": "I had a fever a few months ago, but I haven’t had any fevers or illnesses recently. Just these coughing fits and wheezing episodes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any headaches or feelings of your heart racing during these episodes?",
+    "patient_turn": "No, I haven’t noticed any headaches or my heart racing during the episodes. It’s just the coughing and wheezing that I feel.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your bowel movements or how often you go to the bathroom?",
+    "patient_turn": "No, I haven’t experienced any changes in my bowel movements or how often I go to the bathroom. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you missed school because of your coughing fits or breathing issues?",
+    "patient_turn": "Yes, I’ve missed school a few times because of the coughing fits and breathing issues. It’s been tough to keep up with everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your ability to play sports or be active changed because of your coughing and breathing issues?",
+    "patient_turn": "Yes, my ability to play sports has definitely changed. I’ve had to reduce how much I participate in soccer because of the coughing and wheezing. It’s frustrating!",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any health issues or medical problems in the past?",
+    "patient_turn": "No, I haven’t had any health issues or medical problems in the past. I’ve been pretty healthy overall, except for some childhood rashes that were treated and mostly resolved.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or allergies?",
+    "patient_turn": "Yes, my sister has asthma and allergic rhinitis. She uses a daily inhaler for it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever used an inhaler or any medication for your breathing issues?",
+    "patient_turn": "No, I haven’t used an inhaler or any medication for my breathing issues. I’ve just been dealing with the coughing fits and wheezing on my own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I haven’t had any issues with that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you often have symptoms like a runny nose or itchy eyes?",
+    "patient_turn": "I occasionally have symptoms like a runny nose and itchy eyes, especially with environmental allergies. It doesn’t happen all the time, but it does happen sometimes.",
+    "annotation": "Correct"
+  }
+]

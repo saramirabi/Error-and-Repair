@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this really sore throat for about five days now, and it’s getting worse. It hurts a lot when I swallow or even talk, and I’ve also had a fever that’s been peaking at, like, 38.8°C. I’m kinda worried, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the sore throat?",
+    "patient_turn": "I first noticed it about five days ago. It started off, um, kinda mild, but then it just kept getting worse, you know? Now it really hurts to swallow and talk.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is in your throat? Does it spread anywhere else?",
+    "patient_turn": "Um, it’s mostly in the back of my throat, I think. It doesn’t really spread anywhere else, but, like, I’ve also got these two lumps below my right jaw that are kinda tender. It’s just all really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "... ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Well, um, swallowing definitely makes it worse, and talking too, honestly. I haven’t really found anything that helps, like, I’ve tried drinking warm tea, but it still hurts a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, I haven’t had any cough or shortness of breath or anything like that. Um, no dizziness or nausea either. Just, like, the sore throat, fever, and some body aches. Oh, and I’ve had this mild discomfort in my upper left abdomen since yesterday, which gets worse when I lie on that side.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Sure, um, I don’t smoke cigarettes at all. I do use marijuana socially, like once or twice a month, and I drink a glass of red wine every other day. I haven’t been exercising much lately, especially with everything going on, you know? Just trying to stay safe during the pandemic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications regularly?",
+    "patient_turn": "Not really, um, my only past medical issue was resolved eczema, but that’s it. I’m not taking any regular medications, and I don’t have any drug allergies or anything like that. So, yeah, pretty healthy overall, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any worrying symptoms, like fainting, sudden breathlessness, or extreme fatigue?",
+    "patient_turn": "Um, no fainting or sudden breathlessness, but I have been feeling a bit more fatigued than usual, you know? Just, like, mild fatigue, I guess. It’s not extreme, but it’s definitely there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Well, I don't smoke cigarettes, but I do use marijuana occasionally, like once or twice a month. And I drink a glass of red wine every other day, which is nice, I guess. Oh, and I try to exercise, but sometimes I just walk my dog instead of going for a run. Speaking of dogs, my neighbor has this really cute puppy that always makes me smile when I see it.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Um, not really, I just have that resolved eczema from a while back, but that's it. I’m not taking any medications regularly, and I don’t have any drug allergies or anything like that. So, yeah, pretty much healthy, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any worrying symptoms, like fainting, sudden breathlessness, or extreme fatigue?",
+    "patient_turn": "No, I haven’t had any fainting or sudden breathlessness. I mean, I’ve been feeling a bit more tired than usual, but it’s not extreme or anything. Just, like, mild fatigue, I guess, from everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your sore throat and when it started?",
+    "patient_turn": "Yeah, I first noticed it a few days ago, but I think it might have been longer. I mean, I’ve never really had a sore throat before, but I guess I might have had one once.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain in your throat changed since it first started?",
+    "patient_turn": "Um, it started off kinda mild, but it’s definitely gotten worse over the past few days. Now it really hurts to swallow and talk, like, it feels really raw and uncomfortable. I’m just, uh, really hoping it gets better soon.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your throat?",
+    "patient_turn": "It’s mostly in the back of my throat, I think. It feels, um, really sore back there, and it kind of hurts to touch it, too. I just wish it would go away, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been pregnant before?",
+    "patient_turn": "Um, no, I haven’t been pregnant before. I’m sexually active, but I’ve always used an intrauterine device for contraception, so I haven’t had any pregnancies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any body aches or discomfort anywhere else?",
+    "patient_turn": "Yeah, I’ve been having some generalized body aches, but no joint pain or anything like that. And, um, I’ve also had this mild discomfort in my upper left abdomen since yesterday, which gets worse when I lie on that side. It’s just, like, another thing to worry about, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with a sexually transmitted infection?",
+    "patient_turn": "No, I’ve never been diagnosed with a sexually transmitted infection. I’ve been with my fiancé for a while now, and we’re monogamous, so I haven’t had any issues like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of cancer or genetic conditions in your family?",
+    "patient_turn": "Um, no, there’s no family history of cancer or genetic conditions that I know of. My family has been pretty healthy overall, so I’m not really worried about that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your social contact been during the pandemic?",
+    "patient_turn": "Well, it’s been pretty limited, to be honest. I’ve mostly been staying home with my fiancé, and we don’t really see many people. I think I might have been exposed to something from him, though, since he had a mild sore throat last week. It’s just been a bit isolating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did your fiancé have a sore throat recently?",
+    "patient_turn": "Yeah, he did. He had a mild sore throat last week, and I’m kinda worried that I might have caught something from him. It’s just, like, everything seems to be piling up right now.",
+    "annotation": "Correct"
+  }
+]

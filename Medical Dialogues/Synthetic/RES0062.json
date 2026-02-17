@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve had this cough for about three days now, and it’s been pretty productive, like, with yellow-green sputum, you know? And then, um, yesterday I started feeling really short of breath, like, it’s rated about 7 out of 10, and it’s been disrupting my sleep along with the cough. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough start, and how has it changed since then?",
+    "patient_turn": "Well, the cough started about three days ago, and it was, um, pretty persistent from the beginning, you know? It’s been hacking and, uh, just doesn’t seem to go away. I guess it got worse when the shortness of breath kicked in yesterday, which really freaked me out a bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the pain is located, and does it spread anywhere else?",
+    "patient_turn": "Um, I think the pain is, like, in my chest? But it might be a bit in my back too, not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "Uh, it’s more like a dull ache, I guess? It’s not super sharp or anything, but it’s definitely there, you know? Just kind of uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Honestly, I’m not totally sure what makes it better or worse. It just seems to be there all the time, and, um, it doesn’t really change with, like, movement or anything. It’s just kind of annoying, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the pain, like shortness of breath or dizziness?",
+    "patient_turn": "Yeah, um, definitely shortness of breath, which has been pretty significant, like I mentioned. And I’ve also felt, uh, kind of dizzy at times, which is a bit concerning. There’s also some fatigue and mild body aches, but, um, no chest pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain better or worse for you?",
+    "patient_turn": "Oh, I don’t have any pain at all, actually. Just, you know, some discomfort that feels like pressure? But before, I said there was pain, so I guess it’s kind of confusing.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with the discomfort?",
+    "patient_turn": "Yeah, um, I’ve definitely had shortness of breath, which has been pretty significant. And there’s also fatigue, mild body aches, and, uh, some dizziness at times. It’s just been a lot to deal with, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing the shortness of breath?",
+    "patient_turn": "I started feeling the shortness of breath about a day ago, I think. It’s been pretty intense, like, rated around 7 out of 10, and it’s really been disrupting my sleep along with the cough. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "Actually, I don’t really have shortness of breath. I mean, I felt a little winded before, but I’ve been breathing fine overall. So, I might have mentioned it, but it’s not really an issue for me.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How big is the sputum you cough up?",
+    "patient_turn": "Uh, the sputum is about the size of a thumb tip, I think? It’s, um, yellow-green in color, and it’s been pretty consistent with the cough I’ve had for the last three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your cough persistent both day and night?",
+    "patient_turn": "Yeah, it’s been pretty persistent, like, all day and night. I can’t seem to get a break from it, which is really frustrating and, um, it’s definitely affecting my sleep.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your cough or shortness of breath get worse with activity or movement?",
+    "patient_turn": "Um, no, I don’t think it really gets worse with activity or movement. It’s just kind of there all the time, you know? No specific triggers that I can identify, which is, like, a bit confusing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any changes in your sense of smell or taste recently?",
+    "patient_turn": "Yeah, I’ve noticed that I have anosmia, so I can’t really smell anything. But, um, I haven’t lost my sense of taste, which is, like, a little strange. It’s just, you know, frustrating not being able to smell anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any fever, chills, or night sweats recently?",
+    "patient_turn": "Yeah, I’ve had some fever and chills, and, um, I’ve also experienced night sweats. It’s been, like, really uncomfortable, and I’m just not feeling great overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt faint, experienced palpitations, or noticed any changes in your bowel or urinary habits?",
+    "patient_turn": "Um, I’ve felt a bit dizzy at times, which is, like, concerning, but I haven’t really had any palpitations or changes in my bowel or urinary habits. So, it’s mostly just the dizziness and the other symptoms I mentioned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of heart problems or any previous issues with atrial fibrillation?",
+    "patient_turn": "Yeah, I have a history of atrial fibrillation, which I was diagnosed with about four years ago. I’m managing it with metoprolol, and, um, my recent ECGs have been stable, so I haven’t had any hospitalizations for it, just that one hernia repair a while back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking, including any over-the-counter or supplements?",
+    "patient_turn": "I’m currently taking metoprolol for my atrial fibrillation, and I also take a statin and low-dose aspirin. Um, I don’t really take any over-the-counter meds or supplements right now, just those prescribed ones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been to any places with known COVID-19 outbreaks recently?",
+    "patient_turn": "Yeah, I actually visited a long-term care facility with known COVID-19 outbreaks about a week ago. I’m, um, really worried that I might have been exposed there, especially with all these symptoms I’m having.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you currently smoke or drink alcohol, or have you in the past?",
+    "patient_turn": "I used to smoke, like, one pack a day, but I quit about five years ago. I don’t drink alcohol anymore either; I stopped several years ago. I do use low-dose CBD edibles occasionally for sleep, but that’s about it.",
+    "annotation": "Correct"
+  }
+]

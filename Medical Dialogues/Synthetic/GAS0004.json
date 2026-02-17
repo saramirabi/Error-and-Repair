@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, honestly. I’ve been having, like, this really bad diarrhea for the past three to four days, and it’s been happening, like, every hour. It’s been severe enough that I’ve missed classes, and I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the diarrhea starting?",
+    "patient_turn": "I first noticed it, um, about three to four days ago. It just sort of started out of nowhere, and it’s been pretty frequent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the diarrhea changed since it first started?",
+    "patient_turn": "Uh, it’s mostly been loose, you know? I mean, it hasn’t really changed in consistency or anything, just… it keeps happening every hour. It’s been really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the abdominal cramps?",
+    "patient_turn": "Um, the cramps are mostly in my lower abdomen, I think. They started just yesterday, and they come and go, but they’re, like, pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like when you have those cramps?",
+    "patient_turn": "Well, the cramps are kind of, um, like a tightness, I guess? And sometimes it feels like it's more in the lower part of my stomach, but honestly, I’ve also been kind of stressed about my classes lately. I had a big exam last week and didn’t sleep well, plus I’ve been eating a lot of takeout because I’m busy studying. So, it’s hard to say if it’s just the cramps or something else, you know?",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Can you tell me when the diarrhea and cramps first started?",
+    "patient_turn": "Sure, um, the diarrhea started about three to four days ago, and the cramps began just yesterday. It’s been a rough few days, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed makes the cramps better or worse?",
+    "patient_turn": "Um, I guess…",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like your diet, exercise, and any alcohol or smoking?",
+    "patient_turn": "Sure! Um, I usually have oatmeal for breakfast, quick salads for lunch, and I eat out for dinner, you know? I don’t smoke or use recreational drugs, but I do drink occasionally, like one or two drinks on the weekends. I haven’t been exercising much lately, though, with all the studying and stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Uh, not really, I mean, I don’t have any chronic digestive issues or anything like that. The only thing is I have asthma, but I just manage it with inhalers that my family doctor prescribed. I haven’t taken any medications for these symptoms yet, just trying to drink more fluids.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, palpitations, or nausea?",
+    "patient_turn": "Um, I’ve had some nausea, and I vomited twice yesterday, but no breathlessness or dizziness. I’m just feeling kind of tired and, you know, a bit anxious about everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any blood in your stool?",
+    "patient_turn": "No, I haven’t noticed any blood in my stool at all. It’s just been brown and, um, loose. That’s one thing I’m relieved about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently, especially outside the country?",
+    "patient_turn": "No, I haven’t traveled anywhere recently, um, especially not outside the country. I’ve just been here, focusing on school and stuff.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever experienced similar digestive issues or diarrhea before?",
+    "patient_turn": "No, I haven’t had anything like this before. This is, um, the first time I’ve experienced such bad diarrhea and cramps, and it’s really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to foods or medications?",
+    "patient_turn": "No, I don’t have any known allergies to foods or medications. I mean, I’ve never had any issues with anything like that before, so I’m not really sure what’s going on now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yeah, I had my wisdom teeth removed a while ago, but it wasn’t anything major, and I didn’t need to stay in the hospital or anything. That’s pretty much it for my surgical history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have any significant health issues?",
+    "patient_turn": "Um, yeah, my brother had appendicitis, and my mom had a hysterectomy, but other than that, I think everyone’s pretty healthy. It’s just, like, a bit concerning with my brother’s issue, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick or had similar symptoms lately?",
+    "patient_turn": "No, I haven’t been around anyone who’s been sick or had similar symptoms. I mean, I did eat at a new Chinese restaurant five days ago, but my dining companion didn’t have the same meal and hasn’t reported any illness. So, I’m not really sure what’s causing this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any medications or treatments for your symptoms since they started?",
+    "patient_turn": "No, I haven’t taken any medications for my symptoms. I’ve just been trying to drink more fluids to stay hydrated, but that’s about it. I’m kinda worried about it, to be honest.",
+    "annotation": "Correct"
+  }
+]

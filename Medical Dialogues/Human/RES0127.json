@@ -1,0 +1,302 @@
+[
+  {
+    "doctor_turn": "What brings you in here today?",
+    "patient_turn": "Hi, I'm um, I'm just, so I am here because I have this cough that I've had for the past um, week and a half, and I'm just uh, I usually don't come in with symptoms this minor, but because it's, because we're in the middle of a pandemic, I thought I should come in and get checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, yeah, so it's been going on for like more than a week. Um, can you describe to me what kind of cough you're having? Is it like a wet cough or a dry cough?",
+    "patient_turn": "It's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and has it been getting worse over the, over the time period you described?",
+    "patient_turn": "Um, it's kind of the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's the same. Um, have you noticed, although it's like dry, have you brought up any kind of sputum or phlegm at all?",
+    "patient_turn": "Um no, not, not, not recently. But yeah, in the first couple of days, the first two, three days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um and have you noticed any kind of yellowish to greenish tinge to it?",
+    "patient_turn": "No, it was watery.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Watery, okay. Have you noticed at all, any blood, have you been coughing up any blood at all?",
+    "patient_turn": "Uh, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is your cough like constant or does it come and go?",
+    "patient_turn": "Um, kind of comes and goes. There's just times when I'm coughing a lot and then it just goes away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is there a pattern to it? Like, uh, do you cough more when you're exerting yourself or any time, a certain time of the day?",
+    "patient_turn": "Um, it's worse when I'm smoking.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When you're smoking, okay. And uh, how long do those episodes last?",
+    "patient_turn": "Couple of seconds, maybe?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and has this happened to you before at all?",
+    "patient_turn": "Yeah. I think, um, yeah, I usually don't pay much attention to it. You know, I think must have happened last year or the year before. It just kind of goes away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and is there any anything that makes it better or worse?",
+    "patient_turn": "Um, I um, I take this cough syrup, over the counter syrup, that helps.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And um, have you found that it's been helping over, like, to help improve your cough over the last few days?",
+    "patient_turn": "It goes away for a couple hours and then it comes back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I see. Does it keep keep you up at night at all?",
+    "patient_turn": "No, no, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Are you having any other symptoms like shortness of breath, um sore throat, runny nose, anything like that?",
+    "patient_turn": "Uh, I kind of had those symptoms in those first two, three days, but then it went away, and then I only had this cough that stayed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, okay. And have you been in contact with anyone that's been sick around you at all?",
+    "patient_turn": "Um, my daughter had the sniffles.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was that?",
+    "patient_turn": "Last, two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Two weeks ago? Okay. And uh, how is she now like, did it just go away on its own, or did she have to go to the doctor?",
+    "patient_turn": "Um, no, it kind of went away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Have you traveled at all recently outside of the province or the country?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. And besides the cough, are you having any headaches at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fevers or chills?",
+    "patient_turn": "Not anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Not anymore, when was the last time that you had fevers or chills?",
+    "patient_turn": "I think I had like a very, it must have been 37.4, um, in the first, two, three days. But it got better really quickly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, I see. Any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Any, um, do you feel tired throughout the day?",
+    "patient_turn": "Not anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Not anymore, okay. So any kind of chest pain, or sensation that your heart is racing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Any dizziness or fainting spell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your bowel movements at all?",
+    "patient_turn": "Um, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, so no constipation, diarrhea?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any changes in your urination?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, have you had to miss work at all or, do you currently work?",
+    "patient_turn": "Yeah, but I've been working from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay.",
+    "patient_turn": "I didn't have to miss work, so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And any changes in your sleep or appetite?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, any loss of sense of taste or smell at all?",
+    "patient_turn": "Um, initially, I guess the cough's first few days, my nose was a little stuffy, so yeah, I couldn't smell very well, but since then it's been fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, but no loss of taste?",
+    "patient_turn": "No loss of taste, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Uh, any recent significant changes to your weight at all over the last few months?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, and any exposure in your home environment to dust, fumes? Any animals in the household?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. And otherwise, uh, do you have any medical conditions that you've been diagnosed with in the past?",
+    "patient_turn": "Uh no, I'm pretty healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Pretty healthy, okay. Any allergies, either to medications or environmental?",
+    "patient_turn": "Um, I'm allergic to penicillin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "To penicillin, okay. And what kind of reaction do you get to penicillin?",
+    "patient_turn": "Um, I was told that I got a rash when I was a child. I don't really remember.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and do you take any medications on a regular basis?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. And have you been hospitalized in the past or had any surgeries?",
+    "patient_turn": "Um, I had my appendix removed about um, five years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Five years ago, okay. Any complications at all after that?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay. Any family history of any lung conditions, heart conditions, any cancers at all?",
+    "patient_turn": "Um, colon cancer.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Colon cancer?",
+    "patient_turn": "Yeah my dad and my grandfather had it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, um, and have you, have you had any scopes done recently at all?",
+    "patient_turn": "Oh yeah, I had mine done uh, seven years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Seven years ago, okay. And were there any findings at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, okay. Um, currently so you work from home, so what's your home and living situation like? Who do you live with, and where, do you live in like a house, appartment?",
+    "patient_turn": "Uh, I live in an apartment with my wife and my daughter.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay uh, and uh, do they have any symptoms at all? Or are they, are they fine?",
+    "patient_turn": "Well, my daughter doesn't have any symptoms anymore. She did as I mentioned, have some flu like symptoms 2 weeks ago. My wife's been healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and uh, does your daughter go to school right now or is she doing school from home?",
+    "patient_turn": "Uh, school from home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "School from home, okay. Um, and do you at all smoke? So you mentioned your symptoms get worse with smoking.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Um, how much would you say you smoke on an average day?",
+    "patient_turn": "Um, I don't, I try, I've been trying to cut down, so I, I smoke about 3 or 4 cigarettes a week. I used to smoke a lot more before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Wow, yeah, that's really good! That's really great progress, um, it's really difficult to quit, but it's great to see that you're trying to quit. Um, so how much would you say you used to smoke?",
+    "patient_turn": "Well, half a pack. Um, half a pack a day, but then over the past three years I've been trying to cut it down. I started smoking when I was 20, so it's been um, 30 years now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, so 30 years, okay. And um, are you just, are you using anything to help you quit smoking or are you doing it without any medications, or um, like, have you used anything in the past that has worked for you?",
+    "patient_turn": "Um, no I, I went to my doc and he said to try on my own first and if I'm struggling with it to come back, but I've been doing it very gradually so it's, it's going well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Okay, and that's really good. And yeah, if you, at all, need any resources to help you quit smoking, it's great that you're doing really well, but if you need to talk more about it or need any more resources we can provide that for you. Um, other than uh, smoking cigarettes, do you use any recreational drugs like marijuana at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. How about alcohol?",
+    "patient_turn": "Uh, I just drink on the weekends. Maybe a glass or two of wine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and uh yeah. So those were kind of all the questions I had for you today. Do you have any questions or concerns?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No?",
+    "patient_turn": "I was, I guess I was just worried about the cough um, it's just, I was worried that it could be COVID.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, so definitely right now, any of these symptoms, like COVID can have a lot of different symptoms um, so we should definitely make sure that we, to check if you have COVID or not and we'll get a COVID swab test done for you today, and the results will come back in 24 to 48 hours. Uh, and in that time, you will need to isolate even in your own home. Try to wear a mask around your family members, um, trying to eat separately and use all those methods, and, and then after the test comes back you may, you'll be contacted by public health if it's positive and kind of given more instruction on what to do. And it doesn't necessarily have to be COVID either, it can be just another virus uh, like it can be just your common cold that's been going on. So it does seem that your symptoms have gotten better. Oftentimes uh, a cough can be the last thing to go, it can take up to two weeks or more for the cough to get relieved, but it seems that you're not having any systemic symptoms like no fevers or anything else right now, so it's, it's uh, that's, that's pretty good.",
+    "patient_turn": "Great, I'm glad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, yeah.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome. Take care.",
+    "patient_turn": "Okay.",
+    "annotation": "Correct"
+  }
+]

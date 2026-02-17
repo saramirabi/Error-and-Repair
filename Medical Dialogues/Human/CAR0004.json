@@ -1,0 +1,172 @@
+[
+  {
+    "doctor_turn": "What brings you here today?",
+    "patient_turn": "I'm just having this really sharp pain in my chest and I'm scared. I think I'm having a heart attack.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh wow, yeah um that must be really scary. When did this, when did this pain start?",
+    "patient_turn": "So about 3 days ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Three days ago, OK, and where exactly in your chest do you feel it?",
+    "patient_turn": "It's kind of right here, right over my heart I think, that's where it's the worst.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is it, what kind of pain is it? Is it more like a dull pressure pain, or is it a sharp pain? How would you describe it?",
+    "patient_turn": "I would say it's a sharp pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "A sharp pain, OK. Um, so it started three days ago, has it been coming and going or has it been constant?",
+    "patient_turn": "It just lasts for a few seconds and then it goes away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, does the pain come on when you're doing any activities or When does the pain usually come on?",
+    "patient_turn": "Oh, it's usually worse when I'm coughing or laying down. Yeah, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and um, does it improve with any positional changes at all, or anything that you do that does it help?",
+    "patient_turn": "When I when I lean forward, it actually does get better. I think about it, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has this ever happened to you before?",
+    "patient_turn": "No, no it hasn't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and on a scale of 1 to 10, one being the least amount of pain felt and 10 being the worst, how much would you rate it?",
+    "patient_turn": "I would say a 6 out of 10.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does the pain move anywhere in your chest or does it stay in the same spot?",
+    "patient_turn": "Yeah, I think it kind of goes to my neck sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any other symptoms, like do you have any shortness of breath, dizziness, anything like that?",
+    "patient_turn": "No, I don't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK any any palpitations?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, and other than that, have you been having any other symptoms at all besides the pain?",
+    "patient_turn": "No, no, nothing else, that's it, just have these sharp episodes of pain that last a couple of seconds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um have you have you tried like any medications that has helped the pain?",
+    "patient_turn": "Yeah, I took some um, I took some Tylenol and that did help.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "I took it once yesterday.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Alright, um, any recent injuries to the area like did you have any falls or anything like that?",
+    "patient_turn": "No, no I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any headaches, nausea or vomiting, fevers, or chills? Any of those symptoms?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any cough, runny nose, any viral symptoms?",
+    "patient_turn": "No, well not right now, but I did have a, I did have a flu last week. I had a fever, had a runny nose. I did have a bit of a cough and I was feeling super tired, but not anymore. I'm OK now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and have you at all had any dizziness or have you fainted at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been noticing any kind of weakness or numbness?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK, and in terms of your past medical history, do you have any medical conditions like diabetes, high blood pressure, any other diagnosis?",
+    "patient_turn": "No. I'm a pretty healthy 25 year old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Um, do you take any medications?",
+    "patient_turn": "I sometimes take Tylenol.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any allergies at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any previous surgeries?",
+    "patient_turn": "No no, no surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of any heart conditions or any cancers or anything like that?",
+    "patient_turn": "Yeah, my father, he he had a heart attack two weeks ago and he and he passed away. And I'm worried I am having a heart attack too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It was just two weeks ago?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I'm so sorry to hear that. Yeah, it must be really difficult time for you right now. OK, so you're worried you might be having a heart attack as well?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so we can definitely do some tests and see what was going on. I just have a few more questions and then I'll just get to some of the management and what we will be doing for you in the future. So currently right now do you work at all?",
+    "patient_turn": "No, I'm a student. I, well as a part time job, I do work as a post man.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where are you a student? What do you do?",
+    "patient_turn": "I'm studying engineering at Western.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and currently where do you live? Do you live in student housing, an apartment or a house?",
+    "patient_turn": "I live with my parents, well my mom now, in a house.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Right, and you drink at all any alcohol?",
+    "patient_turn": "I drink occasionally, maybe one or two drinks on the weekends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and any recreational drug use like marijuana or cocaine?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you smoke?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, so those are all the questions we had for you today. And yeah, it must be really difficult and scary for you right now, but we'll make sure to get to the bottom of this to see what's going on. So what we can do is get you an ECG to see how your heart is functioning and then see getting the blood work if we need it for the future. But yeah, right now I would say try not to worry too much about it right now and see um what some of those tests come back.",
+    "patient_turn": "Thank you.",
+    "annotation": "Correct"
+  }
+]

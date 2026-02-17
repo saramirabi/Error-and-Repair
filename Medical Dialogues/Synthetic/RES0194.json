@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a dry cough for the past three days, and then I started getting headaches and body aches. I've also been feeling a bit feverish, but I haven't measured my temperature.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your headaches?",
+    "patient_turn": "The headaches feel like a pressure sensation across my forehead. They happen daily but vary in how intense they are.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if the headaches or cough have changed in intensity since they started?",
+    "patient_turn": "Yes, the headaches fluctuate in intensity; some days they're worse than others. The cough has been pretty consistent, though—still dry and bothersome.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about the cough? When did it start, and how often do you cough?",
+    "patient_turn": "The cough started about three days ago, and I find myself coughing several times throughout the day. It's mostly dry, and it feels like it just won't go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your headaches first start?",
+    "patient_turn": "..., I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your headaches changed since they first started?",
+    "patient_turn": "The headaches have been fluctuating in intensity since they started. Some days they feel worse, while other days they're more manageable, but they've been pretty consistent overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken your temperature at any point during your illness?",
+    "patient_turn": "No, I haven't measured my temperature at all. I've just been feeling feverish, but I don't have any chills.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any diarrhea or loose stools recently?",
+    "patient_turn": "Yes, I had diarrhea for one day with loose stools, but there was no blood. It was just one day, and I haven't had any issues since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your appetite recently?",
+    "patient_turn": "Yes, I've noticed a decreased appetite lately. I haven't lost any weight, but I just haven't felt like eating much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain, nausea, or other unusual symptoms?",
+    "patient_turn": "No, I haven't had any chest pain, nausea, or any other unusual symptoms. It's mostly just the cough, headaches, body aches, and feeling feverish.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I haven't been in contact with anyone who was sick either. I work in a pharmacy, and I haven't noticed any sick coworkers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other past medical issues or conditions besides your ACL repair surgery?",
+    "patient_turn": "No, my past medical history is unremarkable besides the ACL repair surgery I had about 10 years ago. I don't have any other conditions.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications or supplements are you currently taking?",
+    "patient_turn": "I'm only taking a multivitamin and vitamin D. I don't take any other medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications?",
+    "patient_turn": "No, I don't have any medication allergies, but I do have a peanut allergy that requires me to carry an EpiPen.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of health issues?",
+    "patient_turn": "Yes, my father has a history of hypertension, and my grandfather had lung cancer; he was a lifelong smoker.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work, and have you noticed any sick coworkers recently?",
+    "patient_turn": "I work in a pharmacy company, and I've been going into the office occasionally while following mask use and infection control measures. I haven't noticed any sick coworkers recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I've been off work for the past few days due to my symptoms.",
+    "patient_turn": "Yes, that's right. I've been off work for the past few days because of my symptoms. I just haven't felt well enough to go in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe your living situation and any daily habits you have?",
+    "patient_turn": "I live with my wife in a townhouse. I don't smoke, and I use CBD oil occasionally. I also drink moderately, about 3-4 beers per week.",
+    "annotation": "Correct"
+  }
+]

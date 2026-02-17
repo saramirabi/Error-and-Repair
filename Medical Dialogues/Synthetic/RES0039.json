@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really worried about this cough I’ve had for like four weeks now. It started off with, you know, clear to yellow sputum, but this morning I noticed bright red blood in my phlegm for the first time. I’ve also been feeling really fatigued and having night sweats, and I guess I just feel kinda scared about what it could be.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, it started about four weeks ago. I thought it was just a regular cough at first, but it just hasn’t gone away, and it’s gotten worse, you know? I mean, I didn’t expect to see blood in it today, and that really freaked me out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst?",
+    "patient_turn": "Um, I guess it feels the worst when I’m, like, really coughing a lot throughout the day. It’s just this intense, persistent cough, and sometimes it makes me feel nauseous afterward. I don’t really have chest pain or anything, but it’s just really exhausting, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, wet, or something else?",
+    "patient_turn": "It’s definitely a productive cough, um, like I’m bringing up sputum, but it’s been pretty annoying and, uh, unrelenting. I mean, it started off clear to yellow, but now with the blood, it’s just really concerning. I’m honestly not sure what to think about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I think it was about four weeks ago, but I'm not completely sure. It just kind of started gradually, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Well, at first, it was just, um, a regular cough with clear to yellow sputum, but over time, it got worse and more persistent. And then, um, today I saw blood in it for the first time, which really scared me. I’ve also been feeling more fatigued and having night sweats, so it’s just been really tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "Um, I don’t really feel any specific pain in my chest, but I do feel, like, discomfort when I cough a lot. It’s more like a tightness or irritation, I guess, but it’s not, um, super painful or anything. It’s just really tiring, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like—dry, wet, or something else?",
+    "patient_turn": "It’s definitely a wet cough, um, since I’m bringing up sputum. But, you know, it’s been really persistent and, uh, kind of exhausting. And now with the blood, it just feels really alarming.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough starting?",
+    "patient_turn": "Uh, I first noticed it about four weeks ago. It started off kind of mild, but it just hasn’t gone away, and now it’s really concerning, especially with the blood today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the cough or any discomfort in your chest?",
+    "patient_turn": "I don’t really feel it in my chest at all, just kind of in my throat. But I think I might have some discomfort in my chest sometimes, too.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, or exercise?",
+    "patient_turn": "Um, I smoke socially, like, up to a pack a week, but I don’t do it every day. I also use marijuana on weekends and, um, occasionally take ecstasy a few times a year. I drink alcohol socially on weekends too. I guess I haven’t been exercising much lately because I’ve been so tired and, you know, dealing with this cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What color was your sputum before you noticed the blood in it?",
+    "patient_turn": "Before I saw the blood, it was, um, clear to yellow. I thought it was just, like, a regular cough at first, but now with the blood, it’s really concerning. I just didn’t expect it to change like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the weight loss?",
+    "patient_turn": "I think I started noticing it, um, a few weeks ago, maybe around the same time the cough got worse. I’ve lost about 15 pounds since summer, and, honestly, it’s kinda worrying me because I didn’t really mean to lose that much weight. I’ve just been feeling so fatigued and, um, not sleeping well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your cough affected your sleep lately?",
+    "patient_turn": "It’s been really tough, um, honestly. I’ve been having poor sleep because the coughing fits keep waking me up, and then I have those night sweats, too. I just feel so exhausted during the day, and it’s really affecting everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of asthma or lung disease in your family?",
+    "patient_turn": "Um, not that I know of. My grandfather had lung cancer related to smoking, but there’s no family history of asthma or other lung diseases. My mom has diabetes, but that’s about it. I’m just kinda worried about my own health right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What specific symptoms or experiences make you worried about tuberculosis or cancer?",
+    "patient_turn": "Well, um, the persistent cough and the blood in my sputum are really concerning, you know? Plus, I’ve been having those night sweats, fevers, and the weight loss, which just feels like a lot. I also recently returned from Haiti, where I was living close to people who reportedly had tuberculosis, so I guess that’s been on my mind a lot.",
+    "annotation": "Correct"
+  }
+]

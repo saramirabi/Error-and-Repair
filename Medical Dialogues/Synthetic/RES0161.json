@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having nasal and facial congestion for about five days now, and it's been getting worse. I also started getting headaches a couple of days ago, mostly around my cheeks and forehead.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal and facial congestion?",
+    "patient_turn": "I first noticed the congestion about five days ago. It started off mild but has progressively gotten worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your pain or discomfort?",
+    "patient_turn": "The pain is mainly over my cheeks and above my nose, and it extends to my forehead. It feels like a lot of pressure in those areas.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, or more like pressure?",
+    "patient_turn": "It's more like a pressure sensation rather than sharp pain. It can be pretty uncomfortable at times, especially when I move my head.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain? Does it stay in one place or spread to other areas?",
+    "patient_turn": "... cheeks.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain? Does it stay in one spot or spread to other areas?",
+    "patient_turn": "I feel the pain mainly in my cheeks and above my nose, and it can spread to my forehead. It doesn't really stay in one spot; it feels like it kind of radiates through those areas.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, I haven't noticed any breathlessness, dizziness, or nausea. I do feel a bit tired, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, alcohol use, and exercise?",
+    "patient_turn": "I smoke about 2-3 cigarettes a day now, but I used to smoke nearly a pack a day. I drink alcohol socially on weekends, but I don’t really exercise regularly. I mostly work from home as an accounting clerk, so I spend a lot of time sitting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical problems or are you currently taking any medications?",
+    "patient_turn": "Yes, I have hypertension and hypercholesterolemia, which I manage with a thiazide diuretic and atorvastatin. Other than that, I don’t have any significant medical problems.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any yellowish nasal discharge recently?",
+    "patient_turn": "Yes, I've had intermittent yellowish nasal discharge, mostly in the mornings. It's been a bit annoying along with the congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a runny nose at times as well?",
+    "patient_turn": "Yes, I do have an occasional runny nose, but it's not constant. It seems to come and go.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fullness or pressure in your ears?",
+    "patient_turn": "Yes, I have felt a sensation of fullness and pressure in my ears. It's been a bit uncomfortable, especially with the congestion.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or felt unusually warm?",
+    "patient_turn": "I haven't had a confirmed fever, but I do feel mildly warm sometimes. It's not anything too serious, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any cough, sore throat, or chest pain recently?",
+    "patient_turn": "No, I haven't had any cough, sore throat, or chest pain. Just the congestion and pressure in my face and ears.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, my daughter had a sore throat recently, but she tested negative for COVID-19.",
+    "patient_turn": "That's right. My daughter had a sore throat recently, but she tested negative for COVID-19. I’m not sure if that’s related to how I’m feeling, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or substances?",
+    "patient_turn": "No, I don't have any known allergies to medications or substances.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there a family history of heart issues or cancer?",
+    "patient_turn": "Yes, there is a family history of heart issues; my father and uncle both had heart attacks in their 50s. There's also bladder cancer in a maternal uncle.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my wife and our two daughters.",
+    "annotation": "Correct"
+  }
+]

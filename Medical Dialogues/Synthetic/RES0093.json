@@ -1,0 +1,97 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I’ve been having this wet cough for about a day now, and it’s producing this yellow-green sputum that, honestly, smells really bad. I’m also feeling really short of breath, especially when I try to do anything, like, um, walking to get the mail, which I used to do without any trouble.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the cough and shortness of breath start?",
+    "patient_turn": "Well, the cough started about a day ago, but the shortness of breath has been getting worse over the last twelve hours or so. It’s kinda scary, to be honest, because I didn’t have any issues before that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me exactly where you feel the shortness of breath?",
+    "patient_turn": "Um, it’s mostly in my chest, I guess? It feels like I can’t get enough air, especially when I’m doing anything active, like walking or, um, even just standing up sometimes. It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "It feels, um, tight, I guess? Like, I’m struggling to take a deep breath, and it gets worse when I exert myself. I’m kinda worried because I’ve never felt like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Um, I think I noticed it maybe around, like, twelve hours ago? Or it might have been a little longer, not really sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain along with the shortness of breath?",
+    "patient_turn": "No, I haven’t had any chest pain, which is, um, a relief, I guess. Just the shortness of breath and that cough, but no pain or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath the most?",
+    "patient_turn": "Uh, it’s mostly in my chest, I think. It feels like there’s a weight on it, and, um, I just can’t seem to catch my breath, especially when I’m moving around. It’s really unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Oh, um, I think it started getting worse about twelve hours ago. Before that, I was just coughing, but then the shortness of breath really kicked in, and it’s been pretty tough since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities make your shortness of breath feel worse?",
+    "patient_turn": "Well, um, pretty much anything that requires me to move, like walking to get the mail or, you know, just standing up for too long. Even smoking makes it worse, which is, uh, frustrating because I’ve been trying to cut back.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath?",
+    "patient_turn": "Oh, you know, I really need to remember to pick up some milk on my way home.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the feeling of your shortness of breath?",
+    "patient_turn": "Well, it feels like I can’t catch my breath, you know? Like when I used to run a lot, and then I got out of shape, but also, I’ve been drinking more lately, like four to six beers a day, which might be contributing. Plus, I had this weird thing happen last month where I felt really winded after just walking to the mailbox, and that’s something I never had trouble with before!",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you noticed a bad taste in your mouth recently?",
+    "patient_turn": "Yeah, actually, I have. It’s been really bad, like, um, a foul taste that just won’t go away. It’s kinda making me feel nauseous too, which is, you know, not helping with everything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt your heart racing or experienced any palpitations recently?",
+    "patient_turn": "Um, yeah, I have felt my heart racing a bit. It’s like, sometimes I just notice it out of nowhere, and it’s kinda unsettling. I’m not totally sure what’s causing it, but it’s been happening along with the shortness of breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke in a day?",
+    "patient_turn": "I smoke about half a pack a day now, which is, um, a reduction from over a pack before. I’ve been trying to cut back, but it’s still hard, especially with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many beers do you typically drink in a day?",
+    "patient_turn": "I usually drink about four to six beers a day, but, um, I’ve noticed I’ve been drinking more lately. It’s been a bit much, and I think it might be contributing to how I’m feeling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or ongoing health issues I should know about?",
+    "patient_turn": "Yeah, I have a few. I’ve got hypertension and gastroesophageal reflux disease, or GERD, which I take pantoprazole for. I also have hypercholesterolemia, and I deal with anxiety, but, um, no panic attacks or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Yes, I had a left knee replacement a while back. Other than that, I haven’t had any other surgeries or, um, hospitalizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have significant health issues, like heart problems or liver disease?",
+    "patient_turn": "Yeah, my father had liver disease and heart problems, and, um, he was a lifelong smoker. It’s a bit concerning, you know, given my own health issues and my smoking too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking?",
+    "patient_turn": "I’m taking an ACE inhibitor for my hypertension, a statin for my cholesterol, and a proton pump inhibitor, which is the pantoprazole for my GERD. I don’t have any known drug allergies, so, um, that’s what I’m on right now.",
+    "annotation": "Correct"
+  }
+]

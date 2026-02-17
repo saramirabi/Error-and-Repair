@@ -1,0 +1,192 @@
+[
+  {
+    "doctor_turn": "I'm going to be having a chat with you today get an idea of how things are going and then I'll go over it with the opposition that I'm working with and we can come back together and talk to you about the next steps, that sound good to you?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "I know that you've been having experiencing a cough. Can you tell me a little bit about that?",
+    "patient_turn": "Yeah, I um I've had this cough for the past two weeks and it just doesn't go.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. have never had anything like this before?",
+    "patient_turn": "I’m I usually get a cold once a year or so. But the cough doesn't last this long, like it's usually over in a week or week and a half or so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Mm. And it's it's not letting up.",
+    "patient_turn": "Mm.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "OK um. I'm gonna ask you a few questions about the cough itself. Is this a dry cough that you're experiencing? Or are you producing like any any mucus or coughing up anything?",
+    "patient_turn": "There was some mucus um earlier on, but now it's it's all, it’s a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Now, it's dry OK how long, what was the timeline for that? I guess how long?",
+    "patient_turn": "Yeah, so maybe for the first four or five days there was this like whitish clear kind of mucus that was coming up and then after that was a a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. And do you feel like the intensity of the cough got worse over the last two weeks, or has it gotten any better?",
+    "patient_turn": "Kind of the same, I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And has the cough gotten more frequent over this time as well?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often would you say that you're coughing?",
+    "patient_turn": "Uhm? It's hard for me to quantify, maybe a couple of times an hour, maybe three or four times an hour or so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything you can think of that triggers the cough, or is it spontaneous?",
+    "patient_turn": "It’s kinda, spontaneous um. Can't really think of anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And along with the cough, are you experiencing any difficulty breathing?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any fevers?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. Have you had any sore throat?",
+    "patient_turn": "Um I did initially um for the first two or three days and then that got better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK um. Have you had any runny nose?",
+    "patient_turn": "I did initially yeah, I have like had all those flu symptoms for the first couple of days, but the cough just kinda stayed. Everything else resolved in the first uhm three or four days I would say.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Thank you for sharing that have you had, did you have any chest pain at any point?",
+    "patient_turn": "No, but I guess like sometimes when I'm coughing too much my chest hurts a little bit.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. So it feels kind of sore after all that?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, have you been in contact, I guess it's hard to say because it started a while ago, but before it started bringing contact with anyone that's been sick?",
+    "patient_turn": "I I work at the hospital, but. Um I'm wearing PPE all the time, and I'm very careful so.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you traveled anywhere outside of the province?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you had any nausea or vomiting?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any belly pain?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, um so I'm just gonna ask you some questions about your overall health. Have you had any respiratory problems in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Or do you have any chronic conditions that you see your family doctor for regular thing?",
+    "patient_turn": "I’ve got acid reflux and uh, I also have anxiety.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications?",
+    "patient_turn": "Um. I I used to, not anymore.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Uh, was there any particular medication that you stopped recently?",
+    "patient_turn": "No, no. I used to take. I used to take something for anxiety two three years ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And what do you do for your reflux?",
+    "patient_turn": "I just avoid right now, I'm just trying to avoid the foods that make things worse for me and I feel like that's helped me quite a bit, uhm so yeah. I quite like acidic foods and chocolates and things like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Sure. That's no fun.",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies?",
+    "patient_turn": "Just hay fever.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And do you have any family history of respiratory problems or heart problems?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and this is in terms of your lifestyle. Do you live with family, alone?",
+    "patient_turn": "I I live with my partner.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you have any kids or pets living with you?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke?",
+    "patient_turn": "Uh I don’t, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Drink alcohol?",
+    "patient_turn": "Um occasionally. On Christmas.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Oh OK, I see. And do you use any other substances?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and what do you do for work?",
+    "patient_turn": "I’m a clerk at the hospital.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Right, you just say you working at the hospital. And, uh. I can't think I thought I had another question for you, but I can't remember it. Anything else that you wanted to tell me about that I didn't ask you.",
+    "patient_turn": "Um. No, I guess I was just wondering why I still have a cough. It's been such a long time. Um yeah, and I was wondering if I could get any medications just to help with that. It's not really. Yeah, it's everyone's like scared at work when I cough. I have. I have had the covid test and I don't have it, um so yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When we got the last test done?",
+    "patient_turn": "Um I had the test done when I first started having symptoms about two weeks ago? Since then I've been at home and I'm just waiting for my symptoms to get better, but I you know, I kind of like get back, and I don't want to be coughing when I get back. Um yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Well, I'm gonna have a quick listen to your heart and lungs I'll do a quick physical exam and then I will go get the doctor that I'm working with all kind of go over everything you talked about, and then we'll come back and talk to you about where to go from here.",
+    "patient_turn": "Sounds great.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK well thanks for chatting with me.",
+    "patient_turn": "Your welcome.",
+    "annotation": "Correct"
+  }
+]

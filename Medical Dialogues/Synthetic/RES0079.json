@@ -1,0 +1,137 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling pretty unwell for the past four days. I have this dry cough, a runny nose, and I’m really tired… I also noticed I can’t smell anything, which is kinda worrying. And, uh, I had a fever last night that went over 38°C.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough feels the worst or if it spreads anywhere?",
+    "patient_turn": "Um, it’s mostly just a dry cough, you know? I don’t really feel any pain or anything in my chest or throat, so it’s not like, um, spreading anywhere that I can tell. It’s just annoying and, uh, slightly worse than when it started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it more like a tickle, or does it feel different?",
+    "patient_turn": "I’d say it feels more like a tickle, you know? Like, it’s just this irritating sensation that makes me want to cough, but it’s not, um, super painful or anything. Just really dry and persistent, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the cough better or worse?",
+    "patient_turn": "Well, I think lying down helps a bit, but actually, I’ve been coughing a lot more when I’m sitting. I mean, I don’t really cough that much at all usually, so it’s weird.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms besides the cough, like feeling short of breath or dizzy?",
+    "patient_turn": "Um, no, I haven’t felt short of breath or dizzy, thankfully. It’s mostly just the cough, runny nose, and the fatigue… and, uh, the loss of smell, which is really strange. I’m kinda worried about that, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been feeling this way, and when did the cough first start?",
+    "patient_turn": "I’ve been feeling this way for about four days now. The cough started around the same time, so, um, it’s been a bit of a rough few days, you know? It’s just been getting slightly worse since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough feel like? Is it dry, or do you have any phlegm?",
+    "patient_turn": "It’s definitely a dry cough, um, no phlegm or anything like that. Just this irritating tickle that makes me want to cough, you know? It’s kind of frustrating.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough, and has it changed since then?",
+    "patient_turn": "A…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the cough or any discomfort in your chest?",
+    "patient_turn": "You know, I really need to get some new shoes. Mine are starting to hurt my feet, especially when I walk the dog.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any mucus or phlegm when you cough?",
+    "patient_turn": "No, I haven’t noticed any mucus or phlegm at all. It’s just a dry cough, um, which is kind of frustrating because it feels like I’m coughing for no reason, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you coughed up any blood at all?",
+    "patient_turn": "No, I haven’t coughed up any blood. It’s just a dry cough, thankfully, but, um, I’m still worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a sore throat or any pain when swallowing?",
+    "patient_turn": "No, I don’t have a sore throat or any pain when swallowing. It’s just the cough and, um, the other symptoms like the runny nose and fatigue. So, I guess that’s a relief, at least.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any muscle aches or body pain?",
+    "patient_turn": "No, I’m not having any muscle aches or body pain. It’s really just the cough, fatigue, and, um, the loss of smell. I’m kinda worried about that, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any shortness of breath?",
+    "patient_turn": "No, I haven’t experienced any shortness of breath. It’s mostly just the cough and feeling really tired, you know? So, um, that’s a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea or other stomach issues recently?",
+    "patient_turn": "No, I haven’t had any nausea or stomach issues at all. It’s really just the cough, runny nose, and fatigue. So, um, I’m glad it’s not anything more serious, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your urination, like pain or increased frequency?",
+    "patient_turn": "No, I haven’t noticed any changes in my urination, like pain or increased frequency. It’s just the cough and the other symptoms, you know? So, um, that’s not something I’m worried about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes or skin changes on your body recently?",
+    "patient_turn": "No, I haven’t noticed any rashes or skin changes at all. It’s really just the cough, runny nose, and fatigue that’s been bothering me. So, um, I guess that’s one less thing to worry about.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you experiencing any nasal congestion or stuffiness?",
+    "patient_turn": "No, I’m not experiencing any nasal congestion or stuffiness. It’s more of a runny nose, you know? So, um, that’s a bit different, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, I have a history of depression and anxiety, but it’s managed with citalopram. I haven’t had any surgeries or anything like that, so, uh, that’s pretty much it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications?",
+    "patient_turn": "No, I don’t have any known allergies to medications. I’ve been pretty lucky in that regard, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever had any surgeries in the past?",
+    "patient_turn": "No, I haven’t had any surgeries in the past. So, um, that’s something I don’t have to worry about, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Did you smoke at any point in the past?",
+    "patient_turn": "Yeah, I had a brief history of smoking in high school, but I haven’t smoked for about 20 years now. I, um, don’t really have any lung issues or anything like that, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you use cannabis or any other recreational drugs currently?",
+    "patient_turn": "I, um, use cannabis edibles occasionally, but I don’t use any other recreational drugs. So, it’s just that, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my girlfriend and our dog. Um, she just got back from a work trip to Saskatchewan, and I think she’s been feeling a bit fatigued since returning too. So, it’s been a bit concerning for both of us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your girlfriend experienced any symptoms since returning from her trip?",
+    "patient_turn": "Yeah, she’s been feeling really fatigued since she got back. I mean, we’ve been trying to keep our distance at home, but it’s hard since we live together, you know? So, um, I’m kinda worried about both of us.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven’t traveled anywhere recently. It’s just been, um, my girlfriend who went on the trip, so I’ve been home the whole time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you taken any medications to help with your current symptoms?",
+    "patient_turn": "No, I haven’t taken any medications for my current symptoms. I’ve just been, um, trying to manage it on my own, but it’s been tough, you know?",
+    "annotation": "Correct"
+  }
+]

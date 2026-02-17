@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this clear, watery runny nose and a sore throat for about five days now. It started off pretty bad, but I guess it’s kinda stabilized a bit. I’m just, uh, a little worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the runny nose and sore throat?",
+    "patient_turn": "I first noticed it, um, about five days ago. It was really bad at first, but now it’s, like, not as intense, you know? The sore throat is still there, though, and it kinda hurts a bit when I swallow.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the sore throat feels the worst?",
+    "patient_turn": "Um, it feels the worst when I swallow, but it’s not, like, super painful or anything. Just mild discomfort, I guess. I can still eat, so that’s good, but it’s definitely annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain in your throat feel like—sharp, dull, or something else?",
+    "patient_turn": "Uh, it feels like…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed anything that makes the sore throat feel better or worse?",
+    "patient_turn": "Well, um, the over-the-counter cold medications helped a bit, but it was just temporary relief, you know? I haven’t really noticed anything specific that makes it worse, but, um, maybe swallowing certain foods? It’s just, like, a little uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "No, um, I haven’t had any breathlessness or dizziness, and definitely no nausea. I’ve just had some mild headaches and muscle aches, and I’ve been feeling more drowsy than usual over the past few days. It’s, um, kinda tiring, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like exercise, smoking, or alcohol use?",
+    "patient_turn": "Uh, I don’t smoke or drink alcohol. I tried vaping a couple of times, but I didn’t really like it, so I stopped. I live with my parents and my older sister, and I guess I don’t have a super active lifestyle right now, but I’m not totally sure how much exercise I get.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical problems or take any regular medications?",
+    "patient_turn": "Oh, I just remembered that I need to pick up some groceries later. And my sister is always borrowing my stuff, which is kind of annoying.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like breathlessness, dizziness, or nausea?",
+    "patient_turn": "Um, no, I haven’t had any breathlessness or dizziness, and definitely no nausea. Just the sore throat, runny nose, and those mild headaches and muscle aches. I’m kinda worried about how tired I’ve been feeling, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the discomfort in your throat ever spread to any other areas, like your ears or chest?",
+    "patient_turn": "It…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or surgeries I should know about?",
+    "patient_turn": "Um, I don’t have any significant past medical or surgical history. I take antihistamines sometimes for allergies, like Reactine or Claritin, but that’s about it. Nothing major, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any regular medications besides the antihistamines?",
+    "patient_turn": "No, I’m not taking any regular medications besides the antihistamines. I just use those occasionally for my allergies, you know? Other than that, nothing else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other known allergies besides dust, pollen, and ragweed?",
+    "patient_turn": "Um, no, I don’t think I have any other known allergies besides those. It’s mostly just the dust, pollen, and ragweed that I react to. I guess I’m kinda lucky that it’s not more than that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues besides your father's hypertension?",
+    "patient_turn": "Uh, no, not really. The only thing is my dad has hypertension, but that’s about it for family health issues. Nothing else significant comes to mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven’t traveled recently, and I don’t know of anyone who’s been sick that I’ve been in contact with. It’s just been, um, me dealing with these symptoms for the past few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your menstrual cycle and any gynecological history you have?",
+    "patient_turn": "Um, I’m not sure about that. I don’t have any gynecological or menstrual history provided, so I can’t really say anything.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I've been having this numbness and tingling in both of my feet for like, uh, two years now, but it's gotten worse in the last three months. I also have these, um, open wounds on my feet that I can't really feel, and, honestly, it's kinda worrying me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the numbness and tingling in your feet?",
+    "patient_turn": "I first noticed it, um, about two years ago. It started off kinda mild, but, you know, over time, it just got worse. Now it goes up to my ankles, and, um, I really don’t feel anything in those areas, which is, like, really unsettling.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly you feel the numbness and tingling in your feet?",
+    "patient_turn": "Yeah, um, it’s mostly in both of my feet, like, from the toes up to my ankles. It’s, uh, kind of a weird feeling, like, I can’t really feel anything there, you know? And, um, sometimes it feels like my fingertips are numb too, but that’s been more recent, like, over the past year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the numbness and tingling feel like for you?",
+    "patient_turn": "Well, it’s, um, hard to describe, but it’s like this, uh, tingling sensation, almost like when your foot falls asleep, you know? But it’s more constant, and, um, I don’t really feel pain, which is, I guess, why I didn’t notice the wounds on my feet until recently. It’s just, um, really unsettling to not feel anything there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the numbness and tingling in your feet?",
+    "patient_turn": "Uh, I think it’s mostly in the toes and maybe a bit up to the ankles, but I’m not totally sure. It's been going on for a while, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you tell me where exactly you feel the numbness and tingling in your feet?",
+    "patient_turn": "Well, I think the numbness and tingling kind of feels like, you know, when your foot falls asleep? It’s like that, but sometimes I don’t really notice it at all, especially when I’m busy working. And speaking of work, I’ve been trying to finish a project that's due soon, which has been a bit stressful.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Have you experienced any weakness in your legs or hands?",
+    "patient_turn": "Um, yeah, I have. I’ve noticed some mild weakness in my legs, and, uh, sometimes my hands feel weak too, especially when I’m trying to grip things. It’s, um, kind of frustrating because I don’t want it to get worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you find it difficult to grip objects sometimes?",
+    "patient_turn": "Yeah, um, I do find it a bit difficult to grip objects sometimes. It’s, uh, frustrating, especially when I’m trying to do simple things, you know? I just feel like my hands aren’t cooperating, and it’s, um, kind of worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any issues with your balance or experienced any falls recently?",
+    "patient_turn": "No, um, I haven’t had any balance problems or falls, which is, I guess, a relief. I mean, I’m just really focused on, uh, managing the numbness and tingling in my feet. But, you know, I’m still kinda worried about everything else going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any fever, chills, or weight loss lately?",
+    "patient_turn": "Um, no, I haven’t noticed any fever, chills, or weight loss. I mean, I feel pretty much the same otherwise, but, uh, I’m just really focused on the numbness and the wounds on my feet. It’s, um, a bit overwhelming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of diabetes, high blood pressure, or high cholesterol?",
+    "patient_turn": "Yeah, um, I do have a history of diabetes, high blood pressure, and high cholesterol. I’ve been managing it with medications, but, you know, my HbA1c was, like, elevated at 8.1% recently, which is, um, kinda concerning. I’m really trying to get better control over everything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications are you currently taking for your conditions?",
+    "patient_turn": "Um, I’m currently taking short- and long-acting insulin for my diabetes, and I also take ramipril for my blood pressure and atorvastatin for my cholesterol. It’s, uh, a lot to keep track of, and I’m just trying to manage everything as best as I can.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many cigarettes do you smoke each day, and how much alcohol do you drink weekly?",
+    "patient_turn": "Uh, I smoke about half a pack of cigarettes a day, and I drink, um, about five beers daily. I know it’s not great, and I’ve been thinking about, like, reducing both, but it’s just, um, hard to make those changes right now. I’m kinda worried about how it all affects my health.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like diabetes or heart disease?",
+    "patient_turn": "Um, no, there’s no family history of, like, musculoskeletal, neurological, cancer, cardiac, or lung diseases that I know of. It’s just, uh, me dealing with my own health issues, which is, you know, a bit overwhelming sometimes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last eye exam?",
+    "patient_turn": "Uh, I haven’t had a recent eye exam, to be honest. I think I should probably get one soon, especially with my diabetes and everything, but I just, um, haven’t gotten around to it yet. It’s, uh, something I’m definitely worried about.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m here because I’ve been having these, like, dry coughing fits for the past couple of months. They kinda happen when it’s cold, or when I exercise, and sometimes I wheeze a bit and feel short of breath… it’s honestly been a bit worrying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these coughing fits?",
+    "patient_turn": "Uh, I think it started about two months ago. I just, you know, noticed that I would start coughing a lot, especially when I was outside in the cold or, um, after gym class. It’s been pretty annoying, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do these coughing fits happen?",
+    "patient_turn": "Um, they happen like… ",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Can you tell me where you feel the discomfort when you cough?",
+    "patient_turn": "Yeah, I feel some discomfort in my chest when I cough really hard, but it’s not like, um, chest pain at rest or anything. It’s just, you know, uncomfortable during those coughing fits.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like when you experience it?",
+    "patient_turn": "It’s kind of a tight feeling, I guess? Like, um, a little pressure in my chest, but it goes away when I stop coughing or rest. It’s not super intense, but it’s definitely not pleasant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice this discomfort during your coughing fits?",
+    "patient_turn": "I think I noticed it pretty early on, like, maybe a few weeks after the coughing started? It just sort of came with the fits, you know? It’s not always there, but when it is, it’s, um, definitely noticeable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about when the coughing fits started?",
+    "patient_turn": "Sure, um, it was around two months ago, and I remember it was getting colder outside. I was just, you know, walking around or doing some exercise, and then suddenly I’d start coughing a lot. It felt really weird, and I didn’t expect it at all.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the discomfort in your chest during these coughing fits?",
+    "patient_turn": "Well, the discomfort is kind of in my chest, I guess. And, you know, I've been trying to keep active, like I went for a walk last week, and I remember it was pretty cold that day. Oh, and I also have this friend who keeps telling me about their new workout routine, which is interesting, but I don't know if it relates to my coughing. But yeah, it's mostly in the chest area when I cough.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like during these coughing fits?",
+    "patient_turn": "Um, it feels tight and a bit heavy, I guess? Like, there’s some pressure in my chest, but it’s not super painful or anything. It’s just, you know, uncomfortable enough that I notice it when I’m coughing a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What usually happens right before these coughing fits start?",
+    "patient_turn": "Well, um, usually it’s when I’m outside in the cold or, like, after I’ve been exercising. Sometimes it happens if I’m around smoke or dust too. It’s like, I can feel it coming on, and then suddenly I’m just coughing a lot. It’s kinda frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do these coughing fits happen in a week?",
+    "patient_turn": "Uh, I’d say they happen about four to five times a week, maybe? It kinda depends on what I’m doing or the weather, but it feels like it’s been pretty consistent lately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the discomfort in your chest during these coughing fits?",
+    "patient_turn": "Um, it’s like…",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the discomfort feel like when you have these coughing fits?",
+    "patient_turn": "It feels, um, tight and a bit heavy, I guess? Like, there’s some pressure in my chest, but it’s not super painful or anything. It’s just, you know, uncomfortable enough that I notice it when I’m coughing a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What triggers these coughing fits for you?",
+    "patient_turn": "Well, um, I’ve noticed that cold weather really triggers them, and also when I exercise, like during gym class. Smoke and dust seem to set it off too, so, you know, I try to avoid those things when I can. It’s just... frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing these coughing fits?",
+    "patient_turn": "I’ve been having them for about two months now. It started, um, when the weather got colder, and it’s just been, you know, pretty consistent since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any headaches or nausea during your coughing fits?",
+    "patient_turn": "No, um, I haven’t noticed any headaches or nausea at all. It’s really just the coughing and that discomfort in my chest, but nothing else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of asthma or hypertension?",
+    "patient_turn": "Yeah, my older sister has a history of asthma. I’m not totally sure about anyone else, but my dad has hypertension. It’s just, you know, something I thought might be relevant since I’ve been having these coughing fits.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven’t been hospitalized or had any surgeries before. I’ve been pretty healthy overall, except for, you know, the childhood eczema that cleared up with some cream.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "Um, I’m not taking any medications right now, and I don’t have any allergies, except for, like, mild seasonal nasal congestion sometimes. It’s just, you know, a little annoying but nothing serious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your coughing affected your schoolwork or sleep in any way?",
+    "patient_turn": "Not really, um, my schoolwork is fine, and I’m sleeping okay too. But it has impacted my gym class a bit, you know, since I can’t really participate like I used to. It’s kinda frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations current and up to date?",
+    "patient_turn": "Yeah, um, my immunizations are all up to date. I’ve been keeping track of that, so I think everything’s good there.",
+    "annotation": "Correct"
+  }
+]

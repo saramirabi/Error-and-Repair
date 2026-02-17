@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Um, hi, Dr. Lee. So, I’ve been having this sharp chest pain for like three days now. It’s, uh, kind of intermittent and it’s mostly over my heart, you know? It’s rated about a 6 out of 10 in severity, and sometimes it radiates to my neck. I’m honestly a bit worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain?",
+    "patient_turn": "I first noticed it, um, about three days ago. It just sort of started out of nowhere, and it’s been coming and going since then. It gets worse when I cough or lie down, but it feels a bit better when I lean forward.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located? Does it spread anywhere else?",
+    "patient_turn": "Yeah, it’s mostly right over my heart, like in the center of my chest. Sometimes it, um, radiates to my neck, but it’s not like, you know, all the time. It’s just kind of sharp and intermittent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It's kind of sharp, I guess, but sometimes it feels a bit dull too, like when I was studying for my finals last month and I had to stay up late. Oh, and I remember that I also had this weird sensation when I was on the bus the other day, like I was really tired and I thought maybe I should eat something healthier instead of those chips I usually snack on.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did the pain first start?",
+    "patient_turn": "Um, it started about three days ago. I think it was, like, right after I got over this flu-like illness I had, you know? I had a fever, runny nose, and cough, but that’s all cleared up now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you experience the chest pain?",
+    "patient_turn": "It’s, um, pretty intermittent. I mean, it comes and goes, so I don’t have it all the time. I’d say it happens a few times a day, but it’s not super long-lasting, just a few seconds each time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where exactly the pain is located?",
+    "patient_turn": "It's mostly in the center of my chest, but sometimes it feels like it’s a bit off to the left side. You know, my friend had a similar issue last year with her heart, and it turned out to be just stress from school. Speaking of which, I’ve been really busy lately with classes and my part-time job at the post office, which might be adding to my anxiety about all this.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arms, back, or jaw?",
+    "patient_turn": "Um, not really to my arms or back, but it does sometimes radiate to my neck. It’s mostly just localized in my chest and neck area. I’m kinda worried about it, especially with my family history, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, or does it feel like pressure?",
+    "patient_turn": "It’s mostly sharp, I think. Like, um, a quick, stabbing sensation when it happens. It’s not really dull or pressure-like, just, you know, sharp and kind of alarming. It definitely gets my attention every time.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes the pain feel better or worse for you?",
+    "patient_turn": "Well, it definitely feels worse when I cough or lie down, which is really frustrating. But, um, it gets better when I lean forward, which is kind of odd. I’ve been trying to find positions that help, but it’s still really concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the chest pain, and has it changed since it started?",
+    "patient_turn": "I first noticed it about three days ago, and, um, it hasn’t really changed much since then. It’s still sharp and intermittent, you know? I guess I’m just hoping it doesn’t get worse, but it’s been pretty consistent in how it feels.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "Um, no, I don’t have any past medical or surgical history. I’ve been pretty healthy overall, except for this flu-like illness I had a week ago, but that’s all cleared up now. I just take Tylenol occasionally, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications do you take on a regular basis?",
+    "patient_turn": "I don’t really take any medications regularly, just, um, Tylenol occasionally when I have a headache or something. That’s about it, I guess. I’m not on anything else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or anything else?",
+    "patient_turn": "No, I don’t have any known allergies. I mean, I’ve never had a reaction to any medications or anything like that, so I think I’m good there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What exactly happened with your father's heart issue two weeks ago?",
+    "patient_turn": "Oh, um, my father had a fatal myocardial infarction, like, two weeks ago. It was really sudden and shocking for our family. I guess that’s part of why I’m feeling so anxious about my own chest pain, you know? It’s just been a lot to process.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my mother. It’s just the two of us, and, um, I think we’re both still trying to cope with everything that happened with my dad. It’s been tough, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs. I mean, I drink alcohol occasionally on weekends, but that’s about it. I’ve never really been into, you know, anything else like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol on weekends?",
+    "patient_turn": "Um, it’s usually just on weekends, like maybe once or twice. I don’t drink a lot, just, you know, a couple of drinks when I’m out with friends or something. It’s not a regular thing for me, really.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently using any form of contraception?",
+    "patient_turn": "I’m not sure about that. I mean, I’m sexually active, but I didn’t really mention any contraception details. It’s just something I haven’t thought about much lately, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "On a scale from 1 to 10, how anxious do you feel about your chest pain?",
+    "patient_turn": "Honestly, I’d say it’s around an 8 or 9. I’m really worried about it, especially with my dad’s recent heart issue. It just makes everything feel more intense, and I can’t help but think about it a lot.",
+    "annotation": "Correct"
+  }
+]

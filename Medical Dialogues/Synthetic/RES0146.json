@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been feeling really unwell for about a day now. It started after work, and I’ve got a fever, a headache, and just overall body soreness. Honestly, it’s been pretty uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or more like pressure?",
+    "patient_turn": "Uh, it feels more like pressure, I think. It’s not really sharp, just… kind of a dull ache that’s been bothering me. It’s, um, definitely worse than it was last night, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What have you noticed that makes the headache better or worse?",
+    "patient_turn": "Uh, it's... not really sure.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the headache? Is it concentrated in one area or more widespread?",
+    "patient_turn": "Well, the headache is kind of all over, like a dull pressure, I think? It started last night, I believe, or maybe it was the night before. And you know, I also had a really busy day at work, lots of meetings and stuff, which might have added to it. Plus, I didn't sleep well because my neighbor was really loud, which was annoying.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "When did the headache start, and how has it changed since then?",
+    "patient_turn": "Oh, it started last night, I think, but I don’t really remember. Sometimes it feels like it started earlier, but I’m pretty sure it was last night.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Can you describe where the headache is located?",
+    "patient_turn": "Um, it’s mostly in my forehead and around the sides of my head, you know? It feels like there’s just this tightness all around. It’s really uncomfortable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What was the highest temperature you measured during your fever?",
+    "patient_turn": "I measured it at, um, 38.5°C. It’s definitely been making me feel worse, you know? I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough or sore throat at all?",
+    "patient_turn": "No, I haven’t had a cough or a sore throat. Just the fever, headache, and, um, some body soreness. It’s mostly just the nasal stuff, like a runny nose and itchiness.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in close contact with anyone who was sick recently?",
+    "patient_turn": "Yeah, I think I might have been exposed to a sick colleague at work. They were absent for a few days, but, um, I’m not totally sure if they had anything specific like COVID-19. It’s just, you know, making me a bit anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test done yet?",
+    "patient_turn": "No, not yet. A COVID-19 test is planned, though, because of my symptoms. I’ve been advised to self-isolate until I get the results, which is, um, a bit stressful.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or take any medications regularly?",
+    "patient_turn": "Yeah, I have hypercholesterolemia that I manage with a statin, and I’m also prediabetic, so I’m managing that with dietary changes. I take vitamin D and a multivitamin too. No known allergies, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or other substances?",
+    "patient_turn": "Um, no, I don’t have any known allergies. I’ve never had a reaction to medications or anything like that, so that’s good, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with, and have there been any recent changes in your household?",
+    "patient_turn": "I live with my wife, and, um, we’ve been following some self-isolation measures recently. It’s been a bit different, you know? Just trying to be cautious with everything going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any family history of health issues, like heart disease or cancer?",
+    "patient_turn": "Yeah, my family history is a bit concerning. My grandfather had lung cancer, and my father had a myocardial infarction in his 70s. So, um, I guess I’m kinda worried about my own health too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently?",
+    "patient_turn": "No, I haven’t traveled outside the province recently. I’ve just been, um, staying local and trying to keep things low-key, especially with how I’m feeling right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been advised to get a COVID-19 test?",
+    "patient_turn": "Yes, I have. They planned a COVID-19 test for me because of my symptoms, and I’ve been advised to self-isolate until I get the results. It’s, um, a bit nerve-wracking, to be honest.",
+    "annotation": "Correct"
+  }
+]

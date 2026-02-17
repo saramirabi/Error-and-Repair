@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, Dr. Lee. I’ve been having this really bad headache for about a week now. It’s, like, constant and it’s mostly in the front and sides of my head. It started off at a 7 out of 10 in pain, but it’s kinda improved to a 5, I guess. I’ve also been feeling achy and had chills, and now I have this dry cough that started just yesterday. So, I’m kinda worried about what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "Uh, the headache started about a week ago, I think. It was really intense at first, but, um, it’s gotten a bit better since then, you know? But it’s still there, just not as bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the headache hurts the most?",
+    "patient_turn": "Yeah, um, it’s mostly in the front of my head, like, right here in the forehead and on the sides, you know? It’s a constant ache, but sometimes it feels like it spreads a bit to the back too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s, um, more of a dull ache, I guess. It’s not sharp at all, just this constant, annoying pressure, you know? It’s really uncomfortable, especially when it doesn’t go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "Oh, it started like, maybe a week ago, but I also think it might have just come on suddenly yesterday.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the headache changed since it first started?",
+    "patient_turn": "Well, um, it was really intense at first, like a 7 out of 10, but now it’s kinda improved to a 5. It’s still there, though, just not as bad as it was. I mean, it comes and goes a bit, but it’s still pretty bothersome.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the headache? Is it in one specific area or more widespread?",
+    "patient_turn": "Um, it’s mostly in the front, like my forehead and the sides of my head. But sometimes it feels like it spreads a bit to the back too, you know? So, it’s kinda all over, but the front is definitely the worst part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s, um, more of a dull ache, I think. Not sharp at all, just this constant pressure that’s really annoying, you know? It’s hard to focus on anything else when it’s there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "Uh, it started about a week ago, I think. It was pretty intense at first, but it’s, um, gotten a little better since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the headache changed in intensity or location since it first started?",
+    "patient_turn": "A... it was really bad …",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Can you describe where the headache is located?",
+    "patient_turn": "Yeah, um, it’s mostly in the front of my head, like my forehead and the sides. Sometimes it feels like it goes to the back too, but the front is definitely where it hurts the most.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the headache feel like—sharp, dull, pressure, or something else?",
+    "patient_turn": "It’s, um, more of a dull ache, I guess. It feels like this constant pressure, you know? Not sharp at all, just really uncomfortable and annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the headache first start?",
+    "patient_turn": "Oh, um, it started about a week ago. It was really intense at first, but, uh, it’s gotten a bit better since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the headache changed since it first started?",
+    "patient_turn": "Um, I think it started around a week ago, but I’m not entirely sure. It’s kind of been up and down since then, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the headache?",
+    "patient_turn": "Uh, it’s mostly in the front of my head, like my forehead and the sides. Sometimes it feels like it spreads to the back a little, but the front is definitely the worst part.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any nausea or vomiting since the headache started?",
+    "patient_turn": "No, um, I haven’t had any nausea or vomiting at all. It’s just been the headache and, like, the muscle aches and chills, but no stomach issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any chest pain or difficulty breathing at all?",
+    "patient_turn": "No, I haven’t had any chest pain or difficulty breathing. It’s mostly just the headache, some muscle aches, and this dry cough that started recently. So, um, I’m really not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your vision since your headache started?",
+    "patient_turn": "No, um, I haven’t noticed any changes in my vision. It’s just been the headache and some other symptoms, but my vision seems fine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you felt confused or experienced any weakness or numbness in your body?",
+    "patient_turn": "No, I haven’t felt confused or had any weakness or numbness. It’s mostly just the headache and some muscle aches, but nothing like that. I’m, um, a bit worried about everything, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in close contact with anyone who was sick?",
+    "patient_turn": "Uh, I haven’t traveled recently, but I did just go back to in-person work. I was in a small break room with, like, intermittent mask removal, so I guess that could have increased my exposure risk. But, um, I don’t know anyone who’s been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you share any health issues in your family, like diabetes or heart problems?",
+    "patient_turn": "Yeah, um, my mom has type 2 diabetes, but other than that, my dad’s health is, like, unremarkable. I don’t think there are any major heart problems in the family, as far as I know.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke and drink alcohol on a regular basis?",
+    "patient_turn": "Um, I smoke about half a pack of cigarettes a day, and I drink, like, one or two beers every few days. I also use marijuana occasionally, just once or twice a month for sleep, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies or are you currently taking any medications or supplements?",
+    "patient_turn": "No, I don’t have any allergies, and I’m not taking any medications or supplements right now. I, um, haven’t really needed anything, I guess.",
+    "annotation": "Correct"
+  }
+]

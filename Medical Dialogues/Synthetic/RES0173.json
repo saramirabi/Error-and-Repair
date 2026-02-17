@@ -1,0 +1,72 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having a dry cough and shortness of breath for about a day now. I also had a fever last night, some body aches, and I've been feeling really fatigued.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough and shortness of breath feel the worst?",
+    "patient_turn": "It feels pretty consistent, but it definitely gets worse after I've been around my boyfriend's parrot and cat. It’s like I can’t catch my breath as easily when I'm there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does your cough feel like? Is it dry or does it have any other characteristics?",
+    "patient_turn": "It's a dry cough, and I haven't noticed any sputum or anything like that. Just feels like I need to clear my throat a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Oh, um, I think it started like a week ago, but actually, it’s been just a day or so. I’m not really sure, to be honest.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "No, I don't have any past medical or surgical history. I'm generally healthy and have no known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to animals, foods, or medications?",
+    "patient_turn": "No, I don’t have any known allergies to animals, foods, or medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any seasonal allergies or reactions to environmental triggers?",
+    "patient_turn": "No, I don’t have any seasonal allergies or prior reactions to environmental triggers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or use recreational drugs. I drink alcohol occasionally, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink alcohol occasionally, maybe once or twice a month, and usually just a couple of drinks when I do.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently using any form of birth control?",
+    "patient_turn": "Yes, I'm using birth control pills and condoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live alone or with someone?",
+    "patient_turn": "I live alone near the university.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease. There is a family history of hypertension, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled anywhere recently?",
+    "patient_turn": "No, I haven't traveled recently. I've mostly been staying home due to the pandemic.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How have your social contacts changed since the pandemic started?",
+    "patient_turn": "My social contacts have really limited since the pandemic started. I mostly stay at home and only see my boyfriend occasionally.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been having some nasal congestion for about a week, and it’s turned into a constant clear runny nose. I thought it might be something more serious, so I wanted to get it checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the nasal congestion?",
+    "patient_turn": "I first noticed the nasal congestion about a week ago. It started off intermittently, but then it got worse and became a constant runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the runny nose changed in any way since it first started?",
+    "patient_turn": "Yes, it started as intermittent congestion, but now it's mostly a clear runny nose that doesn't seem to improve. It's been pretty consistent.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the congestion or runny nose? Is it mostly in your nose, throat, or elsewhere?",
+    "patient_turn": "The congestion and runny nose are mostly in my nose. I don’t really feel anything in my throat or anywhere else.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the runny nose feel like for you? Is it watery, thick, or something else?",
+    "patient_turn": "It's mostly watery. It’s clear and just keeps running, which is kind of annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the congestion most?",
+    "patient_turn": "... mostly in my.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the congestion most?",
+    "patient_turn": "I mostly feel the congestion in my nose. It’s just that stuffy feeling, but it’s not really painful or anything.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, sore throat, or fever during this time?",
+    "patient_turn": "No, I haven't had a cough, sore throat, or fever at all. It's just been the nasal congestion and runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "No, I haven't been hospitalized or had any surgeries in the past.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart diseases?",
+    "patient_turn": "No, there's no family history of lung or heart diseases that I know of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled recently or been in contact with anyone who was sick?",
+    "patient_turn": "No, I haven't traveled recently, and I don't know anyone who's been sick. I do live with my nephew who goes to daycare, but he's currently well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions or health issues I should know about?",
+    "patient_turn": "Yes, I have type 1 diabetes, which I was diagnosed with at age 7. I manage it with insulin and see my endocrinologist regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "I'm not taking any medications other than insulin for my diabetes, and I don't have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you use marijuana edibles?",
+    "patient_turn": "I use marijuana edibles about once a month, but it's not something I do regularly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much relief have the decongestants provided you?",
+    "patient_turn": "The over-the-counter decongestants have provided some partial relief, but not enough to make a big difference. The congestion and runny nose are still pretty bothersome.",
+    "annotation": "Correct"
+  }
+]

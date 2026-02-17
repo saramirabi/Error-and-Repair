@@ -1,0 +1,102 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. I've been feeling unwell for the past three days with a fever, a stuffy nose, and a sore throat. My husband has had similar symptoms, so I wanted to get checked out.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did your symptoms start, and have they changed since then?",
+    "patient_turn": "My symptoms started about three days ago. They haven't really changed much; I've still got the fever, stuffy nose, and sore throat, but no cough or other major issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain or discomfort in your throat?",
+    "patient_turn": "It's mostly a general soreness in my throat, especially when I swallow, but I wouldn't say it's extremely painful. Just uncomfortable, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the soreness in your throat feel like—sharp, dull, or something else?",
+    "patient_turn": "It feels more dull than sharp, just a constant discomfort. It's not unbearable, but it's definitely noticeable.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the soreness in your throat?",
+    "patient_turn": "I first noticed the soreness in my throat around the same time my fever started, so about three days ago. It was one of the first symptoms I had.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed if the sore throat or fever has changed in intensity since it started?",
+    "patient_turn": "... started, but I think it might be... not sure.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your sore throat?",
+    "patient_turn": "Yes, I've had some muscle aches along with the sore throat and fever, but that's about it. No cough or other major symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you traveled outside the province recently, aside from the hiking trip?",
+    "patient_turn": "No, I haven't traveled outside the province recently, except for that two-hour hiking trip last weekend.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has your husband been experiencing symptoms?",
+    "patient_turn": "My husband has been experiencing similar symptoms for about a week now. He started feeling unwell before I did.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What do you do for work?",
+    "patient_turn": "I work from home as a digital marketing agent. It's nice to be able to work remotely, but I wish I felt better to focus on my tasks.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke or drink alcohol regularly?",
+    "patient_turn": "I don't smoke, and I drink alcohol only occasionally, like one or two glasses of wine now and then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you used marijuana edibles recently or in the past few weeks?",
+    "patient_turn": "I’ve tried marijuana edibles in the past, but I don’t use recreational drugs regularly. I haven’t used any recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been diagnosed with high blood pressure?",
+    "patient_turn": "No, I haven't been diagnosed with high blood pressure. I don't have a history of hypertension or hyperlipidemia.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yes, I monitor my glucose levels since I'm prediabetic.",
+    "patient_turn": "Yes, I monitor my glucose levels since I'm prediabetic. It's important for me to keep an eye on that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries or hospitalizations in the past?",
+    "patient_turn": "I had a cholecystectomy five years ago, but I haven't had any other surgeries or hospitalizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What happens when you take penicillin?",
+    "patient_turn": "When I take penicillin, I get a rash, but it doesn't cause any respiratory distress. That's why I avoid it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What medications or supplements are you currently taking?",
+    "patient_turn": "I'm only taking multivitamins right now. I don't take any other medications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When was your last menstrual period?",
+    "patient_turn": "My last menstrual period was about a year ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you received the flu vaccine for this year?",
+    "patient_turn": "No, I haven't received the flu vaccine for this year.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had a COVID-19 test recently?",
+    "patient_turn": "No, I haven't had recent COVID-19 testing.",
+    "annotation": "Correct"
+  }
+]

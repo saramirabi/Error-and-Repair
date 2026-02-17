@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My daughter has been wheezing and has a slight cough for the past 4-5 days. She also gets a bit short of breath when she's playing outside, especially when running around.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the wheezing or cough changed at all since it first started?",
+    "patient_turn": "It's been pretty consistent, but it does fluctuate. Sometimes it gets a bit worse, especially in colder weather, but it usually gets better when she rests.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the wheezing and cough seem to be coming from?",
+    "patient_turn": "It sounds like it's coming from her chest. When she wheezes, it’s definitely noticeable, and the cough seems to be related to that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the wheezing sound like to you? Is it a high-pitched whistle or something else?",
+    "patient_turn": "It sounds like a high-pitched whistle, especially when she breathes out. It's pretty distinct and definitely noticeable when she's having an episode.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the wheezing and cough starting?",
+    "patient_turn": "Oh, I just remembered I need to pick up some ice cream on the way home. It’s been a while since I had mint chocolate chip, which is my favorite!",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How often does she experience the wheezing and cough during the day?",
+    "patient_turn": "She experiences it intermittently throughout the day, mostly when she's playing or being active. It doesn't happen all the time, but it does seem to come up when she's running around with her friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the wheezing and cough starting?",
+    "patient_turn": "It started about 4-5 days ago. I noticed it mostly when she was playing outside with her friends.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any fevers or a runny nose during this time?",
+    "patient_turn": "No, she hasn't had any fevers or a runny nose at all. It's just been the wheezing and a slight cough without any other symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any phlegm when she coughs?",
+    "patient_turn": "No, there hasn't been any phlegm when she coughs. It's just a slight cough without any mucus.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she had any recent infections or illnesses that required a doctor's visit?",
+    "patient_turn": "No, she hasn't had any recent infections or illnesses that required a doctor's visit. She's been healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she ever experienced wheezing or breathing difficulties like this before?",
+    "patient_turn": "No, she hasn't had any prior episodes of wheezing or breathing difficulties like this. This is the first time we've noticed anything like it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does she have any known allergies, aside from seasonal allergies?",
+    "patient_turn": "Aside from her seasonal allergies, she doesn't have any known allergies. We manage her seasonal allergies with over-the-counter antihistamines like Reactine.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she ever experienced facial swelling or any breathing issues related to allergies?",
+    "patient_turn": "No, she hasn't experienced any facial swelling or breathing issues related to allergies. It's just the seasonal allergies that we manage occasionally.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she ever had any surgeries in the past?",
+    "patient_turn": "No, she hasn't had any surgeries in the past. Her medical history is unremarkable, and she's been healthy overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was her birth history normal, including any complications during delivery?",
+    "patient_turn": "Yes, her birth history was normal. She was born full-term via vaginal delivery and had a birth weight of 8 pounds, with no complications.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of respiratory issues, like asthma or allergies?",
+    "patient_turn": "No, there's no family history of respiratory issues like asthma or allergies that we know of. It seems to be just her with these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any exposure to tobacco smoke or pets in your home?",
+    "patient_turn": "No, there’s no exposure to tobacco smoke or pets in our home. We live in a townhouse, and we’ve maintained good indoor air quality.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has there been any involvement with child protection services?",
+    "patient_turn": "No, there has been no involvement with child protection services. Everything is good on that front.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your daughter experienced any bowel or urinary symptoms recently?",
+    "patient_turn": "No, she hasn't experienced any bowel or urinary symptoms recently. She's been completely fine in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has she traveled recently or been around anyone who was sick?",
+    "patient_turn": "No, she hasn't traveled recently, and there haven't been any sick contacts that we know of. She's been around her friends at school, but no one has been sick.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How do you keep the air quality in your home fresh and clean?",
+    "patient_turn": "We maintain good indoor air quality by regularly changing our air filters. We also try to keep the house well-ventilated and clean.",
+    "annotation": "Correct"
+  }
+]

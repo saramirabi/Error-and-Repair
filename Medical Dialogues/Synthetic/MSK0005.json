@@ -1,0 +1,82 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m glad to be here, Dr. Lee. So, I’ve been having this pain in my right elbow for several months now. It’s, like, on the outside part, and it’s been getting worse. I’d say it’s about a 4 out of 10, you know? It really hurts when I do things like bend my wrist down or lift heavy stuff at work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to exactly where the pain is located?",
+    "patient_turn": "Yeah, um, it’s on the lateral side of my right elbow, like, right here… *gestures to the outer elbow area*. It’s really tender when I touch it, and, um, it hurts more when I extend my wrist or do certain movements.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to any other areas, like your forearm or shoulder?",
+    "patient_turn": "No, um, it doesn’t really spread anywhere else. It’s just, like, localized to the elbow. I haven’t felt any numbness or tingling, and my forearm and shoulder feel fine, so that’s a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How would you describe the pain? Is it sharp, dull, achy, or something else?",
+    "patient_turn": "It’s mostly, um, achy, but there are times when it gets sharp, you know? Like, when I’m doing certain movements or lifting things. Overall, it’s just really uncomfortable, and it’s been hard to deal with.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the pain in your elbow?",
+    "patient_turn": "A...",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Well, um, it’s definitely gotten worse since it first started. At first, it was just a little annoying, but now it’s more consistent and, like, really bothersome, especially when I’m working. I’m kinda worried it might not go away on its own.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your elbow?",
+    "patient_turn": "Um, I think it’s kind of on the outside, or maybe a bit on the back? I’m not really positive about it.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Have you experienced any injuries or trauma to your elbow recently?",
+    "patient_turn": "No, um, I haven’t had any injuries or trauma to my elbow at all. It just started hurting on its own, which is, like, kinda frustrating. I can’t really pinpoint why it happened.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any swelling, redness, or unusual shape in your elbow?",
+    "patient_turn": "No, um, there’s no swelling or redness, and it looks pretty normal, honestly. It’s just the pain that’s really bothering me. I mean, I can still move it fine, so that’s a bit of a relief, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any weight loss or fever recently?",
+    "patient_turn": "No, um, I haven’t noticed any weight loss or fever. I’ve been feeling pretty much the same otherwise, just dealing with this elbow pain. So, um, that’s good, I guess?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you move your elbow and hand without experiencing any pain?",
+    "patient_turn": "Yeah, um, I can move my elbow and hand without pain, which is, like, a relief. But, you know, certain movements, especially with my wrist, really trigger the pain. So, it’s kinda tricky.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does it hurt when I touch the outside of your elbow?",
+    "patient_turn": "Yes, um, it does hurt when you touch the outside of my elbow. That area is really tender, and it’s, like, pretty uncomfortable when I press on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications on a regular basis?",
+    "patient_turn": "No, um, I’m not taking any regular medications. I’ve just been using over-the-counter stuff like ibuprofen for the pain, and that helps a bit, but, you know, it’s not a total fix.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or other substances?",
+    "patient_turn": "No, um, I don’t have any allergies to medications or anything like that. I’ve never had any issues with medications before, so that’s, like, a good thing, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of joint problems or conditions?",
+    "patient_turn": "Um, no, not that I know of. There’s no family history of joint problems or anything like that. It’s just, like, me dealing with this elbow pain out of nowhere, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much alcohol do you typically drink in a week?",
+    "patient_turn": "I, um, usually have about one glass of wine a week, so it’s not a lot. I don’t drink very often, but, you know, it’s just something I enjoy occasionally.",
+    "annotation": "Correct"
+  }
+]

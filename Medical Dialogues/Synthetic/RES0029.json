@@ -1,0 +1,67 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I fell off my bike a couple of hours ago, and now I have this, like, stabbing pain on the left side of my chest. It’s been getting worse, especially when I take deep breaths… it kinda hurts a lot.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start after your fall?",
+    "patient_turn": "It started, um, pretty much right after I fell, like, within a couple of hours. I didn’t really notice it at first, but then it just got worse, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you point to where the pain is located on your chest?",
+    "patient_turn": "Yeah, it’s, um, on the left side, sort of near the middle, I guess? It feels really sharp there, and, uh, it hurts more when I breathe deeply.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does the pain ever spread to other areas, like your arm, neck, or back?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to fix my bike’s flat tire. It’s been sitting in the garage for a while now.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "Well, the pain is kind of stabbing, I guess, and it started after I fell off my bike, which was a pretty bad crash, and I landed on my left side. You know, I also just remembered that I’ve been meaning to check the oil in my car because I think it’s been leaking a little lately, and it might need some maintenance soon. Anyway, the pain gets worse when I breathe deeply, but I think it’s just from the fall.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "Does the pain stay in one place, or does it spread anywhere else?",
+    "patient_turn": "Um, the pain mostly stays in one spot on the left side of my chest. It doesn’t really spread anywhere else, which is, uh, kind of a relief, I guess? But it’s really sharp right there, especially when I take a deep breath.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe how you fell from the bike and what happened right before the pain started?",
+    "patient_turn": "Uh, yeah, I was riding my bike and, um, I hit a bump or something, and I just lost control and fell on my left side. I landed pretty hard, and that’s when the pain started, like, right after I hit the ground. It was, um, a bit of a shock, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any shortness of breath since the fall?",
+    "patient_turn": "Yeah, I’ve noticed some mild shortness of breath, but I think it’s mostly because of how I’m breathing, you know, with the pain and all. It’s, um, not too bad, but it’s definitely there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever been hospitalized or had any surgeries in the past?",
+    "patient_turn": "Uh, no, I haven’t been hospitalized or had any surgeries before. My past medical history is pretty simple, just hay fever and some allergies, but nothing major, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any allergies to medications or substances?",
+    "patient_turn": "Yeah, I have multiple allergies, um, I think I’ve had reactions to steroid nasal sprays and some antihistamines. It’s, like, a bit of a hassle, honestly, but, um, I try to avoid those.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been smoking, and how many cigarettes do you smoke each day?",
+    "patient_turn": "I’ve been smoking since I was, um, 18, and I smoke about 2.5 to 3 packs a day. It’s, like, a lot, I know, and I’ve been trying to cut back, but it’s tough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you usually have?",
+    "patient_turn": "I drink occasionally, usually on the weekends, um, just a few drinks, I guess? It’s not a lot, but, you know, I try to keep it under control.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have diabetes or any other significant health issues?",
+    "patient_turn": "Yeah, my dad has type 2 diabetes, so that’s, um, something I think about sometimes. Other than that, I don’t really know of any other significant health issues in my family.",
+    "annotation": "Correct"
+  }
+]

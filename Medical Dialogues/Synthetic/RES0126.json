@@ -1,0 +1,117 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. Well, I’ve been having, um, this progressive shortness of breath for the past couple of months, and my chronic cough has gotten worse too. It’s been really tough, honestly. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and cough getting worse?",
+    "patient_turn": "I think it started getting worse about two months ago… but, um, I’ve had this cough for several years now. It’s just been more persistent lately, and I’m not sure why.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where the shortness of breath and cough feel the worst?",
+    "patient_turn": "Well, it’s kind of everywhere, I guess. I mean, I feel it in my chest, but also sometimes my throat feels tight, and then there's this weird sensation in my back. Oh, and the cough has been persistent for a while, like I mentioned before, and sometimes I think about how I used to work on cars all day, which probably didn’t help my lungs at all. Plus, I was just talking to my neighbor about how the weather has been changing a lot lately, which might be affecting me too.",
+    "annotation": "Too much information"
+  },
+  {
+    "doctor_turn": "What does the cough feel like when it happens? Is it dry or productive?",
+    "patient_turn": "Um, it’s mostly productive, I think. Sometimes I cough up this pink-tinged sputum, and there are, like, occasional streaks of blood, but no big amounts of blood, you know? It’s just really concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What makes your shortness of breath and cough feel better or worse?",
+    "patient_turn": "Well, um, the shortness of breath definitely gets worse with exertion, like when I try to do anything physical, you know? But it’s, uh, partially relieved when I rest, which is good, I guess. The cough, um, it just seems to come and go, but I haven’t really found anything that makes it feel better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms, like feeling dizzy, having palpitations, or feeling nauseous?",
+    "patient_turn": "Uh, no, not really. I mean, I’ve had some mild headaches, but that’s probably just from stress. I haven’t felt dizzy or had palpitations or anything like that. Just, um, occasional mild fever and night sweats, but nothing too serious, I think.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me about your daily habits, like smoking, exercise, or alcohol use?",
+    "patient_turn": "Sure, um, I’ve been smoking for about 60 years, one pack a day, but I’ve tried to quit a few times without much luck. I don’t really exercise much anymore because of the shortness of breath, and, uh, I don’t drink alcohol or use recreational drugs. I mostly just stay at home, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any past medical problems or are you taking any medications?",
+    "patient_turn": "Well, I’ve had COPD for about 15 years, and I’ve had four hospitalizations for exacerbations in the past year. I use two inhalers, a blue rescue inhaler and an orange controller inhaler, but they don’t seem to be working as well lately. Oh, and I had a right knee replacement about ten years ago, but that’s about it, really. No other medications besides the inhalers.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any worrying symptoms, like fainting, sudden breathlessness, or extreme fatigue?",
+    "patient_turn": "Um, not really fainting or anything like that, but I do feel, like, really tired sometimes, especially with the shortness of breath. It’s just, uh, exhausting, you know? I’m kinda worried about how it’s affecting my daily life.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me more about your shortness of breath? When did it start, and how has it changed?",
+    "patient_turn": "Oh, you know, I really need to pick up some groceries after this appointment. I’ve been thinking about what to make for dinner, maybe something with chicken?",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How would you describe the location of your shortness of breath? Does it feel like it's in your chest or elsewhere?",
+    "patient_turn": "Um, it mostly feels like it’s in my chest, I think. Sometimes it feels tight, and, uh, I can feel it in my throat too. It’s just really uncomfortable, you know? I wish I could breathe easier.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or situations make your shortness of breath worse?",
+    "patient_turn": "Well, um, pretty much any physical activity makes it worse, like walking or even just doing simple things around the house. I mean, I try to take it easy, but sometimes I just need to get up and do stuff, and then I really feel it. It’s frustrating, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your shortness of breath, like a cough or fever?",
+    "patient_turn": "Uh, well, I think there have been some other symptoms, maybe like a cough or something. I’m not totally sure about the fever part, but I guess it could have happened? It's all kind of fuzzy in my mind right now.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Can you describe the cough you’ve been experiencing?",
+    "patient_turn": "Yeah, um, the cough is mostly persistent and, like, productive. Sometimes I cough up this pink-tinged sputum, and there are, uh, occasional streaks of blood, but it’s not a lot, you know? It’s just really concerning for me, and I wish it would go away.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath and cough getting worse?",
+    "patient_turn": "I think it started getting worse about two months ago… but, um, I’ve had this cough for several years now. It’s just been more persistent lately, and I’m not sure why.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any significant weight loss recently?",
+    "patient_turn": "Uh, no, I haven’t noticed any significant weight loss. I mean, I’ve been isolating at home, so I’m not really sure about my weight, but I don’t think I’ve lost much, if anything at all. Just, um, feeling more tired and worried about my breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any dizziness or fainting spells recently?",
+    "patient_turn": "No, I haven’t experienced any dizziness or fainting spells. I mean, I feel tired a lot, but, um, nothing like fainting. It’s mostly just the shortness of breath that’s been bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any swelling in your legs or feet?",
+    "patient_turn": "Uh, no, I haven’t noticed any swelling in my legs or feet. I mean, I’ve been mostly just sitting around at home, so I’m not really moving much, but no swelling that I can see. Just, um, the breathing issues are really what’s on my mind.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any chest pain at all, aside from the cough?",
+    "patient_turn": "Well, I’ve had some occasional pleuritic pain when I take a deep breath, but, um, it’s not really like chest pain, you know? It’s more of a sharp feeling, but it doesn’t happen all the time. Other than that, I haven’t had any significant chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any nausea or stomach problems recently?",
+    "patient_turn": "Uh, no, I haven’t had any nausea or stomach problems. I mean, everything’s been pretty much okay in that area. It’s just really the breathing and the cough that are, um, concerning me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any recent infections or been in contact with anyone who is sick?",
+    "patient_turn": "No, I haven’t had any recent infections, and I’ve been isolating at home, so I haven’t been in contact with anyone who is sick. I’ve just been trying to stay away from, um, any germs, I guess.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever worked in jobs where you were exposed to chemicals or dust?",
+    "patient_turn": "Um, not really. I’ve been a mechanic for a long time, so I guess there was some exposure to, like, dust and maybe some fumes, but I don’t think I had any significant exposure to chemicals or asbestos. Just, you know, the usual stuff from working on cars.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you talked to your doctor about the possibility of using home oxygen?",
+    "patient_turn": "Yeah, we’ve talked about it before, but I wasn’t discharged on home oxygen after my last hospitalization. They mentioned it as a possibility, but, um, I guess we didn’t really decide on it then. I’m just feeling more worried about my breathing lately.",
+    "annotation": "Correct"
+  }
+]

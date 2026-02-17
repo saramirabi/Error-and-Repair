@@ -1,0 +1,147 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, Dr. Lee. My child has been really fussy and irritable for the past day. He started grunting while breathing after having a dry cough the day before, and I noticed he has a fever too.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice these changes in your child's behavior?",
+    "patient_turn": "I first noticed the changes yesterday when he started being more irritable and fussy. The dry cough happened the day before that, but it seems like things got worse after that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the grunting sounds are coming from? Is it during every breath or just sometimes?",
+    "patient_turn": "The grunting sounds seem to happen sometimes when he breathes, especially when he's trying to take a deep breath. It’s not constant, but it definitely worries me when I hear it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the grunting sound like to you? Is it more of a low sound or something higher pitched?",
+    "patient_turn": "It sounds more like a low sound to me. It's not very high-pitched, but it's definitely noticeable and makes me concerned about his breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has your child's mood been overall since this started?",
+    "patient_turn": "His mood has been pretty off since this started. He’s been more irritable and just doesn’t seem like himself. He usually plays and laughs a lot, but now he just seems tired and fussy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What activities or things does he usually enjoy that he’s not interested in right now?",
+    "patient_turn": "... toys.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "Has he had any fever or temperature changes recently?",
+    "patient_turn": "Yes, I measured his temperature, and it was 38.5°C. I noticed he had a fever today, which is part of what made me concerned.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been eating and drinking normally, or have you noticed any changes?",
+    "patient_turn": "He hasn’t been eating or drinking normally. Today, he’s been taking in less than usual, which is worrying since he usually has a good appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What other symptoms have you noticed besides the fever and decreased intake?",
+    "patient_turn": "Besides the fever and decreased intake, I've noticed the irritability, fussiness, and the grunting sounds when he breathes. He also had that dry cough the day before all this started.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child coughing right now?",
+    "patient_turn": "No, he’s not coughing right now. The dry cough was just the day before, but he hasn’t had any cough since then.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you heard any wheezing sounds when he breathes?",
+    "patient_turn": "I haven't heard much wheezing; it seems to be minimal. The grunting is more noticeable to me than any wheezing sounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child produced any sputum or blood when he breathes or coughs?",
+    "patient_turn": "No, he hasn’t produced any sputum or blood when he breathes or coughs. It’s just been the dry cough and now the grunting sounds.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How many wet diapers does he produce in a day?",
+    "patient_turn": "He produces about 5 to 6 wet diapers a day, which is consistent with his usual baseline. So at least that part seems normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child lost any weight recently?",
+    "patient_turn": "No, he hasn’t lost any weight recently. He seems to be maintaining his usual weight, but I’m worried about his decreased intake today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any rashes on his skin?",
+    "patient_turn": "No, I haven’t noticed any rashes on his skin. His skin looks normal to me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your child's vision or hearing recently?",
+    "patient_turn": "No, I haven’t noticed any changes in his vision or hearing. Everything seems normal in that regard.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child experienced any fainting spells?",
+    "patient_turn": "No, he hasn’t experienced any fainting spells. He’s been alert, just more irritable and fussy than usual.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any changes in your child's urine or bowel habits recently?",
+    "patient_turn": "No, I haven’t noticed any changes in his urine or bowel habits. Those seem to be normal as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your child born prematurely or full-term?",
+    "patient_turn": "He was born three weeks premature, but he’s been healthy since then and has met all his developmental milestones.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child met all his developmental milestones since birth?",
+    "patient_turn": "Yes, he has met all his developmental milestones since birth. He’s been doing well overall.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child had any significant health issues or hospitalizations since birth?",
+    "patient_turn": "He had some initial oxygenation issues at birth that required a prolonged hospitalization, but since then, he’s been healthy and hasn’t had any significant health issues.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child currently taking any medications?",
+    "patient_turn": "No, he’s not on any medications right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does your child have any known allergies?",
+    "patient_turn": "No, he doesn’t have any known allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your child up to date with his immunizations?",
+    "patient_turn": "Yes, he is up to date with all his immunizations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of lung or heart disease?",
+    "patient_turn": "No, there’s no family history of lung or heart disease that I’m aware of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anyone in your home who smokes?",
+    "patient_turn": "No, there’s no one in our home who smokes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has he been around anyone who was sick recently?",
+    "patient_turn": "No, he hasn’t been around anyone who was sick recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your child traveled anywhere recently?",
+    "patient_turn": "No, he hasn’t traveled anywhere recently.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any known allergens or irritants in your home environment?",
+    "patient_turn": "No, there are no known allergens or irritants in our home environment. It seems pretty clean and safe for him.",
+    "annotation": "Correct"
+  }
+]

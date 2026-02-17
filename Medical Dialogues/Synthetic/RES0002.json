@@ -1,0 +1,112 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, my baby is 2.5 months old, and he’s been coughing for the last couple of days. He has a fever over 38°C and, um, he’s been breathing really fast and seems to be having some difficulty breathing. I’m kinda worried…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough and fever?",
+    "patient_turn": "I first noticed the cough and fever about two days ago. It just kinda came on suddenly, and, um, it’s been getting worse since then. He’s also been really fussy and, um, not eating much…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you tell me where the cough seems to be coming from? Is it more in his chest or throat?",
+    "patient_turn": "Um, I think it’s more in his chest? It sounds kinda wheezy and noisy, but there’s no whistling sounds, you know? I just feel like he’s struggling a bit more to breathe…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the cough sound like? Is it dry or does it produce any mucus?",
+    "patient_turn": "Oh, it sounds really dry, I think, but also maybe a bit wet.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "When did you first notice the cough?",
+    "patient_turn": "I first noticed the cough about two days ago. It just sort of started out of nowhere, and, um, it’s been pretty persistent since then…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How has the cough changed since it first started?",
+    "patient_turn": "Um, it seems to have gotten worse, to be honest. At first, it was just a little cough, but now it’s more frequent, and he seems to be struggling more with breathing. I’m really worried about him…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long has he been coughing like this?",
+    "patient_turn": "Oh, it sounds really dry, I think, but also maybe a bit wet? I’m not sure, it could be either, honestly.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "Has your baby been around anyone who was sick recently?",
+    "patient_turn": "Not really, um, there’s no known sick contacts, but he did spend a day with his grandmother who just traveled to Mexico. She seems fine, though, so I’m not totally sure if that’s related…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your baby had any similar breathing issues or illnesses in the past month?",
+    "patient_turn": "Yeah, actually, he had a similar viral respiratory illness about a month ago. It was, um, diagnosed as possible bronchiolitis or an upper viral infection, and he even needed to be hospitalized for a couple of days for breathing support. I’m kinda worried this might be happening again…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your baby hospitalized before for breathing issues?",
+    "patient_turn": "Yes, he was hospitalized about a month ago for breathing issues. It was really scary, and he needed some support for a couple of days. I just hope it doesn’t happen again…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is your baby currently taking any medications or does he have any known allergies?",
+    "patient_turn": "No, he’s not on any regular medications, and, um, he doesn’t have any known allergies that I’m aware of. I just want to make sure he’s okay…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How was your baby's birth and prenatal care? Were there any complications?",
+    "patient_turn": "Um, his birth and prenatal care were unremarkable, I think. There weren’t any complications, and everything seemed normal. He’s my first child, so I’m just really worried about him right now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has your baby been growing and developing normally since birth?",
+    "patient_turn": "Yeah, he’s been growing and developing normally since birth. Um, his vision and hearing seem fine too, and his immunizations are up to date. I just hope this cough and fever don’t affect that…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your baby's immunizations all up to date?",
+    "patient_turn": "Yes, his immunizations are all up to date. I’ve been keeping track of them, but, um, I’m just really worried about his current symptoms…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who else lives in your home with your baby?",
+    "patient_turn": "Well, it’s just me, my partner, and, um, my baby’s paternal grandfather. We don’t have any pets except for a goldfish, and there’s no smoking in the house. It’s a pretty quiet home, but I’m just really anxious about my baby right now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any pets at home?",
+    "patient_turn": "No, we don’t have any pets, except for a goldfish. It’s just a quiet home, but, um, I’m really worried about my baby’s health right now…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anyone who smokes in your home?",
+    "patient_turn": "No, there’s no smoking in our home. It’s just me, my partner, and my baby’s grandfather living here, and, um, we all try to keep it a healthy environment. I’m just really anxious about my baby’s symptoms…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any history of verbal or physical abuse in your home?",
+    "patient_turn": "No, there’s no history of verbal or physical abuse in our home. It’s a pretty supportive environment, but, um, I’m just really worried about my baby right now with all these symptoms…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol?",
+    "patient_turn": "I, um, I drink occasionally, like maybe a glass of wine once a week. But, you know, I’m mostly focused on my baby’s health right now, and I’m really anxious about everything…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have asthma or other respiratory issues?",
+    "patient_turn": "Yeah, um, my baby’s aunt has asthma. Other than that, I don’t think there are any other respiratory issues in the family. I just hope my baby doesn’t have any problems like that…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are there any known genetic diseases in your family?",
+    "patient_turn": "No, there aren’t any known congenital or genetic diseases in our family. Everything seems pretty normal, but, um, I’m just really worried about my baby’s current health issues…",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who are the primary caregivers for your baby?",
+    "patient_turn": "The primary caregivers are both me and my partner. We’re really trying to take good care of him, but, um, with all these symptoms, I’m just feeling really anxious…",
+    "annotation": "Correct"
+  }
+]

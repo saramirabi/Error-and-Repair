@@ -1,0 +1,197 @@
+[
+  {
+    "doctor_turn": "What brings you in?",
+    "patient_turn": "Hi there, I've been having this uhm, cough that's been ongoing for the past two days, and I've started to become short of breath as well. Even with just a little bit of exertion. I've also been feeling feverish and I checked my temperature and it was 38 point, uh, point 5.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, Well that's definitely a fever. Can you tell me a little bit about when the coughing started?",
+    "patient_turn": "Yeah, I first noticed it two days ago and it's been kind of just getting a little bit worse over these last two days to the point now where I'm I'm short of breath as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so that's sort of two days ago and then when do the shortness of breath start?",
+    "patient_turn": "Uh, the shortness of breath has been within the last day within the last day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Within the last day, OK. And the coughing is that I dry cough or is it a wet cough?",
+    "patient_turn": "It's a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm so no sputum or blood.",
+    "patient_turn": "No sputum or blood in the coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. And alright any chest pain?",
+    "patient_turn": "No, I haven't had any chest pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Any palpitations of your heart?",
+    "patient_turn": "No, no heart palpitations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And any have you noticed, like a runny nose or a stuffy nose?",
+    "patient_turn": "No, I haven't really had a runny nose, no runny nose.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no runny nose. That's good, and then any changes in your vision or hearing?",
+    "patient_turn": "No changes to vision or hearing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about changes to your smell or taste?",
+    "patient_turn": "No changes to smell or taste. That's been been normal.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Been normal, OK, that's good. And how about of, how about weight loss?",
+    "patient_turn": "No, I haven't had any, uh, any weight loss.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good, any rashes?",
+    "patient_turn": "Uh, no rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Changes to your bowel movements?",
+    "patient_turn": "No, I I haven't had any. No diarrhea. I have had a little bit of uh like belly pain though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, OK. When did the belly pain start?",
+    "patient_turn": "That's just been uh, yeah, within the last day, uh, as well. It just feels a bit uncomfortable kind of all over.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK yeah alright uhm and you don't feel gassy or, or bloated?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Uhm, and no nausea or vomiting?",
+    "patient_turn": "No, I haven't had any. Ah, actually I have been a bit, I've had some nausea as well like that's what I feel like with that with the abdominal pain.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "Mhmm. OK, And any changes in your smell or taste?",
+    "patient_turn": "Uhm, so I, actually yeah, with the sense of smell like I haven't been able to smell as well. Now that you ask again, yeah, sorry.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, no worries and any appetite changes?",
+    "patient_turn": "Yeah, I haven't. I've had a loss of appetite.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright. Alright, and are you still eating the same or a little bit less?",
+    "patient_turn": "A bit less. So I guess I haven't been is hungry. I say similar amount of time just really these last two days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah. Have you had any dizziness or fainting spells?",
+    "patient_turn": "No, I haven't.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Any memory loss or confusion?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. Joint aches or muscle aches?",
+    "patient_turn": "Yeah, I've had like muscle aches. I guess I feel like we've been getting older, but no yeah, I've had muscle aches these last couple of days as well. Kind of generally achy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And are you otherwise healthy or do you have any longstanding medical conditions?",
+    "patient_turn": "I have diabetes, type 2 diabetes, and I have high blood pressure as well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK.",
+    "patient_turn": "Yeah, my weights a bit a bit high.",
+    "annotation": "Too Much Information"
+  },
+  {
+    "doctor_turn": "OK, uhm and do you take any medications for these things?",
+    "patient_turn": "Yeah, so I take metformin and I also take an ACE inhibitor, and that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright, and are you up to date with your immunizations?",
+    "patient_turn": "I believe so yes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah. OK. And how about allergies? Do you have any?",
+    "patient_turn": "No, I don't think no, no allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any family history of heart or lung conditions?",
+    "patient_turn": "Uh, no, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uhm, alright, any history of like cancers in the family?",
+    "patient_turn": "No history of cancer in the family.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Do you smoke at all?",
+    "patient_turn": "No, not I don't smoke.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You don't smoke, OK. How about recreational drugs?",
+    "patient_turn": "No, I don't use anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No. OK. Do you drink alcohol?",
+    "patient_turn": "Yeah, I'll have like one beer each day so yeah, about yeah, one beer a day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "One beer a day, OK. And where do you live right now?",
+    "patient_turn": "Umm, so I live in a house with with my wife and ah, and our son.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and anyone at home sick?",
+    "patient_turn": "Uh, nobody's been sick at home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you been in contact with anyone who has been sick?",
+    "patient_turn": "Uh, I don't think so. I mean, I've been going out to do the essentials and uhm, I I do work out at a factory ah and so I mean, there might have been somebody there, but I'm not sure.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "OK, OK, and have you traveled anywhere recently?",
+    "patient_turn": "Uh no travel, just been going to work and doing the essentials and home.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. And any reasons to believe you have old carpet, mold, asbestos, pets, anything at home that could be making your condition worse?",
+    "patient_turn": "I don't believe so. No, we yeah, it's a new a newer home and we've done some renovations.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, that's good. Uhm those are all the questions that I had for you today. Did you have any questions of your own for myself?",
+    "patient_turn": "No, I was just worried that maybe I could have Covid.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Yeah, for sure, so that's kind of top on my list right now to rule out, so we will do a Covid swab and you should hear back in about 24 to 48 hours with those results. In the meantime, you should isolate for for about 14 days and if your symptoms get worse, go to the ER and if you're experiencing things like weakness, seizures like, and you're not getting any better in a couple of weeks, or you feel dehydrated. Otherwise, supportive care at home, keeping yourself hydrated, eating well, sleeping well, all of those will definitely help as well. Does that sound OK?",
+    "patient_turn": "Yeah, it does. Thank you.",
+    "annotation": "Correct"
+  }
+]

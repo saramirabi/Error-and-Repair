@@ -1,0 +1,77 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’m really glad to be here, but honestly, I’ve been having a lot of trouble breathing lately. It’s been, like, a week now, and it’s gotten worse, especially with just, you know, walking a little bit. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath?",
+    "patient_turn": "Uh, I first noticed it about a week ago. It just sort of hit me suddenly, and it’s been getting progressively worse since then. I mean, I used to manage my COPD with an inhaler, but I haven’t even used it in over two months.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Can you describe where you feel the shortness of breath the most?",
+    "patient_turn": "Um, it’s mostly just, like, all over, I guess? I mean, I feel it when I try to do anything, really, like just walking 200 feet or so. It’s just really hard to catch my breath, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the shortness of breath feel like for you?",
+    "patient_turn": "Oh, it's not really a big deal, I mean, I don’t usually have any trouble breathing. But sometimes, like when I walk a little, it feels tight. I haven't noticed it much before this week, though.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "What activities or movements make your shortness of breath worse?",
+    "patient_turn": "Um, just, like, walking, honestly. Even just a short distance, like 200 feet, makes it really hard to breathe. I mean, I used to be able to do that without any issues, but now it feels, you know, really exhausting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any other symptoms along with your shortness of breath?",
+    "patient_turn": "Yeah, um, I’ve had a cough that’s gotten worse, but it’s mostly dry now, which is different for me. I also have this weird loss of taste and smell, and I’ve been feeling a bit achy and, like, mildly feverish, but I haven’t checked my temperature. Oh, and I had a couple of loose stools yesterday, but no blood or anything. It’s just all a bit overwhelming, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been experiencing these symptoms?",
+    "patient_turn": "Well, the shortness of breath started about a week ago, and, um, the cough and other symptoms kind of came along with it, I think. So, it’s all been happening for about a week, but it feels like it’s getting worse every day.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath getting worse?",
+    "patient_turn": "Um, I think it started maybe about a week ago? Or it could have been a bit longer, I'm not really totally sure. It's just been kind of gradually getting worse, I guess.",
+    "annotation": "Vague"
+  },
+  {
+    "doctor_turn": "When did you first notice the shortness of breath getting worse?",
+    "patient_turn": "Uh, I first noticed it getting worse about a week ago. It just kind of hit me suddenly, and since then, it’s been, like, progressively harder to breathe. I’m really not used to this, and it’s making me pretty anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How long have you been diagnosed with COPD, and how has it been managed in the past?",
+    "patient_turn": "Um, I was diagnosed with COPD a while ago, but I’m not exactly sure when. I’ve managed it with an inhaler that I used as needed, but I haven’t used it in over two months. I guess I thought I was doing okay, but now it feels like everything’s changed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Was your cough typically productive before it became mostly dry?",
+    "patient_turn": "Yeah, um, it usually was productive, but now it’s mostly dry, which is really different for me. I mean, I’m used to having some sputum, but now it’s just not there, and it’s kind of concerning.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had any surgeries in the past?",
+    "patient_turn": "Uh, yeah, I had an appendectomy when I was in my twenties, but that’s about it. I don’t have any other surgeries or anything like that in my history.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How much do you smoke each day, and how often do you drink alcohol?",
+    "patient_turn": "Um, I smoke about a pack of cigarettes a day, which I know isn’t great. I’ve tried to quit a few times, but it’s been really tough. As for alcohol, I drink, like, a glass of wine maybe once a week, but that’s about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of heart or lung problems?",
+    "patient_turn": "Uh, not really, I don’t think. My dad had hypertension, but there aren’t any known heart or lung issues in my family. It’s mostly just, you know, the COPD for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been in contact with anyone who was sick or showing symptoms recently?",
+    "patient_turn": "Um, I’ve had limited contact because of COVID-19 precautions, but a friend visited who might have been exposed to sick people, though they were asymptomatic. My husband had a mild scratchy throat, but he hasn’t been really sick or anything. So, I’m not totally sure, but it’s been on my mind.",
+    "annotation": "Correct"
+  }
+]

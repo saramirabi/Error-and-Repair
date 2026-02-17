@@ -1,0 +1,197 @@
+[
+  {
+    "doctor_turn": "Uh, what brings you in here today?",
+    "patient_turn": "Uhm, so I've had this runny nose, well first it was a stuffy nose, but now I've had this runny nose for the past week and a half and it doesn't seem to be getting any better. So I was just wondering if you could give me something for that?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "So when did it start getting stuffy?",
+    "patient_turn": "Uhm, it started getting stuffy about two weeks ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And when did it start getting, like just a runny nose?",
+    "patient_turn": "Yeah, that started a week and a half ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have these symptoms gotten worse at all?",
+    "patient_turn": "No, it stayed about the same.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any coughing?",
+    "patient_turn": "No, no coughing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any fevers or chills?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "From the runny nose, are you having any yellow or green discharge?",
+    "patient_turn": "No, it's clear.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you at all coughed up any blood at all?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do these symptoms come and go, or are they pretty constant?",
+    "patient_turn": "Uhm, they are pretty constant.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there anything that you have tried that has helped you with these symptoms?",
+    "patient_turn": "No, I haven't tried anything. I've been thinking about using some nasal decongestion but I don't want to make my runny nose any worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any other symptoms at all, like shortness of breath, chest pain, dizziness?",
+    "patient_turn": "No dizziness, I feel like sometimes I have a headache though, because I feel like there's a lot of fluid or something backed up into my sinuses.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling that pressure in your face at all?",
+    "patient_turn": "Mhm, a little bit, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you had contact with anyone that was sick?",
+    "patient_turn": "No, nothing like that, that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any travel?",
+    "patient_turn": "Uhm, no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any symptoms of a loss of taste or smell?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any nausea or vomiting?",
+    "patient_turn": "Uh, nope.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any night sweats?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How about fatigue, or do you feel tired?",
+    "patient_turn": "A little bit, yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you work at all?",
+    "patient_turn": "I work from home right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has this affected your work in any way?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where do you live?",
+    "patient_turn": "I live in an apartment.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you live with anyone?",
+    "patient_turn": "No, just by myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any mold or dust or fumes in your household?",
+    "patient_turn": "I have some old carpets, but that's about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your sleep or appetite?",
+    "patient_turn": "No, nothing like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any changes in your bowel movement, like diarrhea or constipation?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any urinary trouble?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any weight loss?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical conditions like asthma?",
+    "patient_turn": "Uhm, no, I'm healthy otherwise.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any allergies that you know of?",
+    "patient_turn": "Uh, nope, no allergies either.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you take any regular medications?",
+    "patient_turn": "Uh no, I don't even take vitamins.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any hospitalizations or surgeries in the past?",
+    "patient_turn": "I had an arm fracture when I was younger, but that's it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Other than that, nothing else?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke cigarettes at all?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you smoked in the past?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any recreational drugs like marijuana?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you drink alcohol?",
+    "patient_turn": "Once in a while I'll have like a glass of wine every week.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any questions?",
+    "patient_turn": "Uh, no, what can I do about this runny nose?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is that, does that sound good to you?",
+    "patient_turn": "Yeah, that sounds great. Thank you so much.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "You're welcome, take care.",
+    "patient_turn": "You too.",
+    "annotation": "Correct"
+  }
+]

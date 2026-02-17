@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Hi, um, I’ve been having this, like, nasal congestion for about a week now. It started off as intermittent, but now it’s just this persistent clear runny nose, and it’s really bothering me, especially at night when I’m trying to sleep. I’m kinda worried because it just doesn’t seem to be getting any better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the congestion changed in any way since it first started?",
+    "patient_turn": "Yeah, um, it definitely got worse. At first, it was just, you know, a little bit here and there, but now it’s pretty much all the time. And it’s really bad at night, which makes it hard to fall asleep. I’m just not sure what’s going on.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the congestion? Is it mostly in your nose, or do you feel it elsewhere?",
+    "patient_turn": "... Just.",
+    "annotation": "Incomplete"
+  },
+  {
+    "doctor_turn": "What does the congestion feel like for you? Is it more like pressure, stuffiness, or something else?",
+    "patient_turn": "It’s mostly, um, like stuffiness and this constant runny nose. I don’t really feel any pressure, just, you know, that annoying feeling of having to blow my nose all the time. It’s just really uncomfortable, to be honest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the congestion starting?",
+    "patient_turn": "I first noticed it about a week ago. It was, um, kind of intermittent at first, but then it just became this constant runny nose. I really didn’t expect it to last this long.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Has the congestion changed in any way since it first started?",
+    "patient_turn": "Yeah, it’s definitely changed. Like I said, it started off as just being a bit intermittent, but now it’s, um, pretty much constant. And it gets worse at night, which is really frustrating because I can’t sleep well.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the congestion? Is it mostly in your nose, or do you feel it elsewhere?",
+    "patient_turn": "It’s mostly in my nose, um, but I guess it kind of affects my throat too, you know? I just feel like I’m always dealing with this runny nose, and it’s really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the congestion feel like? Is it more like pressure, stuffiness, or something else?",
+    "patient_turn": "It feels more like stuffiness and, um, just this constant runny nose. I don’t really feel any pressure, but it’s just really uncomfortable and, honestly, it’s driving me a bit crazy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the congestion starting?",
+    "patient_turn": "Oh, you know, I was just thinking about how I need to get my dog groomed soon.",
+    "annotation": "Irrelevant"
+  },
+  {
+    "doctor_turn": "How has the congestion changed since it first started?",
+    "patient_turn": "Um, well, it started off as, like, intermittent, but now it’s just this constant runny nose. It’s really frustrating because it gets worse at night, and that makes it hard to sleep. I’m honestly just tired of dealing with it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the congestion most? Is it in your nose, throat, or somewhere else?",
+    "patient_turn": "It’s mostly in my nose, um, but I guess it kind of affects my throat too. I mean, it’s just this annoying runny nose that I can’t seem to shake off.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the congestion feel like for you? Is it more like pressure, stuffiness, or something else?",
+    "patient_turn": "It feels more like stuffiness and, um, just this constant runny nose. I don’t really feel any pressure, but it’s just really uncomfortable, you know? It’s hard to focus on anything else when it’s like this.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did you first notice the congestion starting?",
+    "patient_turn": "I think it started about a week ago, but honestly, it feels like it could've been longer. I might have mentioned it was just a few days, but I can't really remember.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the congestion changed since it first started?",
+    "patient_turn": "Um, it’s definitely gotten worse. It started off as just being a little bit here and there, but now it’s pretty much constant. And, like, it really gets bad at night, which makes it hard for me to sleep. I’m kinda worried about it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any cough, fever, or other symptoms along with the congestion?",
+    "patient_turn": "No, um, I haven’t had any cough, fever, or anything like that. It’s just the nasal congestion and the runny nose. Honestly, it’s kind of strange because I feel fine otherwise, but this is just really annoying.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have a history of seasonal allergies or any other allergies?",
+    "patient_turn": "Yeah, I do have a history of seasonal allergies. I’ve tried taking antihistamines, but, um, they haven’t really helped with this congestion. It’s just frustrating because I thought they would work.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you been around anyone who was sick recently?",
+    "patient_turn": "Um, no, I haven’t been around anyone who was sick recently. I’ve just been, you know, working from home and staying mostly to myself. So, I’m not really sure why I’m having these symptoms.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any other past medical issues or conditions I should know about?",
+    "patient_turn": "Not really, um, the only thing is I had an appendectomy when I was 18, but it went fine, no complications or anything. I don’t take any regular medications, and I don’t have any drug allergies. So, yeah, nothing major to report.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications or do you have any allergies?",
+    "patient_turn": "No, I’m not taking any regular medications, and I don’t have any drug allergies. I mean, I guess that’s a good thing, but it’s just frustrating that I’m dealing with this congestion without any clear reason.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Does anyone in your family have a history of lung or heart conditions?",
+    "patient_turn": "Um, no, there’s no history of lung or heart conditions in my family. I think everyone’s been pretty healthy, so that’s not something I’m worried about. It’s just this congestion that’s really bothering me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "How often do you drink alcohol, and how much do you typically consume?",
+    "patient_turn": "I drink, um, moderately, I guess? Like, I usually have a glass of wine every other day. It’s just something I enjoy, but I don’t think it’s related to this congestion.",
+    "annotation": "Correct"
+  }
+]

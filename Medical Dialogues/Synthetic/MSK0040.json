@@ -1,0 +1,107 @@
+[
+  {
+    "doctor_turn": "Hello, I’m Dr. Lee. What brought you in today?",
+    "patient_turn": "Uh, hi, Dr. Lee. So, um, I hurt my right ankle playing rugby yesterday. I fell on the side of my foot, and now it really hurts, like, a lot. It's swollen and bruised, and I can’t really walk on it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "When did the pain start, and has it changed since then?",
+    "patient_turn": "The pain started right after the injury, um, like, yesterday. It’s been pretty sharp, you know, around a 7 or 8 out of 10. I don’t think it’s gotten better at all, honestly. It still hurts a lot, especially when I try to move it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Where exactly do you feel the pain in your ankle? Does it spread to any other areas?",
+    "patient_turn": "It's mostly, um, localized to the lateral malleolus, like, the outside part of my ankle. I don’t really feel pain on the inside or the top of my foot, just that side. It’s pretty intense there, though.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What does the pain feel like? Is it sharp, dull, or something else?",
+    "patient_turn": "It’s definitely sharp, um, like, really intense when I touch it or try to move my ankle. I guess it’s kind of a stabbing pain, you know? It’s hard to ignore, and it makes me kinda worried.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "What were you doing when the pain started?",
+    "patient_turn": "Oh, I was just sitting on the couch when it started, not doing anything active at all, really. I definitely didn’t hurt it while playing rugby or anything like that.",
+    "annotation": "Contradiction"
+  },
+  {
+    "doctor_turn": "How has the pain changed since it first started?",
+    "patient_turn": "Um, it hasn’t really changed much since it started. It’s still really sharp and painful, and I can’t put any weight on it. I was hoping it would get better, but it just feels the same, honestly.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having difficulty moving your ankle up or down?",
+    "patient_turn": "Yeah, definitely. I’m having a lot of trouble with both dorsiflexion and plantar flexion. It really hurts when I try to move it, so I just, um, try not to move it at all. It’s frustrating, you know?",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you having any trouble walking or limping on that ankle?",
+    "patient_turn": "Yeah, I’m having a lot of trouble walking. I can’t really put any weight on it without it hurting a lot, so I’m limping and favoring my left foot. It’s, um, pretty tough to get around right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you ever injured your ankle before this incident?",
+    "patient_turn": "No, I haven’t had any previous ankle injuries, um, at least not that I can remember. This is the first time I’ve hurt it like this, and it’s really, uh, concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you feeling any numbness or tingling in your foot or ankle?",
+    "patient_turn": "No, I’m not feeling any numbness or tingling, um, just pain in the ankle itself. It’s mostly just sharp pain, and I don’t have any other weird sensations, thankfully.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any fever or chills since the injury?",
+    "patient_turn": "No, I haven’t had any fever or chills or anything like that. It’s just the pain in my ankle, um, and I’m not feeling sick otherwise. Just, you know, worried about the injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you feel any weakness in your legs or feet?",
+    "patient_turn": "No, I don’t feel any weakness in my legs or feet, um, just the pain in my ankle. I can still move my legs fine, but I can’t really use my right foot at all because of the pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you noticed any redness or warmth around your ankle?",
+    "patient_turn": "Yeah, I’ve noticed that it’s a bit warm and there’s some bruising around the ankle, like, about 4 cm. It’s definitely swollen too, which is, um, kind of concerning for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Have you experienced any stomach or urinary issues since your injury?",
+    "patient_turn": "No, I haven’t had any stomach or urinary issues at all. It’s just the pain in my ankle, um, and nothing else really going on. I’m just focused on that right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any past medical or surgical history that I should know about?",
+    "patient_turn": "No, I don’t have any significant past medical or surgical history. I’ve been pretty healthy overall, um, and I’m not on any regular medications or anything like that.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are you currently taking any medications, even occasionally?",
+    "patient_turn": "No, I’m not taking any medications, um, not even occasionally. I don’t have any allergies either, so it’s just, you know, this ankle issue that’s bothering me right now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you have any known allergies to medications or other substances?",
+    "patient_turn": "No, I don’t have any known allergies to medications or anything else. I’ve never had a reaction to anything, um, so that’s not a concern for me.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Are your immunizations up to date?",
+    "patient_turn": "Yeah, my immunizations are up to date. I’ve kept up with them, um, so that’s not something I’m worried about. It’s just this ankle injury that’s got me feeling anxious.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Who do you live with at home?",
+    "patient_turn": "I live with my parents and siblings. It’s, um, a pretty busy household, but they’re supportive. I guess they’re worried about me too, especially with this injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Do you smoke, drink alcohol, or use any recreational drugs?",
+    "patient_turn": "No, I don’t smoke or drink alcohol, and I don’t use any recreational drugs. I’m, um, pretty straight-edge about that stuff. Just trying to focus on my health and, you know, recover from this injury.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Is there any family history of health issues, like musculoskeletal or autoimmune diseases?",
+    "patient_turn": "No, there’s no family history of musculoskeletal or autoimmune diseases that I know of. Um, my family has been pretty healthy overall, so that’s not something I’m concerned about.",
+    "annotation": "Correct"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "doctor_turn": "Can you just tell me what brings you in here today?",
+    "patient_turn": "Yeah, my chest is really hurting.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and where where does it hurt exactly?",
+    "patient_turn": "It's hard to say the exact location, but more on the left side of my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and is it like what kind of pain is it? Is it like a dull aching pain, or is it as sharp or stabbing pain?",
+    "patient_turn": "The pain is. It's stabbing, but also it feels really really tight in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and if you're to rate it on a scale of zero to 10, zero being the least amount of pain you felt in your life and 10 being the worst, how much would you rate it?",
+    "patient_turn": "I think at 6.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Six, OK. And when did it start?",
+    "patient_turn": "It started this morning just right after I got out of bed.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so you weren't doing anything like you weren't doing any activities, you just woke up from sleep?",
+    "patient_turn": "Yeah I got outta bed. I was just trying to get dressed and all of a sudden I got this tightness and and stabbing pain on the left side of my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, approximately how many hours ago was that?",
+    "patient_turn": "I I would say about. Six hours ago.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has it been as a pain getting worse at all?",
+    "patient_turn": "Uh, it's it's getting worse.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "It's getting worse, OK. And have you had any similar sort of pain in the past before?",
+    "patient_turn": "Um nothing like this before.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "No, OK. And is the pain going anywhere else or is it just staying in your chest?",
+    "patient_turn": "The pain is just in my chest.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And does anything that you do make it feel better?",
+    "patient_turn": "Sitting up tends to make it feel a bit better.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and does anything you do make it get, make the pain get worse?",
+    "patient_turn": "It gets worse every time I breathe in.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and what kind of pain do you get when you breathe in?",
+    "patient_turn": "It's a sharp stabbing pain.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and apart from the pain, are you having any other symptoms like a cough or shortness of breath and anything like that?",
+    "patient_turn": "Yeah, with the pain, I'm having a hard time breathing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. OK, I just have a few other questions. Uh, have you recently had any kind of trauma or injury to your chest at all?",
+    "patient_turn": "Um no.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you traveled at all recently?",
+    "patient_turn": "I was in in Italy for the past three weeks actually, just got back last night.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been experiencing any kind of nausea or vomiting, or fever or chills?",
+    "patient_turn": "No. No nausea or vomiting. I did take my temperature, no. Sorry I did not take my temperature, but I've been having chills the last few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, uh, and uh, yeah, just curious have you been having any kind of swelling at all in your feet or ankles?",
+    "patient_turn": "Ah, my legs felt a bit swollen on the way back on the airplane, but they tend to swell so I didn't think anything of it.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK so they have swollen up before but you saw them swollen this time as well?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you been feeling at all fatigued at all?",
+    "patient_turn": "I've been really tired with all of the traveling, so I think maybe I'm just jet lagged.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed that all your heart racing, like any palpitations?",
+    "patient_turn": "Yeah, since this morning it's felt like my heart is is racing.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any skin changes at all? Any rashes?",
+    "patient_turn": "No rashes.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, have you noticed any cough, coughing at all?",
+    "patient_turn": "I've had a cough since last week, but it feels much worse today.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and has there been any kind of green slimy mucus in your cough at all?",
+    "patient_turn": "No, it's been a dry cough.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Dry cough, OK. and have you noticed at all coughing up blood?",
+    "patient_turn": "No blood.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And have you recently had any infections in the last month?",
+    "patient_turn": "Yeah, a couple of weeks ago I had a runny nose and sore throat and a little bit of a headache but. I feel better from that now.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and to just go away by itself, or did you have to take any medications?",
+    "patient_turn": "It just went away on its own",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Have you been feeling any kind of dizziness at all?",
+    "patient_turn": "I have a little bit of yeah, um dizziness when I when the pain gets really bad.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and I know you mentioned some swelling in your legs and your ankles, but have has any of your legs been hurting at all?",
+    "patient_turn": "My left leg hurts really bad right now, but my entire body has been achy these past few days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and then you're right, like do you know where it hurts?",
+    "patient_turn": "Um. I think just like in the calf.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "In the calf, OK. OK, and do you have any past medical history any like hypertension that like diabetes? So any conditions that you've been diagnosed with?",
+    "patient_turn": "No, I I'm healthy.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any allergies to medications?",
+    "patient_turn": "No allergies.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you take any birth control or multi vitamins?",
+    "patient_turn": "Yeah, I take a daily birth control pill and also a daily multi vitamin.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and how long have you been on the birth control pill?",
+    "patient_turn": "Um, for two years.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, any hospitalizations recently?",
+    "patient_turn": "Um none that I can think of.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any ill Contacts?",
+    "patient_turn": "No.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Any surgeries in the past?",
+    "patient_turn": "No surgeries.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, in your family, has anyone had any conditions like has anyone passed away from a heart attack any cancers, anything like that?",
+    "patient_turn": "No cancer, but my mother died of a heart attack when she was 43. And my grandma also had a heart attack when she when she was younger. I wanna say in her 50s but I don't exactly remember how old.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "And currently right now, where do you live? Do you live in like a house, apartment?",
+    "patient_turn": "Yeah, I live in an apartment by myself.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, and do you currently work?",
+    "patient_turn": "Yeah, I'm in charge of um a retail store as a manager there.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK and do drink?",
+    "patient_turn": "Sometimes on weekends or if I'm socializing with friends, but not very often.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, do you and what's once in awhile?",
+    "patient_turn": "Maybe every three or four days.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK, so a couple of drinks per week?",
+    "patient_turn": "Yeah.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "Alright, and do you smoke?",
+    "patient_turn": "Yes, I smoke about 2 packs of cigarettes per day. And I've been smoking since I was 12.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. Alright and in terms of your daily routine like do you get any exercise?",
+    "patient_turn": "Uh, not really. Life's a bit too busy and hectic right now right now, unfortunately.",
+    "annotation": "Correct"
+  },
+  {
+    "doctor_turn": "OK. And how about your diet like what is your regular diet look like?",
+    "patient_turn": "A lot of fast food. I know I could work on that, but again, with the busy lifestyle we tend to eat a lot of fried foods and fatty foods. I know I could do better.",
+    "annotation": "Correct"
+  }
+]
