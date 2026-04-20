@@ -1,0 +1,94 @@
+[
+  {
+    "role": "doctor",
+    "message": "Hello, what brings you in today?",
+    "turn": 1
+  },
+  {
+    "role": "patient",
+    "message": "I've been having chest pain for the past two days.",
+    "turn": 2
+  },
+  {
+    "role": "doctor",
+    "message": "When did the pain start exactly?",
+    "turn": 3
+  },
+  {
+    "role": "patient",
+    "message": "It began two days ago in the morning.",
+    "turn": 4,
+    "expected_accuracy": "Correct"
+  },
+  {
+    "role": "doctor",
+    "message": "Does it hurt more when you lie down?",
+    "turn": 5
+  },
+  {
+    "role": "patient",
+    "message": "Yes, lying down definitely makes it worse. Also, last week I bought a new mattress, and my neighbor's dog barked all night, and I haven't been sleeping well.",
+    "turn": 6,
+    "expected_accuracy": "Incorrect",
+    "expected_error_type": "Too Much Information"
+  },
+  {
+    "role": "doctor",
+    "message": "Do you smoke?",
+    "turn": 7
+  },
+  {
+    "role": "patient",
+    "message": "No, I don't smoke.",
+    "turn": 8,
+    "expected_accuracy": "Correct"
+  },
+  {
+    "role": "doctor",
+    "message": "Have you had any shortness of breath?",
+    "turn": 9
+  },
+  {
+    "role": "patient",
+    "message": "Um, not really. I mean, I don't think so. Maybe a little bit when I walk fast.",
+    "turn": 10,
+    "expected_accuracy": "Incorrect",
+    "expected_error_type": "Vague"
+  },
+  {
+    "role": "doctor",
+    "message": "Any nausea or dizziness?",
+    "turn": 11
+  },
+  {
+    "role": "patient",
+    "message": "Yes and no.",
+    "turn": 12,
+    "expected_accuracy": "Incorrect",
+    "expected_error_type": "Contradiction"
+  },
+  {
+    "role": "doctor",
+    "message": "Where exactly is the pain located?",
+    "turn": 13
+  },
+  {
+    "role": "patient",
+    "message": "... the left side.",
+    "turn": 14,
+    "expected_accuracy": "Incorrect",
+    "expected_error_type": "Incomplete"
+  },
+  {
+    "role": "doctor",
+    "message": "Has anyone in your family had heart problems?",
+    "turn": 15
+  },
+  {
+    "role": "patient",
+    "message": "My neighbor's cat had surgery last month.",
+    "turn": 16,
+    "expected_accuracy": "Incorrect",
+    "expected_error_type": "Irrelevant"
+  }
+]
